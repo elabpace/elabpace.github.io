@@ -1,6 +1,6 @@
 ## Presentations
 
-- Why an Entrepreneurship Degree Should be Much More Than a Series of Courses – [Global Consortium of Entrepreneurship Centers](http://www.gcec2019.com/)(September 27, 2019)
+- Why an Entrepreneurship Degree Should be Much More Than a Series of Courses – [Global Consortium of Entrepreneurship Centers](http://www.gcec2019.com/){:target="_blank"} (September 27, 2019)
 
 - Technology Commercialization (webinar) – Accelerator for Biosciences in Connecticut (April 3, 2018)
 
