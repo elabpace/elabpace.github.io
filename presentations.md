@@ -86,7 +86,7 @@
 - Renew to Remain Relevant – MIT Enterprise Forum Chapter Leadership Conference (April 27, 2012)  
 - Start-Up Nation – Temple Beth El of Northern Westchester (April 22, 2012)  
 - [Entrepreneurship Education - Kairos Society Global Summit (February 4, 2012)](http://www.kairosglobalsummit.org/)  
-- [Technology Entrepreneurship - Tel Aviv University, Business Entrepreneurship for Engineers course (January 12, 2012)](images/presentations/TAU.jpg)  
+- [Technology Entrepreneurship - Tel Aviv University, Business Entrepreneurship for Engineers course (January 12, 2012)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/TAU.jpg)
 - [What They Don’t Teach You In Business School - MIT Enterprise Forum of Israel (January 11, 2012)](http://www.mit-forum.org.il/events/439-dontteach)  
 
 ### 2011
@@ -95,36 +95,36 @@
 - Small Business Development in the United States - U.S. Department of State International Visitor Leadership Program, delegation from the People's Republic of China (September 6, 2011)  
 - A Dialogue for Global Entrepreneurship Week - Technology Entrepreneurship Course, Tel Aviv University (via Skype) (November 17, 2011)  
 - The Business Plan - Global Consortium of Entrepreneurship Centers Annual Conference (October 22, 2011)  
-- [Faculty Colloquium on Teaching Entrepreneurship - H.R. College of Commerce and Economics, Mumbai (August 27, 2011)](http://webpage.pace.edu/bbachenheimer/images/HR\_College\_BB.jpg)  
+- [Faculty Colloquium on Teaching Entrepreneurship - H.R. College of Commerce and Economics, Mumbai (August 27, 2011)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/HR_College_BB.jpg)  
 - Entrepreneurship & International Business - LeadAmerica's National Student Conference (August 6, 2011)  
 - [The Latest Trends In Emerging Business – Yonkers Business Week (May 4, 2011)](http://www.yonkersbusinessweek.com/event\_info\_wednesday.html)  
-- [Ways to Engage: Involving Your Audience - MIT Enterprise Forum Global Chapter Leadership Conference (April 9, 2011)](http://webpage.pace.edu/bbachenheimer/images/MITEF\_CLC2011.jpg)  
+- [Ways to Engage: Involving Your Audience - MIT Enterprise Forum Global Chapter Leadership Conference (April 9, 2011)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/MITEF_CLC2011.jpg)  
 - An Entrepreneurial Mindset – The Executive MBA Distinguished Speaker Series, Pace University (February 20, 2011)  
 
 ### 2010
 
-- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 6, 2010)](http://webpage.pace.edu/bbachenheimer/images/L-A\_2010.jpg)  
+- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 6, 2010)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/L-A_2010.jpg)  
 - [Technology Innovation and Entrepreneurship in Israel (Moderator) - MIT Enterprise Forum (April 12, 2010)](http://www.mitef-nyc.org/mc/community/eventdetails.do?eventId=264007&orgId=mefny&recurringId=0)  
 - [A Practical Look at Social Media Policies - LawLine.com Continuing Legal Education Course](http://www.lawline.com/cle/course-details.php?i=939&course\_type=video)  
 
 ### 2009
 
-- [How Your Company Can Capitalize on the Phenomenal Growth in Emerging Markets (Moderator) - MIT Enterprise Forum (October 22, 2009)](http://webpage.pace.edu/bbachenheimer/images/EmergingMarkets.jpg)\- [Video Link](http://www.scribemedia.org/2009/10/31/capitalize-growth-in-emerging-markets/)  
-- [Social Entrepreneurship - Global Consortium of Entrepreneurship Centers Annual Conference (October 16, 2009)](http://webpage.pace.edu/bbachenheimer/images/GCEC.jpg)  
-- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 14, 2009)](http://webpage.pace.edu/bbachenheimer/images/LeadAmericaCSLC.jpg)  
-- [Opportunistic Innovation and Creative Destruction - MIT Enterprise Forum Global Chapter Leadership Conference (April 18, 2009)](http://webpage.pace.edu/bbachenheimer/images/MITEF\_CLC2009.jpg)  
-- [How Businesses Can Develop Trust on a Global Scale Through Corporate Service (Moderator) - MIT Enterprise Forum (January 15, 2009) ](http://webpage.pace.edu/bbachenheimer/images/panel.jpg)  
+- [How Your Company Can Capitalize on the Phenomenal Growth in Emerging Markets (Moderator) - MIT Enterprise Forum (October 22, 2009)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/EmergingMarkets.jpg)\- [Video Link](http://www.scribemedia.org/2009/10/31/capitalize-growth-in-emerging-markets/)  
+- [Social Entrepreneurship - Global Consortium of Entrepreneurship Centers Annual Conference (October 16, 2009)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/GCEC.jpg)  
+- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 14, 2009)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/LeadAmericaCSLC.jpg)  
+- [Opportunistic Innovation and Creative Destruction - MIT Enterprise Forum Global Chapter Leadership Conference (April 18, 2009)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/MITEF_CLC2009.jpg)  
+- [How Businesses Can Develop Trust on a Global Scale Through Corporate Service (Moderator) - MIT Enterprise Forum (January 15, 2009) ](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/panel.jpg)  
 
 ### 2008
 
-- [The Impact of Globalization on the Future of Africa - Center for Global Business Programs (October 21, 2008)](http://webpage.pace.edu/bbachenheimer/images/CGBPAfrica.jpg)  
-- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (June 17, 2008)](http://webpage.pace.edu/bbachenheimer/images/LeadAmerica2008.jpg)  
-- [The growth of Social Entrepreneurship in the United States - University of Dar es Salaam (March 19, 2008)](http://webpage.pace.edu/bbachenheimer/images/BB\_UDSM.jpg)  
+- [The Impact of Globalization on the Future of Africa - Center for Global Business Programs (October 21, 2008)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/CGBPAfrica.jpg)  
+- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (June 17, 2008)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/LeadAmerica2008.jpg)  
+- [The growth of Social Entrepreneurship in the United States - University of Dar es Salaam (March 19, 2008)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/BB_UDSM.jpg)  
 - The role of Entrepreneurship in the United States - University of Dar es Salaam (March 18, 2008)  
 
 ### 2007
 
-- [Breaking Through the Roadblocks to Growth - Make Mine a Million $ Business Event (October 23, 2007)](http://webpage.pace.edu/bbachenheimer/images/m3.jpg)  
+- [Breaking Through the Roadblocks to Growth - Make Mine a Million $ Business Event (October 23, 2007)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/m3.jpg)  
 - Social Entrepreneurship - 4th Annual Youth Assembly at the United Nations (August 14, 2007)  
 - Keynote Address - LeadAmerica's Congressional Student Leadership Conference (July 20, 2007)  
 
@@ -136,7 +136,7 @@
 - International Business & Globalization - LeadAmerica's Congressional Student Leadership Conference (June 23, 2006)  
 - Entrepreneurship & The Business Plan - LeadAmerica's Congressional Student Leadership Conference (June 17, 2006)  
 - Strategy & Management - LeadAmerica's Congressional Student Leadership Conference (June 17, 2006)  
-- [Entrepreneurship Competitions - McGraw-Hill/Irwin Entrepreneurship and Small Business Workshop (March 10, 2006)](http://webpage.pace.edu/bbachenheimer/images/McGrawHill.jpg)  
+- [Entrepreneurship Competitions - McGraw-Hill/Irwin Entrepreneurship and Small Business Workshop (March 10, 2006)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/McGrawHill.jpg)  
 
 ### 2005
 
