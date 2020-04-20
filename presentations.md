@@ -136,7 +136,7 @@
 - International Business & Globalization - LeadAmerica's Congressional Student Leadership Conference (June 23, 2006)  
 - Entrepreneurship & The Business Plan - LeadAmerica's Congressional Student Leadership Conference (June 17, 2006)  
 - Strategy & Management - LeadAmerica's Congressional Student Leadership Conference (June 17, 2006)  
-- [Entrepreneurship Competitions - McGraw-Hill/Irwin Entrepreneurship and Small Business Workshop (March 10, 2006)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/McGrawHill.jpg)  
+- [Entrepreneurship Competitions - McGraw-Hill/Irwin Entrepreneurship and Small Business Workshop (March 10, 2006)](images/presentations/McGrawHill.jpg)  
 
 ### 2005
 
