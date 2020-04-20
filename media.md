@@ -1,8 +1,8 @@
 ## Media
-- [Complete PDF Version](files/BruceBachenheimerMediaQuotes.pdf)
-- [TV, Radio & Web Broadcast](media_tvradioweb.html)
-- [Pace University Media](media_paceuniversitymedia.html)
-- [Media before Pace University](media_beforepaceuniversity.html)
+[![Complete PDF Version](images/completepdfversion.png)](files/BruceBachenheimerMediaQuotes.pdf)
+[![TV, Radio & Web Broadcast](images/tvradio.png)](media_tvradioweb.html)
+[![Pace University Media](images/paceuniversitymedia.png)](media_paceuniversitymedia.html)
+[![Media before Pace University](images/mediabeforepaceuniversity.png)](media_beforepaceuniversity.html)
 - [Print & Internet 2004-2009](media_printandinternet2004-2009.html)
 - [Print & Internet 2010-2012](media_printandinternet2010-2012.html)
 - [Print & Internet 2013-2015](media_printandinternet2013-2015.html)
