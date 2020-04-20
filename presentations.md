@@ -95,36 +95,36 @@
 - Small Business Development in the United States - U.S. Department of State International Visitor Leadership Program, delegation from the People's Republic of China (September 6, 2011)  
 - A Dialogue for Global Entrepreneurship Week - Technology Entrepreneurship Course, Tel Aviv University (via Skype) (November 17, 2011)  
 - The Business Plan - Global Consortium of Entrepreneurship Centers Annual Conference (October 22, 2011)  
-- [Faculty Colloquium on Teaching Entrepreneurship - H.R. College of Commerce and Economics, Mumbai (August 27, 2011)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/HR_College_BB.jpg)  
+- [Faculty Colloquium on Teaching Entrepreneurship - H.R. College of Commerce and Economics, Mumbai (August 27, 2011)](images/presentations/HR_College_BB.jpg)  
 - Entrepreneurship & International Business - LeadAmerica's National Student Conference (August 6, 2011)  
 - [The Latest Trends In Emerging Business – Yonkers Business Week (May 4, 2011)](http://www.yonkersbusinessweek.com/event\_info\_wednesday.html)  
-- [Ways to Engage: Involving Your Audience - MIT Enterprise Forum Global Chapter Leadership Conference (April 9, 2011)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/MITEF_CLC2011.jpg)  
+- [Ways to Engage: Involving Your Audience - MIT Enterprise Forum Global Chapter Leadership Conference (April 9, 2011)](images/presentations/MITEF_CLC2011.jpg)  
 - An Entrepreneurial Mindset – The Executive MBA Distinguished Speaker Series, Pace University (February 20, 2011)  
 
 ### 2010
 
-- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 6, 2010)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/L-A_2010.jpg)  
+- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 6, 2010)](images/presentations/L-A_2010.jpg)  
 - [Technology Innovation and Entrepreneurship in Israel (Moderator) - MIT Enterprise Forum (April 12, 2010)](http://www.mitef-nyc.org/mc/community/eventdetails.do?eventId=264007&orgId=mefny&recurringId=0)  
 - [A Practical Look at Social Media Policies - LawLine.com Continuing Legal Education Course](http://www.lawline.com/cle/course-details.php?i=939&course\_type=video)  
 
 ### 2009
 
-- [How Your Company Can Capitalize on the Phenomenal Growth in Emerging Markets (Moderator) - MIT Enterprise Forum (October 22, 2009)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/EmergingMarkets.jpg)\- [Video Link](http://www.scribemedia.org/2009/10/31/capitalize-growth-in-emerging-markets/)  
-- [Social Entrepreneurship - Global Consortium of Entrepreneurship Centers Annual Conference (October 16, 2009)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/GCEC.jpg)  
-- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 14, 2009)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/LeadAmericaCSLC.jpg)  
-- [Opportunistic Innovation and Creative Destruction - MIT Enterprise Forum Global Chapter Leadership Conference (April 18, 2009)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/MITEF_CLC2009.jpg)  
-- [How Businesses Can Develop Trust on a Global Scale Through Corporate Service (Moderator) - MIT Enterprise Forum (January 15, 2009) ](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/panel.jpg)  
+- [How Your Company Can Capitalize on the Phenomenal Growth in Emerging Markets (Moderator) - MIT Enterprise Forum (October 22, 2009)](images/presentations/EmergingMarkets.jpg)\- [Video Link](http://www.scribemedia.org/2009/10/31/capitalize-growth-in-emerging-markets/)  
+- [Social Entrepreneurship - Global Consortium of Entrepreneurship Centers Annual Conference (October 16, 2009)](images/presentations/GCEC.jpg)  
+- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 14, 2009)](images/presentations/LeadAmericaCSLC.jpg)  
+- [Opportunistic Innovation and Creative Destruction - MIT Enterprise Forum Global Chapter Leadership Conference (April 18, 2009)](images/presentations/MITEF_CLC2009.jpg)  
+- [How Businesses Can Develop Trust on a Global Scale Through Corporate Service (Moderator) - MIT Enterprise Forum (January 15, 2009) ](images/presentations/panel.jpg)  
 
 ### 2008
 
-- [The Impact of Globalization on the Future of Africa - Center for Global Business Programs (October 21, 2008)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/CGBPAfrica.jpg)  
-- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (June 17, 2008)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/LeadAmerica2008.jpg)  
-- [The growth of Social Entrepreneurship in the United States - University of Dar es Salaam (March 19, 2008)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/BB_UDSM.jpg)  
+- [The Impact of Globalization on the Future of Africa - Center for Global Business Programs (October 21, 2008)](images/presentations/CGBPAfrica.jpg)  
+- [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (June 17, 2008)](images/presentations/LeadAmerica2008.jpg)  
+- [The growth of Social Entrepreneurship in the United States - University of Dar es Salaam (March 19, 2008)](images/presentations/BB_UDSM.jpg)  
 - The role of Entrepreneurship in the United States - University of Dar es Salaam (March 18, 2008)  
 
 ### 2007
 
-- [Breaking Through the Roadblocks to Growth - Make Mine a Million $ Business Event (October 23, 2007)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/presentations/m3.jpg)  
+- [Breaking Through the Roadblocks to Growth - Make Mine a Million $ Business Event (October 23, 2007)](images/presentations/m3.jpg)  
 - Social Entrepreneurship - 4th Annual Youth Assembly at the United Nations (August 14, 2007)  
 - Keynote Address - LeadAmerica's Congressional Student Leadership Conference (July 20, 2007)  
 
