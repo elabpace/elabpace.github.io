@@ -9,7 +9,6 @@
 - [Print & Internet 2016-2018](media_printandinternet2016-2018.html)
 - [Print & Internet 2019-Present](media_printandinternet2019-2021.html)
 
-<div align="center">
 [![ABC News](images/abc.jpg)](http://bit.ly/HA_48) [![PBS](images/pbs.jpg)](http://bit.ly/SciTech_Now) [![NYCTV](images/nyctv.png)](http://www.lawline.com/)
 [![MSNBC](images/msnbc.jpg)](https://www.openforum.com/videos/business-answers-software-development-back-up-services/) [![WPIX](images/wpix.jpg)](http://bit.ly/WWR_BB) [![CNBC](images/cnbc.png)](http://www.cnbc.com/id/101313179/page/6)
 [![INVESTORS](images/investors.png)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) [![Entrepreneur](images/entrepreneur.jpg)](http://www.entrepreneur.com/article/228625) [![Startups](images/startups.png)](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28)
@@ -19,4 +18,3 @@
 [![Daily News](images/dailynews.png)](http://pressroom.blogs.pace.edu/2012/02/07/new-york-daily-news-your-money-bouncing-back-laid-off-nyers-get-fresh-start-wth-home-businesses/) [![New York Post](images/newyorkpost.png)](http://nypost.com/2010/08/16/app-stars/)
 [![The Sydney Morning Herald](images/thesydneymorningherald.jpg)](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) [![NBC News](images/nbcnews.png)](http://www.nbcnews.com/id/47995175/ns/business-small_business/t/steps-successful-business-launch/#.UlGcIYbkvh4) [![Newsday](images/newsday.png)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)
 [![Technology review](images/technologyreview.png)](http://www.technologyreview.com/business/39826/) [![FOX Business](images/foxbusiness.png)](http://smallbusiness.foxbusiness.com/biz-on-main/2010/12/08/win-over-investors-in-3-minutes-or-less/) [![BizEd](images/bized.jpg)](http://www.bizedmagazine.com/features/articles/idea-central.asp)
-</div>
