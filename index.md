@@ -10,4 +10,11 @@
 
 ---
 
-|Pace University<br/>Lubin School of Business<br/>163 William Street, Room 342<br/>New York, NY 10038|<br/>Mon: 3:30 – 6:00<br/> @ 163 William Street, Room 342 (NYC)<br/>Thurs: 3:30 – 6:00<br/> @ Goldstein Academic Center, Room 116 (PLV)|
+**Spring 2020 Office Hours:**
+- Mon: 3:30 – 6:00, 163 William Street, Room 342 (NYC)
+- Thurs: 3:30 – 6:00, Goldstein Academic Center, Room 116 (PLV)
+
+LinkedIn: [www.linkedin.com/in/brucebach](http://www.linkedin.com/in/brucebach)
+Twitter:  [www.twitter.com/brucebach](http://twitter.com/brucebach) @brucebach
+Google+:  [www.google.com/+BruceBachenheimer](http://www.google.com/+BruceBachenheimer)
+Skype:    bruce.bachenheimer
