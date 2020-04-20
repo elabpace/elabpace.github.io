@@ -8,3 +8,14 @@
 - [Print & Internet 2013-2015](media_printandinternet2013-2015.html)
 - [Print & Internet 2016-2018](media_printandinternet2016-2018.html)
 - [Print & Internet 2019-Present](media_printandinternet2019-2021.html)
+
+![ABC News](images/abc.jpg) ![PBS](images/pbs.jpg) ![NYCTV](images/nyctv.png)
+![MSNBC](images/msnbc.jpg) ![WPIX](images/wpix.jpg) ![CNBC](images/cnbc.png)
+![INVESTORS](images/investors.png) ![Entrepreneur](images/entrepreneur.jpg) ![Startups](images/startups.png)
+![ComputerWorld](images/computerworld.jpg) ![U.S News](images/usnews.png) ![Forbes](images/forbes.jpg)
+![Inc](images/inc.jpg) ![Crains](images/crains.jpg)
+![The Wall Street Journal](images/thewallstreetjournal.jpg) ![The Star Ledger](images/thestarledger.png)
+![Daily News](images/dailynews.png) ![New York Post](images/newyorkpost.png)
+![The Sydney Morning Herald](images/thesydneymorningherald.jpg) ![NBC News](images/nbcnews.png) ![Newsday](images/newsday.png)
+![Technology review](images/technologyreview.png) ![FOX Business](images/foxbusiness.png) ![BizEd](images/bized.jpg)
+
