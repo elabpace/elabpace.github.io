@@ -11,7 +11,7 @@
   [![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
 -->
 
-<div style="text-align:center;">
+<div style="text-align:center;"><strong>
   <a href='files/BruceBachenheimerMediaQuotes.pdf'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Complete PDF Version
@@ -57,7 +57,7 @@
       Print & Internet 2019-Present
     </button>
   </a>
-</div>
+</strong></div>
 
 [![ABC News](images/abc.jpg)](http://bit.ly/HA_48) [![PBS](images/pbs.jpg)](http://bit.ly/SciTech_Now) [![NYCTV](images/nyctv.png)](http://www.lawline.com/)
 [![MSNBC](images/msnbc.jpg)](https://www.openforum.com/videos/business-answers-software-development-back-up-services/) [![WPIX](images/wpix.jpg)](http://bit.ly/WWR_BB) [![CNBC](images/cnbc.png)](http://www.cnbc.com/id/101313179/page/6)
