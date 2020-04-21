@@ -27,5 +27,5 @@ Streamed live on Dec 11, 2018
 November 11, 2016
 <div style="background-color:#D3D3D3;color:black;padding:5px">
   <p>In a Veterans Day feature, CBS New York radio 1010WINS mentioned the Pace University Veterans Entrepreneurship Boot Camp and professor Bruce Bachenheimer on ‘The Bottom Line For Small Business’ (0:21 – 0:34):</p>
-  <p>“At Pace University, professor Bruce Bachenheimer is doing his part with the Veterans Entrepreneurship Boot Camp. It’s a seven-week program that provides practical skills and tools for veterans launching their own startup businesses.”</p>
+  <p>"At Pace University, professor Bruce Bachenheimer is doing his part with the Veterans Entrepreneurship Boot Camp. It’s a seven-week program that provides practical skills and tools for veterans launching their own startup businesses."</p>
 </div><br/>
