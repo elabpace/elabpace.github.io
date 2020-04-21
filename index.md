@@ -1,4 +1,4 @@
-## Bruce Bachenheimer
+# Bruce Bachenheimer
 - **_Clinical Professor of Management, [Pace University](http://www.pace.edu)_**
 - **_Executive Director, [Entrepreneurship Lab](http://www.elab.nyc)_**
 - **_Program Director, [Entrepreneurship @ Lubin](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin)_**
