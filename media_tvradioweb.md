@@ -1,5 +1,6 @@
 # Television, Radio and Web Broadcasts
 
+<br/>
 [![Super Cities](images/supercities.jpg)](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5) <br/>
 [Original Link](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5) <br/>
 Super Cities with Bruce Bachenheimer (Pace University) <br/>
@@ -11,6 +12,7 @@ March 15, 2019 <br/>
   <p>This is a fun conversation. Let's hear from Bruce.</p>
 </div>
 
+<br/>
 [![1010 WINS](images/1010wins.gif)](http://bit.ly/SBGC_12-11-18) <br/>
 [Original Link](http://bit.ly/SBGC_12-11-18) <br/>
 The Small Business 10K Challenge <br/>
