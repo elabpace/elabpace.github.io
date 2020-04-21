@@ -9,26 +9,6 @@
 [![Print & Internet 2016-2018](images/printinternet2016-2018.png)](media_printandinternet2016-2018.html)
 [![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
 
-<style type="text/css" media="screen">
-.button {
-  background-color: #008CBA; 
-  border: 2px solid #008CBA;
-  border-radius: 12px;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  transition-duration: 0.4s;
-  display: inline-block;
-  font-size: 16px;
-}
-.button:hover {
-  background-color: white;
-  color: #008CBA;
-}
-/* Add style rules here */
-
-</style>
 <a href='files/BruceBachenheimerMediaQuotes.pdf'><button type='button'>Complete PDF Version</button></a>
 <a href='media_tvradioweb.html'><button type='button'>TV, Radio & Web Broadcast</button></a>
 <a href='media_paceuniversitymedia.html'><button type='button'>Pace University Media</button></a>
