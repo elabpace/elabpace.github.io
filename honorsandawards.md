@@ -1,4 +1,4 @@
-## Honors & Awards
+# Honors & Awards
 
 - Faculty Inductee, [Delta Sigma Pi](https://www.deltasigmapi.org/), Professional Business Fraternity, Pi Phi Chapter, Pace University – Westchester (April 12, 2010)
 - [Judge](https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2), 1010 WINS $10,000 Small Business Grant Challenge
