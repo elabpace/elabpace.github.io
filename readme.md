@@ -1,5 +1,7 @@
 ```
- https://domchristie.github.io/turndown/ , helper, converts html to markdown
+Internal notes
+https://domchristie.github.io/turndown/ , helper, converts html to markdown
+Use httrack to pull entire site to zip up and send to BB for upload to Pace website
 ```
 
 ## Welcome to GitHub Pages
