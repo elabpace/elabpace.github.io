@@ -9,7 +9,7 @@
 - Figueroa Faculty Grant for Study in International Business Recipient, 2010
 - Presenter at the 47th Annual Leaders in Management Awards Dinner, April 29, 2010
 - [Wilson Center](http://web.pace.edu/page.cfm?doc_id=17715) for Social Entrepreneurship Faculty Fellow, 2009-2010
-- Participated in NASDAQ closing bell ceremony with the [MIT Enterprise Forum](http://webpage.pace.edu/bbachenheimer/images/NASDAQ.jpg) Nov. 6th 2009
+- Participated in NASDAQ closing bell ceremony with the [MIT Enterprise Forum](images/NASDAQ.jpg) Nov. 6th 2009
 - Faculty Reader, 2008 Commencement
 - [Wilson Center](http://web.pace.edu/page.cfm?doc_id=17715) for Social Entrepreneurship Faculty Fellow, 2007-2008
 - [Judge](http://www.makemineamillion.org/site/index.php?id=123), Make Mine a Million $ Business Finalists Presentations, 2007
