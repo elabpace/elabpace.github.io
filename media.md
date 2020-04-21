@@ -14,47 +14,47 @@
 <div style="text-align:center;">
   <a href='files/BruceBachenheimerMediaQuotes.pdf'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">Complete PDF Version</strong>
+      <strong style="color:white;">Complete PDF Version</strong>
     </button>
   </a>
   <a href='media_tvradioweb.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">TV, Radio & Web Broadcast</strong>
+      <strong style="color:white;">TV, Radio & Web Broadcast</strong>
     </button>
   </a>
   <a href='media_paceuniversitymedia.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">Pace University Media</strong>
+      <strong style="color:white;">Pace University Media</strong>
     </button>
   </a>
   <a href='media_beforepaceuniversity.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">Media before Pace University</strong>
+      <strong style="color:white;">Media before Pace University</strong>
     </button>
   </a>
   <a href='media_printandinternet2004-2009.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">Print & Internet 2004-2009</strong>
+      <strong style="color:white;">Print & Internet 2004-2009</strong>
     </button>
   </a>
   <a href='media_printandinternet2010-2012.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">Print & Internet 2010-2012</strong>
+      <strong style="color:white;">Print & Internet 2010-2012</strong>
     </button>
   </a>
   <a href='media_printandinternet2013-2015.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">Print & Internet 2013-2015</strong>
+      <strong style="color:white;">Print & Internet 2013-2015</strong>
     </button>
   </a>
   <a href='media_printandinternet2016-2018.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">Print & Internet 2016-2018</strong>
+      <strong style="color:white;">Print & Internet 2016-2018</strong>
     </button>
   </a>
   <a href='media_printandinternet2019-2021.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong class="color:white;">Print & Internet 2019-Present</strong>
+      <strong style="color:white;">Print & Internet 2019-Present</strong>
     </button>
   </a>
 </div>
