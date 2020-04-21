@@ -9,52 +9,53 @@
 [![Print & Internet 2016-2018](images/printinternet2016-2018.png)](media_printandinternet2016-2018.html)
 [![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
 
-<a href='files/BruceBachenheimerMediaQuotes.pdf'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    Complete PDF Version
-  </button>
-</a>
-<a href='media_tvradioweb.html'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    TV, Radio & Web Broadcast
-  </button>
-</a>
-<a href='media_paceuniversitymedia.html'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    Pace University Media
-  </button>
-</a>
-<a href='media_beforepaceuniversity.html'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    Media before Pace University
-  </button>
-</a>
-<a href='media_printandinternet2004-2009.html'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    Print & Internet 2004-2009
-  </button>
-</a>
-<a href='media_printandinternet2010-2012.html'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    Print & Internet 2010-2012
-  </button>
-</a>
-<a href='media_printandinternet2013-2015.html'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    Print & Internet 2013-2015
-  </button>
-</a>
-<a href='media_printandinternet2016-2018.html'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    Print & Internet 2016-2018
-  </button>
-</a>
-<a href='media_printandinternet2019-2021.html'>
-  <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
-    Print & Internet 2019-Present
-  </button>
-</a>
-
+<div>
+  <a href='files/BruceBachenheimerMediaQuotes.pdf'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      Complete PDF Version
+    </button>
+  </a>
+  <a href='media_tvradioweb.html'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      TV, Radio & Web Broadcast
+    </button>
+  </a>
+  <a href='media_paceuniversitymedia.html'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      Pace University Media
+    </button>
+  </a>
+  <a href='media_beforepaceuniversity.html'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      Media before Pace University
+    </button>
+  </a>
+  <a href='media_printandinternet2004-2009.html'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      Print & Internet 2004-2009
+    </button>
+  </a>
+  <a href='media_printandinternet2010-2012.html'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      Print & Internet 2010-2012
+    </button>
+  </a>
+  <a href='media_printandinternet2013-2015.html'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      Print & Internet 2013-2015
+    </button>
+  </a>
+  <a href='media_printandinternet2016-2018.html'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      Print & Internet 2016-2018
+    </button>
+  </a>
+  <a href='media_printandinternet2019-2021.html'>
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;">
+      Print & Internet 2019-Present
+    </button>
+  </a>
+</div>
 
 [![ABC News](images/abc.jpg)](http://bit.ly/HA_48) [![PBS](images/pbs.jpg)](http://bit.ly/SciTech_Now) [![NYCTV](images/nyctv.png)](http://www.lawline.com/)
 [![MSNBC](images/msnbc.jpg)](https://www.openforum.com/videos/business-answers-software-development-back-up-services/) [![WPIX](images/wpix.jpg)](http://bit.ly/WWR_BB) [![CNBC](images/cnbc.png)](http://www.cnbc.com/id/101313179/page/6)
