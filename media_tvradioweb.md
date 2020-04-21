@@ -2,7 +2,8 @@
 
 [![Super Cities](images/supercities.jpg)](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)
 
-[Original Link](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)\
+[Original Link](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)
+
 Super Cities with Bruce Bachenheimer (Pace University)
 
 By **Brendan Hart**
