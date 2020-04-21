@@ -9,7 +9,7 @@
 [![Print & Internet 2016-2018](images/printinternet2016-2018.png)](media_printandinternet2016-2018.html)
 [![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
 
-<a href='files/BruceBachenheimerMediaQuotes.pdf'><button type='button'>Complete PDF Version</button></a>
+<a href='files/BruceBachenheimerMediaQuotes.pdf'><button>Complete PDF Version</button></a>
 <a href='media_tvradioweb.html'><button type='button'>TV, Radio & Web Broadcast</button></a>
 <a href='media_paceuniversitymedia.html'><button type='button'>Pace University Media</button></a>
 <a href='media_beforepaceuniversity.html'><button type='button'>Media before Pace University</button></a>
