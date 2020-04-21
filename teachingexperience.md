@@ -1,6 +1,6 @@
 # Teaching Experience
 
-**Spring 2020 Courses**
+###Spring 2020 Courses
 - MGT 150 - Managerial and Organizational Concepts
 - MGT 216 - Venture Initiation & Entrepreneurship 
 - MGT 315 - Small Business Management 
