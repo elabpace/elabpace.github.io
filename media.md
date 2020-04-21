@@ -11,53 +11,53 @@
   [![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
 -->
 
-<div style="text-align:center;"><strong>
+<div style="text-align:center;">
   <a href='files/BruceBachenheimerMediaQuotes.pdf'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      Complete PDF Version
+      <strong>Complete PDF Version</strong>
     </button>
   </a>
   <a href='media_tvradioweb.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      TV, Radio & Web Broadcast
+      <strong>TV, Radio & Web Broadcast</strong>
     </button>
   </a>
   <a href='media_paceuniversitymedia.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      Pace University Media
+      <strong>Pace University Media</strong>
     </button>
   </a>
   <a href='media_beforepaceuniversity.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      Media before Pace University
+      <strong>Media before Pace University</strong>
     </button>
   </a>
   <a href='media_printandinternet2004-2009.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      Print & Internet 2004-2009
+      <strong>Print & Internet 2004-2009</strong>
     </button>
   </a>
   <a href='media_printandinternet2010-2012.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      Print & Internet 2010-2012
+      <strong>Print & Internet 2010-2012</strong>
     </button>
   </a>
   <a href='media_printandinternet2013-2015.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      Print & Internet 2013-2015
+      <strong>Print & Internet 2013-2015</strong>
     </button>
   </a>
   <a href='media_printandinternet2016-2018.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      Print & Internet 2016-2018
+      <strong>Print & Internet 2016-2018</strong>
     </button>
   </a>
   <a href='media_printandinternet2019-2021.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      Print & Internet 2019-Present
+      <strong>Print & Internet 2019-Present</strong>
     </button>
   </a>
-</strong></div>
+</div>
 
 [![ABC News](images/abc.jpg)](http://bit.ly/HA_48) [![PBS](images/pbs.jpg)](http://bit.ly/SciTech_Now) [![NYCTV](images/nyctv.png)](http://www.lawline.com/)
 [![MSNBC](images/msnbc.jpg)](https://www.openforum.com/videos/business-answers-software-development-back-up-services/) [![WPIX](images/wpix.jpg)](http://bit.ly/WWR_BB) [![CNBC](images/cnbc.png)](http://www.cnbc.com/id/101313179/page/6)
