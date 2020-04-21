@@ -1,8 +1,8 @@
 ```
 Internal notes
 https://github.com/pages-themes/minimal -- The 'minimal' theme instructions
-https://domchristie.github.io/turndown/ -- helper, converts html to markdown
-Use httrack to pull entire site to zip up and send to BB for upload to Pace website
+https://domchristie.github.io/turndown  -- helper, converts html to markdown
+https://www.httrack.com                 -- use to pull entire site to zip and send to BB for upload to Pace
 ```
 
 ## Welcome to GitHub Pages
