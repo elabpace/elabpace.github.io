@@ -1,4 +1,4 @@
-## Service & Associations
+# Service & Associations
 
 - Member, Westchester County Incubator Taskforce – [Element 46](https://www.element46.org/)
 - Mentor, Accelerator for [Biosciences in Connecticut](http://abct.co//)
@@ -12,7 +12,7 @@
 - [Organizer of the Pace Business Plan Competition](http://www.pace.edu/bpc)
 - [Board Member and Past Chapter Chair, M.I.T. Enterprise Forum of New York City](http://www.mitef-nyc.org/mc/page.do?sitePageId=9896&orgId=mefny)
 
-### Other/Former
+## Other/Former
 - [Sam Walton Fellow, Students in Free Enterprise](http://www.sife.org/)
 - [Advisor, Y-Enterprise Business Center](http://www.y-enterprise.com/)
 - Board of Directors & Advisors, Lead America
