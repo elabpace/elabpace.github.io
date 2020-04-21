@@ -9,7 +9,7 @@ March 15, 2019 <br/>
   <p>On this episode of Super Cities, we do a deep dive with Bruce Bachenheimer, Director of Entrepreneurship at Pace University in New York City.</p>
   <p>We cover the growth of NYC’s startup ecosystem, trends in education, and the role universities play in innovation.</p>
   <p>This is a fun conversation. Let's hear from Bruce.</p>
-</div>
+</div><br/>
 
 [![1010 WINS](images/1010wins.gif)](http://bit.ly/SBGC_12-11-18) <br/>
 [Original Link](http://bit.ly/SBGC_12-11-18) <br/>
@@ -19,4 +19,4 @@ Streamed live on Dec 11, 2018 <br/>
   <p><em><strong>Bruce Bachenheimer</strong> Clinical Professor, Management & Executive Director, Entrepreneurship Lab, Pace University</em> served as a Judge for the 1010 WINS Small Business Grant Challenge, which was streamed live from the Radio.com Theatre in Manhattan.</p>
   <p>https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2</p>
   <img src='images/image8695.jpg'/>
-</div>
+</div><br/>
