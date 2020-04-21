@@ -1,13 +1,15 @@
 # Media
-[![Complete PDF Version](images/completepdfversion.png)](files/BruceBachenheimerMediaQuotes.pdf)
-[![TV, Radio & Web Broadcast](images/tvradio.png)](media_tvradioweb.html)
-[![Pace University Media](images/paceuniversitymedia.png)](media_paceuniversitymedia.html)
-[![Media before Pace University](images/mediabeforepaceuniversity.png)](media_beforepaceuniversity.html)
-[![Print & Internet 2004-2009](images/printinternet2004-2009.png)](media_printandinternet2004-2009.html)
-[![Print & Internet 2010-2012](images/printinternet2010-2012.png)](media_printandinternet2010-2012.html)
-[![Print & Internet 2013-2015](images/printinternet2013-2015.png)](media_printandinternet2013-2015.html)
-[![Print & Internet 2016-2018](images/printinternet2016-2018.png)](media_printandinternet2016-2018.html)
-[![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
+[//]: <> (
+  [![Complete PDF Version](images/completepdfversion.png)](files/BruceBachenheimerMediaQuotes.pdf)
+  [![TV, Radio & Web Broadcast](images/tvradio.png)](media_tvradioweb.html)
+  [![Pace University Media](images/paceuniversitymedia.png)](media_paceuniversitymedia.html)
+  [![Media before Pace University](images/mediabeforepaceuniversity.png)](media_beforepaceuniversity.html)
+  [![Print & Internet 2004-2009](images/printinternet2004-2009.png)](media_printandinternet2004-2009.html)
+  [![Print & Internet 2010-2012](images/printinternet2010-2012.png)](media_printandinternet2010-2012.html)
+  [![Print & Internet 2013-2015](images/printinternet2013-2015.png)](media_printandinternet2013-2015.html)
+  [![Print & Internet 2016-2018](images/printinternet2016-2018.png)](media_printandinternet2016-2018.html)
+  [![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
+)
 
 <div style="text-align:center;">
   <a href='files/BruceBachenheimerMediaQuotes.pdf'>
@@ -21,37 +23,37 @@
     </button>
   </a>
   <a href='media_paceuniversitymedia.html'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Pace University Media
     </button>
   </a>
   <a href='media_beforepaceuniversity.html'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Media before Pace University
     </button>
   </a>
   <a href='media_printandinternet2004-2009.html'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Print & Internet 2004-2009
     </button>
   </a>
   <a href='media_printandinternet2010-2012.html'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Print & Internet 2010-2012
     </button>
   </a>
   <a href='media_printandinternet2013-2015.html'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Print & Internet 2013-2015
     </button>
   </a>
   <a href='media_printandinternet2016-2018.html'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Print & Internet 2016-2018
     </button>
   </a>
   <a href='media_printandinternet2019-2021.html'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Print & Internet 2019-Present
     </button>
   </a>
