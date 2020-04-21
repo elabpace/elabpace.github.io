@@ -16,7 +16,7 @@ March 15, 2019 <br/>
 The Small Business 10K Challenge <br/>
 Streamed live on Dec 11, 2018 <br/>
 <div style="background-color:#D3D3D3;color:black;padding:5px">
-  <p><em><strong>Bruce Bachenheimer<strong> Clinical Professor, Management & Executive Director, Entrepreneurship Lab, Pace University</em> served as a Judge for the 1010 WINS Small Business Grant Challenge, which was streamed live from the Radio.com Theatre in Manhattan.</p>
+  <p><em><strong>Bruce Bachenheimer</strong> Clinical Professor, Management & Executive Director, Entrepreneurship Lab, Pace University</em> served as a Judge for the 1010 WINS Small Business Grant Challenge, which was streamed live from the Radio.com Theatre in Manhattan.</p>
   <p>https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2</p>
   <img src='images/image8695.jpg'/>
 </div>
