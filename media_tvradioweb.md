@@ -30,7 +30,7 @@ November 11, 2016 <br/>
   <p>"At Pace University, professor Bruce Bachenheimer is doing his part with the Veterans Entrepreneurship Boot Camp. It’s a seven-week program that provides practical skills and tools for veterans launching their own startup businesses."</p>
 </div><br/>
 
-[![KBS](images/kbs.gif)](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html) <br/>
+[![KBS](images/kbs.jpg)](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html) <br/>
 [Original Link](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html) <br/>
 **Global Talk Show Cosmopolitan** <br/>
 January 23, 2016 <br/>
