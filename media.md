@@ -1,4 +1,4 @@
-## Media
+# Media
 [![Complete PDF Version](images/completepdfversion.png)](files/BruceBachenheimerMediaQuotes.pdf)
 [![TV, Radio & Web Broadcast](images/tvradio.png)](media_tvradioweb.html)
 [![Pace University Media](images/paceuniversitymedia.png)](media_paceuniversitymedia.html)
