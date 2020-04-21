@@ -1,4 +1,4 @@
-## Teaching Experience
+# Teaching Experience
 
 **Spring 2020 Courses**
 - MGT 150 - Managerial and Organizational Concepts
