@@ -11,6 +11,6 @@ March 15, 2019\
   <p>This is a fun conversation. Let's hear from Bruce.</p>
 </div>
 
-> On this episode of Super Cities, we do a deep dive with Bruce Bachenheimer, Director of Entrepreneurship at Pace University in New York City.
->We cover the growth of NYC’s startup ecosystem, trends in education, and the role universities play in innovation.
+> On this episode of Super Cities, we do a deep dive with Bruce Bachenheimer, Director of Entrepreneurship at Pace University in New York City./
+>We cover the growth of NYC’s startup ecosystem, trends in education, and the role universities play in innovation./
 >This is a fun conversation. Let's hear from Bruce.
