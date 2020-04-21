@@ -35,4 +35,10 @@ November 11, 2016 <br/>
 **Global Talk Show Cosmopolitan** <br/>
 January 23, 2016 <br/>
 <div style="background-color:#D3D3D3;color:black;padding:5px">
-  <p><em>Pace University Professor Bruce Bachenheimer was interviewed on <strong>Global Talk Show Cosmopolitan</strong>, which aired on <strong>Korean Broadcasting System Channel</strong> 1 January 23, 2016. The program examined New York City’s Silicon Alley. A video clip of the program is available at: <a href='http://bit.ly/KBS-BB'>http://bit.ly/KBS-BB</a> (the Silicon Alley segment starts at 19:50 and Professor Bachenheimer appears at 22:58).</em></p>
+  <p><em>Pace University Professor Bruce Bachenheimer was interviewed on <strong>Global Talk Show Cosmopolitan</strong>, which aired on <strong>Korean Broadcasting System Channel</strong> 1 January 23, 2016. The program examined New York City’s Silicon Alley. A video clip of the program is available at:</em> <a href='http://bit.ly/KBS-BB'>http://bit.ly/KBS-BB</a> <em>(the Silicon Alley segment starts at 19:50 and Professor Bachenheimer appears at 22:58).</em></p>
+  <p style='text-align:center'><img src='images/image1084.png' alt='Event picture'/></p>
+
+</div><br/>
+
+
+
