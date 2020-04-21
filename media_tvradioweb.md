@@ -18,7 +18,7 @@ Streamed live on Dec 11, 2018 <br/>
 <div style="background-color:#D3D3D3;color:black;padding:5px">
   <p><em><strong>Bruce Bachenheimer</strong> Clinical Professor, Management & Executive Director, Entrepreneurship Lab, Pace University</em> served as a Judge for the 1010 WINS Small Business Grant Challenge, which was streamed live from the Radio.com Theatre in Manhattan.</p>
   <p><a href='https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2'>https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2</a></p>
-  <span style='text-align:center'><img src='images/image8695.jpg' alt='Event picture'/></span>
+  <p style='text-align:center'><img src='images/image8695.jpg' alt='Event picture'/></p>
 </div><br/>
 
 [![1010 WINS](images/1010wins.gif)](https://embed.radio.com/clip/61197413) <br/>
@@ -37,7 +37,6 @@ January 23, 2016 <br/>
 <div style="background-color:#D3D3D3;color:black;padding:5px">
   <p><em>Pace University Professor Bruce Bachenheimer was interviewed on <strong>Global Talk Show Cosmopolitan</strong>, which aired on <strong>Korean Broadcasting System Channel</strong> 1 January 23, 2016. The program examined New York City’s Silicon Alley. A video clip of the program is available at:</em> <a href='http://bit.ly/KBS-BB'>http://bit.ly/KBS-BB</a> <em>(the Silicon Alley segment starts at 19:50 and Professor Bachenheimer appears at 22:58).</em></p>
   <p style='text-align:center'><img src='images/image1084.png' alt='Event picture'/></p>
-
 </div><br/>
 
 
