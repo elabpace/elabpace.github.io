@@ -1,5 +1,5 @@
 # Media
-[//]: <> (
+<!--
   [![Complete PDF Version](images/completepdfversion.png)](files/BruceBachenheimerMediaQuotes.pdf)
   [![TV, Radio & Web Broadcast](images/tvradio.png)](media_tvradioweb.html)
   [![Pace University Media](images/paceuniversitymedia.png)](media_paceuniversitymedia.html)
@@ -9,16 +9,16 @@
   [![Print & Internet 2013-2015](images/printinternet2013-2015.png)](media_printandinternet2013-2015.html)
   [![Print & Internet 2016-2018](images/printinternet2016-2018.png)](media_printandinternet2016-2018.html)
   [![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
-)
+-->
 
 <div style="text-align:center;">
   <a href='files/BruceBachenheimerMediaQuotes.pdf'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       Complete PDF Version
     </button>
   </a>
   <a href='media_tvradioweb.html'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       TV, Radio & Web Broadcast
     </button>
   </a>
