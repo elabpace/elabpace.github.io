@@ -40,6 +40,6 @@ January 23, 2016 <br/>
 </div><br/>
 
 > Quoted text example
-> Second line test
+> _Second line test_
 >
 > Another line break test
