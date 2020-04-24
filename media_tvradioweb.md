@@ -10,7 +10,6 @@ By **Brendan Hart** <br/>
 >
 > This is a fun conversation. Let's hear from Bruce.
 
-
 [![1010 WINS](images/1010wins.gif) Original Link](http://bit.ly/SBGC_12-11-18) <br/>
 **The Small Business 10K Challenge** <br/>
 Streamed live on Dec 11, 2018 <br/>
