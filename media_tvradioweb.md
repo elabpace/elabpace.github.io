@@ -39,5 +39,5 @@ January 23, 2016 <br/>
   <p style='text-align:center'><img src='images/image1084.png' alt='Event picture'/></p>
 </div><br/>
 
-
+> Quoted text example
 
