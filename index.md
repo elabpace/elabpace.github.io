@@ -20,5 +20,5 @@
 - Google+:  [www.google.com/+BruceBachenheimer](http://www.google.com/+BruceBachenheimer)
 - Skype:    bruce.bachenheimer
 
-[![Book cover](images/bookcover.jpg)
+[![Book cover](images/bookcover.jpg)  
 Click to download sample chapter (co-authored)](files/Entrepreneurship-SampleChapter.pdf)
