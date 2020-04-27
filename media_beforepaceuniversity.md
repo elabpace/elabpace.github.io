@@ -1,15 +1,14 @@
 # Media Before Pace University
 
-[![](images/press/image6904.jpg)](images/press/before_pace/SMH_7-5-00.pdf)
-[![](images/press/image7192.png)](images/press/before_pace/SMH_7-5-00.pdf)
+[![](images/press/image6904.jpg)](images/press/before_pace/SMH_7-5-00.pdf) <br/>
 
-Master Plan
 
+**Master Plan**
 July 5 2000
+By **Gerald Noonan**
 
-By Gerald Noonan
-
-[![](images/press/image4981.jpg)](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140)
+[PDF Version](images/press/before_pace/SMH_7-5-00.pdf) | 
+[Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) <br/>
 
 > DOT-COM MYTHS
 >
