@@ -11,16 +11,16 @@ By Gerald Noonan
 [![](image4981.jpg)](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140)
 
 > DOT-COM MYTHS
-
-Bruce Bachenheimer, a 30-something former Wall Street stockbroker who runs his own small company in Sydney, is completing his second year as an MBA student at AGSM.
-
-Bachenheimer believes the schools have been forced to give the MBA an appropriate degree of IT orientation and market focus because they know that people undertaking the courses are highly motivated, intelligent and are doing it either to change careers, make money, or both.
-
-He has been impressed with the way AGSM has organised the management students to interact with students from the University of NSW's computer sciences and engineering faculty - one of the leading IT schools in Australia - as a sort of intellectual cross-fertilisation effort.
-
-He's also been surprised at the sophistication of an AGSM computer simulation program used to mimic the real world of stockmarket movements. "It's a real tool very similar to that with which I was trading $100 million to $1 billion a day on Wall Street," he says.
-
-But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
+>
+> Bruce Bachenheimer, a 30-something former Wall Street stockbroker who runs his own small company in Sydney, is completing his second year as an MBA student at AGSM.
+> 
+> Bachenheimer believes the schools have been forced to give the MBA an appropriate degree of IT orientation and market focus because they know that people undertaking the courses are highly motivated, intelligent and are doing it either to change careers, make money, or both.
+>
+> He has been impressed with the way AGSM has organised the management students to interact with students from the University of NSW's computer sciences and engineering faculty - one of the leading IT schools in Australia - as a sort of intellectual cross-fertilisation effort.
+>
+> He's also been surprised at the sophistication of an AGSM computer simulation program used to mimic the real world of stockmarket movements. "It's a real tool very similar to that with which I was trading $100 million to $1 billion a day on Wall Street," he says.
+>
+> But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
 
 [![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)[![](image69171.png)](../press/before_pace/AFR_5-18-00.pdf)[![](image7192.png)](../press/before_pace/AFR_5-18-00.pdf)
 
