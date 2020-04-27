@@ -1,7 +1,7 @@
 # Media Before Pace University
 
 [![](images/press/image6904.jpg)](images/press/before_pace/SMH_7-5-00.pdf)
-[![](images/press/image7192.jpg)](images/press/before_pace/SMH_7-5-00.pdf)
+[![](images/press/image7192.png)](images/press/before_pace/SMH_7-5-00.pdf)
 
 Master Plan
 
@@ -23,7 +23,7 @@ By Gerald Noonan
 >
 > But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
 
-[![](images/press/image69171.png)](images/press/before_pace/AFR_5-18-00.pdf)[![](images/press/image7192.jpg)](images/press/before_pace/AFR_5-18-00.pdf)
+[![](images/press/image69171.png)](images/press/before_pace/AFR_5-18-00.pdf)[![](images/press/image7192.png)](images/press/before_pace/AFR_5-18-00.pdf)
 
 The model of a new-millennium worker
 
@@ -61,9 +61,7 @@ By Catherine Fox
 >
 > It sounds as though he is unlikely to be getting more sleep over the next few months.
 
-[Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
-
-[![](images/press/image69261.png)](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](images/press/image7192.jpg)](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](images/press/image4981.jpg)](http://www.insideannapolis.com/covers.html)
+[![](images/press/image69261.png)](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](images/press/image7192.png)](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](images/press/image4981.jpg)](http://www.insideannapolis.com/covers.html)
 
 New Annapolitans
 
@@ -73,7 +71,7 @@ February/March 1995
 >
 > "I stayed because I liked the colonial flavor, the seaport atmosphere, and Bay sailing. But what really surprised me is how receptive everyone has been. There's no good old boy, closed preppy network here," he says. "Everyone from old timers to newcomers have been helpful and friendly to me since I went into business."
 
-[![](images/press/image69341.png)](images/press/before_pace/TheCapital_6-5-94.pdf)[![](images/press/image7192.jpg)](images/press/before_pace/TheCapital_6-5-94.pdf)
+[![](images/press/image69341.png)](images/press/before_pace/TheCapital_6-5-94.pdf)[![](images/press/image7192.png)](images/press/before_pace/TheCapital_6-5-94.pdf)
 
 PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.
 
@@ -107,7 +105,7 @@ By Elayne Hopkins
 >
 > If I could change one thing in my life: "I any constantly changing many things in my life."
 
-[![](images/press/image69421.png)](images/press/before_pace/BayTimes_AprilMay1994.pdf)[![](images/press/image7192.jpg)](images/press/before_pace/BayTimes_AprilMay1994.pdf)
+[![](images/press/image69421.png)](images/press/before_pace/BayTimes_AprilMay1994.pdf)[![](images/press/image7192.png)](images/press/before_pace/BayTimes_AprilMay1994.pdf)
 
 Teak Magic: Caribbean Connections
 
@@ -141,7 +139,7 @@ April 21 – May 4, 1994 (Volume II, Number 8)
 >
 > “I wanted to make something,” he observes. “Before, it was just working with numbers.”
 
-[![](images/press/image69501.png)](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)[![](images/press/image7192.jpg)](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)
+[![](images/press/image69501.png)](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)[![](images/press/image7192.png)](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)
 
 Spotlight On New Business
 
@@ -187,7 +185,7 @@ January/February 1992 (Volume 3, Number 2)
 
 By Susan Barry
 
-[![](images/press/image7192.jpg)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)
+[![](images/press/image7192.png)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)
 
 > It’s 9 a.m. on a weekday and Bruce Bachenheimer, captain/owner and resident on Deliberate, is enjoying his coffee under a palm tree. He is relaxed, tanned, newly bearded and barefoot.
 > 
@@ -209,7 +207,7 @@ By Susan Barry
 > 
 > "But the best part of the trip is being on watch by yourself and seeing the sun come up over an endless ocean."
 
-[![](images/press/image69661.png)](images/press/before_pace/BOT_Midori_May_1985.pdf)[![](images/press/image7192.jpg)](images/press/before_pace/BOT_Midori_May_1985.pdf)
+[![](images/press/image69661.png)](images/press/before_pace/BOT_Midori_May_1985.pdf)[![](images/press/image7192.png)](images/press/before_pace/BOT_Midori_May_1985.pdf)
 
 The Bank of Tokyo in "The Big Apple"
 
