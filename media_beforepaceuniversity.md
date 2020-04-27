@@ -3,9 +3,9 @@
 [![](images/press/image6904.jpg)](images/press/before_pace/SMH_7-5-00.pdf) <br/>
 
 
-**Master Plan**
-July 5 2000
-By **Gerald Noonan**
+**Master Plan**  
+July 5 2000  
+By **Gerald Noonan**  
 
 [PDF Version](images/press/before_pace/SMH_7-5-00.pdf) | 
 [Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) <br/>
