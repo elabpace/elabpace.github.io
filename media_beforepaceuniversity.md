@@ -32,34 +32,33 @@ By Catherine Fox
 
 [![](image4981.jpg)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)
 >
-If the predictions are right about most of us having at least three careers in our working lives, then Bruce Bachenheimer is not a bad example of the new-millennium worker.
-
-He spent several years as a trader on Wall Street, travelled the world promoting a high-tech product for a US company and even opened a business importing teak from the Caribbean. He also managed to fit in a couple of years sailing around the Caribbean islands.
-
-A sheer coincidence led him to apply for an MBA course at the Australian Graduate School of Management, where he is still studying. And it is here, with fellow student Austin Hui, that he launched one of Australia's most popular share investor sites, StockCentral.
-
-Fitting in all of that while still in his 30s doesn't seem such a big deal to Bachenheimer. Not that lie's brash, but the softly spoken American does admit he gets very little sleep. Maybe four hours a night, after he trades on the US markets.
-
-Online entrepreneurs like Bachenheimer and Hui are coming from all walks of life, with a diverse range of skills, experience and qualifications. The classic barriers of age, education and geography mutter far less in the new economy than in the old.
-
-"I was asked if I'd be interested in doing it as a commercially viable site, and I already have my own web page so we worked to do that and founded a company this year,” says Bachenheimer.
-
-Within three months of relaunching, the site was attracting 1 million hits a month. Now there are around 2 million, he says.
-
-“If we grow too quickly we lose the way the site operates…it's high-quality information and no ramping of stocks. Other online forums are being done but not with as high quality," says Bachenheimer.
-
-It all sounds a long way from living on a yacht for two years in the Caribbean, although that lifestyle inspired another career. "I didn't know what I wanted to do," Bachenheimer says. "That's when I started the wood company. I wanted to work with my hands."
-
-A strong desire to see the world kept Bachenheimer busy for several years and also led him to apply for the MBA. He was walking past the Australian consulate in New York and saw a sign offering information on doing an MBA in Sydney. That was enough to trigger an application.
-
-"Coming here was more of a life experience or an end, not a means to an end,” he says.
-
-His work with StockCentral has dovetailed with his studies at the AGSM, which is refocusing to include more e-commerce emphasis. The business school this week launched an e-business incubator, with second-year MBA students running the project with help from faculty and other experts. A number of new business ideas are already in the pipeline.
-
-The incubator will concentrate on the development of start-ups, and although StockCentral has already grown beyond that stage, it would still benefit from some of the expertise, says Bachenheimer.
-
-It sounds as though he is unlikely to be getting more sleep over the next few months.
+> If the predictions are right about most of us having at least three careers in our working lives, then Bruce Bachenheimer is not a bad example of the new-millennium worker.
 >
+> He spent several years as a trader on Wall Street, travelled the world promoting a high-tech product for a US company and even opened a business importing teak from the Caribbean. He also managed to fit in a couple of years sailing around the Caribbean islands.
+>
+> A sheer coincidence led him to apply for an MBA course at the Australian Graduate School of Management, where he is still studying. And it is here, with fellow student Austin Hui, that he launched one of Australia's most popular share investor sites, StockCentral.
+>
+> Fitting in all of that while still in his 30s doesn't seem such a big deal to Bachenheimer. Not that lie's brash, but the softly spoken American does admit he gets very little sleep. Maybe four hours a night, after he trades on the US markets.
+>
+> Online entrepreneurs like Bachenheimer and Hui are coming from all walks of life, with a diverse range of skills, experience and qualifications. The classic barriers of age, education and geography mutter far less in the new economy than in the old.
+>
+> "I was asked if I'd be interested in doing it as a commercially viable site, and I already have my own web page so we worked to do that and founded a company this year,” says Bachenheimer.
+>
+> Within three months of relaunching, the site was attracting 1 million hits a month. Now there are around 2 million, he says.
+>
+> “If we grow too quickly we lose the way the site operates…it's high-quality information and no ramping of stocks. Other online forums are being done but not with as high quality," says Bachenheimer.
+>
+> It all sounds a long way from living on a yacht for two years in the Caribbean, although that lifestyle inspired another career. "I didn't know what I wanted to do," Bachenheimer says. "That's when I started the wood company. I wanted to work with my hands."
+>
+> A strong desire to see the world kept Bachenheimer busy for several years and also led him to apply for the MBA. He was walking past the Australian consulate in New York and saw a sign offering information on doing an MBA in Sydney. That was enough to trigger an application.
+>
+> "Coming here was more of a life experience or an end, not a means to an end,” he says.
+> 
+> His work with StockCentral has dovetailed with his studies at the AGSM, which is refocusing to include more e-commerce emphasis. The business school this week launched an e-business incubator, with second-year MBA students running the project with help from faculty and other experts. A number of new business ideas are already in the pipeline.
+>
+> The incubator will concentrate on the development of start-ups, and although StockCentral has already grown beyond that stage, it would still benefit from some of the expertise, says Bachenheimer.
+>
+> It sounds as though he is unlikely to be getting more sleep over the next few months.
 
 [Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
 
