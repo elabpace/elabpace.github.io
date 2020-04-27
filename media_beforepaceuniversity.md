@@ -1,6 +1,6 @@
 # Media Before Pace University
 
-[![](image6904.jpg)](../press/before_pace/SMH_7-5-00.pdf)[![](image7192.png)](../press/before_pace/SMH_7-5-00.pdf)
+[![](images/press/image6904.jpg)](images/press/before_pace/SMH_7-5-00.pdf)[![](images/press/image7192.png)](images/press/before_pace/SMH_7-5-00.pdf)
 
 Master Plan
 
@@ -8,7 +8,7 @@ July 5 2000
 
 By Gerald Noonan
 
-[![](image4981.jpg)](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140)
+[![](images/press/image4981.jpg)](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140)
 
 > DOT-COM MYTHS
 >
@@ -22,7 +22,7 @@ By Gerald Noonan
 >
 > But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
 
-[![](image69171.png)](../press/before_pace/AFR_5-18-00.pdf)[![](image7192.png)](../press/before_pace/AFR_5-18-00.pdf)
+[![](images/press/image69171.png)](../press/before_pace/AFR_5-18-00.pdf)[![](image7192.png)](../press/before_pace/AFR_5-18-00.pdf)
 
 The model of a new-millennium worker
 
@@ -30,7 +30,7 @@ May 18 2000
 
 By Catherine Fox
 
-[![](image4981.jpg)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)
+[![](images/press/image4981.jpg)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)
 >
 > If the predictions are right about most of us having at least three careers in our working lives, then Bruce Bachenheimer is not a bad example of the new-millennium worker.
 >
@@ -62,7 +62,7 @@ By Catherine Fox
 
 [Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
 
-[![](image69261.png)](../press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](image7192.png)](../press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](image6920.jpg)](http://www.insideannapolis.com/covers.html)
+[![](images/press/image69261.png)](../press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](images/press/image7192.png)](../press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](images/press/image6920.jpg)](http://www.insideannapolis.com/covers.html)
 
 New Annapolitans
 
@@ -72,7 +72,7 @@ February/March 1995
 >
 > "I stayed because I liked the colonial flavor, the seaport atmosphere, and Bay sailing. But what really surprised me is how receptive everyone has been. There's no good old boy, closed preppy network here," he says. "Everyone from old timers to newcomers have been helpful and friendly to me since I went into business."
 
-[![](image69341.png)](../press/before_pace/TheCapital_6-5-94.pdf)[![](image7192.png)](../press/before_pace/TheCapital_6-5-94.pdf)
+[![](images/press/image69341.png)](../press/before_pace/TheCapital_6-5-94.pdf)[![](images/press/image7192.png)](../press/before_pace/TheCapital_6-5-94.pdf)
 
 PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.
 
@@ -80,7 +80,7 @@ June 5, 1994
 
 By Elayne Hopkins
 
-[![](image6920.jpg)](http://www.insideannapolis.com/covers.html)
+[![](images/press/image6920.jpg)](http://www.insideannapolis.com/covers.html)
 
 > Name: Bruce Bachenheimer
 >
@@ -106,13 +106,13 @@ By Elayne Hopkins
 >
 > If I could change one thing in my life: "I any constantly changing many things in my life."
 
-[![](image69421.png)](../press/before_pace/BayTimes_AprilMay1994.pdf)[![](image7192.png)](../press/before_pace/BayTimes_AprilMay1994.pdf)
+[![](images/press/image69421.png)](../press/before_pace/BayTimes_AprilMay1994.pdf)[![](images/press/image7192.png)](../press/before_pace/BayTimes_AprilMay1994.pdf)
 
 Teak Magic: Caribbean Connections
 
 April 21 – May 4, 1994 (Volume II, Number 8)
 
-[![](image6937.jpg)](http://bayweekly.com/old-site/1994/94v08.html)
+[![](images/press/image6937.jpg)](http://bayweekly.com/old-site/1994/94v08.html)
 
 > You don’t have to be a boater to know that one of the wonders of the world is teak.
 >
@@ -140,7 +140,7 @@ April 21 – May 4, 1994 (Volume II, Number 8)
 >
 > “I wanted to make something,” he observes. “Before, it was just working with numbers.”
 
-[![](image69501.png)](../press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)[![](image7192.png)](../press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)
+[![](images/press/image69501.png)](../press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)[![](images/press/image7192.png)](../press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)
 
 Spotlight On New Business
 
@@ -148,7 +148,7 @@ March/April 1994
 
 By Sandra E. Picket
 
-[![](image6937.jpg)](http://www.annapolisbusinessmonthly.com/)
+[![](images/press/image6937.jpg)](http://www.annapolisbusinessmonthly.com/)
 
 > Bachenheimer Going For Teak
 >
@@ -178,7 +178,7 @@ By Sandra E. Picket
 >
 > "And then there's the environmental aspect. The wood that I buy is all farmed on plantations under local government supervision and exported under license, so its something that I can feel good about.
 
-[![](image69651.png)](../press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)
+[![](images/press/image69651.png)](../press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)
 
 When Yuppies Turn Good
 
@@ -186,7 +186,7 @@ January/February 1992 (Volume 3, Number 2)
 
 By Susan Barry
 
-[![](image7192.png)](../press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)
+[![](images/press/image7192.png)](../press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)
 
 > It’s 9 a.m. on a weekday and Bruce Bachenheimer, captain/owner and resident on Deliberate, is enjoying his coffee under a palm tree. He is relaxed, tanned, newly bearded and barefoot.
 > 
@@ -208,7 +208,7 @@ By Susan Barry
 > 
 > "But the best part of the trip is being on watch by yourself and seeing the sun come up over an endless ocean."
 
-[![](image69661.png)](../press/before_pace/BOT_Midori_May_1985.pdf)[![](image7192.png)](../press/before_pace/BOT_Midori_May_1985.pdf)
+[![](images/press/image69661.png)](../press/before_pace/BOT_Midori_May_1985.pdf)[![](images/press/image7192.png)](../press/before_pace/BOT_Midori_May_1985.pdf)
 
 The Bank of Tokyo in "The Big Apple"
 
