@@ -31,7 +31,7 @@ May 18 2000
 By Catherine Fox
 
 [![](image4981.jpg)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)
-
+```
 If the predictions are right about most of us having at least three careers in our working lives, then Bruce Bachenheimer is not a bad example of the new-millennium worker.
 
 He spent several years as a trader on Wall Street, travelled the world promoting a high-tech product for a US company and even opened a business importing teak from the Caribbean. He also managed to fit in a couple of years sailing around the Caribbean islands.
@@ -59,6 +59,7 @@ His work with StockCentral has dovetailed with his studies at the AGSM, which is
 The incubator will concentrate on the development of start-ups, and although StockCentral has already grown beyond that stage, it would still benefit from some of the expertise, says Bachenheimer.
 
 It sounds as though he is unlikely to be getting more sleep over the next few months.
+```
 
 [Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
 
