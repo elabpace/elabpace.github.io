@@ -22,7 +22,7 @@ By Gerald Noonan
 >
 > But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
 
-[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)[![](image69171.png)](../press/before_pace/AFR_5-18-00.pdf)[![](image7192.png)](../press/before_pace/AFR_5-18-00.pdf)
+[![](image69171.png)](../press/before_pace/AFR_5-18-00.pdf)[![](image7192.png)](../press/before_pace/AFR_5-18-00.pdf)
 
 The model of a new-millennium worker
 
