@@ -1,8 +1,8 @@
 # Media Before Pace University
 
-[![](images/press/image6904.jpg)PDF Version](images/press/before_pace/SMH_7-5-00.pdf ) | [Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) <br/>
+[![](images/press/image6904.jpg) PDF Version](images/press/before_pace/SMH_7-5-00.pdf ) | [Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) <br/>
 **Master Plan**  
-July 5 2000 
+July 5, 2000 
 By **Gerald Noonan**  
 > DOT-COM MYTHS
 >
@@ -16,15 +16,10 @@ By **Gerald Noonan**
 >
 > But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
 
-[![](images/press/image69171.png)](images/press/before_pace/AFR_5-18-00.pdf)[![](images/press/image7192.png)](images/press/before_pace/AFR_5-18-00.pdf)
-
-The model of a new-millennium worker
-
-May 18 2000
-
-By Catherine Fox
-
-[![](images/press/image4981.jpg)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)
+[![](images/press/image69171.png) PDF Version](images/press/before_pace/AFR_5-18-00.pdf) | [Original Link](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)<br/>
+**The model of a new-millennium worker**
+May 18, 2000
+By **Catherine Fox**
 >
 > If the predictions are right about most of us having at least three careers in our working lives, then Bruce Bachenheimer is not a bad example of the new-millennium worker.
 >
@@ -54,26 +49,18 @@ By Catherine Fox
 >
 > It sounds as though he is unlikely to be getting more sleep over the next few months.
 
-[![](images/press/image69261.png)](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](images/press/image7192.png)](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)[![](images/press/image4981.jpg)](http://www.insideannapolis.com/covers.html)
-
-New Annapolitans
-
+[![](images/press/image69261.png) PDF Version](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf) | [Original Link](http://www.insideannapolis.com/covers.html)<br/>
+**New Annapolitans**
 February/March 1995
 
 > Bruce Bachenheimer, another anchor dropper, still lives aboard his boat in Spa Creek. He has become an importer of teak lumber. Not old enough to have a mid-life crisis, Bruce has already led several lives—he was a student in Japan, a Wall Street trader, an offshore cruiser, and now an Annapolis businessman. Coming to Annapolis from Venezuela and the Caribbean, he ducked into the harbor to escape nasty weather and decided to stay. In true Annapolitan fashion, he opened his business, Annapolis Maritime Corporation, on the 4th of July 1993.
 >
 > "I stayed because I liked the colonial flavor, the seaport atmosphere, and Bay sailing. But what really surprised me is how receptive everyone has been. There's no good old boy, closed preppy network here," he says. "Everyone from old timers to newcomers have been helpful and friendly to me since I went into business."
 
-[![](images/press/image69341.png)](images/press/before_pace/TheCapital_6-5-94.pdf)[![](images/press/image7192.png)](images/press/before_pace/TheCapital_6-5-94.pdf)
-
-PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.
-
+[![](images/press/image69341.png) PDF Version](images/press/before_pace/TheCapital_6-5-94.pdf) | [Original Link](http://www.insideannapolis.com/covers.html)</br>
+**PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.**
 June 5, 1994
-
-By Elayne Hopkins
-
-[![](images/press/image4981.jpg)](http://www.insideannapolis.com/covers.html)
-
+By **Elayne Hopkins**
 > Name: Bruce Bachenheimer
 >
 > Occupation: President of Annapolis Maritime Corp., 1932 Lincoln Drive, Annapolis.
@@ -98,14 +85,9 @@ By Elayne Hopkins
 >
 > If I could change one thing in my life: "I any constantly changing many things in my life."
 
-[![](images/press/image69421.png)](images/press/before_pace/BayTimes_AprilMay1994.pdf)[![](images/press/image7192.png)](images/press/before_pace/BayTimes_AprilMay1994.pdf)
-
-Teak Magic: Caribbean Connections
-
+[![](images/press/image69421.png) PDF Version](images/press/before_pace/BayTimes_AprilMay1994.pdf) | [Original Link](http://bayweekly.com/old-site/1994/94v08.html)</br>
+**Teak Magic: Caribbean Connections**
 April 21 – May 4, 1994 (Volume II, Number 8)
-
-[![](images/press/image4981.jpg)](http://bayweekly.com/old-site/1994/94v08.html)
-
 > You don’t have to be a boater to know that one of the wonders of the world is teak.
 >
 > In the Phillippines, pilings made of teak wood have endured 1,000 years. In Asia, they’re making boards out of teak logs that laid on the bottom of the Burma River for 100 years.
@@ -132,16 +114,10 @@ April 21 – May 4, 1994 (Volume II, Number 8)
 >
 > “I wanted to make something,” he observes. “Before, it was just working with numbers.”
 
-[![](images/press/image69501.png)](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)[![](images/press/image7192.png)](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf)
-
-Spotlight On New Business
-
+[![](images/press/image69501.png) PDF Version](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf) | [Original Link](http://www.annapolisbusinessmonthly.com/)</br>
+**Spotlight On New Business**
 March/April 1994
-
-By Sandra E. Picket
-
-[![](images/press/image4981.jpg)](http://www.annapolisbusinessmonthly.com/)
-
+By **Sandra E. Picket**
 > Bachenheimer Going For Teak
 >
 > When the Annapolis Maritime Corporation, a direct importer of teak lumber, recently announced its opening, it brought company president Bruce Bachenheimer a long way from his former job.
@@ -170,16 +146,10 @@ By Sandra E. Picket
 >
 > "And then there's the environmental aspect. The wood that I buy is all farmed on plantations under local government supervision and exported under license, so its something that I can feel good about.
 
-[![](images/press/image69651.png)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)
-
-When Yuppies Turn Good
-
+[![](images/press/image69651.png) PDF Version](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)</br>
+**When Yuppies Turn Good**
 January/February 1992 (Volume 3, Number 2)
-
-By Susan Barry
-
-[![](images/press/image7192.png)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)
-
+By **Susan Barry**
 > It’s 9 a.m. on a weekday and Bruce Bachenheimer, captain/owner and resident on Deliberate, is enjoying his coffee under a palm tree. He is relaxed, tanned, newly bearded and barefoot.
 > 
 > "This time last year? By 9:30 in the morning the major part of the trading day was already over," said the former Senior Trader from Westpac Banking Corporation, the oldest and largest bank in Australia.
@@ -200,12 +170,9 @@ By Susan Barry
 > 
 > "But the best part of the trip is being on watch by yourself and seeing the sun come up over an endless ocean."
 
-[![](images/press/image69661.png)](images/press/before_pace/BOT_Midori_May_1985.pdf)[![](images/press/image7192.png)](images/press/before_pace/BOT_Midori_May_1985.pdf)
-
-The Bank of Tokyo in "The Big Apple"
-
+[![](images/press/image69661.png) PDF Version](images/press/before_pace/BOT_Midori_May_1985.pdf)</br>
+**The Bank of Tokyo in "The Big Apple"**
 May 1985 (No. 308)
-
 > I joined the Bank of Tokyo, Ltd. as a Money Market Trader in 1983, for the excitement and action which is generated here. Another, more personal reason, is that I can maintain my contact with the Japanese language, culture and business methods which I studied at Tsukuba National University in Japan and at Pace University in New York, where I earned my degree in International Management. I am continuing to study Japanese at New York University.
 > 
 > Although trading hundreds of millions of dollars (for one of the leading International Banks in the Financial Center of the world) is exciting, the most interesting and rewarding aspect of my work is the daily contact I have with people around the world and with other traders on Wall Street. Although I expected to be in a highly competitive environment, it was a pleasant surprise to find that the people I deal with are friendly and cooperative. The real competition is "The Market".
