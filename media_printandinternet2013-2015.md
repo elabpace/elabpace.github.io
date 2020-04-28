@@ -539,3 +539,352 @@ By Daniel Bukszpan
 [![](image1344.jpg)](http://www.cnbc.com/id/101313179/page/6)
 
 “You must effectively communicate genuine passion and real expertise," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University. "Investors know that even truly great business ideas are incredibly hard to successfully execute, so you better convince them you are committed and know what you're doing if you want their money."
+
+[![](image8888.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)[![](image5555.jpg)](../press/Newsday_12-1-13.pdf)
+
+Crowdfunding for investors
+
+December 1, 2013
+
+By Sheryl Nance-Nash
+
+[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)[![](image5557.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)
+
+These start-ups represent a new asset class for individual investors, allowing them to diversify and participate in a potentially lucrative sector of the market, says Bruce Bachenheimer, director of the Entrepreneurship Lab and professor at Pace University in New York.
+
+"You could lose your entire investment quickly," warns Bachenheimer.
+
+[![](image55751.png)](http://myinternationaladventure.com/11/young-american-entrepreneurs-abroad/)[![](image5571.jpg)](../press/MyInternationalAdventure_11-25-13.pdf)
+
+Young American Entrepreneurs Abroad
+
+November 25, 2013
+
+[![](image5573.jpg)](http://myinternationaladventure.com/11/young-american-entrepreneurs-abroad/)
+
+To provide perspectives on entrepreneurial opportunities abroad, we spoke with [Bruce Bachenheimer](http://appsrv.pace.edu/lubin/faculty/departments/showFacultyDetail.cfm?Name=Bruce%20Bachenheimer), clinical professor of management and director of the entrepreneurship laboratory at Pace University in New York, and Katie Davies, senior director of consulting services for High Street Partners, which provides consulting services for international business expansion and operations. Bachenheimer set the stage for our discussion with a parable: “Most who visit an emerging country with high poverty rates only see people with no shoes. Entrepreneurs see an opportunity to sell shoes.” Bachenheimer knows what he is talking about. He went to Australia on a scholarship in 1999 to get his MBA and started a business in his spare time. That business – Stock Central Australia – quickly became the third-largest finance site in Australia and was valued at US$1 million after just one year. He also left his job on Wall Street to sail the Caribbean for a few years, found a partner on the island of Trinidad and started another business importing teak lumber to the United States.
+
+We asked Bachenheimer what the best start-up opportunities are for Americans. “I see a couple of different paths to success for young Americans thinking about starting a business in a new country,” he said. “The first one – and the largest opportunity – is leveraging family or other connections you have in your new country. Very often Americans return to their country of origin or a country where they have spent a lot of time and built up a network of connections. Most often, they set up a business they can bring from the U.S. that does not exist in that country. The second opportunity is what I call ‘opportunistic entrepreneurship.’ I happened to be in Trinidad while sailing the Caribbean and saw an opportunity that had great potential. It turned out to be a great business. The third opportunity is the intentional or deliberate path. For example, China is huge and growing, which is attracting many entrepreneurs who see great potential for new businesses.”
+
+We asked Bachenheimer what the best start-up opportunities are for Americans. “I see a couple of different paths to success for young Americans thinking about starting a business in a new country,” he said. “The first one – and the largest opportunity – is leveraging family or other connections you have in your new country. Very often Americans return to their country of origin or a country where they have spent a lot of time and built up a network of connections. Most often, they set up a business they can bring from the U.S. that does not exist in that country. The second opportunity is what I call ‘opportunistic entrepreneurship.’ I happened to be in Trinidad while sailing the Caribbean and saw an opportunity that had great potential. It turned out to be a great business. The third opportunity is the intentional or deliberate path. For example, China is huge and growing, which is attracting many entrepreneurs who see great potential for new businesses.”
+
+Bachenheimer says that young American entrepreneurs are not moving abroad because of the lack of opportunities at home, but rather are satisfying their desire for an adventure, to experience new cultures and have a chance to live in another country.
+
+Bachenheimer pegs the average age of tech entrepreneurs at 39 and agrees that technology businesses are generally U.S.-based and interested primarily in expanding into new global markets. “International entrepreneurs are definitely younger, free to travel and take risks,” he said. “Those entrepreneurs expanding into other countries, though, tend to be a little older because they have already set up businesses in the U.S. and have the money to expand into new markets.”
+
+Which countries are best for entrepreneurs? Bachenheimer says the United Kingdom, Chile, Ireland, Canada, Australia and New Zealand all have aggressive entrepreneurial programs.
+
+How can young American entrepreneurs improve their chance of start-up success? “I would highly recommend that they do their homework,” Bachenheimer says. “What are the country’s immigration laws as they pertain to working and starting a business? What are the employment rules? What are the tax rules? Do your due diligence thoroughly.”
+
+[Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
+
+[![](image55351.jpg)](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem/)[![](image55311.jpg)](../press/NYCMediaLab_11-8-13.pdf)
+
+Panel Convenes to Spotlight Universities’ Role in NYC’s Entrepreneurial Ecosystem November 8, 2013  
+
+[![](image5533.jpg)](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem/) On Thursday, November 7, Pace University’s [Entrepreneurship Lab](http://www.pace.edu/elab) and the [MIT Enterprise Forum of NYC](http://www.mitef-nyc.org) hosted a forum to discuss the significance of universities in today’s rapidly changing ecosystem. Bruce Bachenheimer, Clinical Professor of Management and Director of the Entrepreneurship Lab at Pace University, moderated a panel stacked with those who can speak best to the potential of university collaborations: panelists included NYC Media Lab Oversight Board members Eric Gertler, Executive Vice President for [the New York City Economic Development Corporation](http://www.nycedc.com) and Managing Director for the Center for Economic Transformation and Orin Herskowitz, VP of Intellectual Property and [Tech Transfer at Columbia University](http://www.techventures.columbia.edu); as well as Debera Johnson, Executive Director, [Center for Sustainable Design Studies and Research](http://csds.pratt.edu) at Pratt and Geoffrey W. Smith, Director,[Center for Technology, Innovation, and Entrepreneurship](http://icahn.mssm.edu/research/centers/center-for-technology-innovation-and-entrepreneurship) at the Icahn School of Medicine at Mount Sinai Hospital.![](image1946.jpg)[![](image5579.jpg)](../press/MetroMBA_11-5-13.pdf)[![](image55811.jpg)](http://www.metromba.com/2013/11/entrepreneurship-centers-reaching-students/)
+
+MBA Entrepreneurship Centers Reaching Out To More Students November 5, 2013  
+
+[![](image5583.jpg)](http://www.metromba.com/2013/11/entrepreneurship-centers-reaching-students/)
+
+The [Entrepreneurship Lab (eLab)](http://www.pace.edu/elab) at [Pace University’s Lubin School of Business](http://www.pace.edu/lubin) in New York City also has been pursuing interdisciplinary relationships. The center was opened in 2012, and it intends to support the school’s entrepreneurship classes by offering services and events, and to bring together Pace’s schools of arts and sciences, education computer science, business, and health. When speaking to BizEd, the director of the eLab, Bruce Bachenheimer, observed that the eLab has worked with students who wanted to develop new educational technologies to teach STEM subjects to high school students, and nursing students who want to develop mobile apps.
+
+[![](image4456.jpg)](http://www.bizedmagazine.com/features/articles/idea-central.asp)![](image5992.jpg)
+
+Bright Ideas: B-schools spark entrepreneurial thinking across g campus  
+November/December 2013 (cover story)By Tricia Bisoux
+
+[![](image5984.jpg)](http://www.bizedmagazine.com/features/articles/idea-central.asp)
+
+Building Excitement  
+Embracing an interdisciplinary purpose brings a sense of excitement to a business school and its entrepreneurial center, says Bruce Bachenheimer, who directs the Entrepreneurship Lab (eLab) at Pace University’s Lubin School of Business. Opened in February 2012 in a building near New York City Hall, eLab’s purpose is not only to augment the school’s entrepreneurship curriculum with events and services, but also to bring together the schools of business, arts and sciences, health professions, education, and computer science and information systems in cross disciplinary problem solving.
+
+“I recently met with education students who want to develop new educational technologies to teach STEM subjects to New York City high school students—they call themselves ‘edupreneurs,’” says Bachenheimer. “We’re working with nursing students to help them collaborate with computer science students to develop mobile apps for the field of gerontology. Bringing together students from different colleges has been exciting.” 
+
+WHAT MAKES A GREAT CENTER?  
+Listen to users. “There’s an old saying, ‘Why give customers what they want when we know what they need?’” jokes Bruce Bachenheimer of Pace University. But he emphasizes that entrepreneurship centers must let users help direct their design. Pace’s eLab is equipped with the latest computer equipment, but it turns out most students “just need big tables, power outlets, fast wi-fi , and a refrigerator.”
+
+[![](image5989.jpg)](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html)[![](image5994.jpg)](../press/E-CommerceTimes_10-23-13.pdf)
+
+SEC Opens the Door to Crowdfunding  
+October, 23 2013  
+By Erika Morphy
+
+[![](image5987.jpg)](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html)
+
+'Field of Dreams'
+
+Even with the SEC's cautious approach, however, crowd funding's appeal will likely translate into, at the very least, dashed hopes on the part of both investors and businesses, Bruce Bachenheimer, a professor of management at Pace University, told the E-Commerce Times.
+
+"While there are many exciting possibilities that could come from the act, I'm afraid it will result in an amateur 'field of dreams,'" he said -- "early startups dreaming of easy funding and nascent individual investors dreaming of big returns."
+
+[![](image58741.png)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html)
+
+Also featured in:
+
+[Dodge Globe](http://business-news.thestreet.com/dodgeglobe/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Finanzen.ch](http://www.finanzen.ch/Nachrichten/Entertaining-Clients-Save-Your-Money-2704218), [Fowler Tribune](http://business-news.thestreet.com/fowlertribune/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Galva News](http://business-news.thestreet.com/galvanews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Geneseo Republic](http://business-news.thestreet.com/geneseorepublic/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Hamburg Reporter](http://business-news.thestreet.com/hamburgreporter/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Journal Star](http://business-news.thestreet.com/pjstar/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Nevada County Picayune](http://business-news.thestreet.com/picayune-times/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Oak Ridger](http://business-news.thestreet.com/oakridger/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Philly.com](http://business-news.thestreet.com/philly/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [SC Sun Times](http://business-news.thestreet.com/scsuntimes/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Sussex Countian](http://business-news.thestreet.com/sussexcountian/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), and [The Daily Republican](http://business-news.thestreet.com/dailyrepublicannews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1)
+
+[![](image5879.jpg)](../press/TheStreet_10-9-13.pdf)
+
+Entertaining Clients? Save Your Money
+
+October 9, 2013  
+By Kathryn Tuggle
+
+[![](image5872.jpg)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html)
+
+"In the 1980s, you couldn't spend enough money," says Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York. "But today clients are saying, 'Forget the hunting trip, forget the lavish treatment -- just give me a better price."
+
+Client spending -- and the perception of what "acceptable" client spending is -- has evolved over the past decade, Bachenheimer says. The dot-com crash in 2000 inspired companies to re-examine their investment priorities, and after 9/11 companies saw more urgency in preparing for the inevitable "rainy day." The "final straw" occurred most recently in 2008, when businesses were forced to pare down to their most essential operating costs -- and extravagant client treatment just didn't make the cut.
+
+"Nowadays there's just a level of uncomfortability for the giver and the receiver," Bachenheimer says. "If you're rolling out the red carpet for a customer, they're going to assume you have incredibly high margins to do all that spending. They're going to think, 'Oh, he's overcharging everyone -- including me -- in order to afford all this."
+
+Some of them may even start to wonder, "Did I sign this contract because I was effectively bribed?" Bachenheimer says.
+
+With that said, a company's business is much easier to buy than it was just a few years ago, Bachenheimer says.
+
+"American firms spend roughly 10% of their revenue on marketing. That's not a lot, and gifts and entertainment can eat up a lot of that," he says. "But when you start looking at how cheap digital marketing is -- more importantly, how effective it is -- suddenly, spending big money to wine and dine doesn't seem very cost effective, and companies have realized this."
+
+But there are always a few exceptions to the rule, Bachenheimer says.
+
+"Companies need to examine the cost of new customer acquisition and the lifetime value of a customer. If you're forced to compete with a slew of other companies for someone's business, but that relationship will be lifelong, then it's worth the extra expense," he says. "Also, if you're in an industry where your clients are very high net worth individuals, you're not going to get their business by going by their home in Greenwich and sticking a flier under the windshield wiper of their Rolls-Royce."
+
+Another interesting exception is if your client is potentially sitting on the "next big thing," in business, Bachenheimer says.
+
+"Say there's a hot new social media company. It could be just a bunch of kids, but if everyone believes it will be the next Instagram or Twitter, then it's worth getting them on your side," he says.
+
+[![](image58441.jpg)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups)
+
+Also featured in:
+
+[![](image58661.jpg)](http://pleasantville.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups)[![](image5881.jpg)](../press/DailyVoice_10-4-13.pdf)
+
+Pace Professor Discusses Obamacare’s Impact On Tech Startups
+
+October 4, 2013  
+By Joe Jenkins
+
+[![](image5842.jpg)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups)
+
+![](image5997.png)
+
+Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University told computerworld.com that Obamacare could have a positive impact on tech startups.
+
+The director of Pace University's Entrepreneurship Lab in Pleasantville recently discussed the positive impact that Obamacare could have on tech startups with computerworld.com.
+
+Bruce Bachenheimer stated in the article that people often take jobs that they don't want just to obtain health insurance. If the Affordable Healthcare Act lowers insurance premiums, it would make health insurance more accessible and therefore make a tech start up less of a financial risk, according to Bachenheimer.
+
+Bachenheimer went on to say that most people that create tech startups are in their late 30s and not in their 20s. People in that age range are willing to take risks on a business idea, but not necessarily on their health. Since a serious illness or a car accident can't be controlled, some entrepreneurs view the unmanageable risk as too great.
+
+[![](image58461.jpg)](http://www.metromba.com/2013/10/pace-featured-article-campus-resources-entrepreneurs/)[![](image5883.jpg)](../press/MetroMBA_10-3-13.pdf)[![](image5838.jpg)](http://www.metromba.com/2013/10/pace-featured-article-campus-resources-entrepreneurs/)
+
+Pace Featured In Articles About Campus Resources For Entrepreneurs
+
+October 3, 2013
+
+A [new article in Entrepreneur](http://www.entrepreneur.com/article/228625) discusses the resources at business schools that can help MBA students on the path to starting and developing their own business, and the article features [Pace University’s Lubin School of Business](http://www.metromba.com/school/lubin-school-of-business-pace-university/) as an example
+
+The article says that business schools can benefit student entrepreneurs by providing them with free or reduced cost technology. To illustrate this point, Entrepreneur talked to Bruce Bachenheimer, the director of Pace’s entrepreneurship program, about the Entrepreneurship Lab. The lab is intended to be a space for students to produce innovative ideas and work with others. The lab provides students with an array of technological devices, including a wide selection of computers (desktop, laptop, and tablet), a 3D printer, advanced software programs, a professional-level video studio, and a surface computer.
+
+[![](image5828.jpg)](http://online.wsj.com/news/articles/SB10001424127887323623304579054622258666900)
+
+Also featured in:
+
+[![](image58641.jpg)](http://online.barrons.com/article/SB10001424127887323623304579054622258666900.html)[![](image5885.jpg)](../press/WSJ_9-30-13.pdf)
+
+You Have a Great Idea. Now What Do You Do?
+
+September 30, 2013 (featured on page A1, appears on pages R1-2)By Neil Parmar
+
+[![](image5826.jpg)](http://online.wsj.com/article/SB10001424127887323623304579054622258666900.html)
+
+Signing On for Steady Income
+
+Most of the caveats about outright sales apply here, too, and there's something else to bear in mind: Some companies include a "best efforts" clause in their licensing agreements, noting that they'll try to sell as many products as possible. But some companies may interpret that very loosely—if not ignore it altogether. Bruce Bachenheimer, a clinical professor of management and director of the Entrepreneurship Lab at Pace University, gives an example from the gem industry. A conglomerate, he says, may seem keen to license a device that can transform carbon into diamonds—and agree to pay $1,000 for every carat produced. Yet they may take the agreement, "file that in a drawer and never produce a single carat," he says. "They want to control supply."
+
+[![Entrepreneur: Start & Grow Your Business](image58521.png)](http://www.entrepreneur.com/article/228625)
+
+Also featured in:
+
+[![](image58581.jpg)](http://www.nbcnews.com/id/53175084/#.UlGaMIbkvh4)[![](image58601.png)](http://www.reuters.com/article/2013/09/30/idUS93736035720130930)[![](image58621.jpg)](http://smallbusiness.yahoo.com/advisor/top-campus-based-resources-aspiring-college-entrepreneurs-213000087.html)[![](image5887.jpg)](../press/Entrepreneur_9-30-13.pdf)
+
+Top Campus-Based Resources for Aspiring College Entrepreneurs
+
+September 30, 2013  
+By Laura Schaefer
+
+[![](image5850.jpg)](http://www.entrepreneur.com/article/228625)
+
+Free or reduced cost technology, software and apps: Access to valuable equipment is a major bonus of being an entrepreneur still enrolled in school. Bruce Bachenheimer, clinical professor of management at Pace University as well as director of its entrepreneurship program, explains one aspect of why his school's program is so valuable to student startups: “The Entrepreneurship Lab has assembled an impressive collection of technology resources, including high-performance computers, sophisticated software, a professional video studio, a surface computer, and a 3D printer; as well as a wide variety of desktop, laptop and tablet computers.”
+
+[![](image58341.jpg)](http://www.computerworld.com/s/article/9242833/Obamacare_could_help_fuel_a_tech_start_up_boom)
+
+Also featured in:
+
+[![](image5854.jpg)](http://www.cio.com/article/740669/Obamacare_Could_Help_Fuel_a_Tech_Startup_Boom)[![](image5889.jpg)](../press/Computerworld_9-30-13.pdf)
+
+Obamacare could help fuel a tech start-up boom
+
+September 30, 2013  
+By Patrick Thibodeau
+
+[![](image5832.jpg)](http://www.computerworld.com/s/article/9242833/Obamacare_could_help_fuel_a_tech_start_up_boom)
+
+"A relatively short stay in a hospital can bankrupt someone," said Bruce Bachenheimer, a professor of management at Pace University and director of its Entrepreneurship Lab. He said that, anecdotally, he's seen many people who will take a job they don't even care about just to get health coverage. "It's become such an important factor," he said.
+
+The average age of people who create a tech start-up is 39, and not 20-something," said Bachenheimer, despite the famous examples created by people such as Steve Jobs and Bill Gates. On top of that, there are twice as many tech start-up founders who are over the age of 50 as those who are younger than 25, he said.
+
+Entrepreneurs are willing to take on risks, but health care is not a manageable risk, said Bachenheimer.
+
+"There is a big difference between mortgaging your house on something you can control, and risking going bankrupt by an illness because of something you can't control," said Bachenheimer. No one can predict a car accident or a serious illness, he said.
+
+"Entrepreneurs actually don't see starting a business as risky as many people think, because they are so confident in their abilities and their idea," said Bachenheimer. "But they would see going around without health insurance as a risk."
+
+While Obamacare may lead to an increase in start-ups, there's another side to the coin. Once a start-up nears 50 full-time employees -- the threshold for taking on insurance coverage responsibilities under the law -- it might prompt the company to shift people to part-time work and rely more on outsourced contractors, said Bachenheimer.
+
+[![](image5765.png)](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba)[![](image5891.jpg)](../press/USNews_9-3-13.pdf)
+
+3 Smart Ways to Earn Business Credentials Without an MBA
+
+September 3, 2013  
+By Ben Weiss
+
+[![](image5821.jpg)](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba)
+
+1\. Raise your hand. As Professor Bruce Bachenheimer, the program director for entrepreneurship at Pace University's Lubin School of Business, explains, "While experiential learning should be part of a traditional MBA program, it is imperative to those seeking to gain critical business skills independently."
+
+2\. Volunteer outside your organization: Perhaps your current career keeps you so boxed in that you can't find internal volunteer opportunities to refine important skills. As such, you're considering investing in an MBA to facilitate a career change.
+
+Should you decide you don't have the time, finances or direction to do so, Bachenheimer suggests developing meaningful business skills outside your firm with nonprofits or the countless other organizations that would welcome free help.
+
+3\. Develop a business (no matter the magnitude): Many professionals are attracted to an MBA to become qualified as a manager or strategic director. However, Bachenheimer explains there is likely no better way to illustrate managerial, leadership and business operations credentials than jumping in the fire and starting your own business.
+
+[![DTLogo](image58171.jpg)](http://disruptivetechnologists.com/2013/06/21/the-accidental-entrepreneur/)[![](image5893.jpg)](../press/DisruptiveTechnologists_6-21-13.pdf)
+
+The Accidental Entrepreneur
+
+June 21, 2013  
+By Lauren Keyson
+
+[![](image5815.jpg)](http://disruptivetechnologists.com/2013/06/21/the-accidental-entrepreneur/)
+
+![](image59981.jpg)
+
+Bruce Bachenheimer, the accidental entrepreneur, is a clinical professor of management and the director of [Pace University’s Entrepreneurship Lab](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab/). He tells his students that passion is a must for entrepreneurs and that if they don’t yet know what that passion is, they should keep looking. Sometimes it can happen when it’s least expected – and he is a great example of this.
+
+“Passion is very important. When I found a passion for something, whether it was an entrepreneurial venture or something else, it was very important that I pursue it. Where is that passion going to come from? It can come from almost anywhere and at any time. Early on I discovered a passion for Japanese. I found an exchange program and went to college there for a semester. Later, inspired by Thoreau’s Walden, I decided to leave a career on Wall Street and go sailing. And just as Thoreau decided to leave the woods after his path from the cabin to the pond became too worn in, it was time for me to find something else.
+
+“Just over a decade ago I found a passion for teaching and I did what it took to get a teaching position without a typical academic background. Examples of my entrepreneurial passion include having started an online financial services company in Australia and a woodworking business in Maryland. With passion it is very easy to focus all your time and energy and accomplish something.
+
+“When I talk to my students and they don’t know what their passion is, I tell them it’s fine – wait and keep looking, don’t just settle. I lost the desire for my job as a Wall Street trader and was basically just going through the motions. It was exciting and paid a lot of money, but I knew I wanted to do something else, just not what at the time. When you don’t have it, you can’t force a passion on yourself. I think it’s a mistake. But keep that radar open and try a lot of different things because you never know where that passion will come from.”
+
+“Sometimes that one passion can last a lifetime. For me, some things run their course after a couple of years.”
+
+[![Forbes-logo](image58111.jpg)](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2/)[![](image58951.jpg)](../press/Forbes_4-17-13.pdf)
+
+The Apprentices: Learn-By-Doing Entrepreneurship At Enstitute  
+April 17, 2013 (May 6, 2013 print issue)  
+By Meghan Casserly
+
+[![](image5803.jpg)](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2/)
+
+Twice a week the housemates cook dinner for a guest speaker. Among them: fashion designer Marc Ecko and Scott Belsky of Behance. Tonight they’re hosting Bruce Bachenheimer, head of Pace University’s entrepreneurship lab. Turns out he quit as a Wall Street trader to sail for several years, then started a teak lumber import company, taught himself boatbuilding, then latched on to high-tech forensics, got an M.B.A., launched a financial website and learned Japanese.
+
+A good entrepreneurial lesson in his story: If you can, exploit every unexpected twist in life.
+
+Life At Enstitute: A Photo Essay
+
+ [![](image6000.jpg)](http://www.forbes.com/pictures/lml45eeimg/family-dinner/) [![](image6002.jpg)](http://www.forbes.com/pictures/lml45eeimg/bruce-bachenheimer-man-of-mystery/)
+
+Family Dinner
+
+Twice a month Enstitute hosts speakers--and treats them to a home-cooked meal. Bruce Bachenheimer is the head of Pace University's entrepreneurship lab.
+
+Bruce Bachenheimer, Man of Mystery
+
+Bachenheimer, who is working on an autobiography, has stories for days. From his official bio: "Bachenheimer began his career as a Wall Street trader then had the courage to take a step back from the rat race and go sailing … for several years. After sailing through the Caribbean to South America, he headed to Annapolis, Maryland, where he launched a business importing teak lumber and taught himself yacht joinery. Bachenheimer then transitioned to a career in high-tech forensic science, where he served as the International Product Manager for an entrepreneurial venture, conducting business in over 20 countries." Trust he makes for an amazing dinner guest.
+
+[![](image71591.jpg)](http://www.crainsnewyork.com/article/20130414/SMALLBIZ/304149990)[![](image5978.jpg)](../press/Crains_4-14-13.pdf)
+
+Delivering the perfect pitch
+
+April 14, 2013  
+By Lori Ioannou
+
+[![](image5974.jpg)](http://www.crainsnewyork.com/article/20130414/SMALLBIZ/304149990)
+
+"In this era of the lean startup, when entrepreneurs must continuously refine their business models in a fast-moving marketplace, these competitions are like rocket fuel," said professor Bruce Bachenheimer, director of entrepreneurship at Pace University's Lubin School of Business, which hosts its own business-plan competition.
+
+[![](image58091.jpg)](https://admin.openforum.com/articles/6-lessons-sbos-can-learn-from-shark-tank/)[![](image5897.jpg)](../press/amex_4-8-13.pdf)
+
+“Shark Tank” Lessons for Entrepreneurs
+
+April 8, 2013  
+By Angela Stringfellow
+
+[![](image5807.jpg)](https://admin.openforum.com/articles/6-lessons-sbos-can-learn-from-shark-tank/)
+
+1\. Shift your focus to attracting other owners. Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University, says too many entrepreneurs pitch their business with the mindset of getting investors to help them. But investors want to know what’s in it for them, not what’s in it for you. Your focus should be on attracting other owners “by demonstrating real value creation and an acceptable level of risk and return.”
+
+[![](image7161.jpg)](http://www.crainsnewyork.com/article/20130220/TECHNOLOGY/130219895)[![](image5899.jpg)](../press/Crains_2-20-13.pdf)
+
+6 ways to solve tech talent crunch
+
+February 20, 2013  
+By Anne Field
+
+[![](image5797.jpg)](http://www.crainsnewyork.com/article/20130220/TECHNOLOGY/130219895)
+
+"We don't have a jobs crisis," said Bruce Bachenheimer, clinical professor of management at Pace University. "We have a skills crisis."
+
+Last spring and fall, about 700 students attended sessions at seven schools run by representatives of more than 40 startups. "This is a way to take a lot of small companies and leverage them, so you're recruiting for a collection of cool startups," said Mr. Bachenheimer. "It's an economies-of-scale thing."
+
+[![](image5788.jpg)](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)
+
+Also featured in:
+
+[![](image5793.png)](http://www.theage.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)[![](image5792.png)](http://www.brisbanetimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)[![](image5791.jpg)](http://www.canberratimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)[![](image5790.png)](http://www.watoday.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)[![](image5901.jpg)](../press/SMH_1-28-13.pdf)
+
+Lose the tickets on yourself        to make it in the States
+
+January 28, 2013  
+By Mathew Hall
+
+[![](image5786.jpg)](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)
+
+Lode adds the US is not the super-efficient and best-practice paradise it is sometimes perceived to be, a point that Bruce Bachenheimer, professor of management at Pace University in New York and a board member of MIT Enterprise Forum, believes is dependent on what sector you do business in.
+
+“It's really about the entrepreneurial ecosystem in regions of the US,” said Bachenheimer, an American who has studied and worked in Australia. “Silicon Valley, Boston and Cambridge, New York City, the Research Triangle in North Carolina, and Austin Texas. Learn how to plug yourself into that.”
+
+Bachenheimer said there's a difference in American perception between doing business with a company in Australia and doing business with an Australian in the US.
+
+“We see an Australian in America pretty much the way we would view anyone else,” he said. “All kinds of successful businessmen, entrepreneurs, professors, and doctors are from overseas. If they had the wherewithal to make it to the US and are successful, good on them.”
+
+[![Cover](image84071.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html)
+
+Leading the Epic Revolution: How CIOs Drive Innovation and Create Value Across the Enterprise
+
+© 2013By Hunter Muller
+
+[![](image5780.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) Pace University Professor Bruce Bachenheimer was profiled in Leading the Epic Revolution, a book written by Hunter Muller, which was published by Wiley in 2013. The profile appears on pages 55 to 57 and 221 - 223. The following is an excerpt (the profile may be found at [http://bit.ly/ProfessorOfInnovation](http://bit.ly/ProfessorOfInnovation)):
+
+Professor of Innovation
+
+I was recently introduced to Bruce Bachenheimer, Clinical Professor of Management at Pace University’s Lubin School of Business and Director of the University’s Entrepreneurship Lab. I think it’s fair to say that Bruce lives and breathes innovation and entrepreneurship. A serial entrepreneur himself, Bruce is an expert on the important role that innovation plays in business growth.
+
+In a lengthy interview, Bruce outlined some of the reasons he’s passionate about innovation and entrepreneurship. Here’s a brief summary of what he said in the interview:
+
+“As Thomas Friedman says, the world is flat. Countries compete on a much more equal basis that in the past. On a national level, the only sustainable competitive advantages come from innovation.
+
+“Competing on the basis of low labor costs is a temporary strategy. It’s a race to the bottom and it won’t keep you competitive in the long run. Nations with high standards of living, low unemployment, trade surpluses and general prosperity tend to compete on innovation.
+
+“For a while, it seemed like Japan’s strategy of competing on the basis that manufacturing efficiency was a winning strategy, but the gains they achieved disappeared as competition drove down prices, which benefited consumers, not manufacturers. It was a temporary victory, and now they’ve been in a recession for nearly two decades.
+
+“If you look at countries that are leaders in innovation – the U.S., Australia, New Zealand, Israel, and the countries in northern Europe – you see high levels of education and high levels of entrepreneurship. In Japan, for example, the culture and regulatory system make it very difficult for entrepreneurs to succeed. If you are an entrepreneur in Japan, you face a lot of barriers. As a society, Japan is very intolerant of failure. That fear of failure stops people from taking risks, and you need to take risks to succeed as an entrepreneur.
+
+“On the other hand, countries like the U.S. and Israel are much more tolerant of failure – especially when you fail on someone else’s dime. Failure isn’t exactly a badge of honor, but it’s not the end of the world either. In the U.S., when someone’s business fails, people are likely to say, “That guy really learned a lesson. He sure won’t make that mistake again.” People in entrepreneurial cultures tend to see failure as a learning experience.
+
+“Company cultures have a similar impact on innovation. Companies that encourage innovation and tolerate a certain amount of failure are more likely to be the serial innovators.”
+
+I love how Bruce puts innovation and entrepreneurship into context, and shows us the impact of innovation on multiple levels.  Bruce also advises his students to think like innovative entrepreneurs when envisioning their career paths.  In today’s rapidly evolving and ever-changing economy, I think that’s excellent advice for all of us.
