@@ -1,6 +1,5 @@
 # Print and Internet 2013-2015
 
-
 [![](image6561.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)
 
 Walmart to Vendors: Give Us a Discount
@@ -539,6 +538,8 @@ By Daniel Bukszpan
 [![](image1344.jpg)](http://www.cnbc.com/id/101313179/page/6)
 
 “You must effectively communicate genuine passion and real expertise," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University. "Investors know that even truly great business ideas are incredibly hard to successfully execute, so you better convince them you are committed and know what you're doing if you want their money."
+
+
 
 [![](image8888.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)[![](image5555.jpg)](../press/Newsday_12-1-13.pdf)
 
