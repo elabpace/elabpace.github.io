@@ -446,6 +446,40 @@ To mold a mind into innovative shape, college students need an “experiential e
 
 “You need to train people to think differently, and if there are specific skills they don’t have, let them know how to get those resources,” Bachenheimer says. “Hopefully, the Entrepreneurship Lab is one of them.”
 
+[![](image5587.png)](http://intheempire.com/post/17788083605/pace-universitys-entrepreneurship-lab-will-train)
+
+The lab’s director, Bruce Bachenheimer, who also organizes the Pace Business Plan Competition and Pitch Contest, said he’d gotten a call from a nursing students asking if she could apply for the lab, hopefully to find a collaborator for a piece of health-care software or an app.
+
+[![](image5587.png)](http://wire.inc.com/2012/02/17/new-york-gets-new-start-up-lab/)
+
+The lab will include space for students to conference with investors, a studio for them to work and a large meeting room for speakers. Bruce Bachenheimer, the director of the lab and a professor at Lubin, says he plans to reach out to some of the thousand-plus Pace-area alums who self identify as entrepreneurs to be potential guests.
+
+“This will be very student focused,” Mr. Bachenheimer said. “It's important for me to see how the students are using the lab and what is providing them with the most value.”
+
+In fact, Mr. Bachenheimer says he has seen an increase in student interest in entrepreneurship in recent years. He blames this on the economy and the high unemployment rate. Students see creating their own companies as a safer route.
+
+“They also want to make something meaningful and create something,” he said.
+
+[![](image5595.png)](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935)
+
+But before would-be self-employed moguls get started, they need to look realistically at what they’re hoping to accomplish, said Bruce Bachenheimer, a professor of management and Director of Entrepreneurship at Pace University.
+
+“Do you have a real strategy?  A lot of people in this bad economy see home-based as a way to be employed, fill a gap on the resume or whatever,” he said. “But it’s not as easy as it appears.”
+
+EXPERT ADVICE To start a home-based business:
+
+SET REALISTIC GOALS “To launch a business does take capital, time and money, and always twice as much as you think,” says Pace University’s Bruce Bachenheimer
+
+FIND A MENTOR Talk to people who have started home-based businesses, join entrepreneur and small business groups, and get feedback about start-ups. “Smart entrepreneurs surround themselves with even smarter experts,” said Bachenheimer.
+
+HINK SALES A lot of people have a romantic vision that working at home means making your own hours and making money.  But the reality is, no matter what you’re offering , you need someone to buy it.  “Entrepreneurs are optimistic by nature, but don’t confuse passion and stubbornness.  You need someone to actually open up their wallet and want,” said Bachenheimer.
+
+BE HONEST WITH YOURSELF Not everyone is cut out to be an entrepreneur. “The best are risk-takers confident in themselves and their ideas,” Bachenheimer says.
+
+[![](image55991.png)](http://wire.inc.com/2012/02/17/new-york-gets-new-start-up-lab/)![](image57601.png)[![](image5963.png)](../press/Inc_2-17-12.pdf)[![](image5963.png)](../press/InTheEmpire_2-17-12.pdf)[![](image5963.png)](../press/Crains_2-15-12.pdf)[![](image5963.png)](../press/DailyNews_2-6-12.pdf)[![](image7172.png)](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935)
+
+
+
 [![](image49831.png)](http://www.teenbusinessforum.com/entrepreneurship/why-entrepreneurs-should-celebrate-global-entrepreneurship-week-gew)[![](image5008.jpg)](../press/TeenBusinessForum_11-14-11.pdf)
 
 Why Entrepreneurs should celebrate the Global Entrepreneurship Week #GEW
