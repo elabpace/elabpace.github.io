@@ -1,5 +1,7 @@
 # Print and Internet 2004-2009
 
+
+
 [![](image7176.jpg)](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993)[![](image5056.jpg)](../press/BetterLateThanNever.pdf)
 
 Better late than never
