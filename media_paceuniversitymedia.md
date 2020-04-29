@@ -18,7 +18,7 @@ April 2020
 ***PACESPECTIVES: OPERATION VARSITY BLUES***  
 April  2019  
 
-> Bruce Bachenheimer
+> Bruce Bachenheimer  
 > Clinical Professor of Management  
 > Executive Director, Entrepreneurship Lab  
 > Lubin School of Business  
