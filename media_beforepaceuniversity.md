@@ -20,7 +20,7 @@ By **Gerald Noonan**
 
 [![Financial Review](images/press/image69171.png)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)<br/>
 [Original Link](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M) | [PDF Version](images/press/before_pace/AFR_5-18-00.pdf) <br/>
-**The model of a new-millennium worker**
+**The model of a new-millennium worker** <br/>
 May 18, 2000 <br/>
 By **Catherine Fox**
 
@@ -52,7 +52,8 @@ By **Catherine Fox**
 >
 > It sounds as though he is unlikely to be getting more sleep over the next few months.
 
-[![](images/press/image69261.png) PDF Version](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf) | [Original Link](http://www.insideannapolis.com/covers.html)<br/>
+[![Inside Annapolis](images/press/image69261.png)](http://www.insideannapolis.com/covers.html)<br/>
+[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)
 **New Annapolitans**<br/>
 February/March 1995
 
