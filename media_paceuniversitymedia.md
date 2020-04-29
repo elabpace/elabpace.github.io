@@ -156,7 +156,7 @@ Fall 2016By Arize Lee
 
 They are creating their own career paths. Landing a job at a Fortune 500 company isn’t for everyone, but studies show that Gen Z is more interested in entrepreneurship than previous generations. Why? Professor Bruce Bachenheimer, executive director of Pace’s Entrepreneurship Lab, says they’re skeptical, having grown up during the recession. “Gen Z has seen their parents work as loyal employees for a big company, come home every day at 6:00 p.m. for dinner, and take their annual two weeks of vacation,” he says. “But then they watched as their parents were laid off, lost their dignity, and had to take two menial jobs to support themselves and the family. They questioned this loyalty to big companies and thought, ‘Do I have more control over my destiny id I go the entrepreneurial route?’”
 
-[![](images/press/pace_media/image3832.jpg)](http://bit.ly/PacePress)
+[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress)
 
 Entrepreneurship takes the University by storm  
 October 29, 2014  
@@ -176,9 +176,9 @@ Bachenheimer describes the facility as an ideal environment for anyone to concep
 
 Bachenheimer warns that “this idea of going to look for a job is a problem. It’s no more, like a generation ago, that you just get hired. Almost all net new jobs are being created by small companies, less than 4 years old with under 100 employees.”  
 No matter what your occupation, “it’s about recognizing opportunity and creating value,” Bachenheimer stressed. “Pace  
-University’s motto is Opportunitas and nothing is more synonymous with opportunity than entrepreneurship.”
+University’s motto is Opportunitas and nothing is more synonymous with opportunity than entrepreneurship.”  
 
-[![](images/press/pace_media/image67281.png)](../press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
+[![](images/press/pace_media/image3321.png)](../press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
 
 Pace’s eLab Helps Make Entrepreneurial Dreams a Reality
 
@@ -190,7 +190,7 @@ Fall 2013
 
 “The Entrepreneurship Lab is a collaborative workspace designed to bring together students from Pace's six schools and colleges in order to promote crossdisciplinary problem solving, experiential learning, and the development of an entrepreneurial mindset,” says Bruce Bachenheimer (above), clinical professor of Management and director of the Entrepreneurship Lab.
 
-[![](images/press/pace_media/image6744.png)](../press/pace_magazine/TheFacultyAlumniBond.pdf)
+[![](images/press/pace_media/image3321.png)](../press/pace_magazine/TheFacultyAlumniBond.pdf)
 
 The Faculty Alumni Bond
 
@@ -232,7 +232,7 @@ Summer 2008 (Page 28)
 
 At the graduate level, a group of MBA students were in Africa, exploring entrepreneurship in Tanzania with Professor Bruce Bachenheimer during an intense ten day field exploration with officials from the University of Dar es Salaam and local entrepreneurs.
 
-[![](images/press/pace_media/image433.jpg)](http://bit.ly/PacePress_3-12-08)
+[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_3-12-08)
 
 MBA students travel to Tanzania for business
 
@@ -260,7 +260,7 @@ The event was presented by professor Bruce Bachenheimer, who met Mahiga this pas
 
 Bachenheimer concluded by saying, “I found Mahiga’s assessment of the greatest challenges for the future of Tanzania to be extremely candid and very insightful. I believe we are quite fortunate to have the opportunity to learn about a nation’s past, present, and future directly from the Ambassador to the United Nations right here at the University.”
 
-[![](images/press/pace_media/image422.jpg)](http://bit.ly/PacePress_4-4-07)
+[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_4-4-07)
 
 Phelps Wins Pace Pitch Contest with Game Design
 
