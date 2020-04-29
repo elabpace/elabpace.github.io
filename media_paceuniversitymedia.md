@@ -4,11 +4,11 @@
 
 PACESPECTIVES: The World-Changing Impact of COVID-19  
 April 2020  
-> 
+
 > COVID-19 and Entrepreneurship  
 > Bruce Bachenheimer  
 > eLab Director, Lubin School of Business
-
+>
 > Entrepreneurship is often associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more ‘ripe for disruption’ than during a crisis. Airbnb and Uber were founded amid the 2008 financial crisis, and probably would not have succeeded if either was launched a few years earlier or later. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who were suddenly willing to sleep in a stranger’s bed and pay for a ride in a regular car. Once these concepts proved successful, they were able to become a new normal.
 > 
 > What innovative business concepts will be born out of the COVID-19 crisis? We’ll have to wait and see. But what’s important to remember is that it’s not about coming up with an interesting idea; it’s about the passion, persistence, and perseverance to actually make it happen.
@@ -17,12 +17,12 @@ April 2020
 
 PACESPECTIVES: OPERATION VARSITY BLUES  
 April  2019  
-> 
+
 > Bruce Bachenheimer
 > Clinical Professor of Management
 > Executive Director, Entrepreneurship Lab
 > Lubin School of Business  
-
+> 
 > "Live by the sword, die by the sword"
 > 
 > The "bulldozer parents" who seek to "clear a path" for their child to gain admission to a top ranked college, live by the rankings. Prospective students who define themselves by the numerical rank of the college they attend, live by the rankings. Colleges whose mission is simply to advance in the rankings, live by the rankings. And all may suffer tremendously because of college rankings.
@@ -176,9 +176,9 @@ Fall 2013
 
 [![](images/press/pace_media/image3321.png)](images/press/pace_magazine/TheFacultyAlumniBond.pdf)
 
-***The Faculty Alumni Bond***
-Fall 2013 (cover story)
-By ***Caitlin Kelly***
+***The Faculty Alumni Bond***  
+Fall 2013 (cover story)  
+By ***Caitlin Kelly***  
 
 [PDF Version](images/press/pace_magazine/TheFacultyAlumniBond.pdf)
 
@@ -194,8 +194,8 @@ By ***Caitlin Kelly***
 
 [![](images/press/pace_media/image6754.png)](images/press/pace_magazine/LubinStudentsInTanzania.pdf)
 
-***Lubin Students in Tanzania***
-Summer 2008
+***Lubin Students in Tanzania***  
+Summer 2008  
 
 [PDF Version](images/press/pace_magazine/LubinStudentsInTanzania.pdf)
 
@@ -205,8 +205,8 @@ Summer 2008
 
 [![](images/press/pace_media/image6754.png)](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)
 
-***Curriculum for Tomorrow***
-Summer 2008 (Page 28)
+***Curriculum for Tomorrow***  
+Summer 2008 (Page 28)  
 
 [PDF Version](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)  
 
@@ -216,9 +216,9 @@ Summer 2008 (Page 28)
 
 [![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_3-12-08)
 
-***MBA students travel to Tanzania for business***
-March 12, 2008
-By ***DJ Hopson***
+***MBA students travel to Tanzania for business***  
+March 12, 2008  
+By ***DJ Hopson***  
 
 [PDF Version](http://bit.ly/PacePress_3-12-08)
 
