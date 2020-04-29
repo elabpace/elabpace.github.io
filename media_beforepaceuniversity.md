@@ -61,37 +61,41 @@ February/March 1995
 >
 > "I stayed because I liked the colonial flavor, the seaport atmosphere, and Bay sailing. But what really surprised me is how receptive everyone has been. There's no good old boy, closed preppy network here," he says. "Everyone from old timers to newcomers have been helpful and friendly to me since I went into business."
 
-[![](images/press/image69341.png) PDF Version](images/press/before_pace/TheCapital_6-5-94.pdf) | [Original Link](http://www.insideannapolis.com/covers.html)<br/>
-**PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.**<br/>
-June 5, 1994<br/>
+[![The Capital](images/press/image69341.png)](http://www.insideannapolis.com/covers.html) <br/>
+[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](images/press/before_pace/TheCapital_6-5-94.pdf) <br/>
+**PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.** <br/>
+June 5, 1994 <br/>
 By **Elayne Hopkins**
-> Name: Bruce Bachenheimer
->
-> Occupation: President of Annapolis Maritime Corp., 1932 Lincoln Drive, Annapolis.
->
-> Nature of Business: Direct importer of teak lumber for retail and wholesale customers; offers a variety of teak products for maritime, gift and home use as well as custom mill work.
->
-> Personal: Born 32 years ago in Syracuse, N.Y., he grew up in Tuxedo, N.Y. A 1983 graduate of Pace University in Pleasantville, N.Y., where he received a bachelor's degree in international management, he studied in Japan for a year. From 1983 to 1986, he worked at the Bank of Tokyo Ltd. in Manhattan as an international banking officer and money market trader. From 1986 to 1991, he worked as assistant vice president and senior dealer for Westpac Banking Corp. in Manhattan. He decided to leave Wall. Street to travel. After purchasing a boat, in preparation for a sailing excursion, he came to Annapolis for a boat show, where he learned offshore sailing. For two years, he sailed, visiting the Caribbean and Venezuela, returning to Annapolis last July. He opened his business last winter. Single, he lives on his 36-foot sailboat, Deliberate.
->
-> First and worst Job: From 14 to 16, working in the rental department at a ski shop in Tuxedo.
->
-> Most recent accomplishment: "Captained my yacht from New England through the Caribbean to South American, returning to the Chesapeake Bay — partially single-handed."
-> 
-> Likes most about the Job: "Having to apply a wide range of skills and knowledge to succeed and grow."
->
-> Likes least about the job: "Committing to.regular hours."
->
-> Five-year goal: "To create a well-managed profitable business, allowing me to pursue other goals and interests."
->
-> Business philosophy: "To provide the product, price and service I would be pleased with as a customer.”
->
-> In his spare time: He's looking forward to cruising the Chesapeake Bay.
->
-> If I could change one thing in my life: "I any constantly changing many things in my life."
 
-[![](images/press/image69421.png) PDF Version](images/press/before_pace/BayTimes_AprilMay1994.pdf) | [Original Link](http://bayweekly.com/old-site/1994/94v08.html)<br/>
-**Teak Magic: Caribbean Connections**<br/>
+> **Name**: Bruce Bachenheimer
+>
+> **Occupation**: President of Annapolis Maritime Corp., 1932 Lincoln Drive, Annapolis.
+>
+> **Nature of Business**: Direct importer of teak lumber for retail and wholesale customers; offers a variety of teak products for maritime, gift and home use as well as custom mill work.
+>
+> **Personal**: Born 32 years ago in Syracuse, N.Y., he grew up in Tuxedo, N.Y. A 1983 graduate of Pace University in Pleasantville, N.Y., where he received a bachelor's degree in international management, he studied in Japan for a year. From 1983 to 1986, he worked at the Bank of Tokyo Ltd. in Manhattan as an international banking officer and money market trader. From 1986 to 1991, he worked as assistant vice president and senior dealer for Westpac Banking Corp. in Manhattan. He decided to leave Wall. Street to travel. After purchasing a boat, in preparation for a sailing excursion, he came to Annapolis for a boat show, where he learned offshore sailing. For two years, he sailed, visiting the Caribbean and Venezuela, returning to Annapolis last July. He opened his business last winter. Single, he lives on his 36-foot sailboat, Deliberate.
+>
+> **First and worst job**: From 14 to 16, working in the rental department at a ski shop in Tuxedo.
+>
+> **Most recent accomplishment**: "Captained my yacht from New England through the Caribbean to South American, returning to the Chesapeake Bay — partially single-handed."
+> 
+> **Likes most about the job**: "Having to apply a wide range of skills and knowledge to succeed and grow."
+>
+> **Likes least about the job**: "Committing to regular hours."
+>
+> **Five-year goal**: "To create a well-managed profitable business, allowing me to pursue other goals and interests."
+>
+> **Business philosophy**: "To provide the product, price and service I would be pleased with as a customer.”
+>
+> **In his spare time**: He's looking forward to cruising the Chesapeake Bay.
+>
+> **If I could change one thing in my life**: "I any constantly changing many things in my life."
+
+[![Bay Weekly](images/press/image69421.png)](http://bayweekly.com/old-site/1994/94v08.html) <br/>
+[Original Link](http://bayweekly.com/old-site/1994/94v08.html) | [PDF Version](images/press/before_pace/BayTimes_AprilMay1994.pdf) <br/> 
+**Teak Magic: Caribbean Connections** <br/>
 April 21 – May 4, 1994 (Volume II, Number 8)
+
 > You don’t have to be a boater to know that one of the wonders of the world is teak.
 >
 > In the Phillippines, pilings made of teak wood have endured 1,000 years. In Asia, they’re making boards out of teak logs that laid on the bottom of the Burma River for 100 years.
@@ -118,11 +122,13 @@ April 21 – May 4, 1994 (Volume II, Number 8)
 >
 > “I wanted to make something,” he observes. “Before, it was just working with numbers.”
 
-[![](images/press/image69501.png) PDF Version](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf) | [Original Link](http://www.annapolisbusinessmonthly.com/)<br/>
-**Spotlight On New Business**<br/>
-March/April 1994<br/>
+[![The Annapolis Business Monthly](images/press/image69501.png)](http://www.annapolisbusinessmonthly.com/)<br/>
+[Original Link](http://www.annapolisbusinessmonthly.com/) | [PDF Version](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf) <br/>
+**Spotlight On New Business** <br/>
+March/April 1994 <br/>
 By **Sandra E. Picket**
-> Bachenheimer Going For Teak
+
+> **Bachenheimer Going For Teak**
 >
 > When the Annapolis Maritime Corporation, a direct importer of teak lumber, recently announced its opening, it brought company president Bruce Bachenheimer a long way from his former job.
 >
@@ -150,10 +156,12 @@ By **Sandra E. Picket**
 >
 > "And then there's the environmental aspect. The wood that I buy is all farmed on plantations under local government supervision and exported under license, so its something that I can feel good about.
 
-[![](images/press/image69651.png) PDF Version](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)<br/>
-**When Yuppies Turn Good**<br/>
-January/February 1992 (Volume 3, Number 2)<br/>
+[![Nautical Scene](images/press/image69651.png)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)<br/>
+[PDF Version](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf) <br/>
+**When Yuppies Turn Good** <br/>
+January/February 1992 (Volume 3, Number 2) <br/>
 By **Susan Barry**
+
 > It’s 9 a.m. on a weekday and Bruce Bachenheimer, captain/owner and resident on Deliberate, is enjoying his coffee under a palm tree. He is relaxed, tanned, newly bearded and barefoot.
 > 
 > "This time last year? By 9:30 in the morning the major part of the trading day was already over," said the former Senior Trader from Westpac Banking Corporation, the oldest and largest bank in Australia.
@@ -174,9 +182,11 @@ By **Susan Barry**
 > 
 > "But the best part of the trip is being on watch by yourself and seeing the sun come up over an endless ocean."
 
-[![](images/press/image69661.png) PDF Version](images/press/before_pace/BOT_Midori_May_1985.pdf)<br/>
-**The Bank of Tokyo in "The Big Apple"**<br/>
-May 1985 (No. 308)<br/>
+[![Midori (green)](images/press/image69661.png)](images/press/before_pace/BOT_Midori_May_1985.pdf)<br/>
+[PDF Version](images/press/before_pace/BOT_Midori_May_1985.pdf)<br/>
+**The Bank of Tokyo in "The Big Apple"** <br/>
+May 1985 (No. 308) <br/>
+
 > I joined the Bank of Tokyo, Ltd. as a Money Market Trader in 1983, for the excitement and action which is generated here. Another, more personal reason, is that I can maintain my contact with the Japanese language, culture and business methods which I studied at Tsukuba National University in Japan and at Pace University in New York, where I earned my degree in International Management. I am continuing to study Japanese at New York University.
 > 
 > Although trading hundreds of millions of dollars (for one of the leading International Banks in the Financial Center of the world) is exciting, the most interesting and rewarding aspect of my work is the daily contact I have with people around the world and with other traders on Wall Street. Although I expected to be in a highly competitive environment, it was a pleasant surprise to find that the people I deal with are friendly and cooperative. The real competition is "The Market".
