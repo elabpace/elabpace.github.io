@@ -133,7 +133,7 @@ May 2017
 > 
 > Charles Handy, a British author and management philosopher, predicted the "portfolio worker" decades ago and his advice to his own children was "look for customers, not bosses."
 
-[![](images/press/pace_media/image3321.png)](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)
+[![](images/press/pace_media/image3321.png)](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)  
 [PDF Version](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)  
 ***Generation Z in the Workforce***  
 Fall 2016  
@@ -141,7 +141,7 @@ By ***Arize Lee***
 
 > ***They are creating their own career paths.*** Landing a job at a Fortune 500 company isn’t for everyone, but studies show that Gen Z is more interested in entrepreneurship than previous generations. Why? Professor Bruce Bachenheimer, executive director of Pace’s Entrepreneurship Lab, says they’re skeptical, having grown up during the recession. “Gen Z has seen their parents work as loyal employees for a big company, come home every day at 6:00 p.m. for dinner, and take their annual two weeks of vacation,” he says. “But then they watched as their parents were laid off, lost their dignity, and had to take two menial jobs to support themselves and the family. They questioned this loyalty to big companies and thought, ‘Do I have more control over my destiny id I go the entrepreneurial route?’”
 
-[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress)
+[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress)  
 [PDF Version](http://bit.ly/PacePress)  
 
 ***Entrepreneurship takes the University by storm***  
@@ -161,7 +161,7 @@ By ***Arize Lee***
 > Bachenheimer warns that “this idea of going to look for a job is a problem. It’s no more, like a generation ago, that you just get hired. Almost all net new jobs are being created by small companies, less than 4 years old with under 100 employees.”  
 > No matter what your occupation, “it’s about recognizing opportunity and creating value,” Bachenheimer stressed. “Pace University’s motto is Opportunitas and nothing is more synonymous with opportunity than entrepreneurship.”  
 
-[![](images/press/pace_media/image3321.png)](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
+[![](images/press/pace_media/image3321.png)](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)  
 [PDF Version](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)  
 
 ***Pace’s eLab Helps Make Entrepreneurial Dreams a Reality***  
@@ -171,7 +171,7 @@ Fall 2013
 > 
 > “The Entrepreneurship Lab is a collaborative workspace designed to bring together students from Pace's six schools and colleges in order to promote crossdisciplinary problem solving, experiential learning, and the development of an entrepreneurial mindset,” says Bruce Bachenheimer (above), clinical professor of Management and director of the Entrepreneurship Lab.
 
-[![](images/press/pace_media/image3321.png)](images/press/pace_magazine/TheFacultyAlumniBond.pdf)
+[![](images/press/pace_media/image3321.png)](images/press/pace_magazine/TheFacultyAlumniBond.pdf)  
 [PDF Version](images/press/pace_magazine/TheFacultyAlumniBond.pdf)  
 
 ***The Faculty Alumni Bond***  
@@ -188,7 +188,7 @@ By ***Caitlin Kelly***
 > 
 > Bachenheimer, a clinical professor of Management and director of entrepreneurship at the Lubin School of Business, had trod many successful paths before returning to Pace—where he received his undergraduate business degree—to share his global business expertise. Among other things, he had worked for the Bank of Tokyo and Westpac, a major Australian bank, then lived aboard his 36-foot sailboat in the Caribbean for a few years. After that he started a teak-importing company based in Annapolis, MD, catering largely to fellow sailors. He attended business school himself at 40 in Australia.
 
-[![](images/press/pace_media/image6754.png)](images/press/pace_magazine/LubinStudentsInTanzania.pdf)
+[![](images/press/pace_media/image6754.png)](images/press/pace_magazine/LubinStudentsInTanzania.pdf)  
 [PDF Version](images/press/pace_magazine/LubinStudentsInTanzania.pdf)  
 
 ***Lubin Students in Tanzania***  
@@ -198,7 +198,7 @@ Summer 2008
 > 
 > Bruce Bachenheimer, clinical professor of Management and director of Entrepreneurship at the Lubin School, says Pace selected Tanzania for its African program launch because of “the country’s unique and success in implementing a free market economy.” Added Bachenheimer, “While this initial trip is only 10 days in length, it is also designed to serve as a foundation for a long-term relationship between the University of Dar es Salaam and Pace, one which will be truly meaningful and mutually beneficial.
 
-[![](images/press/pace_media/image6754.png)](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)
+[![](images/press/pace_media/image6754.png)](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)  
 [PDF Version](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)  
 
 ***Curriculum for Tomorrow***  
@@ -208,7 +208,7 @@ Summer 2008 (Page 28)
 > 
 > At the graduate level, a group of MBA students were in Africa, exploring entrepreneurship in Tanzania with Professor Bruce Bachenheimer during an intense ten day field exploration with officials from the University of Dar es Salaam and local entrepreneurs.
 
-[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_3-12-08)
+[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_3-12-08)  
 [PDF Version](http://bit.ly/PacePress_3-12-08)  
 
 ***MBA students travel to Tanzania for business***  
@@ -219,7 +219,7 @@ By ***DJ Hopson***
 > 
 > Bachenheimer and the students will also be presenting on “The Changing Role and Increasing Importance of Entrepreneurship in the United States” and “The Recent and Dramatic Growth of Social Entrepreneurship in the United States” at the UDEC.
 
-[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_11-28-07)
+[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_11-28-07)  
 [PDF Version](http://bit.ly/PacePress_11-28-07)  
 
 ***Ambassador of Tanzania delivers speech at the University***  
@@ -230,7 +230,7 @@ By ***Chimene Montgomery***
 > 
 > Bachenheimer concluded by saying, “I found Mahiga’s assessment of the greatest challenges for the future of Tanzania to be extremely candid and very insightful. I believe we are quite fortunate to have the opportunity to learn about a nation’s past, present, and future directly from the Ambassador to the United Nations right here at the University.”
 
-[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_4-4-07)
+[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_4-4-07)  
 [PDF Version](http://bit.ly/PacePress_4-4-07)  
 
 ***Phelps Wins Pace Pitch Contest with Game Design***  
@@ -253,7 +253,7 @@ By ***Julissa Lopez***
 > 
 > Bachenheimer claims the Business Plan can be seen as an extension of the Pace Pitch. "It's a lot more involved, like the level after the Pitch contest," he said.
 
-[![](images/press/pace_media/image6770.png)](images/press/pace_magazine/LandingAnOpportunity.pdf)
+[![](images/press/pace_media/image6770.png)](images/press/pace_magazine/LandingAnOpportunity.pdf)  
 [PDF Version](images/press/pace_magazine/LandingAnOpportunity.pdf)
 
 ***Landing an Opportunity***  
@@ -266,7 +266,7 @@ By ***Sheila Smith Noonan***
 > 
 > Many immigrants that are small business owners are also potential entrepreneurs. Bachenheimer contends that entrepreneurs possess certain personal characteristics, including a need for achievement, selfdirection, and the ability to accept risks to succeed. Certainly, moving to a new country simply indicates an acceptance of risk, but the goal-oriented “model minority” immigrants are the ones who use these characteristics to their advantage. “For America to be the land of opportunity, you have to create your own opportunity,” he says.
 
-[![](images/press/pace_media/image6770.png)](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
+[![](images/press/pace_media/image6770.png)](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)  
 [PDF Version](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
 
 ***Student Hits Home Run at Pace Pitch Contest***  
