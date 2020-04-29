@@ -178,19 +178,19 @@ Bachenheimer warns that “this idea of going to look for a job is a problem. It
 No matter what your occupation, “it’s about recognizing opportunity and creating value,” Bachenheimer stressed. “Pace  
 University’s motto is Opportunitas and nothing is more synonymous with opportunity than entrepreneurship.”  
 
-[![](images/press/pace_media/image3321.png)](../press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
+[![](images/press/pace_media/image3321.png)](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
 
 Pace’s eLab Helps Make Entrepreneurial Dreams a Reality
 
 Fall 2013
 
-[PDF Version](../press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
+[PDF Version](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
 
 ![](images/press/pace_media/image67381.jpg)
 
 “The Entrepreneurship Lab is a collaborative workspace designed to bring together students from Pace's six schools and colleges in order to promote crossdisciplinary problem solving, experiential learning, and the development of an entrepreneurial mindset,” says Bruce Bachenheimer (above), clinical professor of Management and director of the Entrepreneurship Lab.
 
-[![](images/press/pace_media/image3321.png)](../press/pace_magazine/TheFacultyAlumniBond.pdf)
+[![](images/press/pace_media/image3321.png)](images/press/pace_magazine/TheFacultyAlumniBond.pdf)
 
 The Faculty Alumni Bond
 
@@ -198,7 +198,7 @@ Fall 2013 (cover story)
 
 By Caitlin Kelly
 
-[PDF Version](../press/pace_magazine/TheFacultyAlumniBond.pdf)
+[PDF Version](images/press/pace_magazine/TheFacultyAlumniBond.pdf)
 
 Sharing a passion for global entrepreneurship
 
@@ -210,25 +210,27 @@ Mehta arrived at Pace in 2001 to earn an MBA, and Bachenheimer was one of his pr
 
 Bachenheimer, a clinical professor of Management and director of entrepreneurship at the Lubin School of Business, had trod many successful paths before returning to Pace—where he received his undergraduate business degree—to share his global business expertise. Among other things, he had worked for the Bank of Tokyo and Westpac, a major Australian bank, then lived aboard his 36-foot sailboat in the Caribbean for a few years. After that he started a teak-importing company based in Annapolis, MD, catering largely to fellow sailors. He attended business school himself at 40 in Australia.
 
-[![](images/press/pace_media/image6754.png)](../press/pace_magazine/LubinStudentsInTanzania.pdf)
+[![](images/press/pace_media/image6754.png)](images/press/pace_magazine/LubinStudentsInTanzania.pdf)
 
 Lubin Students in Tanzania
 
 Summer 2008
 
-[PDF Version](../press/pace_magazine/LubinStudentsInTanzania.pdf)
+[PDF Version](images/press/pace_magazine/LubinStudentsInTanzania.pdf)
 
 ![](images/press/pace_media/image67521.jpg)
 
 Bruce Bachenheimer, clinical professor of Management and director of Entrepreneurship at the Lubin School, says Pace selected Tanzania for its African program launch because of “the country’s unique and success in implementing a free market economy.” Added Bachenheimer, “While this initial trip is only 10 days in length, it is also designed to serve as a foundation for a long-term relationship between the University of Dar es Salaam and Pace, one which will be truly meaningful and mutually beneficial.
 
-[![](images/press/pace_media/image6754.png)](../press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)
+[![](images/press/pace_media/image6754.png)](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)
 
 Curriculum for Tomorrow
 
 Summer 2008 (Page 28)
 
-[PDF Version](../press/pace_magazine/CurriculumInnovationsForTomorrow.pdf) ![](image67621.jpg)
+[PDF Version](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)  
+
+![](images/press/pace_media/image67621.jpg)
 
 At the graduate level, a group of MBA students were in Africa, exploring entrepreneurship in Tanzania with Professor Bruce Bachenheimer during an intense ten day field exploration with officials from the University of Dar es Salaam and local entrepreneurs.
 
@@ -286,7 +288,7 @@ Bachenheimer said, "We're trying to make these contests grow, and it's my hope t
 
 Bachenheimer claims the Business Plan can be seen as an extension of the Pace Pitch. "It's a lot more involved, like the level after the Pitch contest," he said.
 
-[![](images/press/pace_media/image6770.png)](../press/pace_magazine/LandingAnOpportunity.pdf)
+[![](images/press/pace_media/image6770.png)](images/press/pace_magazine/LandingAnOpportunity.pdf)
 
 Landing an Opportunity
 
@@ -294,7 +296,7 @@ Fall 2005
 
 By Sheila Smith Noonan
 
-[PDF Version](../press/pace_magazine/LandingAnOpportunity.pdf)
+[PDF Version](images/press/pace_magazine/LandingAnOpportunity.pdf)
 
 The Bush administration’s current policy toward this labor segment is favorable to small business owners, including immigrants. “Small business is very important to this president,” says Bruce Bachenheimer, PhD, clinical professor of management.
 
@@ -302,13 +304,13 @@ The Bush administration’s current policy toward this labor segment is favorabl
 
 Many immigrants that are small business owners are also potential entrepreneurs. Bachenheimer contends that entrepreneurs possess certain personal characteristics, including a need for achievement, selfdirection, and the ability to accept risks to succeed. Certainly, moving to a new country simply indicates an acceptance of risk, but the goal-oriented “model minority” immigrants are the ones who use these characteristics to their advantage. “For America to be the land of opportunity, you have to create your own opportunity,” he says.
 
-[![](images/press/pace_media/image6770.png)](../press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
+[![](images/press/pace_media/image6770.png)](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
 
 Student Hits Home Run at Pace Pitch Contest
 
 Fall 2005
 
-[PDF Version](../press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
+[PDF Version](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
 
 Says Bruce Bachenheimer, PhD, clinical professor of management, “Pace’s motto is Opportunitas, and I don’t think there’s anything more synonymous with opportunity than entrepreneurship. And there’s nothing more important in teaching entrepreneurship than experiential learning, and this is experiential learning.”
 
