@@ -18,7 +18,7 @@ By **Gerald Noonan**
 >
 > But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
 
-![](images/press/image69171.png)(http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)<br/>
+[![Financial Review](images/press/image69171.png)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)<br/>
 [Original Link](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M) | [PDF Version](images/press/before_pace/AFR_5-18-00.pdf) <br/>
 **The model of a new-millennium worker**
 May 18, 2000 <br/>
