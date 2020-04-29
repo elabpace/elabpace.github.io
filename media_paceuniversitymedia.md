@@ -152,7 +152,7 @@ Charles Handy, a British author and management philosopher, predicted the "portf
 Generation Z in the Workforce  
 Fall 2016By Arize Lee
 
-[![](image3318.jpg)](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)
+[PDF Version](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)
 
 They are creating their own career paths. Landing a job at a Fortune 500 company isn’t for everyone, but studies show that Gen Z is more interested in entrepreneurship than previous generations. Why? Professor Bruce Bachenheimer, executive director of Pace’s Entrepreneurship Lab, says they’re skeptical, having grown up during the recession. “Gen Z has seen their parents work as loyal employees for a big company, come home every day at 6:00 p.m. for dinner, and take their annual two weeks of vacation,” he says. “But then they watched as their parents were laid off, lost their dignity, and had to take two menial jobs to support themselves and the family. They questioned this loyalty to big companies and thought, ‘Do I have more control over my destiny id I go the entrepreneurial route?’”
 
@@ -162,7 +162,7 @@ Entrepreneurship takes the University by storm
 October 29, 2014  
 By Arize Lee
 
-[![](image317.jpg)](http://bit.ly/PacePress)
+[PDF Version](http://bit.ly/PacePress)
 
 Undoubtedly, the eLab founded in 2004 (sic), provides students and others with valuable knowledge and capital to pursue entrepreneurial aspirations, but eLab director Bruce Bachenheimer pointed out “It’s not about being an entrepreneurship major.”
 
@@ -184,7 +184,7 @@ Pace’s eLab Helps Make Entrepreneurial Dreams a Reality
 
 Fall 2013
 
-[![](image6892.jpg)](../press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
+[PDF Version](../press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
 
 ![](image67381.jpg)
 
@@ -198,7 +198,7 @@ Fall 2013 (cover story)
 
 By Caitlin Kelly
 
-[![](image6892.jpg)](../press/pace_magazine/TheFacultyAlumniBond.pdf)
+[PDF Version](../press/pace_magazine/TheFacultyAlumniBond.pdf)
 
 Sharing a passion for global entrepreneurship
 
@@ -216,7 +216,7 @@ Lubin Students in Tanzania
 
 Summer 2008
 
-[![](image67641.jpg)](../press/pace_magazine/LubinStudentsInTanzania.pdf)
+[PDF Version](../press/pace_magazine/LubinStudentsInTanzania.pdf)
 
 ![](image67521.jpg)
 
@@ -228,7 +228,7 @@ Curriculum for Tomorrow
 
 Summer 2008 (Page 28)
 
-[![](image67641.jpg)](../press/pace_magazine/CurriculumInnovationsForTomorrow.pdf) ![](image67621.jpg)
+[PDF Version](../press/pace_magazine/CurriculumInnovationsForTomorrow.pdf) ![](image67621.jpg)
 
 At the graduate level, a group of MBA students were in Africa, exploring entrepreneurship in Tanzania with Professor Bruce Bachenheimer during an intense ten day field exploration with officials from the University of Dar es Salaam and local entrepreneurs.
 
@@ -240,7 +240,7 @@ March 12, 2008
 
 By DJ Hopson
 
-[![](image430.jpg)](http://bit.ly/PacePress_3-12-08)
+[PDF Version](http://bit.ly/PacePress_3-12-08)
 
 Bruce Bachenheimer, Lubin School of Business’ director of entrepreneurship program, along with 15 Masters of Business Administration (MBA) will be traveling to Tanzania to study with community leaders.
 
@@ -254,7 +254,7 @@ November 28, 2007
 
 By Chimene Montgomery
 
-[![](image416.jpg)](http://bit.ly/PacePress_11-28-07)
+[PDF Version](http://bit.ly/PacePress_11-28-07)
 
 The event was presented by professor Bruce Bachenheimer, who met Mahiga this past summer during a workshop on social entrepreneurship at the Fourth Annual Youth Assembly at UN Headquarters. He met with Tanzania’s Permanent Mission to the UN immediately afterwards to discuss having Mahiga speak at the University.
 
@@ -268,7 +268,7 @@ April 4, 2007
 
 By Julissa Lopez
 
-[![](image408.jpg)](http://bit.ly/PacePress_4-4-07)
+[PDF Version](http://bit.ly/PacePress_4-4-07)
 
 The Business Plan contest will be accepting applications until April 20, and will then take place on April 30. Both contests have been organized by head of entrepreneurship Bruce Bachenheimer.
 
@@ -294,7 +294,7 @@ Fall 2005
 
 By Sheila Smith Noonan
 
-[![](image6771.jpg)](../press/pace_magazine/LandingAnOpportunity.pdf)
+[PDF Version](../press/pace_magazine/LandingAnOpportunity.pdf)
 
 The Bush administration’s current policy toward this labor segment is favorable to small business owners, including immigrants. “Small business is very important to this president,” says Bruce Bachenheimer, PhD, clinical professor of management.
 
@@ -308,7 +308,7 @@ Student Hits Home Run at Pace Pitch Contest
 
 Fall 2005
 
-[![](image6771.jpg)](../press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
+[PDF Version](../press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
 
 Says Bruce Bachenheimer, PhD, clinical professor of management, “Pace’s motto is Opportunitas, and I don’t think there’s anything more synonymous with opportunity than entrepreneurship. And there’s nothing more important in teaching entrepreneurship than experiential learning, and this is experiential learning.”
 
