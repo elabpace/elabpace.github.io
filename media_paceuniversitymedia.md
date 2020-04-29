@@ -1,7 +1,6 @@
 # Pace University Media
 
-[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/world-changing-impact-covid-19)
-
+[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/world-changing-impact-covid-19)  
 ***PACESPECTIVES: The World-Changing Impact of COVID-19***  
 April 2020  
 
@@ -13,8 +12,7 @@ April 2020
 > 
 > What innovative business concepts will be born out of the COVID-19 crisis? We’ll have to wait and see. But what’s important to remember is that it’s not about coming up with an interesting idea; it’s about the passion, persistence, and perseverance to actually make it happen.
 
-[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues)
-
+[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues)  
 ***PACESPECTIVES: OPERATION VARSITY BLUES***  
 April  2019  
 
@@ -33,8 +31,7 @@ April  2019
 > 
 > Some colleges have successfully rejected the "games" associated with admissions and privilege. MIT does not offer athletic scholarships, have legacy admissions, include Latin honors upon graduation, or award honorary degrees. The institute is the epitome of a meritocracy. Others have excelled at adding value. Pace was ranked the best private university in the country for upward economic mobility of students. We are the embodiment of Opportunitas!
 
-[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-holiday-edition)
-
+[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-holiday-edition)  
 ***PACESPECTIVES: HOLIDAY EDITION***  
 December 2018
 
@@ -48,8 +45,7 @@ December 2018
 > 
 > The holidays tend to be a time that people are more inclined to try something new and spend impulsively, so get out there and take advantage of the opportunity. Whether you make a sale or not, learn as much as possible about the market and your customers.
 
-[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer)
-
+[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer)  
 ***THE PROFESSOR IS IN: BRUCE BACHENHEIMER***  
 May 2018
 
@@ -84,8 +80,7 @@ May 2018
 > 
 > My mother, my mother-in-law, and my daughter. My mother and mother-in-law both passed away before I was married and never knew our daughter. If it was possible for my mother and mother-in-law to meet our daughter, that would be an amazing dinner for four. 
 
-[![](images/press/pace_media/image6682.jpg)](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017)
-
+[![](images/press/pace_media/image6682.jpg)](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017)  
 ***PROFSPECTIVES: CELEBRITY CULTURE TODAY***  
 September 2017
 
@@ -107,8 +102,7 @@ September 2017
 > 
 > So, what would you like your brand to be and how should you go about creating it?
 
-[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-advice-class-2021)
-
+[![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-advice-class-2021)  
 ***PROFSPECTIVES: ADVICE FOR THE CLASS OF 2021***  
 May 2017
 
@@ -118,8 +112,7 @@ May 2017
 > Professor and Director of the Entrepreneurship Lab
 > Lubin School of Business
 
-[![](images/press/pace_media/image6682.jpg)](http://www.pace.edu/mypace/profspectives-gig-economy)
-
+[![](images/press/pace_media/image6682.jpg)](http://www.pace.edu/mypace/profspectives-gig-economy)  
 ***PROFSPECTIVES: THE GIG ECONOMY***    
 May 2017
 
@@ -143,7 +136,6 @@ By ***Arize Lee***
 
 [![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress)  
 [PDF Version](http://bit.ly/PacePress)  
-
 ***Entrepreneurship takes the University by storm***  
 October 29, 2014  
 By ***Arize Lee***  
@@ -163,7 +155,6 @@ By ***Arize Lee***
 
 [![](images/press/pace_media/image3321.png)](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)  
 [PDF Version](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)  
-
 ***Pace’s eLab Helps Make Entrepreneurial Dreams a Reality***  
 Fall 2013  
 
@@ -173,7 +164,6 @@ Fall 2013
 
 [![](images/press/pace_media/image3321.png)](images/press/pace_magazine/TheFacultyAlumniBond.pdf)  
 [PDF Version](images/press/pace_magazine/TheFacultyAlumniBond.pdf)  
-
 ***The Faculty Alumni Bond***  
 Fall 2013 (cover story)  
 By ***Caitlin Kelly***  
@@ -190,7 +180,6 @@ By ***Caitlin Kelly***
 
 [![](images/press/pace_media/image6754.png)](images/press/pace_magazine/LubinStudentsInTanzania.pdf)  
 [PDF Version](images/press/pace_magazine/LubinStudentsInTanzania.pdf)  
-
 ***Lubin Students in Tanzania***  
 Summer 2008  
 
@@ -200,7 +189,6 @@ Summer 2008
 
 [![](images/press/pace_media/image6754.png)](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)  
 [PDF Version](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)  
-
 ***Curriculum for Tomorrow***  
 Summer 2008 (Page 28)  
 
@@ -210,7 +198,6 @@ Summer 2008 (Page 28)
 
 [![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_3-12-08)  
 [PDF Version](http://bit.ly/PacePress_3-12-08)  
-
 ***MBA students travel to Tanzania for business***  
 March 12, 2008  
 By ***DJ Hopson***  
@@ -221,7 +208,6 @@ By ***DJ Hopson***
 
 [![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_11-28-07)  
 [PDF Version](http://bit.ly/PacePress_11-28-07)  
-
 ***Ambassador of Tanzania delivers speech at the University***  
 November 28, 2007  
 By ***Chimene Montgomery***  
@@ -232,7 +218,6 @@ By ***Chimene Montgomery***
 
 [![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_4-4-07)  
 [PDF Version](http://bit.ly/PacePress_4-4-07)  
-
 ***Phelps Wins Pace Pitch Contest with Game Design***  
 April 4, 2007  
 By ***Julissa Lopez***  
@@ -254,8 +239,7 @@ By ***Julissa Lopez***
 > Bachenheimer claims the Business Plan can be seen as an extension of the Pace Pitch. "It's a lot more involved, like the level after the Pitch contest," he said.
 
 [![](images/press/pace_media/image6770.png)](images/press/pace_magazine/LandingAnOpportunity.pdf)  
-[PDF Version](images/press/pace_magazine/LandingAnOpportunity.pdf)
-
+[PDF Version](images/press/pace_magazine/LandingAnOpportunity.pdf)  
 ***Landing an Opportunity***  
 Fall 2005  
 By ***Sheila Smith Noonan***  
@@ -267,8 +251,7 @@ By ***Sheila Smith Noonan***
 > Many immigrants that are small business owners are also potential entrepreneurs. Bachenheimer contends that entrepreneurs possess certain personal characteristics, including a need for achievement, selfdirection, and the ability to accept risks to succeed. Certainly, moving to a new country simply indicates an acceptance of risk, but the goal-oriented “model minority” immigrants are the ones who use these characteristics to their advantage. “For America to be the land of opportunity, you have to create your own opportunity,” he says.
 
 [![](images/press/pace_media/image6770.png)](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)  
-[PDF Version](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)
-
+[PDF Version](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)  
 ***Student Hits Home Run at Pace Pitch Contest***  
 Fall 2005  
 
