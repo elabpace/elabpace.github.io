@@ -53,8 +53,8 @@ By **Catherine Fox**
 > It sounds as though he is unlikely to be getting more sleep over the next few months.
 
 [![Inside Annapolis](images/press/image69261.png)](http://www.insideannapolis.com/covers.html)<br/>
-[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf)
-**New Annapolitans**<br/>
+[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf) <br/>
+**New Annapolitans** <br/>
 February/March 1995
 
 > Bruce Bachenheimer, another anchor dropper, still lives aboard his boat in Spa Creek. He has become an importer of teak lumber. Not old enough to have a mid-life crisis, Bruce has already led several lives—he was a student in Japan, a Wall Street trader, an offshore cruiser, and now an Annapolis businessman. Coming to Annapolis from Venezuela and the Caribbean, he ducked into the harbor to escape nasty weather and decided to stay. In true Annapolitan fashion, he opened his business, Annapolis Maritime Corporation, on the 4th of July 1993.
