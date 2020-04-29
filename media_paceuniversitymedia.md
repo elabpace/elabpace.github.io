@@ -186,7 +186,7 @@ Fall 2013
 
 [PDF Version](../press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
 
-![](image67381.jpg)
+![](images/press/pace_media/image67381.jpg)
 
 “The Entrepreneurship Lab is a collaborative workspace designed to bring together students from Pace's six schools and colleges in order to promote crossdisciplinary problem solving, experiential learning, and the development of an entrepreneurial mindset,” says Bruce Bachenheimer (above), clinical professor of Management and director of the Entrepreneurship Lab.
 
@@ -218,7 +218,7 @@ Summer 2008
 
 [PDF Version](../press/pace_magazine/LubinStudentsInTanzania.pdf)
 
-![](image67521.jpg)
+![](images/press/pace_media/image67521.jpg)
 
 Bruce Bachenheimer, clinical professor of Management and director of Entrepreneurship at the Lubin School, says Pace selected Tanzania for its African program launch because of “the country’s unique and success in implementing a free market economy.” Added Bachenheimer, “While this initial trip is only 10 days in length, it is also designed to serve as a foundation for a long-term relationship between the University of Dar es Salaam and Pace, one which will be truly meaningful and mutually beneficial.
 
