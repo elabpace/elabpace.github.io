@@ -4,7 +4,8 @@
 [Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) | [PDF Version](images/press/before_pace/SMH_7-5-00.pdf ) <br/>
 **Master Plan**  
 July 5, 2000 <br/>
-By **Gerald Noonan**  
+By **Gerald Noonan** 
+
 > DOT-COM MYTHS
 >
 > Bruce Bachenheimer, a 30-something former Wall Street stockbroker who runs his own small company in Sydney, is completing his second year as an MBA student at AGSM.
@@ -17,11 +18,12 @@ By **Gerald Noonan**
 >
 > But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
 
-[![](images/press/image69171.png) PDF Version](images/press/before_pace/AFR_5-18-00.pdf) | [Original Link](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)<br/>
-**The model of a new-millennium worker**<br/>
-May 18, 2000<br/>
+[![](images/press/image69171.png)(http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)<br/>
+[Original Link](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M) | [PDF Version](images/press/before_pace/AFR_5-18-00.pdf) <br/>
+**The model of a new-millennium worker**
+May 18, 2000 <br/>
 By **Catherine Fox**
->
+
 > If the predictions are right about most of us having at least three careers in our working lives, then Bruce Bachenheimer is not a bad example of the new-millennium worker.
 >
 > He spent several years as a trader on Wall Street, travelled the world promoting a high-tech product for a US company and even opened a business importing teak from the Caribbean. He also managed to fit in a couple of years sailing around the Caribbean islands.
