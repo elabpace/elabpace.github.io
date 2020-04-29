@@ -5,7 +5,7 @@
 PACESPECTIVES: The World-Changing Impact of COVID-19  
 April 2020  
 
-> COVID-19 and Entrepreneurship  
+> ***COVID-19 and Entrepreneurship***  
 > Bruce Bachenheimer  
 > eLab Director, Lubin School of Business
 >
@@ -23,7 +23,7 @@ April  2019
 > Executive Director, Entrepreneurship Lab
 > Lubin School of Business  
 > 
-> "Live by the sword, die by the sword"
+> ***"Live by the sword, die by the sword"***
 > 
 > The "bulldozer parents" who seek to "clear a path" for their child to gain admission to a top ranked college, live by the rankings. Prospective students who define themselves by the numerical rank of the college they attend, live by the rankings. Colleges whose mission is simply to advance in the rankings, live by the rankings. And all may suffer tremendously because of college rankings.
 > 
