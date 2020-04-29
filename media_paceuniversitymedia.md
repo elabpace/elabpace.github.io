@@ -192,7 +192,7 @@ Summer 2008
 **Curriculum for Tomorrow**  
 Summer 2008 (Page 28)  
 
-> ![](images/press/pace_media/image67621.jpg)
+> ![](images/press/pace_media/image6762.jpg)
 > 
 > At the graduate level, a group of MBA students were in Africa, exploring entrepreneurship in Tanzania with Professor Bruce Bachenheimer during an intense ten day field exploration with officials from the University of Dar es Salaam and local entrepreneurs.
 
