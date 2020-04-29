@@ -2,7 +2,7 @@
 
 [![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/world-changing-impact-covid-19)
 
-PACESPECTIVES: The World-Changing Impact of COVID-19  
+***PACESPECTIVES: The World-Changing Impact of COVID-19***  
 April 2020  
 
 > ***COVID-19 and Entrepreneurship***  
@@ -15,12 +15,12 @@ April 2020
 
 [![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues)
 
-PACESPECTIVES: OPERATION VARSITY BLUES  
+***PACESPECTIVES: OPERATION VARSITY BLUES***  
 April  2019  
 
 > Bruce Bachenheimer
-> Clinical Professor of Management
-> Executive Director, Entrepreneurship Lab
+> Clinical Professor of Management  
+> Executive Director, Entrepreneurship Lab  
 > Lubin School of Business  
 > 
 > ***"Live by the sword, die by the sword"***
@@ -35,7 +35,7 @@ April  2019
 
 [![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-holiday-edition)
 
-PACESPECTIVES: HOLIDAY EDITION  
+***PACESPECTIVES: HOLIDAY EDITION***  
 December 2018
 
 > ***Is All That Shopping Giving You Business Ideas? Test Them Out!***
@@ -50,7 +50,7 @@ December 2018
 
 [![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer)
 
-THE PROFESSOR IS IN: BRUCE BACHENHEIMER  
+***THE PROFESSOR IS IN: BRUCE BACHENHEIMER***  
 May 2018
 
 > Bruce Bachenheimer
@@ -86,12 +86,12 @@ May 2018
 
 [![](images/press/pace_media/image6682.jpg)](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017)
 
-PROFSPECTIVES: CELEBRITY CULTURE TODAY  
+***PROFSPECTIVES: CELEBRITY CULTURE TODAY***  
 September 2017
 
-> Bruce Bachenheimer
-> Clinical Professor of Management, Lubin School of Business
-> Executive Director, Entrepreneurship Lab
+> Bruce Bachenheimer  
+> Clinical Professor of Management, Lubin School of Business  
+> Executive Director, Entrepreneurship Lab  
 > 
 > ***Celebrity and Personal Branding***
 > 
@@ -109,7 +109,7 @@ September 2017
 
 [![](images/press/pace_media/image6682.jpg)](https://www.pace.edu/mypace/pacespectives-advice-class-2021)
 
-PROFSPECTIVES: ADVICE FOR THE CLASS OF 2021  
+***PROFSPECTIVES: ADVICE FOR THE CLASS OF 2021***  
 May 2017
 
 > “Don’t just think of college as a series of courses. It’s a unique opportunity to explore and discover, experiment and evaluate, to be challenged and to grow. Some of these opportunities can be found in the classroom, many others are not. Seek them out.”
@@ -120,7 +120,7 @@ May 2017
 
 [![](images/press/pace_media/image6682.jpg)](http://www.pace.edu/mypace/profspectives-gig-economy)
 
-PROFSPECTIVES: THE GIG ECONOMY  
+***PROFSPECTIVES: THE GIG ECONOMY***    
 May 2017
 
 > Bruce Bachenheimer
@@ -135,8 +135,9 @@ May 2017
 
 [![](images/press/pace_media/image3321.png)](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)
 
-Generation Z in the Workforce  
-Fall 2016By Arize Lee
+***Generation Z in the Workforce***  
+Fall 2016  
+By ***Arize Lee***
 
 [PDF Version](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)
 
@@ -144,7 +145,7 @@ Fall 2016By Arize Lee
 
 [![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress)
 
-Entrepreneurship takes the University by storm  
+***Entrepreneurship takes the University by storm***  
 October 29, 2014  
 By ***Arize Lee***  
 
@@ -165,7 +166,7 @@ By ***Arize Lee***
 
 [![](images/press/pace_media/image3321.png)](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
 
-Pace’s eLab Helps Make Entrepreneurial Dreams a Reality  
+***Pace’s eLab Helps Make Entrepreneurial Dreams a Reality***  
 Fall 2013
 
 [PDF Version](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)
@@ -285,7 +286,7 @@ Fall 2005
 
 > Says Bruce Bachenheimer, PhD, clinical professor of management, “Pace’s motto is Opportunitas, and I don’t think there’s anything more synonymous with opportunity than entrepreneurship. And there’s nothing more important in teaching entrepreneurship than experiential learning, and this is experiential learning.”
 
-# Pace University Press Releases
+## Pace University Press Releases
 
 · [Pace University’s Entrepreneurship Lab Awarded Three Grants Supporting Students, Veterans and Israeli Start (October 29, 2014)](http://www.pace.edu/news-release/pace-universitys-entrepreneurship-lab-awarded-three-grants-supporting-students)
 
