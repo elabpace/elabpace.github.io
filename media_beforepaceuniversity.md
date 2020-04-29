@@ -1,6 +1,7 @@
 # Media Before Pace University
 
-[![](images/press/image6904.jpg) PDF Version](images/press/before_pace/SMH_7-5-00.pdf ) | [Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) <br/>
+[![The Sydney Morning Herald](images/press/image6904.jpg)](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) <br/>
+[Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) | [PDF Version](images/press/before_pace/SMH_7-5-00.pdf ) <br/>
 **Master Plan**  
 July 5, 2000 <br/>
 By **Gerald Noonan**  
