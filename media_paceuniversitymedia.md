@@ -259,39 +259,39 @@ Fall 2005
 
 ## Pace University Press Releases
 
-· [Pace University’s Entrepreneurship Lab Awarded Three Grants Supporting Students, Veterans and Israeli Start (October 29, 2014)](http://www.pace.edu/news-release/pace-universitys-entrepreneurship-lab-awarded-three-grants-supporting-students)
+- [Pace University’s Entrepreneurship Lab Awarded Three Grants Supporting Students, Veterans and Israeli Start (October 29, 2014)](http://www.pace.edu/news-release/pace-universitys-entrepreneurship-lab-awarded-three-grants-supporting-students)
 
-· [Entrepreneurship NYC:  The role of universities in the NYC ecosystem (October 9, 2013)](http://pressroom.blogs.pace.edu/2013/10/09/news-advisory-entrepreneurship-nyc-the-role-of-universities-in-the-nyc-ecosystem/)
+- [Entrepreneurship NYC:  The role of universities in the NYC ecosystem (October 9, 2013)](http://pressroom.blogs.pace.edu/2013/10/09/news-advisory-entrepreneurship-nyc-the-role-of-universities-in-the-nyc-ecosystem/)
 
-· [Pace University to hold ninth annual Pace Pitch Contest, Thursday, April 18 (April 10 , 2013)](http://pressroom.blogs.pace.edu/2013/04/10/news-advisory-pace-university-to-hold-ninth-annual-pace-pitch-contest-thursday-april-18/)
+- [Pace University to hold ninth annual Pace Pitch Contest, Thursday, April 18 (April 10 , 2013)](http://pressroom.blogs.pace.edu/2013/04/10/news-advisory-pace-university-to-hold-ninth-annual-pace-pitch-contest-thursday-april-18/)
 
-· “[Entrepreneurial Implementation” at Pace University (December 18, 2012)](http://pressroom.blogs.pace.edu/2012/12/12/news-advisory-entrepreneurial-implementation-at-pace-university-2/)
+- “[Entrepreneurial Implementation” at Pace University (December 18, 2012)](http://pressroom.blogs.pace.edu/2012/12/12/news-advisory-entrepreneurial-implementation-at-pace-university-2/)
 
-· [Pace University Opens Entrepreneurship Lab to Foster Student Innovation, Initiative and Commitment; Bruce Bachenheimer Named Lab's First Director (February 12, 2012)](http://pressroom.blogs.pace.edu/2012/02/12/news-release-pace-university-opens-entrepreneurship-lab-to-foster-student-innovation-initiative-and-commitment-bruce-bachenheimer-named-labs-first-director/)
+- [Pace University Opens Entrepreneurship Lab to Foster Student Innovation, Initiative and Commitment; Bruce Bachenheimer Named Lab's First Director (February 12, 2012)](http://pressroom.blogs.pace.edu/2012/02/12/news-release-pace-university-opens-entrepreneurship-lab-to-foster-student-innovation-initiative-and-commitment-bruce-bachenheimer-named-labs-first-director/)
 
-· [In Celebration of Global Entrepreneurship Week, “Technology Innovation and Entrepreneurship in Israel - The Biopharmaceutical Industry” (November 8, 2011)](http://pressroom.blogs.pace.edu/2011/11/08/news-advisory-nov-15-at-6-pm-in-celebration-of-global-entrepreneurship-week-technology-innovation-and-entrepreneurship-in-israel-the-biopharmaceutical-industry-with-guest-speaker-fredric-d-pri/)
+- [In Celebration of Global Entrepreneurship Week, “Technology Innovation and Entrepreneurship in Israel - The Biopharmaceutical Industry” (November 8, 2011)](http://pressroom.blogs.pace.edu/2011/11/08/news-advisory-nov-15-at-6-pm-in-celebration-of-global-entrepreneurship-week-technology-innovation-and-entrepreneurship-in-israel-the-biopharmaceutical-industry-with-guest-speaker-fredric-d-pri/)
 
-· [“The Latest Trends in Emerging Business panel at the 12th Annual Yonkers Business Week event” (May 3, 2011)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2011-05-03.pdf)  
+- [“The Latest Trends in Emerging Business panel at the 12th Annual Yonkers Business Week event” (May 3, 2011)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2011-05-03.pdf)  
 [“Win Over Investors in 3 Minutes – The Seventh Annual Pace Pitch Contest, April 11; Keynote Speaker: Stanley S. Litow, President of the IBM Foundation”(March 15, 2011)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2011-03-15.pdf)
 
-· [Israel: Land of Tech Promise - More Firms Listed on NASDAQ than Any Country Outside U.S. (April 5, 2010)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2010-04-05.pdf)
+- [Israel: Land of Tech Promise - More Firms Listed on NASDAQ than Any Country Outside U.S. (April 5, 2010)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2010-04-05.pdf)
 
-· [State of the Union, State of the Stimulus - Pace Offers Case Studies January 27, 2010)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2010-01-27.pdf)
+- [State of the Union, State of the Stimulus - Pace Offers Case Studies January 27, 2010)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2010-01-27.pdf)
 
-· [Pace Announces Winners of $50,000+ Annual Pitch Contest, Among World’s Richest Pitch Competitions (December 8, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-11-13.pdf)
+- [Pace Announces Winners of $50,000+ Annual Pitch Contest, Among World’s Richest Pitch Competitions (December 8, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-11-13.pdf)
 
-· [Pace Pitch Contest “Top10” Finalists Named - Entrepreneurs Compete for $50,000+ on Dec 3, Join Us (November 13, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-11-13.pdf)
+- [Pace Pitch Contest “Top10” Finalists Named - Entrepreneurs Compete for $50,000+ on Dec 3, Join Us (November 13, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-11-13.pdf)
 
-· [Pace Pitch Contest Seeks Tomorrow’s “Start-Up” Stars - Over $50,000 Cash - New Deadline, Oct 23 (October 15, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-10-15b.pdf)
+- [Pace Pitch Contest Seeks Tomorrow’s “Start-Up” Stars - Over $50,000 Cash - New Deadline, Oct 23 (October 15, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-10-15b.pdf)
 
-· [Bruce Bachenheimer Speaks on “Social Entrepreneurship” at 2009 GCEC Conference, Houston, Oct 16 (October 15, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-10-15a.pdf)
+- [Bruce Bachenheimer Speaks on “Social Entrepreneurship” at 2009 GCEC Conference, Houston, Oct 16 (October 15, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-10-15a.pdf)
 
-· [Pace University Hosts Fifth Annual Pitch Contest Thursday, Dec. 4 (December 3, 2008)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2008-12-03.pdf)
+- [Pace University Hosts Fifth Annual Pitch Contest Thursday, Dec. 4 (December 3, 2008)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2008-12-03.pdf)
 
-· [Pace MBA Students Spend Spring Break in Tanzania (March 13, 2008)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2008-03-13.pdf)
+- [Pace MBA Students Spend Spring Break in Tanzania (March 13, 2008)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2008-03-13.pdf)
 
-· [Fourth Annual Pace Pitch Contest; Keynote David Bornstein, Author of “How to Change the World” (November 30, 2007)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2007-11-30.pdf)
+- [Fourth Annual Pace Pitch Contest; Keynote David Bornstein, Author of “How to Change the World” (November 30, 2007)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2007-11-30.pdf)
 
-· [60-Minute Entrepreneurship Tool-Building Workshop for Women Set for October 23 (October 22, 2007)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2007-10-22.pdf)
+- [60-Minute Entrepreneurship Tool-Building Workshop for Women Set for October 23 (October 22, 2007)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2007-10-22.pdf)
 
-· [Pitch Your Wagon to a Star - Pace Starts Contest for Best Business Pitches (November 30, 2004)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2004-11-30.pdf)
+- [Pitch Your Wagon to a Star - Pace Starts Contest for Best Business Pitches (November 30, 2004)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2004-11-30.pdf)
