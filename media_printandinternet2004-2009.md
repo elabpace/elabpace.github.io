@@ -1,11 +1,10 @@
 # Print and Internet 2004-2009
 
 [![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993)<br/>
-[Original Link](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993) | [PDF Version](../press/BetterLateThanNever.pdf) <br/>
-**Better late than never**
+[Original Link](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993) | [PDF Version](files/BetterLateThanNever.pdf) <br/>
+**Better late than never** <br/>
 December 18, 2009 <br/>
 By **Elaine Pofeldt**
-
 > To be sure, starting a business in midlife and beyond is different than doing so right out of college. There's the endurance factor, for starters.
 >
 > "Entrepreneurs in their 20s can work 20 hours a day and have all sorts of energy," said Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University.
@@ -14,20 +13,14 @@ By **Elaine Pofeldt**
 > 
 > But there's at least one big advantage that midlife entrepreneurs bring to the table: "Connections," Mr. Bachenheimer said.
 
-[![](image48651.png)](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR)[![](image5058.jpg)](../press/msn.pdf)
-
-LLCs? S Corps? How Do You Decide?
-
-October 8, 2009
-
-By Eve Tahmincioglu
-
-[![](image4895.jpg)](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR)
-
-It's easier and cheaper than ever to do so, thanks to the emergence of so many online sites — LLC.com and LegalZoom.com, for example — offering cut-rate legal services, says Bruce Bachenheimer, director of entrepreneurial studies at Pace University.
-
-  
-The pros and cons of business structures for an individual business have to be determined on a case-by-case basis, says Pace's Bachenheimer. "The choice of ownership structure is not a 'business strategy' type issue," he maintains. "It is purely a legal/tax issue and has very specific, detailed implications and consequences."
+[![MSN Business](images/msnbusiness.png)](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR) <br/>
+[Original Link](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR) | [PDF Version](files/msn.pdf)
+**LLCs? S Corps? How Do You Decide?** <br/>
+October 8, 2009 <br/>
+By **Eve Tahmincioglu** <br/>
+>It's easier and cheaper than ever to do so, thanks to the emergence of so many online sites — LLC.com and LegalZoom.com, for example — offering cut-rate legal services, says Bruce Bachenheimer, director of entrepreneurial studies at Pace University.
+>
+> The pros and cons of business structures for an individual business have to be determined on a case-by-case basis, says Pace's Bachenheimer. "The choice of ownership structure is not a 'business strategy' type issue," he maintains. "It is purely a legal/tax issue and has very specific, detailed implications and consequences."
 
 [![](image7186.jpg)](http://www.crainsnewyork.com/article/20090710/SMALLBIZ/907109980)[![](image5060.jpg)](../press/Crains_7-10-09.pdf)
 
