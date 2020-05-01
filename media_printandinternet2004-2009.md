@@ -1,24 +1,18 @@
 # Print and Internet 2004-2009
 
+[![Crain's](image/crains.jpg)](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993) | [PDF Version](../press/BetterLateThanNever.pdf) <br/>
+**Better late than never**
+December 18, 2009 <br/>
+By **Elaine Pofeldt**
 
-
-[![](image7176.jpg)](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993)[![](image5056.jpg)](../press/BetterLateThanNever.pdf)
-
-Better late than never
-
-December 18, 2009
-
-By Elaine Pofeldt
-
-[![](image4893.jpg)](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993)
-
-To be sure, starting a business in midlife and beyond is different than doing so right out of college. There's the endurance factor, for starters.
-
-“Entrepreneurs in their 20s can work 20 hours a day and have all sorts of energy,” said Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University.
-
-But the financial responsibilities of a startup can still mean that late bloomers must live in a state of sleep deprivation—at an age when that's tougher.
-
-But there's at least one big advantage that midlife entrepreneurs bring to the table: “Connections,” Mr. Bachenheimer said.
+> To be sure, starting a business in midlife and beyond is different than doing so right out of college. There's the endurance factor, for starters.
+>
+> "Entrepreneurs in their 20s can work 20 hours a day and have all sorts of energy," said Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University.
+>
+> But the financial responsibilities of a startup can still mean that late bloomers must live in a state of sleep deprivation—at an age when that's tougher.
+> 
+> But there's at least one big advantage that midlife entrepreneurs bring to the table: "Connections," Mr. Bachenheimer said.
 
 [![](image48651.png)](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR)[![](image5058.jpg)](../press/msn.pdf)
 
