@@ -162,15 +162,14 @@ Reported by Grace Noone
 [![](image4567.jpg)](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes)
 
 Pace University Professor Bruce Bachenheimer was interviewed by Grace Noone for a segment on Obamacare and small business that aired on the 5:00 news.
-
 ![](image4569.jpg)
 
 [![20120308_100344_ForbesVideo](image45631.jpg)](http://landing.newsinc.com/forbes/video.htmlfreewheel=91218&sitesection=forbes&VID=24742089)
 ![Text Box: Inside Enstitute
 April 17, 2013
-]
+](image4558.png)
 
-(image4558.png)[![](image4559.jpg)](http://landing.newsinc.com/forbes/video.html?freewheel=91218&sitesection=forbes&VID=24742089)
+[![](image4559.jpg)](http://landing.newsinc.com/forbes/video.html?freewheel=91218&sitesection=forbes&VID=24742089)
 
 Pace University Professor Bruce Bachenheimer was included in a video feature titled Inside Enstitute on Forbes [http://bit.ly/enstitute](http://bit.ly/enstitute) The video is also available on YouTube at: [http://youtu.be/CP893YkqNL4](http://youtu.be/CP893YkqNL4) 
 ![](image4561.jpg)
