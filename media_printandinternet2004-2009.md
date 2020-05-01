@@ -22,31 +22,22 @@ By **Eve Tahmincioglu** <br/>
 >
 > The pros and cons of business structures for an individual business have to be determined on a case-by-case basis, says Pace's Bachenheimer. "The choice of ownership structure is not a 'business strategy' type issue," he maintains. "It is purely a legal/tax issue and has very specific, detailed implications and consequences."
 
-[![](image7186.jpg)](http://www.crainsnewyork.com/article/20090710/SMALLBIZ/907109980)[![](image5060.jpg)](../press/Crains_7-10-09.pdf)
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20090710/SMALLBIZ/907109980) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20090710/SMALLBIZ/907109980) | [PDF Version](files/Crains_7-10-09.pdf) <br/>
+**Dress designer commits to weddings** <br/>
+July 10, 2009 <br/>
+By **Steve Garmhausen** <br/>
+> The dressmaker is a good example of how to balance two important entrepreneurial qualities: creative passion and a sensible inclination to follow the market’s lead, says Bruce Bachenheimer, management professor and director of entrepreneurship at Pace University.
+>
+> "Entrepreneurs are close to the customer and in touch with what the market needs and wants—they have to be, in order to survive,” he says. “On the other hand, they need their passion and commitment to keep going and be successful."
 
-Dress designer commits to weddings
-
-July 10, 2009
-
-By Steve Garmhausen
-
-[![](image4897.jpg)](http://www.crainsnewyork.com/article/20090710/SMALLBIZ/907109980)
-
-The dressmaker is a good example of how to balance two important entrepreneurial qualities: creative passion and a sensible inclination to follow the market’s lead, says Bruce Bachenheimer, management professor and director of entrepreneurship at Pace University.
-
-“Entrepreneurs are close to the customer and in touch with what the market needs and wants—they have to be, in order to survive,” he says. “On the other hand, they need their passion and commitment to keep going and be successful.”
-
-[![](image7180.jpg)](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986)[![](image5060.jpg)](../press/Crains_4-12-09.pdf)
-
-Using an incubator to hatch a business
-
-April 12, 2009
-
-By Elaine Pofeldt
-
-[![](image4897.jpg)](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986)
-
-“What really makes for great incubators is the mix of the companies and the synergies they can create, the energy and buzz that surround them,” says Bruce Bachenheimer, management professor and director of entrepreneurship at Pace University.
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986) <br/> 
+[Original Link](images/crains.jpg)](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986) | 
+[PDF Version](files/Crains_4-12-09.pdf) <br/>
+**Using an incubator to hatch a business** <br/>
+April 12, 2009 <br/>
+By **Elaine Pofeldt** <br/>
+> "What really makes for great incubators is the mix of the companies and the synergies they can create, the energy and buzz that surround them," says Bruce Bachenheimer, management professor and director of entrepreneurship at Pace University.
 
 [![](image47771.jpg)](http://www.examiner.com/x-828-Entry-Level-Careers-Examiner~y2008m12d30-Getting-attention-and-cash-from-VCs-and-angel-investors)[![](image5064.jpg)](../press/Examiner.pdf)
 
