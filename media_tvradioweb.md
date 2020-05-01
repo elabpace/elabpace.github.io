@@ -40,7 +40,7 @@ January 23, 2016 <br/>
 
 [![](images/press/tv_radio_web/image8529.jpg)](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)  
 [Original Link](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)  
-Super Cities with Bruce Bachenheimer (Pace University)  
+**Super Cities with Bruce Bachenheimer (Pace University)**  
 By Brendan Hart  
 March 15, 2019  
 
@@ -53,7 +53,7 @@ March 15, 2019
 
 [![](images/press/tv_radio_web/image3313.gif)](http://bit.ly/SBGC_12-11-18)  
 [Original Link](http://bit.ly/SBGC_12-11-18)  
-The Small Business 10K Challenge  
+**The Small Business 10K Challenge**  
 Streamed live on Dec 11, 2018  
 
 
@@ -62,7 +62,7 @@ Streamed live on Dec 11, 2018
 
 [![](images/press/tv_radio_web/image3313.gif)](https://embed.radio.com/clip/61197413)  
 [Original Link](https://embed.radio.com/clip/61197413)  
-The Bottom Line For Small Business  
+**The Bottom Line For Small Business**  
 November 11, 2016  
 
 
@@ -72,7 +72,7 @@ November 11, 2016
 
 [![](images/press/tv_radio_web/image622.jpg)](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html)  
 [Original Link](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html)  
-Global Talk Show Cosmopolitan  
+**Global Talk Show Cosmopolitan**  
 January 23, 2016  
 
 
@@ -81,9 +81,9 @@ January 23, 2016
 
 [![](images/press/tv_radio_web/image2537.jpg)](http://scitechnow.org/videos/from-soldier-to-entrepreneur/)  
 [Original Link](http://scitechnow.org/videos/from-soldier-to-entrepreneur/)    
-SciTech Now    
+**SciTech Now**    
 April 29, 2015  
-Hosted by Hari Sreenivasan  
+Hosted by **Hari Sreenivasan**  
 
 
 > Pace University Professor Bruce Bachenheimer appeared on SciTech Now, which premiered on WLIW Channel 21 April 29, 2015 from 7:00 –7:30 PM. The program also aired on WNET Thirteen and other PBS stations nationally. A video clip of this segment is available at: [http://bit.ly/SciTech\_Now](http://bit.ly/SciTech_Now)   
@@ -91,9 +91,9 @@ Hosted by Hari Sreenivasan
 
 [![](images/press/tv_radio_web/image2545.jpg)](http://hiringamerica.net/episode-48/)   
 [Original Link](http://hiringamerica.net/episode-48/)  
-Hiring America  
+**Hiring America**  
 April 25, 2015  
-Hosted by Gigi Stone Woods   
+Hosted by **Gigi Stone Woods**   
 
 
 > Pace University Professor Bruce Bachenheimer appeared on Hiring America, which aired on WABC-TV Channel 7 April 25, 2015 from 1:30 –2:00 PM. The program was also broadcast nationally in over 80 markets as well as on the Armed Forces Network. A video clip of this segment is available at: [http://bit.ly/HA\_48](http://bit.ly/HA_48)  
@@ -101,9 +101,9 @@ Hosted by Gigi Stone Woods
 
 [![](images/press/tv_radio_web/image6741.png)](http://www.voiceofisrael.com/bridging-israeli-new-york-city-startup-scenes/)  
 [Original Link](http://www.voiceofisrael.com/bridging-israeli-new-york-city-startup-scenes/)    
-Innovation Nation   
+**Innovation Nation**   
 January 11, 2015  
-Hosted by Simcha Gluck  
+Hosted by **Simcha Gluck**  
 
 
 > Pace University Professor Bruce Bachenheimer appeared on the premier episode of Innovation Nation, which aired live on Voice of Israel January 11, 2015 from 2:30 –3:00 PM, in a segment titled Bridging the Israeli and New York City Startup Scenes.    
@@ -111,9 +111,9 @@ Hosted by Simcha Gluck
 
 [![](images/press/tv_radio_web/image84151.jpg)](http://www.nyc.gov/html/media/html/tv/nyctv_life_wwr.shtml)  
 [Original Link](http://www.nyc.gov/html/media/html/tv/nyctv_life_wwr.shtml)  
-Working Woman Report  
+**Working Woman Report**  
 September 1, 2014    
-Hosted by Allison Haunss   
+Hosted by **Allison Haunss**   
 
 
 > Pace University Professor Bruce Bachenheimer appeared on the Working Woman Report, which aired on NYC TV Channel 25 on September 1, 2014 from 8:30 – 9:00 PM. A video clip of this segment is available at: [http://bit.ly/WWR\_NYCTV](http://bit.ly/WWR_NYCTV.)  
@@ -121,9 +121,9 @@ Hosted by Allison Haunss
 
 [![TalkingAlternativeBanner](images/press/tv_radio_web/image8329.jpg)](http://www.talkingalternative.com/events/2014/07/the-womans-playbook-10)   
 [Original Link](http://www.talkingalternative.com/events/2014/07/the-womans-playbook-10)  
-The Woman’s Playbook - Betting on Vets  
+**The Woman’s Playbook - Betting on Vets**  
 July 3, 2014   
-Hosted by Joanna Krotz  
+Hosted by **Joanna Krotz**  
 
 
 > Pace University Professor Bruce Bachenheimer was mentioned in the program ‘Betting on Vets: A unique public-private program is training ex-military women to start businesses that restart their lives’ on the weekly Internet radio show The Woman’s Playbook, which aired on Talking Alternative Broadcasting from 12:00 pm – 1:00 pm on July 3, 2014. A podcast of the program is available at: [http://bit.ly/BettingOnVets](http://bit.ly/BettingOnVets)
@@ -134,27 +134,27 @@ Hosted by Joanna Krotz
 
 [![TalkingAlternativeBanner](images/press/tv_radio_web/image82391.jpg)](http://www.talkingalternative.com/events/2014/06/the-womans-playbook-6)  
 [Original Link](http://www.talkingalternative.com/events/2014/06/the-womans-playbook-6)  
-The Woman’s Playbook - Leaning Out  
+**The Woman’s Playbook - Leaning Out**  
 June 5, 2014    
-Hosted by Joanna Krotz  
+Hosted by **Joanna Krotz**  
 
 
 > Pace University Professor Bruce Bachenheimer was interviewed about ‘Leaning Out: Women are weary of corporate ladders to nowhere and launching businesses of their own to find success and satisfaction’  on the weekly Internet radio show The Woman’s Playbook, which aired on Talking Alternative Broadcasting from 12:00 pm – 1:00 pm on June 5, 2014. A podcast of the program is available at: [http://bit.ly/WomansPlaybook](http://bit.ly/WomansPlaybook) and on iTunes: [http://bit.ly/LeaningOut](http://bit.ly/LeaningOut)    
 
 [![](images/press/tv_radio_web/image6255.jpg)](http://toginet.com/shows/payingitforward)  
 [Original Link](http://toginet.com/shows/payingitforward)  
-Paying It Forward  
+**Paying It Forward**  
 December 18, 2013    
-Hosted by Josephine Geraci  
+Hosted by **Josephine Geraci**  
 
 
 > Pace University Professor Bruce Bachenheimer was interviewed about ‘The importance of Business Plans’  on the weekly Internet radio show Paying It Forward, which aired on Toginet Radio from 10:00 am – 11:00 am  on December 18, 2013. A podcast of the program is available at: [http://toginet.com/podcasts/payingitforward/PayingitForwardLIVE\_2013-12-18.mp3](http://toginet.com/podcasts/payingitforward/PayingitForwardLIVE_2013-12-18.mp3).  
 
 [![](images/press/tv_radio_web/image4571.jpg)](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes)  
 [Original Link](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes)  
-Residents overwhelmed with ‘Obamacare’  
+**Residents overwhelmed with ‘Obamacare’**  
 October 2, 2013     
-Reported by Grace Noone  
+Reported by **Grace Noone**  
 
 
 > Pace University Professor Bruce Bachenheimer was interviewed by Grace Noone for a segment on Obamacare and small business that aired on the 5:00 news.  
@@ -162,7 +162,7 @@ Reported by Grace Noone
 
 [![20120308_100344_ForbesVideo](images/press/tv_radio_web/image45631.jpg)](http://landing.newsinc.com/forbes/video.htmlfreewheel=91218&sitesection=forbes&VID=24742089)  
 [Original Link](http://landing.newsinc.com/forbes/video.html?freewheel=91218&sitesection=forbes&VID=24742089)  
-Inside Enstitute  
+**Inside Enstitute**  
 April 17, 2013   
 
 
@@ -172,18 +172,18 @@ April 17, 2013
 
 [![](images/press/tv_radio_web/image45541.jpg)](http://togi.us/forward)  
 [Original Link](http://togi.us/forward)  
-Paying It Forward  
+**Paying It Forward**  
 October 24, 2012      
-Hosted by Josephine Geraci  
+Hosted by **Josephine Geraci**  
 
 
 > Pace University Professor Bruce Bachenheimer was interviewed on the weekly Internet radio show Paying It Forward, which aired on Toginet Radio on October 24, 2012.A podcast of the program is available on iTunes and at: [http://bit.ly/PayingItForward\_10-24-12](http://bit.ly/PayingItForward_10-24-12)  
 
 [![](images/press/tv_radio_web/image4548.jpg)](http://bit.ly/WWR_BB)
 [Original Link](http://bit.ly/WWR_BB)  
-Working Woman Report   
+**Working Woman Report**   
 September 30, 2012 Hosted    
-Hosted by Allison Haunss  
+Hosted by **Allison Haunss**  
 
 
 > Pace University Professor Bruce Bachenheimer appeared on the premier of Working Woman Report, which aired on WPIX Channel 11 on September 30, 2012. This segment was rebroadcast and is available at: [http://bit.ly/WWR\_BB](http://bit.ly/WWR_BB)    
@@ -192,18 +192,18 @@ Hosted by Allison Haunss
 
 [![](images/press/tv_radio_web/image45421.jpg)](http://www.lemouv.fr/diffusion-new-york-la-nouvelle-silicon-valley)  
 [Original Link](http://www.lemouv.fr/diffusion-new-york-la-nouvelle-silicon-valley)  
-New York: the New Silicon Valley?  
+**New York: the New Silicon Valley?**  
 July 26, 2012    
-Reported by Charlotte Alix  
+Reported by **Charlotte Alix**  
 
 
 > Pace University Professor Bruce Bachenheimer was interviewed on the Radio France station le mouv’ for a special feature on technology start-ups in New York City. The program aired on July 26, 2012 and a podcast, in French, is available at: [http://bit.ly/Radio-France](http://bit.ly/Radio-France).  
 
 [![](images/press/tv_radio_web/image46121.jpg)](http://www.voanews.com/learningenglish/home/A-Whole-New-World-in-the-Way-We-Interact-With-Electronics--112480899.html)  
 [Original Link](http://www.voanews.com/learningenglish/home/A-Whole-New-World-in-the-Way-We-Interact-With-Electronics--112480899.html)  
-A Whole New World, Brought to Us by Gizmos and Gadgets  
+**A Whole New World, Brought to Us by Gizmos and Gadgets**  
 December 26, 2010    
-Hosted by June Simms and Steve Ember  
+Hosted by **June Simms and Steve Ember**  
 
 
 > Pace University Professor Bruce Bachenheimer was interviewed for Voice of America’s Special English Technology Report. The complete article and audio of the broadcast is available at the above URL. The following is a partial transcript of the program:
@@ -220,9 +220,9 @@ BRUCE BACHENHEIMER: “The life cycle of these products are so much shorter. If 
 
 [![](images/press/tv_radio_web/image46061.jpg)](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray)  
 [Original Link](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray)  
-Better Your Business  
+**Better Your Business**  
 December 15, 2010  
-Hosted by JJ Ramberg  
+Hosted by **JJ Ramberg**  
 
 
 > Pace University Professor Bruce Bachenheimer appeared on the Better Your Business feature of MSNBC’s YOUR BUSINESS program, which was released on December 15, 2010. This segment is available at:[http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray)   
@@ -230,9 +230,9 @@ Hosted by JJ Ramberg
 
 [![](images/press/tv_radio_web/image45831.jpg)](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services)  
 [Original Link](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services)  
-All About Apps  
+**All About Apps**  
 October 24, 2010    
-Hosted by JJ Ramberg  
+Hosted by **JJ Ramberg**  
 
 
 > Pace University Professor Bruce Bachenheimer was a panelist on MSNBC’s YOUR BUSINESS program, which aired on October 24, 2010 from 7:30 am to 8:00 am. A segment of that broadcast is available at: [http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services)   
@@ -240,9 +240,9 @@ Hosted by JJ Ramberg
 
 [![http://www.wgch.com/images/logos/wgch-small-wt-128.gif](images/press/tv_radio_web/image45861.jpg)](http://www.wgch.com/)  
 [Original Link](http://www.wgch.com/)  
-Greenwich Entrepreneurs  
+**Greenwich Entrepreneurs**  
 May 28, 2010  
-Hosted by Gregory Skidmore and Daniel Crosby  
+Hosted by **Gregory Skidmore and Daniel Crosby**  
 
 
 > Pace University Professor Bruce Bachenheimer was interviewed as a guest on the WGCH radio program Greenwich Entrepreneurs, which aired on May 28, 2010 from 9:30 am to 10:00 am. The broadcast is available at: [http://bit.ly/wgchradio](http://bit.ly/wgchradio).  
@@ -250,9 +250,9 @@ Hosted by Gregory Skidmore and Daniel Crosby
 
 [![](images/press/tv_radio_web/image4589.png)](http://www.lawline.com/lawlinetv/)  
 [Original Link](http://www.lawline.com/lawlinetv/)  
-The Impacts of Social Media  
+**The Impacts of Social Media**  
 December 13, 2009   
-Hosted by Alan Schnurman  
+Hosted by **Alan Schnurman**  
 (rebroadcast on 2/14/10, 5/23/10, 10/31/10, 2/20/11, 5/1/11, 7/3/11, 10/30/11 & 2/26/12)  
 
 
@@ -261,9 +261,9 @@ Hosted by Alan Schnurman
 
 [![](images/press/tv_radio_web/image45911.jpg)](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674)  
 [Original Link](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674)  
-Rice University recently held a consortium on the growing field of teaching entrepreneurship.  
+**Rice University recently held a consortium on the growing field of teaching entrepreneurship.**  
 October 19, 2009  
-Hosted by Ed Mayberry  
+Hosted by **Ed Mayberry**  
 
 
 > The following is a transcript of the WKUHF interview:
