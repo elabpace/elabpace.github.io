@@ -32,24 +32,20 @@ By **Steve Garmhausen** <br/>
 > "Entrepreneurs are close to the customer and in touch with what the market needs and wants—they have to be, in order to survive,” he says. “On the other hand, they need their passion and commitment to keep going and be successful."
 
 [![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986) <br/> 
-[Original Link](images/crains.jpg)](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986) | 
+[Original Link](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986) | 
 [PDF Version](files/Crains_4-12-09.pdf) <br/>
 **Using an incubator to hatch a business** <br/>
 April 12, 2009 <br/>
 By **Elaine Pofeldt** <br/>
 > "What really makes for great incubators is the mix of the companies and the synergies they can create, the energy and buzz that surround them," says Bruce Bachenheimer, management professor and director of entrepreneurship at Pace University.
 
-[![](image47771.jpg)](http://www.examiner.com/x-828-Entry-Level-Careers-Examiner~y2008m12d30-Getting-attention-and-cash-from-VCs-and-angel-investors)[![](image5064.jpg)](../press/Examiner.pdf)
+[![Examiner](images/examiner.jpg)](http://www.examiner.com/x-828-Entry-Level-Careers-Examiner~y2008m12d30-Getting-attention-and-cash-from-VCs-and-angel-investors) <br/>
+[Original Link](http://www.examiner.com/x-828-Entry-Level-Careers-Examiner~y2008m12d30-Getting-attention-and-cash-from-VCs-and-angel-investors) | [PDF Version](files/Examiner.pdf) <br/>
+**Getting attention (and cash) from VCs and angel investors** <br/>
+December 30, 2008 <br/>
+By **Heather Huhman** <br/>
+> Bruce Bachenheimer, program director of entrepreneurial studies at The Lubin School at Pace University, adds, "Build a real board of advisors, not just people who agree to let you use their name as 'window dressing' for a business plan or investor pitch – rather, experienced entrepreneurs and seasoned professionals who will dedicate the necessary time to understand your business and formulate meaningful advice. The young entrepreneur should not only assemble such a board, but must understand what is required to keep the advisors engaged and committed."
 
-Getting attention (and cash) from VCs and angel investors
-
-December 30, 2008
-
-By Heather Huhman
-
-[![](image4792.jpg)](http://www.examiner.com/x-828-Entry-Level-Careers-Examiner~y2008m12d30-Getting-attention-and-cash-from-VCs-and-angel-investors)
-
-Bruce Bachenheimer, program director of entrepreneurial studies at The Lubin School at Pace University, adds, “Build a real board of advisors, not just people who agree to let you use their name as ‘window dressing’ for a business plan or investor pitch – rather, experienced entrepreneurs and seasoned professionals who will dedicate the necessary time to understand your business and formulate meaningful advice. The young entrepreneur should not only assemble such a board, but must understand what is required to keep the advisors engaged and committed.”
 
 [![SmartMoney.com](image47801.jpg)](http://www.smsmallbiz.com/)[![](image5066.jpg)](../press/Made_in_USA.pdf)
 
