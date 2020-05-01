@@ -14,7 +14,7 @@ By **Elaine Pofeldt**
 > But there's at least one big advantage that midlife entrepreneurs bring to the table: "Connections," Mr. Bachenheimer said.
 
 [![MSN Business](images/msnbusiness.png)](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR) <br/>
-[Original Link](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR) | [PDF Version](files/msn.pdf)
+[Original Link](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR) | [PDF Version](files/msn.pdf) <br/>
 **LLCs? S Corps? How Do You Decide?** <br/>
 October 8, 2009 <br/>
 By **Eve Tahmincioglu** <br/>
