@@ -41,9 +41,8 @@ January 23, 2016 <br/>
 [![](images/press/tv_radio_web/image8529.jpg)](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)  
 [Original Link](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)  
 **Super Cities with Bruce Bachenheimer (Pace University)**  
-By Brendan Hart  
 March 15, 2019  
-
+By **Brendan Hart**  
 
 > On this episode of Super Cities, we do a deep dive with Bruce Bachenheimer, Director of Entrepreneurship at Pace University in New York City.
 > 
