@@ -145,6 +145,8 @@ Issue CE07: Aug 17–23, 2007
 **Can you be an entrepreneur?** <br/>
 November 9, 2004 <br/>
 By **Abigail Klingbeil** <br/>
+> ![Sailing photo](images/image5087.png)
+>
 > Bruce Bachenheimer teaches entrepreneurship. He's also a student of it.
 >
 > After years on Wall Street, he bought a 36-foot sailboat and set off for the Caribbean and South America. Upon his return in 1993, he began a teak-importing and specialty woodworking company in Annapolis, Md. Later, in Australia for graduate school, he started an online financial company.
@@ -159,5 +161,3 @@ By **Abigail Klingbeil** <br/>
 > Nearly four out of five new businesses fail in five years, but the rate decreases dramatically for businesses started in "business incubators" where the owners are given resources and mentoring, he said.
 > 
 > "That's a good demonstration that entrepreneurship not only can be taught, but you can take something prone to high failure rates and closure rates and really make it successful."
->
-> ![Sailing photo](images/image5087.png)
