@@ -164,9 +164,8 @@ Pace University Professor Bruce Bachenheimer was interviewed by Grace Noone for 
 ![](images/press/tv_radio_web/image4569.jpg)  
 
 [![20120308_100344_ForbesVideo](images/press/tv_radio_web/image45631.jpg)](http://landing.newsinc.com/forbes/video.htmlfreewheel=91218&sitesection=forbes&VID=24742089)  
-![Text Box: Inside Enstitute
-April 17, 2013
-](image4558.png)  
+Inside Enstitute  
+April 17, 2013   
 
 [Original Link](http://landing.newsinc.com/forbes/video.html?freewheel=91218&sitesection=forbes&VID=24742089)  
 
