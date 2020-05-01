@@ -58,7 +58,7 @@ The Small Business 10K Challenge
 
 Streamed live on Dec 11, 2018
 
-[![](image8691.jpg)](http://bit.ly/SBGC_12-11-18)
+[Original Link](http://bit.ly/SBGC_12-11-18)
 
 Bruce Bachenheimer Clinical Professor, Management & Executive Director, Entrepreneurship Lab, Pace University served as a Judge for the 1010 WINS Small Business Grant Challenge, which was streamed live from the Radio.com Theatre in Manhattan. [https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2](https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2)  
 ![](images/press/tv_radio_web/image8695.jpg)
@@ -68,7 +68,7 @@ Bruce Bachenheimer Clinical Professor, Management & Executive Director, Entrepre
 The Bottom Line For Small Business
 November 11, 2016
 
-[![](image3307.jpg)](https://embed.radio.com/clip/61197413)
+[Original Link](https://embed.radio.com/clip/61197413)
 
 In a Veterans Day feature, CBS New York radio 1010WINS mentioned the Pace University Veterans Entrepreneurship Boot Camp and professor Bruce Bachenheimer on ‘The Bottom Line For Small Business’ (0:21 – 0:34):
 
@@ -79,7 +79,7 @@ In a Veterans Day feature, CBS New York radio 1010WINS mentioned the Pace Univer
 Global Talk Show Cosmopolitan
 January 23, 2016
 
-[![](image616.jpg)](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html)
+[Original Link](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html)
 
 Pace University Professor Bruce Bachenheimer was interviewed on Global Talk Show Cosmopolitan, which aired on Korean Broadcasting System Channel 1 January 23, 2016. The program examined New York City’s Silicon Alley. A video clip of the program is available at: [http://bit.ly/KBS-BB](http://bit.ly/KBS-BB) (the Silicon Alley segment starts at 19:50 and Professor Bachenheimer appears at 22:58).
 ![](images/press/tv_radio_web/image1084.png)  
@@ -89,7 +89,7 @@ SciTech Now
 April 29, 2015
 Hosted by Hari Sreenivasan
 
-[![](image672.jpg)](http://scitechnow.org/videos/from-soldier-to-entrepreneur/)  
+[Original Link](http://scitechnow.org/videos/from-soldier-to-entrepreneur/)  
 
 Pace University Professor Bruce Bachenheimer appeared on SciTech Now, which premiered on WLIW Channel 21 April 29, 2015 from 7:00 –7:30 PM. The program also aired on WNET Thirteen and other PBS stations nationally. A video clip of this segment is available at: [http://bit.ly/SciTech\_Now](http://bit.ly/SciTech_Now) 
 ![](images/press/tv_radio_web/image25541.jpg)
@@ -99,7 +99,7 @@ Hiring America
 April 25, 2015
 Hosted by Gigi Stone Woods 
 
-[![](image8233.jpg)](http://hiringamerica.net/episode-48/)
+[Original Link](http://hiringamerica.net/episode-48/)
 
 Pace University Professor Bruce Bachenheimer appeared on Hiring America, which aired on WABC-TV Channel 7 April 25, 2015 from 1:30 –2:00 PM. The program was also broadcast nationally in over 80 markets as well as on the Armed Forces Network. A video clip of this segment is available at: [http://bit.ly/HA\_48](http://bit.ly/HA_48)
 ![](images/press/tv_radio_web/image25611.jpg)
@@ -109,7 +109,7 @@ Innovation Nation
 January 11, 2015
 Hosted by Simcha Gluck
 
-[![](image672.jpg)](http://www.voiceofisrael.com/bridging-israeli-new-york-city-startup-scenes/)  
+[Original Link](http://www.voiceofisrael.com/bridging-israeli-new-york-city-startup-scenes/)    
 Pace University Professor Bruce Bachenheimer appeared on the premier episode of Innovation Nation, which aired live on Voice of Israel January 11, 2015 from 2:30 –3:00 PM, in a segment titled Bridging the Israeli and New York City Startup Scenes.  
 ![](images/press/tv_radio_web/image6861.jpg)  
 
@@ -118,7 +118,7 @@ Working Woman Report
 September 1, 2014    
 Hosted by Allison Haunss  
 
-[![](image8411.jpg)](http://www.nyc.gov/html/media/html/tv/nyctv_life_wwr.shtml)
+[Original Link](http://www.nyc.gov/html/media/html/tv/nyctv_life_wwr.shtml)
 
 Pace University Professor Bruce Bachenheimer appeared on the Working Woman Report, which aired on NYC TV Channel 25 on September 1, 2014 from 8:30 – 9:00 PM. A video clip of this segment is available at: [http://bit.ly/WWR\_NYCTV](http://bit.ly/WWR_NYCTV.)
 ![](images/press/tv_radio_web/image84171.jpg)
@@ -128,7 +128,7 @@ The Woman’s Playbook - Betting on Vets
 July 3, 2014  
 Hosted by Joanna Krotz
 
-[![](image6253.jpg)](http://www.talkingalternative.com/events/2014/07/the-womans-playbook-10)
+[Original Link](http://www.talkingalternative.com/events/2014/07/the-womans-playbook-10)
 
 Pace University Professor Bruce Bachenheimer was mentioned in the program ‘Betting on Vets: A unique public-private program is training ex-military women to start businesses that restart their lives’ on the weekly Internet radio show The Woman’s Playbook, which aired on Talking Alternative Broadcasting from 12:00 pm – 1:00 pm on July 3, 2014. A podcast of the program is available at: [http://bit.ly/BettingOnVets](http://bit.ly/BettingOnVets)
 
@@ -141,7 +141,7 @@ The Woman’s Playbook - Leaning Out
 June 5, 2014  
 Hosted by Joanna Krotz
 
-[![](image8233.jpg)](http://www.talkingalternative.com/events/2014/06/the-womans-playbook-6)
+[Original Link](http://www.talkingalternative.com/events/2014/06/the-womans-playbook-6)
 
 Pace University Professor Bruce Bachenheimer was interviewed about ‘Leaning Out: Women are weary of corporate ladders to nowhere and launching businesses of their own to find success and satisfaction’  on the weekly Internet radio show The Woman’s Playbook, which aired on Talking Alternative Broadcasting from 12:00 pm – 1:00 pm on June 5, 2014. A podcast of the program is available at: [http://bit.ly/WomansPlaybook](http://bit.ly/WomansPlaybook) and on iTunes: [http://bit.ly/LeaningOut](http://bit.ly/LeaningOut)
 
@@ -150,7 +150,7 @@ Paying It Forward
 December 18, 2013  
 Hosted by Josephine Geraci
 
-[![](image6253.jpg)](http://toginet.com/shows/payingitforward)
+[Original Link](http://toginet.com/shows/payingitforward)
 
 Pace University Professor Bruce Bachenheimer was interviewed about ‘The importance of Business Plans’  on the weekly Internet radio show Paying It Forward, which aired on Toginet Radio from 10:00 am – 11:00 am  on December 18, 2013. A podcast of the program is available at: [http://toginet.com/podcasts/payingitforward/PayingitForwardLIVE\_2013-12-18.mp3](http://toginet.com/podcasts/payingitforward/PayingitForwardLIVE_2013-12-18.mp3).
 
@@ -159,7 +159,7 @@ Residents overwhelmed with ‘Obamacare’
 October 2, 2013  
 Reported by Grace Noone
 
-[![](image4567.jpg)](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes)
+[Original Link](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes)
 
 Pace University Professor Bruce Bachenheimer was interviewed by Grace Noone for a segment on Obamacare and small business that aired on the 5:00 news.
 ![](images/press/tv_radio_web/image4569.jpg)
@@ -169,7 +169,7 @@ Pace University Professor Bruce Bachenheimer was interviewed by Grace Noone for 
 April 17, 2013
 ](image4558.png)
 
-[![](image4559.jpg)](http://landing.newsinc.com/forbes/video.html?freewheel=91218&sitesection=forbes&VID=24742089)
+[Original Link](http://landing.newsinc.com/forbes/video.html?freewheel=91218&sitesection=forbes&VID=24742089)
 
 Pace University Professor Bruce Bachenheimer was included in a video feature titled Inside Enstitute on Forbes [http://bit.ly/enstitute](http://bit.ly/enstitute) The video is also available on YouTube at: [http://youtu.be/CP893YkqNL4](http://youtu.be/CP893YkqNL4) 
 ![](images/press/tv_radio_web/image4561.jpg)
@@ -180,7 +180,7 @@ Paying It Forward
 October 24, 2012  
 Hosted by Josephine Geraci
 
-[![](image4552.jpg)](http://togi.us/forward)
+[Original Link](http://togi.us/forward)
 
 Pace University Professor Bruce Bachenheimer was interviewed on the weekly Internet radio show Paying It Forward, which aired on Toginet Radio on October 24, 2012.A podcast of the program is available on iTunes and at: [http://bit.ly/PayingItForward\_10-24-12](http://bit.ly/PayingItForward_10-24-12)
 
@@ -189,7 +189,7 @@ Working Woman Report
 September 30, 2012 Hosted  
 Hosted by Allison Haunss
 
-[![](image4546.jpg)](http://bit.ly/WWR_BB)
+[Original Link](http://bit.ly/WWR_BB)
 
 Pace University Professor Bruce Bachenheimer appeared on the premier of Working Woman Report, which aired on WPIX Channel 11 on September 30, 2012. This segment was rebroadcast and is available at: [http://bit.ly/WWR\_BB](http://bit.ly/WWR_BB)  
 ![](images/press/tv_radio_web/image4556.png)
@@ -200,7 +200,7 @@ New York: the New Silicon Valley?
 July 26, 2012  
 Reported by Charlotte Alix
 
-[![](image45401.jpg)](http://www.lemouv.fr/diffusion-new-york-la-nouvelle-silicon-valley)
+[Original Link](http://www.lemouv.fr/diffusion-new-york-la-nouvelle-silicon-valley)
 
 Pace University Professor Bruce Bachenheimer was interviewed on the Radio France station le mouv’ for a special feature on technology start-ups in New York City. The program aired on July 26, 2012 and a podcast, in French, is available at: [http://bit.ly/Radio-France](http://bit.ly/Radio-France).
 
@@ -209,7 +209,7 @@ A Whole New World, Brought to Us by Gizmos and Gadgets
 December 26, 2010  
 Hosted by June Simms and Steve Ember
 
-[![](image4610.jpg)](http://www.voanews.com/learningenglish/home/A-Whole-New-World-in-the-Way-We-Interact-With-Electronics--112480899.html)
+[Original Link](http://www.voanews.com/learningenglish/home/A-Whole-New-World-in-the-Way-We-Interact-With-Electronics--112480899.html)
 
 Pace University Professor Bruce Bachenheimer was interviewed for Voice of America’s Special English Technology Report. The complete article and audio of the broadcast is available at the above URL. The following is a partial transcript of the program:
 
@@ -228,7 +228,7 @@ Better Your Business
 December 15, 2010  
 Hosted by JJ Ramberg
 
-[![](image4604.jpg)](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray)
+[Original Link](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray)
 
 Pace University Professor Bruce Bachenheimer appeared on the Better Your Business feature of MSNBC’s YOUR BUSINESS program, which was released on December 15, 2010. This segment is available at:[http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray) 
 ![](images/press/tv_radio_web/image4614.png)
@@ -238,7 +238,7 @@ All About Apps
 October 24, 2010  
 Hosted by JJ Ramberg
 
-[![](image4581.jpg)](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services)
+[Original Link](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services)
 
 Pace University Professor Bruce Bachenheimer was a panelist on MSNBC’s YOUR BUSINESS program, which aired on October 24, 2010 from 7:30 am to 8:00 am. A segment of that broadcast is available at: [http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services) 
 ![](images/press/tv_radio_web/image4615.png)
@@ -248,7 +248,7 @@ Greenwich Entrepreneurs
 May 28, 2010
 Hosted by Gregory Skidmore and Daniel Crosby
 
-[![](image4596.jpg)](http://www.wgch.com/)
+[Original Link](http://www.wgch.com/)
 
 Pace University Professor Bruce Bachenheimer was interviewed as a guest on the WGCH radio program Greenwich Entrepreneurs, which aired on May 28, 2010 from 9:30 am to 10:00 am. The broadcast is available at: [http://bit.ly/wgchradio](http://bit.ly/wgchradio).
 ![](images/press/tv_radio_web/image4616.png)
@@ -259,7 +259,7 @@ December 13, 2009
 Hosted by Alan Schnurman
 (rebroadcast on 2/14/10, 5/23/10, 10/31/10, 2/20/11, 5/1/11, 7/3/11, 10/30/11 & 2/26/12)
 
-[![](image4598.jpg)](http://www.lawline.com/lawlinetv/)
+[Original Link](http://www.lawline.com/lawlinetv/)
 
 Pace University Professor Bruce Bachenheimer was a guest on the NYC TV program Lawline, which aired on December 13, 2009 from 5:30 pm to 6:00 pm. The broadcast is available at: [http://bit.ly/Lawline](http://bit.ly/Lawline)
 ![](images/press/tv_radio_web/image4617.png)
@@ -269,7 +269,7 @@ Rice University recently held a consortium on the growing field of teaching entr
 October 19, 2009
 Hosted by Ed Mayberry
 
-[![](image4600.jpg)](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674)
+[Original Link](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674)
 
 The following is a transcript of the WKUHF interview:
 
