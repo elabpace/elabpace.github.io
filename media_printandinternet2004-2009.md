@@ -145,7 +145,7 @@ Issue CE07: Aug 17–23, 2007
 **Can you be an entrepreneur?** <br/>
 November 9, 2004 <br/>
 By **Abigail Klingbeil** <br/>
-> ![Sailing photo](image5087.png)
+> ![Sailing photo](images/image5087.png)
 >
 > Bruce Bachenheimer teaches entrepreneurship. He's also a student of it.
 >
