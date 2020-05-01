@@ -47,53 +47,39 @@ By **Heather Huhman** <br/>
 > Bruce Bachenheimer, program director of entrepreneurial studies at The Lubin School at Pace University, adds, "Build a real board of advisors, not just people who agree to let you use their name as 'window dressing' for a business plan or investor pitch – rather, experienced entrepreneurs and seasoned professionals who will dedicate the necessary time to understand your business and formulate meaningful advice. The young entrepreneur should not only assemble such a board, but must understand what is required to keep the advisors engaged and committed."
 
 
-[![SmartMoney.com](image47801.jpg)](http://www.smsmallbiz.com/)[![](image5066.jpg)](../press/Made_in_USA.pdf)
+[![SmartMoney.com](images/smartmoney.jpg)](http://www.smsmallbiz.com/) <br/>
+[Original Link](http://www.smsmallbiz.com/) | [PDF Version](files/Made_in_USA.pdf) <br/>
+**Starting Up: 'Made in the USA' Is Back in Style for Businesses** <br/>
+September 8, 2008 <br/>
+By **Diana Ransom** <br/>
+> Meanwhile, skilled workers in traditionally low-wage developing countries, such as India and China, are beginning to demand higher pay and benefits — moves that will take yet another bite out of businesses’ profits, says Bruce Bachenheimer, a clinical professor of management and director of the entrepreneurship program at Pace University’s Lubin School of Business in New York. "Some firms might opt to stay domestic as the profit margins resulting from hiring overseas workers narrows."
 
-Starting Up: 'Made in the USA' Is Back in Style for Businesses
+[![SmartMoney.com](images/smartmoney.jpg)](http://www.smsmallbiz.com/)<br/>
+[Original Link](http://www.smsmallbiz.com/) | [PDF Version](files/SM_Small_Biz-How_to_Market_a_For-Profit_Social_Venture.pdf) <br/>
+**How to Market a For-Profit Social Venture** <br/>
+July 1, 2008 <br/>
+By **Rachel Solomon** <br/>
+> The majority of 2,007 customers polled said they were more likely to buy from companies that make energy-efficient products, promote health and safety, and support fair labor practices. That sentiment, however, should not influence your marketing game plan, warns Bruce Bachenheimer, a professor of management and director of the entrepreneurial program at Pace University's Lubin School of Business in New York City. "A lot of people say, 'Yes, I want to buy things that are socially conscious,'" he explains. But "the bottom line — no matter what we consumers say we'd like to do — is that it has to be similar \[to competitors\] in terms of price and ease to purchase."
+>
+> **Building Your Brand**
+> When it comes to branding, a social enterprise should wear its heart on its sleeve, Bachenheimer says. Your associations with your values become just as important as those with your goods or services. You can inherently brand your values by forming relationships with socially-conscious retailers (think Whole Foods, the natural-foods grocer) who are known for vetting their vendors. A social enterprise's "emotional" branding can also be bolstered by labeling from various certification agencies, such as Fair Trade's FLO International, says Bachenheimer.
+>
+> **Communicating the Mission**
+> Educating consumers about your social impact is perhaps one of the biggest and most delicate challenges of marketing the enterprise. "When people understand it, they might be willing to go a little bit out of their way and pay a little more money," says Bachenheimer.
 
-September 8, 2008
-
-By Diana Ransom
-
-[![](image4794.jpg)](http://www.smsmallbiz.com/)
-
-Meanwhile, skilled workers in traditionally low-wage developing countries, such as India and China, are beginning to demand higher pay and benefits — moves that will take yet another bite out of businesses’ profits, says Bruce Bachenheimer, a clinical professor of management and director of the entrepreneurship program at Pace University’s Lubin School of Business in New York. “Some firms might opt to stay domestic as the profit margins resulting from hiring overseas workers narrows.”
-
-[![SmartMoney.com](image4783.jpg)](http://www.smsmallbiz.com/)[![](image5064.jpg)](../press/SM_Small_Biz-How_to_Market_a_For-Profit_Social_Venture.pdf)
-
-How to Market a For-Profit Social Venture
-
-July 1, 2008
-
-By Rachel Solomon
-
-[![](image4796.jpg)](http://www.smsmallbiz.com/)
-
-The majority of 2,007 customers polled said they were more likely to buy from companies that make energy-efficient products, promote health and safety, and support fair labor practices. That sentiment, however, should not influence your marketing game plan, warns Bruce Bachenheimer, a professor of management and director of the entrepreneurial program at Pace University's Lubin School of Business in New York City. "A lot of people say, 'Yes, I want to buy things that are socially conscious,'" he explains. But "the bottom line — no matter what we consumers say we'd like to do — is that it has to be similar \[to competitors\] in terms of price and ease to purchase."
-
-Building Your Brand  
-When it comes to branding, a social enterprise should wear its heart on its sleeve, Bachenheimer says. Your associations with your values become just as important as those with your goods or services. You can inherently brand your values by forming relationships with socially-conscious retailers (think Whole Foods, the natural-foods grocer) who are known for vetting their vendors. A social enterprise's "emotional" branding can also be bolstered by labeling from various certification agencies, such as Fair Trade's FLO International, says Bachenheimer.
-
-Communicating the Mission  
-Educating consumers about your social impact is perhaps one of the biggest and most delicate challenges of marketing the enterprise. "When people understand it, they might be willing to go a little bit out of their way and pay a little more money," says Bachenheimer.
-
-[![](image47861.jpg)](http://www.pfnlive.com/)[![](image5060.jpg)](../press/MBA_Pursuit_Opens_New_Doors_for_Physicians-PFN.pdf)
-
-MBA Pursuit Opens New Doors, Opportunities for Physicians  
-June 6, 2008
-
-By Ed Rabinowitz
-
-[![](image4798.jpg)](http://www.pfnlive.com/)
-
-Business is booming  
-Young medical school students aren’t the only ones recognizing the importance of an MBA in today’s changing healthcare environment. Professor Bruce Bachenheimer, director of entrepreneurship at New York’s Pace University, says quite a few established physicians are returning part-time at night for their MBA.
-
-“The doctors coming in recognize that insurance and medical billing are making it much more difficult to be a doctor,” Bachenheimer explains. “They’re part of a cog of a much larger wheel, and \[healthcare\] is much more of a business. That has prompted some doctors to say, ‘Let me understand the business so I can play this game better.’”
-
-Some of the physicians Bachenheimer has spoken with don’t want to work directly in medicine, but instead want to use medical training and an MBA to help launch new medical start-ups. Others are interested in wireless medical technology, so they need to be aware of the business side of the equation. And some simply want to take over an existing practice and need to better understand the business aspects that are involved.
-
-“Other doctors are just tired of medicine,” Bachenheimer admits. “I had one family doctor say to me that when patients walk in, he can tell in two minutes what their problem is, and it almost gets mundane. He just wants to do something else.”
+[![PFNlive](images/pfnlive.jpg)](http://www.pfnlive.com/) <br/>
+[Original Link](http://www.pfnlive.com/) | [PDF Version](files/MBA_Pursuit_Opens_New_Doors_for_Physicians-PFN.pdf) <br/>
+**MBA Pursuit Opens New Doors, Opportunities for Physicians** <br/>
+June 6, 2008 <br/>
+By **Ed Rabinowitz** <br/>
+> **Business is booming**
+> Young medical school students aren’t the only ones recognizing the importance of an MBA in today’s changing healthcare environment. Professor Bruce Bachenheimer, director of entrepreneurship at New York’s Pace University, says quite a few established physicians are returning part-time at night for their MBA.
+>
+>“The doctors coming in recognize that insurance and medical billing are making it much more difficult to be a doctor,” Bachenheimer explains. “They’re part of a cog of a much larger wheel, and \[healthcare\] is much more of a business. That has prompted some doctors to say, ‘Let me understand the business so I can play this game better.’”
+>
+>Some of the physicians Bachenheimer has spoken with don’t want to work directly in medicine, but instead want to use medical training and an MBA to help launch new medical start-ups. Others are interested in wireless medical technology, so they need to be aware of the business side of the equation. And some simply want to take over an existing practice and need to better understand the business aspects that are involved.
+>
+>“Other doctors are just tired of medicine,” Bachenheimer admits. “I had one family doctor say to me that when patients walk in, he can tell in two minutes what their problem is, and it almost gets mundane. He just wants to do something else.”
 
 [![SmartMoney.com](image4801.jpg)](http://www.smsmallbiz.com/)[![](image5064.jpg)](../press/SmartMoney.pdf)
 
