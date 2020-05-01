@@ -38,7 +38,7 @@ January 23, 2016 <br/>
 
 Television, Radio and Web Broadcasts
 
-[![](image8529.jpg)](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)  
+[![](images/press/tv_radio_web/image8529.jpg)](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5)  
 Super Cities with Bruce Bachenheimer (Pace University)  
 By Brendan Hart  
 March 15, 2019  
