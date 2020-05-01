@@ -1,6 +1,6 @@
 # Print and Internet 2004-2009
 
-[![Crain's](image/crains.jpg)](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993)<br/>
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993) | [PDF Version](../press/BetterLateThanNever.pdf) <br/>
 **Better late than never**
 December 18, 2009 <br/>
