@@ -156,7 +156,7 @@ By **Sandra E. Picket**
 >
 > "And then there's the environmental aspect. The wood that I buy is all farmed on plantations under local government supervision and exported under license, so its something that I can feel good about.
 
-[![Nautical Scene](images/theislandnauticalscene.png)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)<br/>
+[![Nautical Scene](images/theislandsnauticalscene.png)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)<br/>
 [PDF Version](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf) <br/>
 **When Yuppies Turn Good** <br/>
 January/February 1992 (Volume 3, Number 2) <br/>
