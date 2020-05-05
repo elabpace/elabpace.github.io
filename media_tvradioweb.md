@@ -111,7 +111,7 @@ Hosted by **Josephine Geraci**
 
 > Pace University Professor Bruce Bachenheimer was interviewed about ‘The importance of Business Plans’  on the weekly Internet radio show Paying It Forward, which aired on Toginet Radio from 10:00 am – 11:00 am  on December 18, 2013. A podcast of the program is available at: [http://toginet.com/podcasts/payingitforward/PayingitForwardLIVE\_2013-12-18.mp3](http://toginet.com/podcasts/payingitforward/PayingitForwardLIVE_2013-12-18.mp3).  
 
-[![](images/press/tv_radio_web/image4571.jpg)](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes)  
+[![](images/news12westchester.jpg)](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes)  
 [Original Link](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes)  
 **Residents overwhelmed with ‘Obamacare’**  
 October 2, 2013     
