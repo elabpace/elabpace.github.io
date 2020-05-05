@@ -1,7 +1,7 @@
 # Media Before Pace University
 
 [![The Sydney Morning Herald](images/thesydneymorningherald.jpg)](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) <br/>
-[Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) | [PDF Version](images/press/before_pace/SMH_7-5-00.pdf ) <br/>
+[Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) | [PDF Version](files/SMH_7-5-00.pdf ) <br/>
 **Master Plan**  
 July 5, 2000 <br/>
 By **Gerald Noonan** 
@@ -19,7 +19,7 @@ By **Gerald Noonan**
 > But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
 
 [![Financial Review](images/financialreview.png)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)<br/>
-[Original Link](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M) | [PDF Version](images/press/before_pace/AFR_5-18-00.pdf) <br/>
+[Original Link](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M) | [PDF Version](files/AFR_5-18-00.pdf) <br/>
 **The model of a new-millennium worker** <br/>
 May 18, 2000 <br/>
 By **Catherine Fox**
@@ -53,7 +53,7 @@ By **Catherine Fox**
 > It sounds as though he is unlikely to be getting more sleep over the next few months.
 
 [![Inside Annapolis](images/insideannapolis.png)](http://www.insideannapolis.com/covers.html)<br/>
-[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](images/press/before_pace/InsideAnnapolisMagazine_FebMar1995.pdf) <br/>
+[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](files/InsideAnnapolisMagazine_FebMar1995.pdf) <br/>
 **New Annapolitans** <br/>
 February/March 1995
 
@@ -62,7 +62,7 @@ February/March 1995
 > "I stayed because I liked the colonial flavor, the seaport atmosphere, and Bay sailing. But what really surprised me is how receptive everyone has been. There's no good old boy, closed preppy network here," he says. "Everyone from old timers to newcomers have been helpful and friendly to me since I went into business."
 
 [![The Capital](images/press/image69341.png)](http://www.insideannapolis.com/covers.html) <br/>
-[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](images/press/before_pace/TheCapital_6-5-94.pdf) <br/>
+[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](files/TheCapital_6-5-94.pdf) <br/>
 **PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.** <br/>
 June 5, 1994 <br/>
 By **Elayne Hopkins**
@@ -92,7 +92,7 @@ By **Elayne Hopkins**
 > **If I could change one thing in my life**: "I any constantly changing many things in my life."
 
 [![Bay Weekly](images/bayweekly.png)](http://bayweekly.com/old-site/1994/94v08.html) <br/>
-[Original Link](http://bayweekly.com/old-site/1994/94v08.html) | [PDF Version](images/press/before_pace/BayTimes_AprilMay1994.pdf) <br/> 
+[Original Link](http://bayweekly.com/old-site/1994/94v08.html) | [PDF Version](files/BayTimes_AprilMay1994.pdf) <br/> 
 **Teak Magic: Caribbean Connections** <br/>
 April 21 – May 4, 1994 (Volume II, Number 8)
 
@@ -123,7 +123,7 @@ April 21 – May 4, 1994 (Volume II, Number 8)
 > “I wanted to make something,” he observes. “Before, it was just working with numbers.”
 
 [![The Annapolis Business Monthly](images/theannapolisbusinessmonthly.png)](http://www.annapolisbusinessmonthly.com/)<br/>
-[Original Link](http://www.annapolisbusinessmonthly.com/) | [PDF Version](images/press/before_pace/AnnapolisBusinessMonthly_MarApr1994.pdf) <br/>
+[Original Link](http://www.annapolisbusinessmonthly.com/) | [PDF Version](files/AnnapolisBusinessMonthly_MarApr1994.pdf) <br/>
 **Spotlight On New Business** <br/>
 March/April 1994 <br/>
 By **Sandra E. Picket**
@@ -157,7 +157,7 @@ By **Sandra E. Picket**
 > "And then there's the environmental aspect. The wood that I buy is all farmed on plantations under local government supervision and exported under license, so its something that I can feel good about.
 
 [![Nautical Scene](images/theislandsnauticalscene.png)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)<br/>
-[PDF Version](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf) <br/>
+[PDF Version](files/TheIslandsNauticalScene_JanFeb1992.pdf) <br/>
 **When Yuppies Turn Good** <br/>
 January/February 1992 (Volume 3, Number 2) <br/>
 By **Susan Barry**
@@ -183,7 +183,7 @@ By **Susan Barry**
 > "But the best part of the trip is being on watch by yourself and seeing the sun come up over an endless ocean."
 
 [![Midori (green)](images/green.png)](images/press/before_pace/BOT_Midori_May_1985.pdf)<br/>
-[PDF Version](images/press/before_pace/BOT_Midori_May_1985.pdf)<br/>
+[PDF Version](files/BOT_Midori_May_1985.pdf)<br/>
 **The Bank of Tokyo in "The Big Apple"** <br/>
 May 1985 (No. 308) <br/>
 
