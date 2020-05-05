@@ -61,8 +61,8 @@ February/March 1995
 >
 > "I stayed because I liked the colonial flavor, the seaport atmosphere, and Bay sailing. But what really surprised me is how receptive everyone has been. There's no good old boy, closed preppy network here," he says. "Everyone from old timers to newcomers have been helpful and friendly to me since I went into business."
 
-[![The Capital](images/press/image69341.png)](http://www.insideannapolis.com/covers.html) <br/>
-[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](files/TheCapital_6-5-94.pdf) <br/>
+[![The Capital](images/thecapital.png)](files/TheCapital_6-5-94.pdf) <br/>
+[PDF Version](files/TheCapital_6-5-94.pdf) <br/>
 **PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.** <br/>
 June 5, 1994 <br/>
 By **Elayne Hopkins**
