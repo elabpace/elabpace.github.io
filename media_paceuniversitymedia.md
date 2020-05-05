@@ -272,7 +272,8 @@ Fall 2005
 - [In Celebration of Global Entrepreneurship Week, “Technology Innovation and Entrepreneurship in Israel - The Biopharmaceutical Industry” (November 8, 2011)](http://pressroom.blogs.pace.edu/2011/11/08/news-advisory-nov-15-at-6-pm-in-celebration-of-global-entrepreneurship-week-technology-innovation-and-entrepreneurship-in-israel-the-biopharmaceutical-industry-with-guest-speaker-fredric-d-pri/)
 
 - [“The Latest Trends in Emerging Business panel at the 12th Annual Yonkers Business Week event” (May 3, 2011)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2011-05-03.pdf)  
-[“Win Over Investors in 3 Minutes – The Seventh Annual Pace Pitch Contest, April 11; Keynote Speaker: Stanley S. Litow, President of the IBM Foundation”(March 15, 2011)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2011-03-15.pdf)
+
+- [“Win Over Investors in 3 Minutes – The Seventh Annual Pace Pitch Contest, April 11; Keynote Speaker: Stanley S. Litow, President of the IBM Foundation”(March 15, 2011)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2011-03-15.pdf)
 
 - [Israel: Land of Tech Promise - More Firms Listed on NASDAQ than Any Country Outside U.S. (April 5, 2010)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2010-04-05.pdf)
 
