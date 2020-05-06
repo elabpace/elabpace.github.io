@@ -52,7 +52,7 @@ By **Menachem Wecker**
 "Eat, drink, and be merry without feeling guilty," he says. "Work hard for that time to relax and savor it."
 
 [![](image57401.png)](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314)  
-[Original Link](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314) | [PDF Version (../press/LUsineNouvelle_9-20-12.pdf)
+[Original Link](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314) | [PDF Version](../press/LUsineNouvelle_9-20-12.pdf)
 
 **Digital: New York built its Valley**  
 September 20, 2012    
