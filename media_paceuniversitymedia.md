@@ -112,10 +112,10 @@ May 2017
 > Professor and Director of the Entrepreneurship Lab
 > Lubin School of Business
 
-[![Opportunitas](images/opportunitas.jpg)](http://www.pace.edu/mypace/profspectives-gig-economy)  
-**PROFSPECTIVES: THE GIG ECONOMY**    
-May 2017
-
+[![Opportunitas](images/opportunitas.jpg)](http://www.pace.edu/mypace/profspectives-gig-economy) <br/>
+[Original Link](http://www.pace.edu/mypace/profspectives-gig-economy) <br/>
+**PROFSPECTIVES: THE GIG ECONOMY** <br/>
+May 2017 <br/>
 > Bruce Bachenheimer
 > Clinical Professor of Management, Lubin School of Business
 > Executive Director, Entrepreneurship Lab
@@ -126,20 +126,18 @@ May 2017
 > 
 > Charles Handy, a British author and management philosopher, predicted the "portfolio worker" decades ago and his advice to his own children was "look for customers, not bosses."
 
-[![Pace Magazine](images/pacemagazine.png)](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)  
-[PDF Version](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30)  
-**Generation Z in the Workforce**  
-Fall 2016  
-By **Arize Lee**
-
+[![Pace Magazine](images/pacemagazine.png)](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30) <br/>
+[Original Link](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30) <br/>
+**Generation Z in the Workforce** <br/>
+Fall 2016 <br/>
+By **Arize Lee** <br/>
 > **They are creating their own career paths.*** Landing a job at a Fortune 500 company isn’t for everyone, but studies show that Gen Z is more interested in entrepreneurship than previous generations. Why? Professor Bruce Bachenheimer, executive director of Pace’s Entrepreneurship Lab, says they’re skeptical, having grown up during the recession. “Gen Z has seen their parents work as loyal employees for a big company, come home every day at 6:00 p.m. for dinner, and take their annual two weeks of vacation,” he says. “But then they watched as their parents were laid off, lost their dignity, and had to take two menial jobs to support themselves and the family. They questioned this loyalty to big companies and thought, ‘Do I have more control over my destiny id I go the entrepreneurial route?’”
 
-[![The Pace Press](images/thepacepress.jpg)](files/PacePress_10-29-14.pdf)  
-[PDF Version](files/PacePress_10-29-14.pdf)  
-**Entrepreneurship takes the University by storm**  
-October 29, 2014  
-By **Arize Lee**  
-
+[![The Pace Press](images/thepacepress.jpg)](files/PacePress_10-29-14.pdf) <br/>
+[PDF Version](files/PacePress_10-29-14.pdf) <br/>
+**Entrepreneurship takes the University by storm** <br/>
+October 29, 2014 <br/>
+By **Arize Lee** <br/>
 > Undoubtedly, the eLab founded in 2004 (sic), provides students and others with valuable knowledge and capital to pursue entrepreneurial aspirations, but eLab director Bruce Bachenheimer pointed out “It’s not about being an entrepreneurship major.”
 > 
 > “I’m here to bring University students in a collaborative work setting,” Bachenheimer explained. “What I would say to anyone interested, is come to the entrepreneurship lab, look around, ask some questions and apply.”
@@ -153,21 +151,19 @@ By **Arize Lee**
 > Bachenheimer warns that “this idea of going to look for a job is a problem. It’s no more, like a generation ago, that you just get hired. Almost all net new jobs are being created by small companies, less than 4 years old with under 100 employees.”  
 > No matter what your occupation, “it’s about recognizing opportunity and creating value,” Bachenheimer stressed. “Pace University’s motto is Opportunitas and nothing is more synonymous with opportunity than entrepreneurship.”  
 
-[![Pace Magazine](images/pacemagazine.png)](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)  
-[PDF Version](images/press/pace_magazine/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf)  
-**Pace’s eLab Helps Make Entrepreneurial Dreams a Reality**  
-Fall 2013  
-
+[![Pace Magazine](images/pacemagazine.png)](files/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf) <br/>
+[PDF Version](files/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf) <br/>
+**Pace’s eLab Helps Make Entrepreneurial Dreams a Reality** <br/>
+Fall 2013 <br/>
 > ![Photo](images/image67381.jpg)
 > 
 > “The Entrepreneurship Lab is a collaborative workspace designed to bring together students from Pace's six schools and colleges in order to promote crossdisciplinary problem solving, experiential learning, and the development of an entrepreneurial mindset,” says Bruce Bachenheimer (above), clinical professor of Management and director of the Entrepreneurship Lab.
 
-[![Pace Magazine](images/pacemagazine.png)](images/press/pace_magazine/TheFacultyAlumniBond.pdf)  
-[PDF Version](images/press/pace_magazine/TheFacultyAlumniBond.pdf)  
-**The Faculty Alumni Bond**  
-Fall 2013 (cover story)  
-By **Caitlin Kelly**  
-
+[![Pace Magazine](images/pacemagazine.png)](files/TheFacultyAlumniBond.pdf) <br/>
+[PDF Version](files/TheFacultyAlumniBond.pdf) <br/>
+**The Faculty Alumni Bond** <br/>
+Fall 2013 (cover story) <br/>
+By **Caitlin Kelly** <br/>
 > Sharing a passion for global entrepreneurship
 > 
 > “I’ve gotten e-mails from him at three in the morning and wondered—‘Does he ever sleep?’”
@@ -178,50 +174,45 @@ By **Caitlin Kelly**
 > 
 > Bachenheimer, a clinical professor of Management and director of entrepreneurship at the Lubin School of Business, had trod many successful paths before returning to Pace—where he received his undergraduate business degree—to share his global business expertise. Among other things, he had worked for the Bank of Tokyo and Westpac, a major Australian bank, then lived aboard his 36-foot sailboat in the Caribbean for a few years. After that he started a teak-importing company based in Annapolis, MD, catering largely to fellow sailors. He attended business school himself at 40 in Australia.
 
-[![Pace Magazine](images/pacemagazine.png)](images/press/pace_magazine/LubinStudentsInTanzania.pdf)  
-[PDF Version](images/press/pace_magazine/LubinStudentsInTanzania.pdf)  
-**Lubin Students in Tanzania**  
-Summer 2008  
-
+[![Pace Magazine](images/pacemagazine.png)](files/LubinStudentsInTanzania.pdf) <br/>
+[PDF Version](files/LubinStudentsInTanzania.pdf) <br/>
+**Lubin Students in Tanzania** <br/>
+Summer 2008 <br/>
 > ![Photo](images/image67521.jpg)
 > 
 > Bruce Bachenheimer, clinical professor of Management and director of Entrepreneurship at the Lubin School, says Pace selected Tanzania for its African program launch because of “the country’s unique and success in implementing a free market economy.” Added Bachenheimer, “While this initial trip is only 10 days in length, it is also designed to serve as a foundation for a long-term relationship between the University of Dar es Salaam and Pace, one which will be truly meaningful and mutually beneficial.
 
-[![Pace Magazine](images/pacemagazine.png)](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)  
-[PDF Version](images/press/pace_magazine/CurriculumInnovationsForTomorrow.pdf)  
-**Curriculum for Tomorrow**  
-Summer 2008 (Page 28)  
-
+[![Pace Magazine](images/pacemagazine.png)](files/CurriculumInnovationsForTomorrow.pdf) <br/>
+[PDF Version](files/CurriculumInnovationsForTomorrow.pdf) <br/>
+**Curriculum for Tomorrow** <br/>
+Summer 2008 (Page 28) <br/>
 > ![Photo](images/image6762.jpg)
 > 
 > At the graduate level, a group of MBA students were in Africa, exploring entrepreneurship in Tanzania with Professor Bruce Bachenheimer during an intense ten day field exploration with officials from the University of Dar es Salaam and local entrepreneurs.
 
-[![](images/press/pace_media/image4181.jpg)](http://bit.ly/PacePress_3-12-08)  
-[PDF Version](http://bit.ly/PacePress_3-12-08)  
-**MBA students travel to Tanzania for business**  
-March 12, 2008  
-By **DJ Hopson**  
-
+[![](images/press/pace_media/image4181.jpg)](files/pacepress_3-12-08.pdf) <br/>
+[PDF Version](files/pacepress_3-12-08.pdf) <br/>
+**MBA students travel to Tanzania for business** <br/>
+March 12, 2008 <br/>
+By **DJ Hopson** <br/>
 > Bruce Bachenheimer, Lubin School of Business’ director of entrepreneurship program, along with 15 Masters of Business Administration (MBA) will be traveling to Tanzania to study with community leaders.
 > 
 > Bachenheimer and the students will also be presenting on “The Changing Role and Increasing Importance of Entrepreneurship in the United States” and “The Recent and Dramatic Growth of Social Entrepreneurship in the United States” at the UDEC.
 
-[![The Pace Press](images/thepacepress.jpg)](http://bit.ly/PacePress_11-28-07)  
-[PDF Version](http://bit.ly/PacePress_11-28-07)  
-**Ambassador of Tanzania delivers speech at the University**  
-November 28, 2007  
-By **Chimene Montgomery**  
-
+[![The Pace Press](images/thepacepress.jpg)](files/PacePress_11-28-07.pdf) <br/>
+[PDF Version](files/PacePress_11-28-07.pdf) <br/>
+**Ambassador of Tanzania delivers speech at the University** <br/>
+November 28, 2007 <br/>
+By **Chimene Montgomery** <br/>
 > The event was presented by professor Bruce Bachenheimer, who met Mahiga this past summer during a workshop on social entrepreneurship at the Fourth Annual Youth Assembly at UN Headquarters. He met with Tanzania’s Permanent Mission to the UN immediately afterwards to discuss having Mahiga speak at the University.
 > 
 > Bachenheimer concluded by saying, “I found Mahiga’s assessment of the greatest challenges for the future of Tanzania to be extremely candid and very insightful. I believe we are quite fortunate to have the opportunity to learn about a nation’s past, present, and future directly from the Ambassador to the United Nations right here at the University.”
 
-[![The Pace Press](images/thepacepress.jpg)](http://bit.ly/PacePress_4-4-07)  
-[PDF Version](http://bit.ly/PacePress_4-4-07)  
-**Phelps Wins Pace Pitch Contest with Game Design**  
-April 4, 2007  
-By **Julissa Lopez**  
-
+[![The Pace Press](images/thepacepress.jpg)](files/PacePress_4-4-07.pdf) <br/>
+[PDF Version](files/PacePress_4-4-07.pdf) <br/>
+**Phelps Wins Pace Pitch Contest with Game Design** <br/>
+April 4, 2007 <br/>
+By **Julissa Lopez** <br/>
 > The Business Plan contest will be accepting applications until April 20, and will then take place on April 30. Both contests have been organized by head of entrepreneurship Bruce Bachenheimer.
 > 
 > The Pace Pitch contest was created by Bachenheimer three years ago, after having been inspired by a contest Bachenheimer participated in when he was in school.
@@ -238,23 +229,21 @@ By **Julissa Lopez**
 > 
 > Bachenheimer claims the Business Plan can be seen as an extension of the Pace Pitch. "It's a lot more involved, like the level after the Pitch contest," he said.
 
-[![Pace Magazine](images/pacemagazine.png)](images/press/pace_magazine/LandingAnOpportunity.pdf)  
-[PDF Version](images/press/pace_magazine/LandingAnOpportunity.pdf)  
-**Landing an Opportunity**  
-Fall 2005  
-By **Sheila Smith Noonan**  
-
+[![Pace Magazine](images/pacemagazine.png)](files/LandingAnOpportunity.pdf) <br/>
+[PDF Version](files/LandingAnOpportunity.pdf) <br/>
+**Landing an Opportunity** <br/>
+Fall 2005 <br/>
+By **Sheila Smith Noonan** <br/>
 > The Bush administration’s current policy toward this labor segment is favorable to small business owners, including immigrants. “Small business is very important to this president,” says Bruce Bachenheimer, PhD, clinical professor of management.
 > 
 > “One of \[George W. Bush’s\] first executive orders was that government agencies should not make any regulations that place a burden on small businesses.”
 > 
 > Many immigrants that are small business owners are also potential entrepreneurs. Bachenheimer contends that entrepreneurs possess certain personal characteristics, including a need for achievement, selfdirection, and the ability to accept risks to succeed. Certainly, moving to a new country simply indicates an acceptance of risk, but the goal-oriented “model minority” immigrants are the ones who use these characteristics to their advantage. “For America to be the land of opportunity, you have to create your own opportunity,” he says.
 
-[![Pace Magazine](images/pacemagazine.png)](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)  
-[PDF Version](images/press/pace_magazine/StudenHitsHomeRunatPacePitchContest.pdf)  
-**Student Hits Home Run at Pace Pitch Contest**  
-Fall 2005  
-
+[![Pace Magazine](images/pacemagazine.png)](files/StudenHitsHomeRunatPacePitchContest.pdf) <br/>
+[PDF Version](files/StudenHitsHomeRunatPacePitchContest.pdf) <br/>
+**Student Hits Home Run at Pace Pitch Contest** <br/>
+Fall 2005 <br/>
 > Says Bruce Bachenheimer, PhD, clinical professor of management, “Pace’s motto is Opportunitas, and I don’t think there’s anything more synonymous with opportunity than entrepreneurship. And there’s nothing more important in teaching entrepreneurship than experiential learning, and this is experiential learning.”
 
 ## Pace University Press Releases
@@ -271,28 +260,28 @@ Fall 2005
 
 - [In Celebration of Global Entrepreneurship Week, “Technology Innovation and Entrepreneurship in Israel - The Biopharmaceutical Industry” (November 8, 2011)](http://pressroom.blogs.pace.edu/2011/11/08/news-advisory-nov-15-at-6-pm-in-celebration-of-global-entrepreneurship-week-technology-innovation-and-entrepreneurship-in-israel-the-biopharmaceutical-industry-with-guest-speaker-fredric-d-pri/)
 
-- [“The Latest Trends in Emerging Business panel at the 12th Annual Yonkers Business Week event” (May 3, 2011)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2011-05-03.pdf)  
+- [“The Latest Trends in Emerging Business panel at the 12th Annual Yonkers Business Week event” (May 3, 2011)](files/2011-05-03.pdf)  
 
-- [“Win Over Investors in 3 Minutes – The Seventh Annual Pace Pitch Contest, April 11; Keynote Speaker: Stanley S. Litow, President of the IBM Foundation”(March 15, 2011)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2011-03-15.pdf)
+- [“Win Over Investors in 3 Minutes – The Seventh Annual Pace Pitch Contest, April 11; Keynote Speaker: Stanley S. Litow, President of the IBM Foundation”(March 15, 2011)](files/2011-03-15.pdf)
 
-- [Israel: Land of Tech Promise - More Firms Listed on NASDAQ than Any Country Outside U.S. (April 5, 2010)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2010-04-05.pdf)
+- [Israel: Land of Tech Promise - More Firms Listed on NASDAQ than Any Country Outside U.S. (April 5, 2010)](files/2010-04-05.pdf)
 
-- [State of the Union, State of the Stimulus - Pace Offers Case Studies January 27, 2010)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2010-01-27.pdf)
+- [State of the Union, State of the Stimulus - Pace Offers Case Studies January 27, 2010)](files/2010-01-27.pdf)
 
-- [Pace Announces Winners of $50,000+ Annual Pitch Contest, Among World’s Richest Pitch Competitions (December 8, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-11-13.pdf)
+- [Pace Announces Winners of $50,000+ Annual Pitch Contest, Among World’s Richest Pitch Competitions (December 8, 2009)](files/2009-11-13.pdf)
 
-- [Pace Pitch Contest “Top10” Finalists Named - Entrepreneurs Compete for $50,000+ on Dec 3, Join Us (November 13, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-11-13.pdf)
+- [Pace Pitch Contest “Top10” Finalists Named - Entrepreneurs Compete for $50,000+ on Dec 3, Join Us (November 13, 2009)](files/2009-11-13.pdf)
 
-- [Pace Pitch Contest Seeks Tomorrow’s “Start-Up” Stars - Over $50,000 Cash - New Deadline, Oct 23 (October 15, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-10-15b.pdf)
+- [Pace Pitch Contest Seeks Tomorrow’s “Start-Up” Stars - Over $50,000 Cash - New Deadline, Oct 23 (October 15, 2009)](files/2009-10-15b.pdf)
 
-- [Bruce Bachenheimer Speaks on “Social Entrepreneurship” at 2009 GCEC Conference, Houston, Oct 16 (October 15, 2009)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2009-10-15a.pdf)
+- [Bruce Bachenheimer Speaks on “Social Entrepreneurship” at 2009 GCEC Conference, Houston, Oct 16 (October 15, 2009)](files/2009-10-15a.pdf)
 
-- [Pace University Hosts Fifth Annual Pitch Contest Thursday, Dec. 4 (December 3, 2008)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2008-12-03.pdf)
+- [Pace University Hosts Fifth Annual Pitch Contest Thursday, Dec. 4 (December 3, 2008)](files/2008-12-03.pdf)
 
-- [Pace MBA Students Spend Spring Break in Tanzania (March 13, 2008)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2008-03-13.pdf)
+- [Pace MBA Students Spend Spring Break in Tanzania (March 13, 2008)](files/2008-03-13.pdf)
 
-- [Fourth Annual Pace Pitch Contest; Keynote David Bornstein, Author of “How to Change the World” (November 30, 2007)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2007-11-30.pdf)
+- [Fourth Annual Pace Pitch Contest; Keynote David Bornstein, Author of “How to Change the World” (November 30, 2007)](files/2007-11-30.pdf)
 
-- [60-Minute Entrepreneurship Tool-Building Workshop for Women Set for October 23 (October 22, 2007)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2007-10-22.pdf)
+- [60-Minute Entrepreneurship Tool-Building Workshop for Women Set for October 23 (October 22, 2007)](files/2007-10-22.pdf)
 
-- [Pitch Your Wagon to a Star - Pace Starts Contest for Best Business Pitches (November 30, 2004)](http://webpage.pace.edu/bbachenheimer/press/press_releases/2004-11-30.pdf)
+- [Pitch Your Wagon to a Star - Pace Starts Contest for Best Business Pitches (November 30, 2004)](files/2004-11-30.pdf)
