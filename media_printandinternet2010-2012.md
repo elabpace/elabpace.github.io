@@ -48,7 +48,7 @@ The downside to limiting your hours in a small business: If you’re not availab
 [![](image5765.png)](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students)  
 [![](image5911.jpg)](../press/US_News_and_World_Report_11-12-12.pdf)  
 
-**10 Work-Life Balance Tips for MBA Students**
+**10 Work-Life Balance Tips for MBA Students**  
 November 12, 2012  
 By **Menachem Wecker**  
 
