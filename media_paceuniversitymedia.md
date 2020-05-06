@@ -81,7 +81,7 @@ May 2018 <br/>
 > My mother, my mother-in-law, and my daughter. My mother and mother-in-law both passed away before I was married and never knew our daughter. If it was possible for my mother and mother-in-law to meet our daughter, that would be an amazing dinner for four. 
 
 [![Opportunitas](images/opportunitas.jpg)](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017) <br/>
-[Original Link](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017)
+[Original Link](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017) <br/>
 **PROFSPECTIVES: CELEBRITY CULTURE TODAY** <br/>
 September 2017 <br/>
 > Bruce Bachenheimer  
