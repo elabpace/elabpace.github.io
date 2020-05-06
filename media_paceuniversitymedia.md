@@ -1,9 +1,9 @@
 # Pace University Media
 
-[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/world-changing-impact-covid-19)  
-**PACESPECTIVES: The World-Changing Impact of COVID-19**  
-April 2020  
-
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/world-changing-impact-covid-19) <br/>
+[Original Link](https://www.pace.edu/mypace/world-changing-impact-covid-19) <br/>
+**PACESPECTIVES: The World-Changing Impact of COVID-19** <br/>
+April 2020 <br/>
 > **COVID-19 and Entrepreneurship**  
 > Bruce Bachenheimer  
 > eLab Director, Lubin School of Business
@@ -12,10 +12,10 @@ April 2020
 > 
 > What innovative business concepts will be born out of the COVID-19 crisis? We’ll have to wait and see. But what’s important to remember is that it’s not about coming up with an interesting idea; it’s about the passion, persistence, and perseverance to actually make it happen.
 
-[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues)  
-**PACESPECTIVES: OPERATION VARSITY BLUES**  
-April  2019  
-
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues) <br/>
+[Original Link](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues) <br/>
+**PACESPECTIVES: OPERATION VARSITY BLUES** <br/>
+April  2019 <br/>
 > Bruce Bachenheimer  
 > Clinical Professor of Management  
 > Executive Director, Entrepreneurship Lab  
@@ -31,10 +31,10 @@ April  2019
 > 
 > Some colleges have successfully rejected the "games" associated with admissions and privilege. MIT does not offer athletic scholarships, have legacy admissions, include Latin honors upon graduation, or award honorary degrees. The institute is the epitome of a meritocracy. Others have excelled at adding value. Pace was ranked the best private university in the country for upward economic mobility of students. We are the embodiment of Opportunitas!
 
-[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-holiday-edition)  
-**PACESPECTIVES: HOLIDAY EDITION**  
-December 2018
-
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-holiday-edition) <br/>
+[Original Link](https://www.pace.edu/mypace/pacespectives-holiday-edition) <br/>
+**PACESPECTIVES: HOLIDAY EDITION** <br/>
+December 2018 <br/>
 > **Is All That Shopping Giving You Business Ideas? Test Them Out!***
 > 
 > **Bruce Bachenheimer**
@@ -45,10 +45,10 @@ December 2018
 > 
 > The holidays tend to be a time that people are more inclined to try something new and spend impulsively, so get out there and take advantage of the opportunity. Whether you make a sale or not, learn as much as possible about the market and your customers.
 
-[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer)  
-**THE PROFESSOR IS IN: BRUCE BACHENHEIMER**  
-May 2018
-
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer) <br/>
+[Original Link](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer) <br/>
+**THE PROFESSOR IS IN: BRUCE BACHENHEIMER** <br/>
+May 2018 <br/>
 > Bruce Bachenheimer
 > Clinical Professor of Management, Lubin School of Business
 > Executive Director, Entrepreneurship Lab
@@ -80,10 +80,10 @@ May 2018
 > 
 > My mother, my mother-in-law, and my daughter. My mother and mother-in-law both passed away before I was married and never knew our daughter. If it was possible for my mother and mother-in-law to meet our daughter, that would be an amazing dinner for four. 
 
-[![Opportunitas](images/opportunitas.jpg)](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017)  
-**PROFSPECTIVES: CELEBRITY CULTURE TODAY**  
-September 2017
-
+[![Opportunitas](images/opportunitas.jpg)](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017) <br/>
+[Original Link](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017)
+**PROFSPECTIVES: CELEBRITY CULTURE TODAY** <br/>
+September 2017 <br/>
 > Bruce Bachenheimer  
 > Clinical Professor of Management, Lubin School of Business  
 > Executive Director, Entrepreneurship Lab  
@@ -134,8 +134,8 @@ By **Arize Lee**
 
 > **They are creating their own career paths.*** Landing a job at a Fortune 500 company isn’t for everyone, but studies show that Gen Z is more interested in entrepreneurship than previous generations. Why? Professor Bruce Bachenheimer, executive director of Pace’s Entrepreneurship Lab, says they’re skeptical, having grown up during the recession. “Gen Z has seen their parents work as loyal employees for a big company, come home every day at 6:00 p.m. for dinner, and take their annual two weeks of vacation,” he says. “But then they watched as their parents were laid off, lost their dignity, and had to take two menial jobs to support themselves and the family. They questioned this loyalty to big companies and thought, ‘Do I have more control over my destiny id I go the entrepreneurial route?’”
 
-[![The Pace Press](images/thepacepress.jpg)](http://bit.ly/PacePress)  
-[PDF Version](http://bit.ly/PacePress)  
+[![The Pace Press](images/thepacepress.jpg)](files/PacePress_10-29-14.pdf)  
+[PDF Version](files/PacePress_10-29-14.pdf)  
 **Entrepreneurship takes the University by storm**  
 October 29, 2014  
 By **Arize Lee**  
