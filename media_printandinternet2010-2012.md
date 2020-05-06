@@ -1,6 +1,6 @@
 # Print and Internet 2010-2012
 
-[![IndustryWeek](image57761.jpg)](http://www.industryweek.com/leadership/creating-entrepreneurial-company)  
+[![IndustryWeek](industryweek.jpg)](http://www.industryweek.com/leadership/creating-entrepreneurial-company)  
 [Original Link](http://www.industryweek.com/leadership/creating-entrepreneurial-company)
 | [PDF Version](../press/IndustryWeek_12-10-12.pdf)  
 
@@ -16,7 +16,7 @@ Companies that want to encourage innovation and entrepreneurship, or intrapreneu
 
 The first thing companies should consider is how they will handle risk and reward. "If you have some really bright, innovative employees, if they take the risk to do something and it doesn't work, is their career derailed?" posits Bachenheimer. "On the other hand, what happens if it is wildly successful, if it saves or makes the company millions and millions of dollars? What kind of reward do those employees get?" The reward doesn't have to be as lavish as a large grant of stock options, he says, but it should be "more than some kind of nominal $1,000 bonus."
 
-[![](image5666.jpg)](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html)  
+[![](nyconvergence.jpg)](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html)  
 [Original Link](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) | [PDF Version](../press/NYConvergence_12-5-12.pdf)
 
 **#MITEF: Clear, Concise and Convincing**  
@@ -25,7 +25,7 @@ By **Lauren Keyson**
 
 Bruce Bachenheimer, Pace University director of entrepreneurism and board member, attended with his graduate business development class. He wanted them to see what he called “actual” companies presenting their business plans. “When you do it in the classroom, there is an academic part of doing research and looking at databases,” he said.  “I hope they see what a “real” presenter would look like – someone who has done a lot of pitching, probably has received a seed round or doing an A round now, have polished their pitch and have actual technology.”
 
-[![](image57581.jpg)](http://workreimagined.aarp.org/manage-your-career/how-to-shatter-the-glass-ceiling-go-outside/)  
+[![](workreimagined.jpg)](http://workreimagined.aarp.org/manage-your-career/how-to-shatter-the-glass-ceiling-go-outside/)  
 [Original Link](http://workreimagined.aarp.org/2012/11/how-to-shatter-the-glass-ceiling-go-outside/) | [PDF Version](../press/WorkReimagined_11-27-12.pdf)
 
 **How to Shatter the Glass Ceiling: Go Outside**  
@@ -40,7 +40,7 @@ Have you been penalized for needing flexibility?
 
 The downside to limiting your hours in a small business: If you’re not available when customers need you, you may find there are limits to your success. “At some point, if you decide that your objective is to maximize revenues, then you won’t turn down calls and meetings,” says Bachenheimer.
 
-[![](image5765.png)](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students)  
+[![](usnews.png)](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students)  
 [Original Link](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students) | [PDF Version](../press/US_News_and_World_Report_11-12-12.pdf)  
 
 **10 Work-Life Balance Tips for MBA Students**  
@@ -51,7 +51,7 @@ By **Menachem Wecker**
 
 "Eat, drink, and be merry without feeling guilty," he says. "Work hard for that time to relax and savor it."
 
-[![](image57401.png)](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314)  
+[![](usinenouvelle.png)](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314)  
 [Original Link](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314) | [PDF Version](../press/LUsineNouvelle_9-20-12.pdf)
 
 **Digital: New York built its Valley**  
@@ -62,7 +62,7 @@ By **Frederic Autran**
 
 Surprisingly, the 2008 financial crisis has been a catalyst for the technological scene in New York. "Many programmers, engineers and analysts have landed in Silicon Alley after losing or leaving their jobs on Wall Street” says Bruce Bachenheimer, director of the Entrepreneurship Laboratory at Pace University in New York. “And it has become sexier to say that you work in a start-up rather than on Wall Street. It is a situation that the mayor understood."
 
-[![](image57341.jpg)](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/)  
+[![](fuw.jpg)](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/)  
 [Original Link](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/) | [PDF Version](../press/Finanz_und_Wirtschaft_9-10-12.pdf)
 
 **Optimism in Silicon Alley**  
@@ -71,7 +71,7 @@ By **Christopher Gisiger**
 
 "As far as the number of deals, this year New York came in second behind Silicon Valley, overtaking Boston" says Bruce Bachenheimer, Professor of Business at Pace University.
 
-[![](image5726.jpg)](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm)  
+[![](21cbh.jpg)](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm)  
 [Original Link](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm) | [PDF Version](../press/21stCenturyBusinessHerald_9-10-12.pdf)
 
 **The Fed’s QE fork: who benefits and who pays the bill**  
@@ -80,7 +80,7 @@ By **Ye Hui Jue**
 
 For the private sector of the economy, QE may not have an entirely a positive effect. Mr. Bachenheimer, who has long been engaged in entrepreneurial studies, stated that as the market stabilizes, it is likely that equities will improve, bond prices will decline slightly, gold will become less attractive, the dollar will strengthen, and start-up enterprises will find it easier to secure debt and raise capital.
 
-[![](image7164.jpg)](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992)  
+[![](crainsnewyork.jpg)](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992)  
 [Original Link](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992) | [PDF Version](../press/Crains_9-9-12.pdf)
 
 **Woman Entrepreneurs smash an old barrier**  
@@ -91,14 +91,14 @@ By **Elizabeth MacBride**
 
 "[These networks] are not a vague thing in the background," said Mr. Bachenheimer. "It's whom do you pick up the phone and call ... when you need talent?"
 
-[![](image57161.jpg)](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html)
+[![](smh.jpg)](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html)
 [Original Link](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) | [PDF Version](../press/SMH_8-24-12.pdf) 
 
 ***Also featured in***:  
-[![](image57471.png)](http://www.theage.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
-[![](image57461.png)](http://www.brisbanetimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
-[![](image57451.jpg)](http://www.canberratimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
-[![](image57441.png)](http://www.watoday.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
+[![](theage.png)](http://www.theage.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
+[![](brisbanetimes.png)](http://www.brisbanetimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
+[![](canberratimes.jpg)](http://www.canberratimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
+[![](watoday.png)](http://www.watoday.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
  
 
 **It’s the technology, stupid**  
@@ -109,7 +109,7 @@ The impact of tech cannot be underestimated. “The city recognised this and kne
 
 Knowing what the private sector needs is also a key. “In the '90s, people were chasing money,” Bachenheimer said. “The saying was that if you could say dot-com you got money. Now people want revenue and profits. If you look at what New York is excelling at, it is not creating some technology, it is taking existing technology and applying it where there is real need.”
 
-[![](image5710.jpg)](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm)  
+[![](21cbh.jpg)](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm)  
 [Original Link](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm) | [PDF Version](../press/21stCenturyBusinessHerald_8-13-12.pdf)
 
 **“IPO blowout Week” Dashed**  
@@ -157,7 +157,7 @@ Bruce Bachenheimer, clinical professor of management at Pace University, told th
 
 “We all enjoyed the experience and found it quite insightful,” he said. “While the board game itself is quite well thought out, I believe the real value of the game lies in the facilitators — those coaching players during the game and, more importantly, conducting the debriefing afterward. The game itself is a very good tool, but not in and of itself — the ‘brilliance’ lies in the abilities of those conducting the exercise.”
 
-[![](image5742.jpg)](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html)  
+[![](21cbh.jpg)](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html)  
 [Original Link](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html) | [PDF Version](../press/21stCenturyBusinessHerald_7-26-12.pdf)
 
 **Looking forward to the "negative": the possibility of significant increase of the EFSF rating downgrades**  
@@ -166,7 +166,7 @@ By **Ye Hui Jue**
 
 “Market behavior is usually difficult to predict, but it is nothing more than two kinds of emotional control - fear and greed." Pace University, USA Lubin Business School Professor Bruce Bachenheimer pointed out to reporters.
 
-[![](image5686.jpg)](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php)  
+[![](lapresse.jpg)](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php)  
 [Original Link](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php) | [PDF Version](../press/LaPresse_7-23-12.pdf)
 
 **Technology businesses by the thousands in New York**  
@@ -183,7 +183,7 @@ Paradoxically, the financial crisis of 2008 contributed to the technology boom i
 
 "It is not enough to say dot-com to raise money," says Bruce Bachenheimer, a professor at Pace University. "The" venture capitalists "watch the revenues and profits. And what startups are doing well in New York is using existing technology and apply it where it can respond to real needs."
 
-![](image56841.jpg)  
+![](21cbh.jpg)  
 [Original Link](http://epaper.21cbh.com/html/2012-07/23/content_29455.htm) | [PDF Version](../press/21stCenturyBusinessHerald_7-21-12.pdf)
 
 **The four major banks sigh: America's financial industry fears layoffs**  
@@ -192,7 +192,7 @@ By **Ye Hui Jue**
 
 Analysts believe that the more stringent financial regulation led to many companies to be discouraged by the public market. Pace University Lubin Business School Professor Bruce Bachenheimer said to this reporter: "Due to a series of financial regulatory requirements in the Sarbanes-Oxley Act and other strict rules for operating in the public market, many enterprises do not want to do an IPO at this time, choosing instead a more private and conservative trade sale."
 
-[![](image57491.png)](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/)  
+[![](youngentrepreneur.png)](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/)  
 [Original Link](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/) | [PDF Version](../press/YoungEntrepreneur_7-13-12.pdf)
 
 **Must Read Books to Fuel Your Summer — And Your Startup**  
@@ -209,7 +209,7 @@ by Guy Kawasaki
 
 It’s a really fun, easy read — and a very broad book for entrepreneurs starting everything.
 
-[![](image5666.jpg)](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html)  
+[![](nyconvergence.jpg)](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html)  
 [Original Link](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html) | [PDF Version](../press/NYConvergence_6-20-12.pdf)
 
 **MITEF/NYTECH Digital Discussion: Failure Is Liberating, Wild Success Is Exhilarating**  
@@ -250,7 +250,7 @@ ESTABLISH CASH RESOURCES.
 
 To determine how much cash you'll need, develop a cash-flow statement that estimates your expenses and income. Be sure to include appropriate expense levels by researching actual business costs rather than estimating based on your personal experience as a retail consumer. “For instance, you can host your personal website with unlimited bandwidth for $9.95 a month, but operating a commercial website may cost hundreds or thousands of dollars a month,” Pace University's Bachenheimer says.
 
-[![](image5751.png)](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/)  
+[![](youngentrepreneur.png)](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/)  
 [Original Link](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/) | [PDF Version](../press/YoungEntrepreneur_5-22-12.pdf)
 
 **At College Pitch Contests, Giant Companies Are Listening**  
