@@ -31,6 +31,7 @@ November 11, 2016 <br/>
 **Global Talk Show Cosmopolitan** <br/>
 January 23, 2016 <br/>
 > Pace University Professor Bruce Bachenheimer was interviewed on Global Talk Show Cosmopolitan, which aired on Korean Broadcasting System Channel 1 January 23, 2016. The program examined New York City’s Silicon Alley. A video clip of the program is available at: [http://bit.ly/KBS-BB](http://bit.ly/KBS-BB) (the Silicon Alley segment starts at 19:50 and Professor Bachenheimer appears at 22:58).
+>
 > ![Photo](images/press/tv_radio_web/image1084.png)
 
 [![PBS](images/pbs.jpg)](http://scitechnow.org/videos/from-soldier-to-entrepreneur/) <br/>
@@ -55,6 +56,7 @@ Hosted by **Gigi Stone Woods** <br/>
 January 11, 2015 <br/>
 Hosted by **Simcha Gluck** <br/>
 > Pace University Professor Bruce Bachenheimer appeared on the premier episode of Innovation Nation, which aired live on Voice of Israel January 11, 2015 from 2:30 –3:00 PM, in a segment titled Bridging the Israeli and New York City Startup Scenes.
+>
 > ![Photo](images/image6861.jpg)
 
 [![NYCTV Life](images/nyctvlife.jpg)](http://www.nyc.gov/html/media/html/tv/nyctv_life_wwr.shtml) <br/>
