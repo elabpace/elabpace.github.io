@@ -40,6 +40,7 @@ January 23, 2016 <br/>
 April 29, 2015 <br/>
 Hosted by **Hari Sreenivasan** <br/>
 > Pace University Professor Bruce Bachenheimer appeared on SciTech Now, which premiered on WLIW Channel 21 April 29, 2015 from 7:00 –7:30 PM. The program also aired on WNET Thirteen and other PBS stations nationally. A video clip of this segment is available at: [http://bit.ly/SciTech\_Now](http://bit.ly/SciTech_Now)
+>
 > ![Photo](images/image25541.jpg)
 
 [![ABC7](images/abc7.jpg)](http://hiringamerica.net/episode-48/) <br/>
@@ -48,6 +49,7 @@ Hosted by **Hari Sreenivasan** <br/>
 April 25, 2015 <br/>
 Hosted by **Gigi Stone Woods** <br/>
 > Pace University Professor Bruce Bachenheimer appeared on Hiring America, which aired on WABC-TV Channel 7 April 25, 2015 from 1:30 –2:00 PM. The program was also broadcast nationally in over 80 markets as well as on the Armed Forces Network. A video clip of this segment is available at: [http://bit.ly/HA\_48](http://bit.ly/HA_48)
+>
 > ![Photo](images/image25611.jpg)
 
 [![Voice of Israel](images/voiceofisrael.png)](http://www.voiceofisrael.com/bridging-israeli-new-york-city-startup-scenes/) <br/>
@@ -65,6 +67,7 @@ Hosted by **Simcha Gluck** <br/>
 September 1, 2014 <br/>
 Hosted by **Allison Haunss** <br/>
 > Pace University Professor Bruce Bachenheimer appeared on the Working Woman Report, which aired on NYC TV Channel 25 on September 1, 2014 from 8:30 – 9:00 PM. A video clip of this segment is available at: [http://bit.ly/WWR\_NYCTV](http://bit.ly/WWR_NYCTV.)
+>
 > ![Photo](images/image84171.jpg)
 
 [![Talking Alternative](images/talkingalternative.jpg)](http://www.talkingalternative.com/events/2014/07/the-womans-playbook-10) <br/>
@@ -180,7 +183,7 @@ Hosted by **Alan Schnurman** <br/>
 > Pace University Professor Bruce Bachenheimer was a guest on the NYC TV program Lawline, which aired on December 13, 2009 from 5:30 pm to 6:00 pm. The broadcast is available at: [http://bit.ly/Lawline](http://bit.ly/Lawline) <br/>
 > ![Photo](images/image4617.png) <br/>
 
-[![KUHF](images/image45911.jpg)](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674) <br/>
+[![KUHF](images/kuhf.jpg)](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674) <br/>
 [Original Link](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674) <br/>
 **Rice University recently held a consortium on the growing field of teaching entrepreneurship.** <br/>
 October 19, 2009 <br/>
