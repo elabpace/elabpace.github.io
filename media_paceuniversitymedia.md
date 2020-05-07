@@ -38,7 +38,7 @@ December 2018 <br/>
 > **Is All That Shopping Giving You Business Ideas? Test Them Out!***
 > 
 > **Bruce Bachenheimer**
-> Clinical Professor of Management, Lubin School of Business
+> Clinical Professor of Management, Lubin School of Business <br/>
 > Executive Director, Entrepreneurship Lab  
 > 
 > One of the most important things for entrepreneurs to achieve is customer validation: proof that you have targeted the correct customer segment, identified a real need, and are providing a product or service that actually solves that need. The definitive form of customer validation is getting someone to open their wallet and actually make a purchase.
