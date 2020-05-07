@@ -103,6 +103,7 @@ September 2017 <br/>
 > So, what would you like your brand to be and how should you go about creating it?
 
 [![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-advice-class-2021) <br/>
+[Original Link](https://www.pace.edu/mypace/pacespectives-advice-class-2021) <br/>
 **PROFSPECTIVES: ADVICE FOR THE CLASS OF 2021** <br/>
 May 2017 <br/>
 > “Don’t just think of college as a series of courses. It’s a unique opportunity to explore and discover, experiment and evaluate, to be challenged and to grow. Some of these opportunities can be found in the classroom, many others are not. Seek them out.”
