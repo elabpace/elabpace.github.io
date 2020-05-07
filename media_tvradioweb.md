@@ -96,6 +96,7 @@ Hosted by **Josephine Geraci** <br/>
 October 2, 2013 <br/>
 Reported by **Grace Noone** <br/>
 > Pace University Professor Bruce Bachenheimer was interviewed by Grace Noone for a segment on Obamacare and small business that aired on the 5:00 news.
+>
 > ![Photo](images/image4569.jpg)
 
 [![Forbes Video Network](images/forbesvideo.jpg)](http://landing.newsinc.com/forbes/video.htmlfreewheel=91218&sitesection=forbes&VID=24742089) <br/>
