@@ -61,10 +61,10 @@ July 1, 2008 <br/>
 By **Rachel Solomon** <br/>
 > The majority of 2,007 customers polled said they were more likely to buy from companies that make energy-efficient products, promote health and safety, and support fair labor practices. That sentiment, however, should not influence your marketing game plan, warns Bruce Bachenheimer, a professor of management and director of the entrepreneurial program at Pace University's Lubin School of Business in New York City. "A lot of people say, 'Yes, I want to buy things that are socially conscious,'" he explains. But "the bottom line — no matter what we consumers say we'd like to do — is that it has to be similar \[to competitors\] in terms of price and ease to purchase."
 >
-> **Building Your Brand**
+> **Building Your Brand** <br/>
 > When it comes to branding, a social enterprise should wear its heart on its sleeve, Bachenheimer says. Your associations with your values become just as important as those with your goods or services. You can inherently brand your values by forming relationships with socially-conscious retailers (think Whole Foods, the natural-foods grocer) who are known for vetting their vendors. A social enterprise's "emotional" branding can also be bolstered by labeling from various certification agencies, such as Fair Trade's FLO International, says Bachenheimer.
 >
-> **Communicating the Mission**
+> **Communicating the Mission** <br/>
 > Educating consumers about your social impact is perhaps one of the biggest and most delicate challenges of marketing the enterprise. "When people understand it, they might be willing to go a little bit out of their way and pay a little more money," says Bachenheimer.
 
 [![PFNlive](images/pfnlive.jpg)](http://www.pfnlive.com/) <br/>
@@ -72,7 +72,7 @@ By **Rachel Solomon** <br/>
 **MBA Pursuit Opens New Doors, Opportunities for Physicians** <br/>
 June 6, 2008 <br/>
 By **Ed Rabinowitz** <br/>
-> **Business is booming**
+> **Business is booming** <br/>
 > Young medical school students aren’t the only ones recognizing the importance of an MBA in today’s changing healthcare environment. Professor Bruce Bachenheimer, director of entrepreneurship at New York’s Pace University, says quite a few established physicians are returning part-time at night for their MBA.
 >
 > “The doctors coming in recognize that insurance and medical billing are making it much more difficult to be a doctor,” Bachenheimer explains. “They’re part of a cog of a much larger wheel, and \[healthcare\] is much more of a business. That has prompted some doctors to say, ‘Let me understand the business so I can play this game better.’”
