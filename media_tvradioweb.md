@@ -118,7 +118,7 @@ October 24, 2012 <br/>
 Hosted by **Josephine Geraci** <br/>
 > Pace University Professor Bruce Bachenheimer was interviewed on the weekly Internet radio show Paying It Forward, which aired on Toginet Radio on October 24, 2012.A podcast of the program is available on iTunes and at: [http://bit.ly/PayingItForward\_10-24-12](http://bit.ly/PayingItForward_10-24-12)
 
-[![WPIX 11](images/WPIX11.jpg)](http://bit.ly/WWR_BB) <br/>
+[![WPIX 11](images/wpix11.jpg)](http://bit.ly/WWR_BB) <br/>
 [Original Link](http://bit.ly/WWR_BB) <br/>
 **Working Woman Report** <br/>
 September 30, 2012 Hosted <br/>
