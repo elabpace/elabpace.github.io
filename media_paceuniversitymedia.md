@@ -21,7 +21,7 @@ April  2019 <br/>
 > Executive Director, Entrepreneurship Lab  
 > Lubin School of Business  
 > 
-> ***"Live by the sword, die by the sword"***
+> **"Live by the sword, die by the sword"**
 > 
 > The "bulldozer parents" who seek to "clear a path" for their child to gain admission to a top ranked college, live by the rankings. Prospective students who define themselves by the numerical rank of the college they attend, live by the rankings. Colleges whose mission is simply to advance in the rankings, live by the rankings. And all may suffer tremendously because of college rankings.
 > 
@@ -49,7 +49,7 @@ December 2018 <br/>
 [Original Link](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer) <br/>
 **THE PROFESSOR IS IN: BRUCE BACHENHEIMER** <br/>
 May 2018 <br/>
-> Bruce Bachenheimer
+> **Bruce Bachenheimer**
 > Clinical Professor of Management, Lubin School of Business
 > Executive Director, Entrepreneurship Lab
 > 
@@ -84,7 +84,7 @@ May 2018 <br/>
 [Original Link](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017) <br/>
 **PROFSPECTIVES: CELEBRITY CULTURE TODAY** <br/>
 September 2017 <br/>
-> Bruce Bachenheimer  
+> **Bruce Bachenheimer**  
 > Clinical Professor of Management, Lubin School of Business  
 > Executive Director, Entrepreneurship Lab  
 > 
@@ -116,7 +116,7 @@ May 2017
 [Original Link](http://www.pace.edu/mypace/profspectives-gig-economy) <br/>
 **PROFSPECTIVES: THE GIG ECONOMY** <br/>
 May 2017 <br/>
-> Bruce Bachenheimer
+> **Bruce Bachenheimer**
 > Clinical Professor of Management, Lubin School of Business
 > Executive Director, Entrepreneurship Lab
 > 
