@@ -4,9 +4,9 @@
 [Original Link](https://www.pace.edu/mypace/world-changing-impact-covid-19) <br/>
 **PACESPECTIVES: The World-Changing Impact of COVID-19** <br/>
 April 2020 <br/>
-> **COVID-19 and Entrepreneurship**  
-> Bruce Bachenheimer  
-> eLab Director, Lubin School of Business
+> **COVID-19 and Entrepreneurship** <br/>
+> Bruce Bachenheimer <br/>
+> eLab Director, Lubin School of Business <br/>
 >
 > Entrepreneurship is often associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more ‘ripe for disruption’ than during a crisis. Airbnb and Uber were founded amid the 2008 financial crisis, and probably would not have succeeded if either was launched a few years earlier or later. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who were suddenly willing to sleep in a stranger’s bed and pay for a ride in a regular car. Once these concepts proved successful, they were able to become a new normal.
 > 
@@ -16,10 +16,10 @@ April 2020 <br/>
 [Original Link](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues) <br/>
 **PACESPECTIVES: OPERATION VARSITY BLUES** <br/>
 April  2019 <br/>
-> Bruce Bachenheimer  
-> Clinical Professor of Management  
-> Executive Director, Entrepreneurship Lab  
-> Lubin School of Business  
+> Bruce Bachenheimer <br/>
+> Clinical Professor of Management <br/>
+> Executive Director, Entrepreneurship Lab <br/>
+> Lubin School of Business <br/>
 > 
 > **"Live by the sword, die by the sword"**
 > 
@@ -37,9 +37,9 @@ April  2019 <br/>
 December 2018 <br/>
 > **Is All That Shopping Giving You Business Ideas? Test Them Out!***
 > 
-> **Bruce Bachenheimer**
+> **Bruce Bachenheimer** <br/>
 > Clinical Professor of Management, Lubin School of Business <br/>
-> Executive Director, Entrepreneurship Lab  
+> Executive Director, Entrepreneurship Lab <br/>
 > 
 > One of the most important things for entrepreneurs to achieve is customer validation: proof that you have targeted the correct customer segment, identified a real need, and are providing a product or service that actually solves that need. The definitive form of customer validation is getting someone to open their wallet and actually make a purchase.
 > 
@@ -49,9 +49,9 @@ December 2018 <br/>
 [Original Link](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer) <br/>
 **THE PROFESSOR IS IN: BRUCE BACHENHEIMER** <br/>
 May 2018 <br/>
-> **Bruce Bachenheimer**
-> Clinical Professor of Management, Lubin School of Business
-> Executive Director, Entrepreneurship Lab
+> **Bruce Bachenheimer** <br/>
+> Clinical Professor of Management, Lubin School of Business <br/>
+> Executive Director, Entrepreneurship Lab <br/>
 > 
 > Thirty-five years ago this month, Bruce Bachenheimer (BBA ’83) graduated from Pace with a degree in international management. Today, Bachenheimer is a vocal and vital member of the Pace Community, helping shape the minds of future business leaders in management and entrepreneurship. Bachenheimer recently took some time to chat with Opportunitas about what he’s working on, what he likes about Pace, and the current dynamism of New York City.
 > 
@@ -84,9 +84,9 @@ May 2018 <br/>
 [Original Link](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017) <br/>
 **PROFSPECTIVES: CELEBRITY CULTURE TODAY** <br/>
 September 2017 <br/>
-> **Bruce Bachenheimer**  
-> Clinical Professor of Management, Lubin School of Business  
-> Executive Director, Entrepreneurship Lab  
+> **Bruce Bachenheimer** <br/>
+> Clinical Professor of Management, Lubin School of Business <br/>
+> Executive Director, Entrepreneurship Lab <br/>
 > 
 > **Celebrity and Personal Branding**
 > 
@@ -102,10 +102,9 @@ September 2017 <br/>
 > 
 > So, what would you like your brand to be and how should you go about creating it?
 
-[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-advice-class-2021)  
-**PROFSPECTIVES: ADVICE FOR THE CLASS OF 2021**  
-May 2017
-
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-advice-class-2021) <br/>
+**PROFSPECTIVES: ADVICE FOR THE CLASS OF 2021** <br/>
+May 2017 <br/>
 > “Don’t just think of college as a series of courses. It’s a unique opportunity to explore and discover, experiment and evaluate, to be challenged and to grow. Some of these opportunities can be found in the classroom, many others are not. Seek them out.”
 > 
 > Bruce Bachenheimer
@@ -116,9 +115,9 @@ May 2017
 [Original Link](http://www.pace.edu/mypace/profspectives-gig-economy) <br/>
 **PROFSPECTIVES: THE GIG ECONOMY** <br/>
 May 2017 <br/>
-> **Bruce Bachenheimer**
-> Clinical Professor of Management, Lubin School of Business
-> Executive Director, Entrepreneurship Lab
+> **Bruce Bachenheimer** <br/>
+> Clinical Professor of Management, Lubin School of Business <br/>
+> Executive Director, Entrepreneurship Lab <br/>
 > 
 > The gig economy can provide workers with flexibility and independence, removing the walls and ceiling of a traditional job. It can also remove the floor of stability and security. The technology that enables individuals to provide these services directly to customers on such a large scale has relied on data analytics to do so efficiently and effectively. The resulting analytical information and insights are incredibly valuable, but can also be somewhat Orwellian.
 > 
@@ -131,7 +130,7 @@ May 2017 <br/>
 **Generation Z in the Workforce** <br/>
 Fall 2016 <br/>
 By **Arize Lee** <br/>
-> **They are creating their own career paths.*** Landing a job at a Fortune 500 company isn’t for everyone, but studies show that Gen Z is more interested in entrepreneurship than previous generations. Why? Professor Bruce Bachenheimer, executive director of Pace’s Entrepreneurship Lab, says they’re skeptical, having grown up during the recession. “Gen Z has seen their parents work as loyal employees for a big company, come home every day at 6:00 p.m. for dinner, and take their annual two weeks of vacation,” he says. “But then they watched as their parents were laid off, lost their dignity, and had to take two menial jobs to support themselves and the family. They questioned this loyalty to big companies and thought, ‘Do I have more control over my destiny id I go the entrepreneurial route?’”
+> **They are creating their own career paths.*** Landing a job at a *Fortune* 500 company isn’t for everyone, but studies show that Gen Z is more interested in entrepreneurship than previous generations. Why? Professor Bruce Bachenheimer, executive director of Pace’s Entrepreneurship Lab, says they’re skeptical, having grown up during the recession. “Gen Z has seen their parents work as loyal employees for a big company, come home every day at 6:00 p.m. for dinner, and take their annual two weeks of vacation,” he says. “But then they watched as their parents were laid off, lost their dignity, and had to take two menial jobs to support themselves and the family. They questioned this loyalty to big companies and thought, ‘Do I have more control over my destiny id I go the entrepreneurial route?’”
 
 [![The Pace Press](images/thepacepress.jpg)](files/PacePress_10-29-14.pdf) <br/>
 [PDF Version](files/PacePress_10-29-14.pdf) <br/>
