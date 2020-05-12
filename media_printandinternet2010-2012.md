@@ -833,6 +833,7 @@ Likewise, Bachenheimer adds, in some locales, the roads, electricity, phone serv
 July 5, 2010 <br/>
 By **Carrie Mason-Draffen** <br/>
 > Entrepreneurial activity in 2009 was at a 14-year high nationwide, with the highest growth coming among 34- to 44-year-olds, according to the Kauffman Foundation, of Kansas City, Mo., which promotes entrepreneurship.
+>
 > That's the demographic - with many well-educated, high-wage, middle managers - who were hard hit during the recession, said Bruce Bachenheimer, director of entrepreneurship at Pace University in Manhattan. "They are not the people you generally think of as entrepreneurs," he said.
 
 [![Investors](images/investors.png)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
