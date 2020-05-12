@@ -811,20 +811,17 @@ Classes in entrepreneurship are becoming more universally attractive, Bachenheim
 
 "They're all [saying], 'I want to be more entrepreneurial. I don't want to just work in an office or count on a job, especially when the economy is bad," Bachenheimer says. "[They say], 'I want to have more control of my destiny."
 
-[![Entrepreneur: Start & Grow Your Business](image4861.png)](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html)  
-[PDF Version](../press/Entrepreneur_7-14-10.pdf)  
-
-**Becoming an Entrepreneurial Expat**  
-July 14, 2010  
-By **Michelle Goodman**  
-
-[Original Link](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html)
-
-Even if a region does welcome foreign entrepreneurs, the local infrastructure may not live up to U.S. standards, especially in developing nations.
-
-"Here, we take it for granted that if our business is broken into, we can call the police," says Bruce Bachenheimer, clinical professor of management and program director of [Pace University's entrepreneurship program](http://www.pace.edu/pace/lubin/departments-and-research-centers/entrepreneurship-lubin/). "But in other countries, the rule of law may not be what we expect."
-
-Likewise, Bachenheimer adds, in some locales, the roads, electricity, phone service, internet service, shipping companies and court system may be sorely lacking.
+[![Entrepreneur: Start & Grow Your Business](entrepreneur.png)](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) <br/>
+[Original Link](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) |
+[PDF Version](files/Entrepreneur_7-14-10.pdf) <br/>
+**Becoming an Entrepreneurial Expat** <br/>
+July 14, 2010 <br/>
+By **Michelle Goodman** <br/>
+>Even if a region does welcome foreign entrepreneurs, the local infrastructure may not live up to U.S. standards, especially in developing nations.
+>
+>"Here, we take it for granted that if our business is broken into, we can call the police," says Bruce Bachenheimer, clinical professor of management and program director of [Pace University's entrepreneurship program](http://www.pace.edu/pace/lubin/departments-and-research-centers/entrepreneurship-lubin/). "But in other countries, the rule of law may not be what we expect."
+>
+>Likewise, Bachenheimer adds, in some locales, the roads, electricity, phone service, internet service, shipping companies and court system may be sorely lacking.
 
 [![Newsday](images/newsday.png)](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) <br/>
 [Original Link](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) |
