@@ -826,23 +826,19 @@ Even if a region does welcome foreign entrepreneurs, the local infrastructure ma
 
 Likewise, Bachenheimer adds, in some locales, the roads, electricity, phone service, internet service, shipping companies and court system may be sorely lacking.
 
-[![](image48731.png)](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635)  
-[PDF Version](../press/Newsday_7-5-10.pdf)  
+[![Newsday](iamges/newsday.png)](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) <br/>
+[Original Link](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) |
+[PDF Version](files/Newsday_7-5-10.pdf) <br/>
+**Reinventing yourself after a job loss** <br/>
+July 5, 2010 <br/>
+By **Carrie Mason-Draffen** <br/>
+> Entrepreneurial activity in 2009 was at a 14-year high nationwide, with the highest growth coming among 34- to 44-year-olds, according to the Kauffman Foundation, of Kansas City, Mo., which promotes entrepreneurship.
+> That's the demographic - with many well-educated, high-wage, middle managers - who were hard hit during the recession, said Bruce Bachenheimer, director of entrepreneurship at Pace University in Manhattan. "They are not the people you generally think of as entrepreneurs," he said.
 
-**Reinventing yourself after a job loss**  
-July 5, 2010  
-By **Carrie Mason-Draffen**  
-
-[Original Link](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635)
-
-Entrepreneurial activity in 2009 was at a 14-year high nationwide, with the highest growth coming among 34- to 44-year-olds, according to the Kauffman Foundation, of Kansas City, Mo., which promotes entrepreneurship.
-
-That's the demographic - with many well-educated, high-wage, middle managers - who were hard hit during the recession, said Bruce Bachenheimer, director of entrepreneurship at Pace University in Manhattan. "They are not the people you generally think of as entrepreneurs," he said.
-
-[![Investors.com](images/investors.png)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
+[![Investors](images/investors.png)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
 [Original Link](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) |
 [PDF Version](files/InvestorsBusinessDaily_3-19-10.pdf) <br/>
 **New York's Magnolia Bakery Offers Lessons On Small-Business Success** <br/>
 March 19, 2010 <br/>
 By **Gary M. Stern** <br/>
->Some small businesses grow too fast, which can trigger their downfall, says Bruce Bachenheimer, director of entrepreneurship at Pace University's Lubin School of Business. In order to expand, these businesses must establish a solid "infrastructure including accounting, inventory and payroll systems and a system of checks and balances," he said.
+> Some small businesses grow too fast, which can trigger their downfall, says Bruce Bachenheimer, director of entrepreneurship at Pace University's Lubin School of Business. In order to expand, these businesses must establish a solid "infrastructure including accounting, inventory and payroll systems and a system of checks and balances," he said.
