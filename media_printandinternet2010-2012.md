@@ -811,7 +811,7 @@ Classes in entrepreneurship are becoming more universally attractive, Bachenheim
 
 "They're all [saying], 'I want to be more entrepreneurial. I don't want to just work in an office or count on a job, especially when the economy is bad," Bachenheimer says. "[They say], 'I want to have more control of my destiny."
 
-[![Entrepreneur: Start & Grow Your Business](images/entrepreneur.png)](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) <br/>
+[![Entrepreneur: Start & Grow Your Business](images/entrepreneur.jpg)](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) <br/>
 [Original Link](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) |
 [PDF Version](files/Entrepreneur_7-14-10.pdf) <br/>
 **Becoming an Entrepreneurial Expat** <br/>
