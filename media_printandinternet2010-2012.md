@@ -839,8 +839,8 @@ Entrepreneurial activity in 2009 was at a 14-year high nationwide, with the high
 
 That's the demographic - with many well-educated, high-wage, middle managers - who were hard hit during the recession, said Bruce Bachenheimer, director of entrepreneurship at Pace University in Manhattan. "They are not the people you generally think of as entrepreneurs," he said.
 
-[![Investors.com Logo](image48881.jpg)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
-[Original Link](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
+[![Investors.com](images/investors.jpg)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
+[Original Link](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) |
 [PDF Version](files/InvestorsBusinessDaily_3-19-10.pdf) <br/>
 **New York's Magnolia Bakery Offers Lessons On Small-Business Success** <br/>
 March 19, 2010 <br/>
