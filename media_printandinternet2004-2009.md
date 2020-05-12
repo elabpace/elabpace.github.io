@@ -46,7 +46,6 @@ December 30, 2008 <br/>
 By **Heather Huhman** <br/>
 > Bruce Bachenheimer, program director of entrepreneurial studies at The Lubin School at Pace University, adds, "Build a real board of advisors, not just people who agree to let you use their name as 'window dressing' for a business plan or investor pitch – rather, experienced entrepreneurs and seasoned professionals who will dedicate the necessary time to understand your business and formulate meaningful advice. The young entrepreneur should not only assemble such a board, but must understand what is required to keep the advisors engaged and committed."
 
-
 [![SmartMoney.com](images/smartmoney.jpg)](http://www.smsmallbiz.com/) <br/>
 [Original Link](http://www.smsmallbiz.com/) | [PDF Version](files/Made_in_USA.pdf) <br/>
 **Starting Up: 'Made in the USA' Is Back in Style for Businesses** <br/>
