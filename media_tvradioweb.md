@@ -166,7 +166,7 @@ Hosted by **JJ Ramberg** <br/>
 > *Pace University Professor Bruce Bachenheimer* was a panelist on **MSNBC’s YOUR BUSINESS** program, which aired on October 24, 2010 from 7:30 am to 8:00 am. A segment of that broadcast is available at: [http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services)
 > ![Photo](images/press/tv_radio_web/image4615.png)
 
-[![AM1490WGCH](images/wgch.jpg)](http://www.wgch.com/) <br/>
+[![AM1490WGCH](images/am1490wgch.jpg)](http://www.wgch.com/) <br/>
 [Original Link](http://www.wgch.com/) <br/>
 **Greenwich Entrepreneurs** <br/>
 May 28, 2010 <br/>
