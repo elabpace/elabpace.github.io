@@ -839,13 +839,10 @@ Entrepreneurial activity in 2009 was at a 14-year high nationwide, with the high
 
 That's the demographic - with many well-educated, high-wage, middle managers - who were hard hit during the recession, said Bruce Bachenheimer, director of entrepreneurship at Pace University in Manhattan. "They are not the people you generally think of as entrepreneurs," he said.
 
-[![Investors.com Logo](image48881.jpg)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt)  
-[PDF Version](../press/InvestorsBusinessDaily_3-19-10.pdf)  
-
-**New York's Magnolia Bakery Offers Lessons On Small-Business Success**  
-March 19, 2010  
-By **Gary M. Stern**  
-
-[Original Link](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt)
-
-Some small businesses grow too fast, which can trigger their downfall, says Bruce Bachenheimer, director of entrepreneurship at Pace University's Lubin School of Business. In order to expand, these businesses must establish a solid "infrastructure including accounting, inventory and payroll systems and a system of checks and balances," he said.
+[![Investors.com Logo](image48881.jpg)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
+[Original Link](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
+[PDF Version](files/InvestorsBusinessDaily_3-19-10.pdf) <br/>
+**New York's Magnolia Bakery Offers Lessons On Small-Business Success** <br/>
+March 19, 2010 <br/>
+By **Gary M. Stern** <br/>
+>Some small businesses grow too fast, which can trigger their downfall, says Bruce Bachenheimer, director of entrepreneurship at Pace University's Lubin School of Business. In order to expand, these businesses must establish a solid "infrastructure including accounting, inventory and payroll systems and a system of checks and balances," he said.
