@@ -826,7 +826,7 @@ Even if a region does welcome foreign entrepreneurs, the local infrastructure ma
 
 Likewise, Bachenheimer adds, in some locales, the roads, electricity, phone service, internet service, shipping companies and court system may be sorely lacking.
 
-[![Newsday](iamges/newsday.png)](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) <br/>
+[![Newsday](images/newsday.png)](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) <br/>
 [Original Link](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) |
 [PDF Version](files/Newsday_7-5-10.pdf) <br/>
 **Reinventing yourself after a job loss** <br/>
