@@ -777,18 +777,14 @@ Entrepreneurs “just overestimate everything,” says Bachenheimer, citing cust
 
 “People underestimate virtually every expense associated with starting and running the business,” says Bachenheimer. He adds that this is particularly true of Web entrepreneurs, who often think a new site can be started with nothing more than a laptop and a $20 domain registration. Actual expenses are exponentially larger. 
 
-[![](image48591.png)](http://www.nypost.com/p/news/business/jobs/app_stars_uLmOkrqT8K72zY8xD5YLoK)  
-[PDF Version](files/NYPost_8-16-10.pdf)  
-
-**App stars—The best smartphone programs for taking care of business**  
-August 16, 2010  
-By **Linley Taber**  
-
-[Original Link](http://www.nypost.com/p/news/business/jobs/app_stars_uLmOkrqT8K72zY8xD5YLoK)
-
-FlightTrack Pro
-
-This business-traveler favorite provides up-to-the-second information on flights’ statuses, gates, cancellations and area weather. It often posts info “before airline personnel appear to have it,” notes devotee Bruce Bachenheimer, a Pace University professor. For Android, iPad, iPhone and iPod Touch; $9.99.
+[![New York Post](images/newyorkpost.png)](http://www.nypost.com/p/news/business/jobs/app_stars_uLmOkrqT8K72zY8xD5YLoK) <br/>
+[Original Link](http://www.nypost.com/p/news/business/jobs/app_stars_uLmOkrqT8K72zY8xD5YLoK) |
+[PDF Version](files/NYPost_8-16-10.pdf) <br/>
+**App stars—The best smartphone programs for taking care of business** <br/>
+August 16, 2010 <br/>
+By **Linley Taber** <br/>
+> **FlightTrack Pro**  <br/>
+> This business-traveler favorite provides up-to-the-second information on flights’ statuses, gates, cancellations and area weather. It often posts info “before airline personnel appear to have it,” notes devotee Bruce Bachenheimer, a Pace University professor. For Android, iPad, iPhone and iPod Touch; $9.99.
 
 [![US News and World Report](images/usnews.png)](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html) <br/>
 [Original Link](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html) |
