@@ -790,26 +790,23 @@ FlightTrack Pro
 
 This business-traveler favorite provides up-to-the-second information on flights’ statuses, gates, cancellations and area weather. It often posts info “before airline personnel appear to have it,” notes devotee Bruce Bachenheimer, a Pace University professor. For Android, iPad, iPhone and iPod Touch; $9.99.
 
-[![](image5765.png)](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html)  
-[PDF Version](../press/USNews_7-21-10.pdf)  
-
-**Schools add new entrepreneur programs for M.B.A. Students**  
-July 21, 2010  
-By **Katy Hopkins**  
-
-[Original Link](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html)
-
-At [Pace University Lubin School of Business](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-business-schools/items/01309), opportunity for inspiration sometimes comes from outside the classroom—even outside the country. In "Special Topics in International Entrepreneurship: Technology, Innovation and Entrepreneurship in Israel," Professor Bruce Bachenheimer will take students to abroad in spring 2011 for a week to study opportunities in the young country's advanced technology infrastructure.
-
-Bachenheimer has taken entrepreneur students to Tanzania and India in years past. These international opportunities often lend a life-changing perspective of business opportunities in other countries, he says. For Pace graduate Melissa Lopez, this revelation came when she saw Tanzanian women selling handmade clothing to tourists at Mount Kilamanjaro.
-
-"It made it pure to see entrepreneurship at a very small level, but \[to see\] how big people's ideas are," Lopez says. "Prior to taking the course, I had never thought I would have any interest in entrepreneurship. I had always thought I'd be working for a large company.
-
-"After that course, I wanted to see if I could do something for myself."
-
-Classes in entrepreneurship are becoming more universally attractive, Bachenheimer says. About 15 percent of students in his entrepreneur classes are M.B.A. students. The rest are students from different academic disciplines who are considering what an entrepreneurial focus could do for their careers, he says.
-
-"They're all [saying], 'I want to be more entrepreneurial. I don't want to just work in an office or count on a job, especially when the economy is bad," Bachenheimer says. "[They say], 'I want to have more control of my destiny."
+[![US News and World Report](images/usnews.png)](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html) <br/>
+[Original Link](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html) |
+[PDF Version](../press/USNews_7-21-10.pdf) <br/>
+**Schools add new entrepreneur programs for M.B.A. Students** <br/>
+July 21, 2010 <br/>
+By **Katy Hopkins** <br/>
+> At [Pace University Lubin School of Business](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-business-schools/items/01309), opportunity for inspiration sometimes comes from outside the classroom—even outside the country. In "Special Topics in International Entrepreneurship: Technology, Innovation and Entrepreneurship in Israel," Professor Bruce Bachenheimer will take students to abroad in spring 2011 for a week to study opportunities in the young country's advanced technology infrastructure.
+> 
+> Bachenheimer has taken entrepreneur students to Tanzania and India in years past. These international opportunities often lend a life-changing perspective of business opportunities in other countries, he says. For Pace graduate Melissa Lopez, this revelation came when she saw Tanzanian women selling handmade clothing to tourists at Mount Kilamanjaro.
+>
+>"It made it pure to see entrepreneurship at a very small level, but \[to see\] how big people's ideas are," Lopez says. "Prior to taking the course, I had never thought I would have any interest in entrepreneurship. I had always thought I'd be working for a large company.
+>
+> "After that course, I wanted to see if I could do something for myself."
+>
+> Classes in entrepreneurship are becoming more universally attractive, Bachenheimer says. About 15 percent of students in his entrepreneur classes are M.B.A. students. The rest are students from different academic disciplines who are considering what an entrepreneurial focus could do for their careers, he says.
+>
+>"They're all [saying], 'I want to be more entrepreneurial. I don't want to just work in an office or count on a job, especially when the economy is bad," Bachenheimer says. "[They say], 'I want to have more control of my destiny."
 
 [![Entrepreneur: Start & Grow Your Business](images/entrepreneur.jpg)](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) <br/>
 [Original Link](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) |
