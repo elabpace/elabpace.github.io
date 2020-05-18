@@ -5,6 +5,7 @@
 **Op-Ed: Entrepreneurs are sure to find inspiration in the pandemic** <br/>
 April 20, 2020 <br/>
 By **Bruce Bachenheimer** <br/>
+> 
 > The great baseball philosopher Yogi Berra once said, "It's difficult to make predictions, especially about the future."
 >
 > That might sound somewhat inane, but the underlying message is astute: The future is not only unpredictable, it’s unknowable.
@@ -48,6 +49,7 @@ By **Bruce Bachenheimer** <br/>
 **Entrepreneurship During the Time of COVID-19** <br/>
 April 8, 2020 <br/>
 By **Bruce Bachenheimer, @PaceUniversity** <br/>
+> 
 > ***In these unprecedented times, everyone should bear in mind that entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mindset — a way of thinking and acting.***
 > 
 > *By Bruce Bachenheimer* <br/>
@@ -61,151 +63,116 @@ By **Bruce Bachenheimer, @PaceUniversity** <br/>
 >
 > Today, every institution is facing enormous uncertainty and unique challenges. How are you helping to solve problems and provide benefits for your organization?
 
-[![](image310.jpg)](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001)
-
-New Yorkers Step Up to Help Mom-and-Pop Businesses
-
-April 7, 2020 (in print on April 8th, Page A12B)
-
-By Anne Kadet
-
-[![](image335.jpg)](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001)
-
-Like many New Yorkers, Ms. Struss fears that many mom-and-pop shops won’t survive the shutdown, and she’s determined to help them stay afloat.
-
-Such concerns aren’t unfounded. Even a well-run small business typically has less than two months of operating capital in reserve, says Bruce Bachenheimer, a management professor at Pace University’s Lubin School of Business.
-
-The businesses best positioned to survive, meanwhile, are the most creative and flexible outfits, says Mr. Bachenheimer, the Pace professor, citing the example of a pottery studio that recently started assembling and delivering DIY pottery kits to people stuck at home. “Darwin didn’t say it’s the strongest species that survive,” he says. “It’s those that are able to adapt.”
-
-Still, the Chappaqua, N.Y., resident wants to see local stores stay afloat. To that end, he suggests customers buy gift cards from neighborhood shops and restaurants to use when they reopen, and ask for a credit rather than a refund on services not delivered, such as a canceled catering event.
-
-It can be for a selfish reason. “If all these stores go out of business, what happens to your neighborhood life and property values?” he asks.
-
-[![](image463.jpg)](https://magazine.boatus.com/publication/?i=645552&ver=html5&p=57)
-
-Is Your Boat Still Right For You?
-
-February/March 2020
-
-By Rich Armstrong
-
-[![](image466.jpg)](https://magazine.boatus.com/publication/?i=645552&ver=html5&p=57)
-
-Bachelor Boater No More
-
-I started with a Rhodes 22 sailboat that I purchased new in 1989 for daysailing on the Hudson River. In 1990, I purchased a Pearson 36 Cutter, which I lived aboard for several years and sailed from New England through the Caribbean to South America and back to Annapolis, Maryland. Now a family man, I own an Island Packet 27, which I bought in 2016 and use for coastal cruising in Long Island Sound and along the Rhode Island and Massachusetts coasts.
-
-I went from a daysailer to a bluewater cruiser to now something in the middle. Each change met my lifestyle at different points. Now I typically do two two-week cruises with my family (wife, teenage daughter, and sometimes our dog) and a bunch of shorter/weekend trips — about half of those solo.
-
-— Bruce Bachenheimer, New York
-
-[![](image90341.jpg)](https://www.forbes.com/sites/johnhall/2019/12/15/why-we-dont-send-gifts-to-clients-during-the-holidays)
-
-Why We Don’t Send Gifts To Clients During The Holidays
-
-December 15, 2019
-
-By John Hall
-
-[![](image9036.jpg)](https://www.forbes.com/sites/johnhall/2019/12/15/why-we-dont-send-gifts-to-clients-during-the-holidays)
-
-It can send the wrong message to clients and employees.
-
-“In the 1980s, you couldn't spend enough money," Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York, told The Street. "But today clients are saying, 'Forget the hunting trip, forget the lavish treatment — just give me a better price."
-
-Bachenheimer added, "If you're rolling out the red carpet for a customer, they're going to assume you have incredibly high margins to do all that spending. They're going to think, 'Oh, he's overcharging everyone — including me — in order to afford all this."
-
-Besides sending the wrong message to clients, it could also anger employees. If you’re going all-in on lavish presents for clients, while your teammates haven’t received a bonus, they’ll question why. Remember, your team can make or break your business. You need to keep your teammates happy and ensure they feel appreciated.
-
-[![](image3312.jpg)](https://rightwingeconomics.com/2019/11/12/greatest-economy-ever-small-businesses-forced-to-use-gofundme-to-stay-solvent/)
-
-Greatest Economy Ever: Small Businesses Forced To Use GoFundMe To Stay Solvent November 12, 2019
-
-By Jordan
-
-[![](image8820.jpg)](https://rightwingeconomics.com/2019/11/12/greatest-economy-ever-small-businesses-forced-to-use-gofundme-to-stay-solvent/)
-
-Bruce Bachenheimer, a professor at the Lubin School of Business at Pace University, said that the GoFundMe campaigns provide more than just money – they provide reassurance.
-
-After a successful campaign, owners may say “‘I should hang on, I should keep going,’” Bachenheimer concluded.
-
-[![](image89771.jpg)](https://www.wsj.com/articles/cash-strapped-small-businesses-turn-to-gofundme-11573304401)
-
-Cash-Strapped Small Businesses Turn to GoFundMe
-
-November 9, 2019
-
-By Kate King
-
-[![](image8820.jpg)](https://www.wsj.com/articles/cash-strapped-small-businesses-turn-to-gofundme-11573304401)
-
-Bruce Bachenheimer, a professor at the Lubin School of Business at Pace University, said even more important than cash is the validation business owners receive from GoFundMe campaigns. Two-thousand customers contributing $20 or $40 each might not be enough to keep a business open, but it can give owners reassurance.
-
-After a successful GoFundMe campaign, owners might say to themselves, “‘I should hang on, I should keep going,’” Mr. Bachenheimer said.
-
-[![](image89201.jpg)](https://www.newsweek.com/ubers-response-california-worker-bill-legal-ploy-that-denies-drivers-fair-deal-experts-say-1459249)
-
-Uber's Response to California Worker Bill Is 'Legal Ploy' That Denies Drivers Fair Deal, Experts Say
-
-September 13, 2019
-
-By Daniel Moritz-Rabson
-
-[![](image8923.jpg)](https://www.newsweek.com/ubers-response-california-worker-bill-legal-ploy-that-denies-drivers-fair-deal-experts-say-1459249)
-
-While labor advocates have cheered the law, others have raised concerns that it could be damaging to the flexible schedules of contractor work and thereby limit worker freedom. The legislation will likely have wide-ranging impacts, affecting companies far beyond Lyft and Uber, leading some experts to raise questions about how to improve regulation without being overbearing.
-
-"Is clamping down on this hurting progress and the evolution of the market?" Bruce Bachenheimer, a clinical professor of Management at Pace University said to Newsweek.
-
-[![](image8888.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)
-
-Long Beach mattress company's founders regroup - more than once  
-June 9, 2019
-
-By Cara Trager
-
-[![](image8886.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)
-
-According to Bruce Bachenheimer, a clinical management professor and the executive director of the Entrepreneurship Lab at Pace University, enlisting doctors to drive online sales is not a unique marketing approach. Getroman.com, for instance, connects consumers with its online network’s doctors so that they can purchase pharmaceuticals including Viagra.
-
-“For price and convenience, more things are going online,” Bachenheimer said.
-
-[![](image8817.jpg)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide)
-
-Is an MBA Worth It? How to Decide
-
-May 17, 2019
-
-By Ilana Kowarski
-
-[![](image8820.jpg)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide)
-
-Bruce Bachenheimer, a clinical professor of management at Pace University's [Lubin School of Business](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-new-york-01309) in New York City, says that project-based learning activities in MBA courses allow students to practice solving real business problems. Ultimately, this can help students become more creative thinkers, and he says this type of education tends to have a lasting impact.
-
-Bachenheimer adds that an MBA can offer a formative experience that helps a student shape his or her professional identity. "An MBA can be much more than the knowledge and skills acquired through coursework; it can truly expand you and your world," he wrote in an email.
-
-[![](image8949.png)](http://canorthamerica.icas.com/may-2019#!/north-america-most-powerful-cities/)
-
-North America’s Powerful Cities
-
-May 2019
-
-By Andrea Murad
-
-[![](image8923.jpg)](http://canorthamerica.icas.com/may-2019#!/north-america-most-powerful-cities/)
-
-Regulations
-
-While regulations can create high expenses for companies, those that go through tremendous regulatory hurdles for the SEC, auditors or other regulatory bodies have higher valuations, because the regulations work to prevent fraud and accurately identify risk.
-
-“What’s a problem is regulations that don’t make sense, but the idea that regulation is hurting business is misunderstood at best,” said Bruce Bachenheimer, Clinical Professor of Management and Executive Director of the Entrepreneurship Lab at Pace University. “Financial regulation will cost companies money in compliance, but the value of their stock is exponentially higher because they comply with that regulation.”
-
-Regulations do serve to protect businesses and their operations, but they can also prevent innovation. Lobbying for restrictions to maintain the status quo and protect businesses might work for a short period, but then the city will eventually falter, said Bruce.
-
-Talent
-
-When companies look to establish operations somewhere new, they look at the ability to hire talent to help that business grow. What these companies often look for is the integration of universities and their degree programs into the local ecosystem.
-
-Areas with universities that have programs in AI, robotics and machine learning, for example, attract forward-looking companies.
-
-Talent serves many roles though. Today, the basis for a competitive advantage is innovation in all forms, and the only source of innovation is human talent, said Bruce: “These days with globalization, hyper competition and shorter lifecycles, the only way to survive is with innovation.”
+[![The Wall Street Journal](images/thewallstreetjournal.jpg)](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001) </br>
+[Original Link](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001) </br>
+**New Yorkers Step Up to Help Mom-and-Pop Businesses** </br>
+April 7, 2020 (in print on April 8th, Page A12B) </br>
+By **Anne Kadet** </br>
+> 
+> Like many New Yorkers, Ms. Struss fears that many mom-and-pop shops won’t survive the shutdown, and she’s determined to help them stay afloat.
+> 
+> Such concerns aren’t unfounded. Even a well-run small business typically has less than two months of operating capital in reserve, says Bruce Bachenheimer, a management professor at Pace University’s Lubin School of Business.
+> 
+> The businesses best positioned to survive, meanwhile, are the most creative and flexible outfits, says Mr. Bachenheimer, the Pace professor, citing the example of a pottery studio that recently started assembling and delivering DIY pottery kits to people stuck at home. “Darwin didn’t say it’s the strongest species that survive,” he says. “It’s those that are able to adapt.”
+> 
+> Still, the Chappaqua, N.Y., resident wants to see local stores stay afloat. To that end, he suggests customers buy gift cards from neighborhood shops and restaurants to use when they reopen, and ask for a credit rather than a refund on services not delivered, such as a canceled catering event.
+> 
+> It can be for a selfish reason. “If all these stores go out of business, what happens to your neighborhood life and property values?” he asks.
+
+[![Boat US](images/boatus.jpg)](https://magazine.boatus.com/publication/?i=645552&ver=html5&p=57) <br/>
+[Original Link](https://magazine.boatus.com/publication/?i=645552&ver=html5&p=57) <br/>
+**Is Your Boat Still Right For You?** <br/>
+February/March 2020 <br/>
+By **Rich Armstrong** <br/>
+>
+> **Bachelor Boater No More**
+> 
+> I started with a Rhodes 22 sailboat that I purchased new in 1989 for daysailing on the Hudson River. In 1990, I purchased a Pearson 36 Cutter, which I lived aboard for several years and sailed from New England through the Caribbean to South America and back to Annapolis, Maryland. Now a family man, I own an Island Packet 27, which I bought in 2016 and use for coastal cruising in Long Island Sound and along the Rhode Island and Massachusetts coasts.
+> 
+> I went from a daysailer to a bluewater cruiser to now something in the middle. Each change met my lifestyle at different points. Now I typically do two two-week cruises with my family (wife, teenage daughter, and sometimes our dog) and a bunch of shorter/weekend trips — about half of those solo.
+> 
+> — *Bruce Bachenheimer, New York*
+
+[![Forbes](images/forbes.jpg)](https://www.forbes.com/sites/johnhall/2019/12/15/why-we-dont-send-gifts-to-clients-during-the-holidays) <br/>
+[Original Link](https://www.forbes.com/sites/johnhall/2019/12/15/why-we-dont-send-gifts-to-clients-during-the-holidays) <br/>
+**Why We Don’t Send Gifts To Clients During The Holidays** <br/>
+December 15, 2019 <br/>
+By **John Hall** <br/>
+> 
+> **It can send the wrong message to clients and employees.**
+> 
+> “In the 1980s, you couldn't spend enough money," Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York, told The Street. "But today clients are saying, 'Forget the hunting trip, forget the lavish treatment — just give me a better price."
+> 
+> Bachenheimer added, "If you're rolling out the red carpet for a customer, they're going to assume you have incredibly high margins to do all that spending. They're going to think, 'Oh, he's overcharging everyone — including me — in order to afford all this."
+> 
+> Besides sending the wrong message to clients, it could also anger employees. If you’re going all-in on lavish presents for clients, while your teammates haven’t received a bonus, they’ll question why. Remember, your team can make or break your business. You need to keep your teammates happy and ensure they feel appreciated.
+
+[![Right Wing Economics](images/rightwingeconomics.jpg)](https://rightwingeconomics.com/2019/11/12/greatest-economy-ever-small-businesses-forced-to-use-gofundme-to-stay-solvent/) <br/>
+[Original Link](https://rightwingeconomics.com/2019/11/12/greatest-economy-ever-small-businesses-forced-to-use-gofundme-to-stay-solvent/) <br/>
+**Greatest Economy Ever: Small Businesses Forced To Use GoFundMe To Stay Solvent** <br/>
+November 12, 2019 <br/>
+By **Jordan** <br/>
+> 
+> Bruce Bachenheimer, a professor at the Lubin School of Business at Pace University, said that the GoFundMe campaigns provide more than just money – they provide reassurance.
+>
+> After a successful campaign, owners may say “‘I should hang on, I should keep going,’” Bachenheimer concluded.
+
+[![The Wall Street Journal](images/thewallstreetjournal.jpg)](https://www.wsj.com/articles/cash-strapped-small-businesses-turn-to-gofundme-11573304401) <br/>
+[![](image8820.jpg)](https://www.wsj.com/articles/cash-strapped-small-businesses-turn-to-gofundme-11573304401) <br/>
+**Cash-Strapped Small Businesses Turn to GoFundMe** <br/>
+November 9, 2019 <br/>
+By **Kate King** <br/>
+> 
+> Bruce Bachenheimer, a professor at the Lubin School of Business at Pace University, said even more important than cash is the validation business owners receive from GoFundMe campaigns. Two-thousand customers contributing $20 or $40 each might not be enough to keep a business open, but it can give owners reassurance.
+> 
+> After a successful GoFundMe campaign, owners might say to themselves, “‘I should hang on, I should keep going,’” Mr. Bachenheimer said.
+
+[![Newsweek](images/newsweek.jpg)](https://www.newsweek.com/ubers-response-california-worker-bill-legal-ploy-that-denies-drivers-fair-deal-experts-say-1459249) <br/>
+[Original Link](https://www.newsweek.com/ubers-response-california-worker-bill-legal-ploy-that-denies-drivers-fair-deal-experts-say-1459249) <br/>
+**Uber's Response to California Worker Bill Is 'Legal Ploy' That Denies Drivers Fair Deal, Experts Say** <br/>
+September 13, 2019 <br/>
+By **Daniel Moritz-Rabson** <br/>
+>
+>While labor advocates have cheered the law, others have raised concerns that it could be damaging to the flexible schedules of contractor work and thereby limit worker freedom. The legislation will likely have wide-ranging impacts, affecting companies far beyond Lyft and Uber, leading some experts to raise questions about how to improve regulation without being overbearing.
+>
+>"Is clamping down on this hurting progress and the evolution of the market?" Bruce Bachenheimer, a clinical professor of Management at Pace University said to *Newsweek*.
+
+[![Newsday](images/newsday.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386) <br/>
+[Original Link](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386) <br/>
+**Long Beach mattress company's founders regroup - more than once** <br/>
+June 9, 2019 <br/>
+By **Cara Trager** <br/>
+>
+> According to Bruce Bachenheimer, a clinical management professor and the executive director of the Entrepreneurship Lab at Pace University, enlisting doctors to drive online sales is not a unique marketing approach. Getroman.com, for instance, connects consumers with its online network’s doctors so that they can purchase pharmaceuticals including Viagra.
+>
+> “For price and convenience, more things are going online,” Bachenheimer said.
+
+[![US News and World Report](iamges/usnews.jpg)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide) <br/>
+[Original Link](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide) <br/>
+**Is an MBA Worth It? How to Decide** <br/>
+May 17, 2019 <br/>
+By **Ilana Kowarski** <br/>
+>
+> Bruce Bachenheimer, a clinical professor of management at Pace University's [Lubin School of Business](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-new-york-01309) in New York City, says that project-based learning activities in MBA courses allow students to practice solving real business problems. Ultimately, this can help students become more creative thinkers, and he says this type of education tends to have a lasting impact.
+>
+> Bachenheimer adds that an MBA can offer a formative experience that helps a student shape his or her professional identity. "An MBA can be much more than the knowledge and skills acquired through coursework; it can truly expand you and your world," he wrote in an email.
+
+[![CA North America](images/ca.png)](http://canorthamerica.icas.com/may-2019#!/north-america-most-powerful-cities/) <br/>
+[Original Link](http://canorthamerica.icas.com/may-2019#!/north-america-most-powerful-cities/) <br/>
+**North America’s Powerful Cities** <br/>
+May 2019 <br/>
+By **Andrea Murad** <br/>
+>
+> **Regulations** <br/>
+> While regulations can create high expenses for companies, those that go through tremendous regulatory hurdles for the SEC, auditors or other regulatory bodies have higher valuations, because the regulations work to prevent fraud and accurately identify risk.
+>
+> “What’s a problem is regulations that don’t make sense, but the idea that regulation is hurting business is misunderstood at best,” said Bruce Bachenheimer, Clinical Professor of Management and Executive Director of the Entrepreneurship Lab at Pace University. “Financial regulation will cost companies money in compliance, but the value of their stock is exponentially higher because they comply with that regulation.”
+> 
+> Regulations do serve to protect businesses and their operations, but they can also prevent innovation. Lobbying for restrictions to maintain the status quo and protect businesses might work for a short period, but then the city will eventually falter, said Bruce.
+>
+> **Talent** <br/>
+> When companies look to establish operations somewhere new, they look at the ability to hire talent to help that business grow. What these companies often look for is the integration of universities and their degree programs into the local ecosystem.
+>
+> Areas with universities that have programs in AI, robotics and machine learning, for example, attract forward-looking companies.
+>
+> lent serves many roles though. Today, the basis for a competitive advantage is innovation in all forms, and the only source of innovation is human talent, said Bruce: “These days with globalization, hyper competition and shorter lifecycles, the only way to survive is with innovation.”
