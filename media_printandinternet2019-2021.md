@@ -1,8 +1,8 @@
 # Print and Internet 2019-Present
 
 [![Crain's](images/crains.jpg)](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic) <br/>
-[Original Link](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic) </br>
-**Op-Ed: Entrepreneurs are sure to find inspiration in the pandemic** </br>
+[Original Link](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic) <br/>
+**Op-Ed: Entrepreneurs are sure to find inspiration in the pandemic** <br/>
 April 20, 2020 <br/>
 By **Bruce Bachenheimer** <br/>
 > The great baseball philosopher Yogi Berra once said, "It's difficult to make predictions, especially about the future."
