@@ -1,54 +1,45 @@
 # Print and Internet 2019-Present
 
-[![](image3441.jpg)](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic)[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)
-
-Op-Ed: Entrepreneurs are sure to find inspiration in the pandemic
-
-April 20, 2020
-
-By Bruce Bachenheimer, @PaceUniversity
-
-[![](image358.jpg)](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic)
-
-The great baseball philosopher Yogi Berra once said,
-
- "It's difficult to make predictions, especially about the future."
-
-That might sound somewhat inane, but the underlying message is astute: The future is not only unpredictable, it’s unknowable.
-
-Although that is especially true when it comes to human behavior and societal norms—and so many variables are changing the way we teach, learn, worship and socialize these days—we can expect that innovative business concepts will be born out of the Covid-19 crisis.
-
-How do we know?
-
-Entrepreneurship often is associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more ripe for disruption than during a crisis.
-
-Airbnb and Uber were founded amid the 2008 financial crisis, and they probably would not have succeeded if either was launched a few years earlier—or later, for that matter. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who suddenly were willing to sleep in a stranger’s bed and pay for a ride in a regular car.
-
-Once those concepts proved successful, they were able to become parts of the new normal.
-
-We’re seeing emerging trends in meetings, deliveries, production and manufacturing that no doubt will evolve in an era defined by the coronavirus, social distancing and remote working.
-
-It’s important to remember that entrepreneurship is not solely about coming up with an interesting idea; it’s about the passion, persistence and perseverance to actually make it happen. Successful entrepreneurs stay focused on creating solutions that provide value to customers by solving problems and providing benefits.
-
-In these unprecedented times, everyone should bear in mind that entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mindset—a way of thinking and acting. It is about imagining new ways to solve problems and create value.
-
-Fundamentally, entrepreneurship is about the ability to recognize, analyze and ultimately capture the value of an opportunity. Such skills are important for those seeking to establish new ventures. And they’re critical for a variety of professional careers, given today’s hypercompetitive marketplace, where rapid technological innovation and globalization has changed the very nature of work.
-
-Today every institution is facing enormous uncertainty and unique challenges. How are we helping to solve problems and provide benefits to our organizations?
-
-Where might entrepreneurial thinking and innovation play critical roles in dealing with the challenges and uncertainty we are confronting, particularly in the New York metropolitan area? Clearly, one place to start would be dealing with critical supply shortages, from personal protective equipment and medical testing kits to common household supplies and specialized industrial components. Perhaps a transformation of the supply chain and modernized manufacturing will bring new commercial opportunities to our region.
-
-For decades the push has been toward lean manufacturing, with massive economies of scale and just-in-time inventory systems coupled with efficient international supply chains. It has led to globalization and an unrelenting drive toward low-cost manufacturing. That efficiency is not effective when people can’t get items as simple as toilet paper, protective masks and hand sanitizer. When manufacturing is idled due to the inability to source a few key components that were being delivered daily to lower costs by fractions of a percent, that’s not efficient.
-
-When we don’t manufacture critical medical supplies and states are forced to outbid each other with foreign suppliers, that is beyond inefficient and ineffective. The lowest price is irrelevant when there is no supply. There might be a shift from depending on overseas manufacturers and global supply chains to more reliable local alternatives, at least for a number of key industries.
-
-New York is well-positioned to develop new businesses that shift manufacturing from massive to nimble and distribution from scale to flexibility. Our workforce is driven and adaptable, with the spirit to think and act more like committed entrepreneurs than just employees. The shift might even lead to a type of localized industrial revolution, disrupting industries and transforming our systems of management and production. Or just a "locavore" movement for industry.
-
-Whatever happens, making predictions and coming up with ideas won’t solve the challenges we are facing, but innovation and entrepreneurship might.
-
-Remember what Yogi Berra said: "It ain’t over ’til it’s over."
-
-[Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
+[![Crain's](images/crains.jpg)](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic) <br/>
+[Original Link](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic) </br>
+**Op-Ed: Entrepreneurs are sure to find inspiration in the pandemic** </br>
+April 20, 2020 <br/>
+By **Bruce Bachenheimer** <br/>
+> The great baseball philosopher Yogi Berra once said, "It's difficult to make predictions, especially about the future."
+>
+> That might sound somewhat inane, but the underlying message is astute: The future is not only unpredictable, it’s unknowable.
+>
+> Although that is especially true when it comes to human behavior and societal norms—and so many variables are changing the way we teach, learn, worship and socialize these days—we can expect that innovative business concepts will be born out of the Covid-19 crisis.
+>
+> How do we know?
+>
+> Entrepreneurship often is associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more ripe for disruption than during a crisis.
+>
+> Airbnb and Uber were founded amid the 2008 financial crisis, and they probably would not have succeeded if either was launched a few years earlier—or later, for that matter. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who suddenly were willing to sleep in a stranger’s bed and pay for a ride in a regular car.
+>
+> Once those concepts proved successful, they were able to become parts of the new normal.
+>
+> We’re seeing emerging trends in meetings, deliveries, production and manufacturing that no doubt will evolve in an era defined by the coronavirus, social distancing and remote working.
+>
+> It’s important to remember that entrepreneurship is not solely about coming up with an interesting idea; it’s about the passion, persistence and perseverance to actually make it happen. Successful entrepreneurs stay focused on creating solutions that provide value to customers by solving problems and providing benefits.
+>
+> In these unprecedented times, everyone should bear in mind that entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mindset—a way of thinking and acting. It is about imagining new ways to solve problems and create value.
+>
+> Fundamentally, entrepreneurship is about the ability to recognize, analyze and ultimately capture the value of an opportunity. Such skills are important for those seeking to establish new ventures. And they’re critical for a variety of professional careers, given today’s hypercompetitive marketplace, where rapid technological innovation and globalization has changed the very nature of work.
+>
+> Today every institution is facing enormous uncertainty and unique challenges. How are we helping to solve problems and provide benefits to our organizations?
+>
+> Where might entrepreneurial thinking and innovation play critical roles in dealing with the challenges and uncertainty we are confronting, particularly in the New York metropolitan area? Clearly, one place to start would be dealing with critical supply shortages, from personal protective equipment and medical testing kits to common household supplies and specialized industrial components. Perhaps a transformation of the supply chain and modernized manufacturing will bring new commercial opportunities to our region.
+>
+> For decades the push has been toward lean manufacturing, with massive economies of scale and just-in-time inventory systems coupled with efficient international supply chains. It has led to globalization and an unrelenting drive toward low-cost manufacturing. That efficiency is not effective when people can’t get items as simple as toilet paper, protective masks and hand sanitizer. When manufacturing is idled due to the inability to source a few key components that were being delivered daily to lower costs by fractions of a percent, that’s not efficient.
+>
+> When we don’t manufacture critical medical supplies and states are forced to outbid each other with foreign suppliers, that is beyond inefficient and ineffective. The lowest price is irrelevant when there is no supply. There might be a shift from depending on overseas manufacturers and global supply chains to more reliable local alternatives, at least for a number of key industries.
+>
+> New York is well-positioned to develop new businesses that shift manufacturing from massive to nimble and distribution from scale to flexibility. Our workforce is driven and adaptable, with the spirit to think and act more like committed entrepreneurs than just employees. The shift might even lead to a type of localized industrial revolution, disrupting industries and transforming our systems of management and production. Or just a "locavore" movement for industry.
+>
+> Whatever happens, making predictions and coming up with ideas won’t solve the challenges we are facing, but innovation and entrepreneurship might.
+>
+> Remember what Yogi Berra said: "It ain’t over ’til it’s over."
 
 [![](image4571.jpg)](https://link.medium.com/CuDeKUTkw5)
 
