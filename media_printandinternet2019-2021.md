@@ -40,6 +40,8 @@ By **Bruce Bachenheimer** <br/>
 > Whatever happens, making predictions and coming up with ideas won’t solve the challenges we are facing, but innovation and entrepreneurship might.
 >
 > Remember what Yogi Berra said: "It ain’t over ’til it’s over."
+>
+> *Bruce Bachenheimer is a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University.*
 
 [![](image4571.jpg)](https://link.medium.com/CuDeKUTkw5)
 
