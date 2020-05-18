@@ -64,7 +64,7 @@ By **Bruce Bachenheimer, @PaceUniversity** <br/>
 > Today, every institution is facing enormous uncertainty and unique challenges. How are you helping to solve problems and provide benefits for your organization?
 
 [![The Wall Street Journal](images/thewallstreetjournal.jpg)](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001) <br/>
-[Original Link](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001) </br>
+[Original Link](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001) <br/>
 **New Yorkers Step Up to Help Mom-and-Pop Businesses** <br/>
 April 7, 2020 (in print on April 8th, Page A12B) <br/>
 By **Anne Kadet** <br/>
