@@ -118,7 +118,7 @@ By **Jordan** <br/>
 > After a successful campaign, owners may say “‘I should hang on, I should keep going,’” Bachenheimer concluded.
 
 [![The Wall Street Journal](images/thewallstreetjournal.jpg)](https://www.wsj.com/articles/cash-strapped-small-businesses-turn-to-gofundme-11573304401) <br/>
-[![](image8820.jpg)](https://www.wsj.com/articles/cash-strapped-small-businesses-turn-to-gofundme-11573304401) <br/>
+[Original Link](https://www.wsj.com/articles/cash-strapped-small-businesses-turn-to-gofundme-11573304401) <br/>
 **Cash-Strapped Small Businesses Turn to GoFundMe** <br/>
 November 9, 2019 <br/>
 By **Kate King** <br/>
@@ -147,7 +147,7 @@ By **Cara Trager** <br/>
 >
 > “For price and convenience, more things are going online,” Bachenheimer said.
 
-[![US News and World Report](iamges/usnews.jpg)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide) <br/>
+[![US News and World Report](images/usnews.jpg)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide) <br/>
 [Original Link](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide) <br/>
 **Is an MBA Worth It? How to Decide** <br/>
 May 17, 2019 <br/>
