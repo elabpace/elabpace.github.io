@@ -63,11 +63,11 @@ By **Bruce Bachenheimer, @PaceUniversity** <br/>
 >
 > Today, every institution is facing enormous uncertainty and unique challenges. How are you helping to solve problems and provide benefits for your organization?
 
-[![The Wall Street Journal](images/thewallstreetjournal.jpg)](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001) </br>
+[![The Wall Street Journal](images/thewallstreetjournal.jpg)](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001) <br/>
 [Original Link](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001) </br>
-**New Yorkers Step Up to Help Mom-and-Pop Businesses** </br>
-April 7, 2020 (in print on April 8th, Page A12B) </br>
-By **Anne Kadet** </br>
+**New Yorkers Step Up to Help Mom-and-Pop Businesses** <br/>
+April 7, 2020 (in print on April 8th, Page A12B) <br/>
+By **Anne Kadet** <br/>
 > 
 > Like many New Yorkers, Ms. Struss fears that many mom-and-pop shops won’t survive the shutdown, and she’s determined to help them stay afloat.
 > 
@@ -147,7 +147,7 @@ By **Cara Trager** <br/>
 >
 > “For price and convenience, more things are going online,” Bachenheimer said.
 
-[![US News and World Report](images/usnews.jpg)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide) <br/>
+[![US News and World Report](images/usnews.png)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide) <br/>
 [Original Link](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2019-05-17/is-an-mba-worth-it-how-to-decide) <br/>
 **Is an MBA Worth It? How to Decide** <br/>
 May 17, 2019 <br/>
