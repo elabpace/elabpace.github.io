@@ -43,29 +43,23 @@ By **Bruce Bachenheimer** <br/>
 >
 > *Bruce Bachenheimer is a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University.*
 
-[![](image4571.jpg)](https://link.medium.com/CuDeKUTkw5)
-
-Entrepreneurship During the Time of COVID-19
-
+[![Medium](images/medium.jpg)](https://link.medium.com/CuDeKUTkw5) <br/>
+[Original Link](https://link.medium.com/CuDeKUTkw5) <br/>
+**Entrepreneurship During the Time of COVID-19**
 April 8, 2020
-
-By Bruce Bachenheimer, @PaceUniversity
-
-[![](image4594.jpg)](https://link.medium.com/CuDeKUTkw5)
-
-In these unprecedented times, everyone should bear in mind that entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mindset — a way of thinking and acting.
-
-By Bruce Bachenheimer
-
-Director of the Entrepreneurship Lab, Pace University
-
-Entrepreneurship is often associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more ‘ripe for disruption’ than during a crisis. Airbnb and Uber were founded amid the 2008 financial crisis, and probably would not have succeeded if either was launched a few years earlier or later. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who were suddenly willing to sleep in a stranger’s bed and pay for a ride in a regular car. Once these concepts proved successful, they were able to become a new normal.
-
-What innovative business concepts will be born out of the COVID-19 crisis? We’ll have to wait and see. But what’s important to remember is that it’s not about coming up with an interesting idea; it’s about the passion, persistence, and perseverance to actually make it happen.
-
-In these unprecedented times, everyone should bear in mind that entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mindset — a way of thinking and acting. It is about imagining new ways to solve problems and create value. Fundamentally, entrepreneurship is about opportunity; the ability to recognize a new opportunity, to methodically analyze the opportunity, and ultimately, to capture the value of that opportunity. Such skills are important for those seeking to establish new ventures, and critical for a variety of professional careers given today’s hyper-competitive marketplace where rapid technological innovation and globalization has changed the very nature of work.
-
-Today, every institution is facing enormous uncertainty and unique challenges. How are you helping to solve problems and provide benefits for your organization?
+By **Bruce Bachenheimer, @PaceUniversity**
+> ***In these unprecedented times, everyone should bear in mind that entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mindset — a way of thinking and acting.***
+> 
+> *By Bruce Bachenheimer* <br/>
+> *Director of the Entrepreneurship Lab, Pace University*
+> 
+> Entrepreneurship is often associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more ‘ripe for disruption’ than during a crisis. Airbnb and Uber were founded amid the 2008 financial crisis, and probably would not have succeeded if either was launched a few years earlier or later. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who were suddenly willing to sleep in a stranger’s bed and pay for a ride in a regular car. Once these concepts proved successful, they were able to become a new normal.
+>
+> What innovative business concepts will be born out of the COVID-19 crisis? We’ll have to wait and see. But what’s important to remember is that it’s not about coming up with an interesting idea; it’s about the passion, persistence, and perseverance to actually make it happen.
+>
+> In these unprecedented times, everyone should bear in mind that entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mindset — a way of thinking and acting. It is about imagining new ways to solve problems and create value. Fundamentally, entrepreneurship is about opportunity; the ability to recognize a new opportunity, to methodically analyze the opportunity, and ultimately, to capture the value of that opportunity. Such skills are important for those seeking to establish new ventures, and critical for a variety of professional careers given today’s hyper-competitive marketplace where rapid technological innovation and globalization has changed the very nature of work.
+>
+> Today, every institution is facing enormous uncertainty and unique challenges. How are you helping to solve problems and provide benefits for your organization?
 
 [![](image310.jpg)](https://www.wsj.com/articles/new-yorkers-step-up-to-help-mom-and-pop-businesses-11586268001)
 
