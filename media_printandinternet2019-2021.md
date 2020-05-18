@@ -45,9 +45,9 @@ By **Bruce Bachenheimer** <br/>
 
 [![Medium](images/medium.jpg)](https://link.medium.com/CuDeKUTkw5) <br/>
 [Original Link](https://link.medium.com/CuDeKUTkw5) <br/>
-**Entrepreneurship During the Time of COVID-19**
-April 8, 2020
-By **Bruce Bachenheimer, @PaceUniversity**
+**Entrepreneurship During the Time of COVID-19** <br/>
+April 8, 2020 <br/>
+By **Bruce Bachenheimer, @PaceUniversity** <br/>
 > ***In these unprecedented times, everyone should bear in mind that entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mindset — a way of thinking and acting.***
 > 
 > *By Bruce Bachenheimer* <br/>
