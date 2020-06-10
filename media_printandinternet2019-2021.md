@@ -1,5 +1,15 @@
 # Print and Internet 2019-Present
 
+[![US News and World Report](images/usnews.png)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/what-to-know-about-getting-an-mba-during-the-coronavirus-pandemic) <br/>
+[Original Link](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/what-to-know-about-getting-an-mba-during-the-coronavirus-pandemic) <br/>
+**Should You Pursue an MBA Amid Coronavirus?** <br/>
+June 4, 2020 <br/>
+By **Ilana Kowarski** <br/>
+> 
+> Bruce Bachenheimer, a clinical professor of management with the Pace University [Lubin School of Business](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-new-york-01309) in New York City, suggests that admitted MBA students account for the type of MBA program they were accepted into when determining whether to enroll or postpone their study plans.
+>
+> "When considering a top tier MBA program, interactions among one’s cohort, academic and social, is absolutely one of the most valuable aspects of the program and I would recommend deferring admission until traditional classes and regular activities are certain to resume," Bachenheimer wrote in an email. "For other programs, where there is not necessarily a strong cohort model, chancing a semester of remote learning is not as consequential. This would especially be the case for part-time programs."
+
 [![Crain's](images/crains.jpg)](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic) <br/>
 [Original Link](https://www.crainsnewyork.com/op-ed/entrepreneurs-are-sure-find-inspiration-pandemic) <br/>
 **Op-Ed: Entrepreneurs are sure to find inspiration in the pandemic** <br/>
