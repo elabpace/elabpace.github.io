@@ -14,12 +14,12 @@
 <div style="text-align:center;">
   <a href='files/BruceBachenheimerMediaQuotes.pdf'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong style="color:white;">Complete PDF Version</strong>
+      <strong style="color:white;">Complete<br/>PDF<br/>Version</strong>
     </button>
   </a>
   <a href='media_tvradioweb.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong style="color:white;">TV, Radio & Web Broadcast</strong>
+      <strong style="color:white;">TV, Radio<br/>& Web Broadcast</strong>
     </button>
   </a>
   <a href='media_paceuniversitymedia.html'>
