@@ -202,7 +202,7 @@ By **Lauren Keyson** <br/>
 
 [![Entrepreneurs Startups](images/entrepreneursstartups.png)](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28) <br/>
 [Original Link](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28) | [PDF Version](files/EntrepreneursStartups_Summer-2012.pdf) <br/>
-***Also featured in:***
+***Also featured in:*** <br/>
 [![NBC News](images/nbcnews.jpg)](http://www.nbcnews.com/id/47995175/ns/business-small_business/t/steps-successful-business-launch/) <br/>
 **6 Steps to a Successful Start** <br/>
 Summer 2012 <br/>
