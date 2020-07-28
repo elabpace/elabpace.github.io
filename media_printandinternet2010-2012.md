@@ -80,9 +80,9 @@ By **Ye Hui Jue** <br/>
 September 9, 2012 <br/>
 By **Elizabeth MacBride** <br/>
 >
-> "Men have always seen themselves as breadwinners: 'If I'm working day and night, I'm supporting my family,' " said Bruce Bachenheimer, clinical professor and director of entrepreneurship at Pace University. "Women \[working that hard\] saw themselves as not doing a good job for their families. That is starting to change."
+> "Men have always seen themselves as breadwinners: 'If I'm working day and night, I'm supporting my family,' " said Bruce Bachenheimer, clinical professor and director of entrepreneurship at Pace University. "Women [working that hard] saw themselves as not doing a good job for their families. That is starting to change."
 >
-> "\[These networks\] are not a vague thing in the background," said Mr. Bachenheimer. "It's whom do you pick up the phone and call ... when you need talent?"
+> "[These networks] are not a vague thing in the background," said Mr. Bachenheimer. "It's whom do you pick up the phone and call ... when you need talent?"
 
 [![Sydney Morning Herald](images/smh.jpg)](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) <br/>
 [Original Link](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) | [PDF Version](files/SMH_8-24-12.pdf) <br/>
@@ -107,336 +107,306 @@ By **Ye Hui Jue** <br/>
 >
 >In sharp contrast with this, the private equity market remains active. Pace University Professor Bruce Bachenheimer told reporters that an increasing number of businesses are opting for private investments and trade sales. Compared to the strictly regulated IPO market, private equity and M & A can be a more attractive choice.
 
-[![](images/image57041.jpg)](http://www.elpuntavui.cat/noticia/article/4-economia/18-economia/565539-el-cinturo-de-silici.html)  
-[Original Link](http://www.elpuntavui.cat/noticia/article/4-economia/18-economia/565539-el-cinturo-de-silici.html) | [PDF Version](files/ElPuntAvui_8-5-12.pdf)
-
-**Silicon Alley**  
-August 5, 2012  
-By **Dani Triadó**  
-
-"The bursting of the tech bubble collapsed the original Silicon Alley, established between 1996 and 2001", explained Bruce Bachenheimer, Director of Entrepreneurship at the Lubin School of Business, Pace University. "Ironically, the crisis of 2008 is responsible for the birth of the new group of technology firms. Dozens of engineers working on Wall Street lost their jobs and saw an opportunity in new technologies", he adds.
-
-"Silicon Valley is based on technology; in New York, however, technology companies have been able to exploit their relationship with the financial industries, design, art, advertising and health", concludes Professor Bachenheimer.
-
-Alternative to Silicon Valley
-
-"Silicon Valley is based on the technology; in New York, however, technology companies have been able to exploit their relationship with the finance, design, art, advertising and health '," says Bruce Bachenheimer, Director Entrepreneurship Program at the Lubin School of Business, Pace University.
-
-[![](images/image7166.jpg)](http://www.crainsnewyork.com/article/20120729/SUB/307299993)  
-[Original Link](http://www.crainsnewyork.com/article/20120729/SUB/307299993) | [PDF Version](files/Crains_7-29-12.pdf)  
-
-**Funding draws on crowd**  
-July 29, 2012  
-By **Steve Garmhausen**  
-
-A THREAT TO VCS
-
-They also question crowd funding's viability, predicting, for example, that communicating with hundreds of mom-and-pop investors—and being second-guessed by them—will turn off many entrepreneurs, not to mention VCs, when the entrepreneurs attempt to attract later rounds of traditional funding. Unsophisticated investors are more likely to buy shares based on exaggerated valuations, the argument goes. To invest in a later round, more savvy angels or venture capitalists would insist on lowering the valuation—which would incur the wrath of the original shareholders. They argue, too, that entrepreneurs who work with amateur investors will miss out on the advice, networking opportunities and tough love provided by VCs and angels, not to mention the stamp of approval a venture investment confers.
-
-"They give you a huge amount of help finding top talent," said Bruce Bachenheimer, director of the entrepreneurship program at Pace University's Lubin School of Business. "[With crowd funders] if anything, you'll spend all day on the phone with Aunt Jenny."
-
-[![](image56981.jpg)](http://www.jstandard.com/content/item/how_to_succeed_in_business_play_games/)  
-[Original Link](http://www.jstandard.com/content/item/how_to_succeed_in_business_play_games/) | [PDF Version](files/NJJewishStandard_7-27-12.pdf)  
-
-**How to succeed in business – play games**  
-July 27, 2012  
-By **Abigail Klein Leichman**  
-
-Bruce Bachenheimer, clinical professor of management at Pace University, told the Jewish Standard that he took his MBA students to play FreshBiz last March at Hive at 55, a co-working space in Lower Manhattan.
-
-“We all enjoyed the experience and found it quite insightful,” he said. “While the board game itself is quite well thought out, I believe the real value of the game lies in the facilitators — those coaching players during the game and, more importantly, conducting the debriefing afterward. The game itself is a very good tool, but not in and of itself — the ‘brilliance’ lies in the abilities of those conducting the exercise.”
-
-[![](21cbh.jpg)](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html)  
-[Original Link](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html) | [PDF Version](files/21stCenturyBusinessHerald_7-26-12.pdf)
-
-**Looking forward to the "negative": the possibility of significant increase of the EFSF rating downgrades**  
-July 26, 2012  
-By **Ye Hui Jue**  
-
-“Market behavior is usually difficult to predict, but it is nothing more than two kinds of emotional control - fear and greed." Pace University, USA Lubin Business School Professor Bruce Bachenheimer pointed out to reporters.
-
-[![](lapresse.jpg)](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php)  
-[Original Link](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php) | [PDF Version](files/LaPresse_7-23-12.pdf)
-
-**Technology businesses by the thousands in New York**  
-July 23, 2012  
-By **Richard Hetu**  
-
-A beneficial crisis
-
-Paradoxically, the financial crisis of 2008 contributed to the technology boom in New York, according to Bruce Bachenheimer, management professor and director of an entrepreneurship program at Pace University in New York.
-
-"A lot of programmers, engineers and quantitative analysis of cracks met at Silicon Alley after losing their jobs on Wall Street" he said during a meeting. "Wall Street has suddenly ceased to monopolize all the talent. It must be said also that it has become sexier to say that working in Silicon Alley rather than Wall Street. This is something that the mayor understands."
-
-"It is not enough to say dot-com"
-
-"It is not enough to say dot-com to raise money," says Bruce Bachenheimer, a professor at Pace University. "The" venture capitalists "watch the revenues and profits. And what startups are doing well in New York is using existing technology and apply it where it can respond to real needs."
-
-![](21cbh.jpg)  
-[Original Link](http://epaper.21cbh.com/html/2012-07/23/content_29455.htm) | [PDF Version](files/21stCenturyBusinessHerald_7-21-12.pdf)
-
-**The four major banks sigh: America's financial industry fears layoffs**  
-July 23, 2012  
-By **Ye Hui Jue**  
-
-Analysts believe that the more stringent financial regulation led to many companies to be discouraged by the public market. Pace University Lubin Business School Professor Bruce Bachenheimer said to this reporter: "Due to a series of financial regulatory requirements in the Sarbanes-Oxley Act and other strict rules for operating in the public market, many enterprises do not want to do an IPO at this time, choosing instead a more private and conservative trade sale."
-
-[![](youngentrepreneur.png)](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/)  
-[Original Link](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/) | [PDF Version](files/YoungEntrepreneur_7-13-12.pdf)
-
-**Must Read Books to Fuel Your Summer — And Your Startup**  
-July 13, 2012    
-By **Lauren Cannon**  
-
-Bruce Bachenheimer  
-Director of Entrepreneurship, Pace University’s Lubin School of Business  
-New York, NY  
-
-[The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](http://www.amazon.com/dp/1591840562/)
-
-by Guy Kawasaki
-
-It’s a really fun, easy read — and a very broad book for entrepreneurs starting everything.
-
-[![](nyconvergence.jpg)](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html)  
-[Original Link](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html) | [PDF Version](files/NYConvergence_6-20-12.pdf)
-
-**MITEF/NYTECH Digital Discussion: Failure Is Liberating, Wild Success Is Exhilarating**  
-June 20, 2012  
-By **Lauren Keyson**  
-
-“NYC digital tech entrepreneurship has had such an impact in NYC on job creation,” said Bruce Bachenheimer, board member for the Enterprise Forum and entrepreneurship director for Pace University.  “In fact NYC is now in the number two spot for VC and angel investment, according to National Venture Capital Association PricewaterhouseCoopers Money Tree survey. While the whole economy is stagnating, NYC companies have received millions in funding.  While we have lagged the nation out of recoveries in the past, we are now ahead — this shows the impact of digital media has had.”
-
-He says that one way to be successful is to be part of the NY entrepreneurial ecosystem. “Get engaged, involved, and look for support because there are a lot of resources and other companies that want to help. Build straight in the eco-system so that we can make sure this isn’t a bubble, but that it’s something that can last.”
-
-[![](image57531.png)](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28)
-[Original Link](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28) | [PDF Version](files/EntrepreneursStartups_Summer-2012.pdf)
-
-Also featured in:  
-[![](image5876.jpg)](http://www.nbcnews.com/id/47995175/ns/business-small_business/t/steps-successful-business-launch/)  
-
-**6 Steps to a Successful Start**  
-Summer 2012  
-By **Nancy Mann Jackson**  
-
-GO BEYOND THE BUSINESS PLAN.
-
-Planning carefully before launching a new business is not limited to preparing a business plan, says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University in New York City. “While preparing a business plan is generally a valuable exercise, there are other ways to plan carefully,” he says. Bachenheimer recommends three planning methods.
-
- • The Apprentice Model: gaining direct industry experience, as the founders of Tender Greens did.
-
- • The Hired-Gun Approach: partnering with experts who have in-depth knowledge and experience.
-
- • The Ultra-Lean School of Hard Knocks Tactic: figuring out a way to rapidly test and refine your model at a very reasonable cost.
-
-If you don't commit to in-depth preparation, launching a new business can be a very expensive lesson in the value of planning. Bachenheimer asks: “Would you enter a high-stakes poker tournament without knowing the game, assuming that you'll figure it out as you go?”
-
-KNOW THE MARKET.
-
-Ask questions, conduct research or gain experience to help you learn your market inside and out, including the key suppliers, distributors, competitors and customers, Bachenheimer says. “You also have to really understand the critical metrics of your market, whether it's as simple as sales per square foot and inventory turnover, or an esoteric measure in a highly specialized niche market,” he says.
-
-ESTABLISH CASH RESOURCES.
-
-To determine how much cash you'll need, develop a cash-flow statement that estimates your expenses and income. Be sure to include appropriate expense levels by researching actual business costs rather than estimating based on your personal experience as a retail consumer. “For instance, you can host your personal website with unlimited bandwidth for $9.95 a month, but operating a commercial website may cost hundreds or thousands of dollars a month,” Pace University's Bachenheimer says.
-
-[![](youngentrepreneur.png)](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/)  
-[Original Link](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/) | [PDF Version](files/YoungEntrepreneur_5-22-12.pdf)
-
-**At College Pitch Contests, Giant Companies Are Listening**  
-May 22, 2012  
-
-Is the private incubator model right for your startup? They both have their pros and cons, but incubators backed by major companies may aid your development into a seasoned entrepreneur at a faster rate, says Bruce Bachenheimer, director of entrepreneurship at Pace University’s Lubin School of Business. "They all bring something unique and different and there certainly are a lot of benefits to the different approaches," he adds. "One thing that the Foundry does that’s special is creating the mindset of an entrepreneur primarily as opposed to just counting the number of startup companies they create."
-
-[![](image5652.png)](http://msn.careerbuilder.com/Article/MSN-3008-College-Internships-First-Jobs-Should-you-work-between-undergrad-and-grad-school/)  
-[Original Link](http://msn.careerbuilder.com/Article/MSN-3008-College-Internships-First-Jobs-Should-you-work-between-undergrad-and-grad-school/) | [PDF Version](files/MSN_5-9-12.pdf)
-
-**Should you work between undergrad and grad school?**  
-May 9, 2012  
-By **Debra Auerbach**  
-
-4\. Does the experience add value?
-
-While working between undergraduate and graduate school certainly has its benefits, make sure you're not working just to work and that you're gaining experience that will add value to your education. "As far as the type of work a potential applicant should look for, the bottom line is how well that experience will enable you to add value to the classroom experience and contribute to group assignments," says Bruce Bachenheimer, clinical professor of management at Pace University's Lubin School of Business in New York.
-
-[![](image5653.png)](http://theexchange.aacsb.edu/bized/home/)  
-[Original Link](http://theexchange.aacsb.edu/bized/home/) | [PDF Version](files/BizEd_May-June2012.pdf)
-
-**News**  
-May/June 2012  
-
-Pace University has simultaneously opened two Entrepreneurship Labs (E-Labs) on its campuses in Lower
-
-Manhattan and Pleasantville, New York. E-Lab’s first director will be Bruce Bachenheimer of Pace’s Lubin School of Business.
-
-[![](image7168.jpg)](http://www.crainsnewyork.com/article/20120422/SMALLBIZ/304229998)  
-[Original Link](http://www.crainsnewyork.com/article/20120422/SMALLBIZ/304229998) | [PDF Version](files/Crains_4-22-12.pdf)   
-
-**Colleges become startup factories**  
-April 22, 2012
-
-One of the latest manifestations of the trend: the February launch, by Pace University’s Lubin School of Business, of an entrepreneurship lab that aims to facilitate collaborations between students in schools as diverse as nursing and business.
-
-“The idea is that it will involve all Pace students and faculty from all the schools,” said Bruce Bachenheimer, director of the lab and of the Lubin’s entrepreneurship program. “We’re stressing an interdisciplinary, hands-on experience to find new ways to solve difficult problems.”
-
-When it comes to harder stuff, such as the ability to recognize opportunities, Pace and other schools use case studies, brainstorming lessons and other exercises to nurture that skill.
-
-“It’s kind of like teaching music or painting,” explained Mr. Bachenheimer.
-
-Pitch Contests have also proved to be a great way to network and meet investors. The most recent contest at Pace drew an audience of 400, including venture capitalists, angel investors and bankers, said Mr. Bachenheimer.
-
-And by one definition, entrepreneurship training doesn’t have to result in a business launch to be successful. If a person is trained to size up opportunities and take initiatives, and he and his employer have an edge, said Mr. Bachenheimer.
-
-“The nature of the work is changing dramatically,” he said. “There’s no more ‘Give me a job and tell me what to do.’”
-
-[![](image7170.jpg)](http://www.crainsnewyork.com/article/20120401/SUB/304019993)  
-[Original Link](http://www.crainsnewyork.com/article/20120401/SUB/304019993) | [PDF Version](files/Crains_4-2-12.pdf) 
-
-**Executive Moves**  
-April 1, 2012  
-
-Pace University:
-
-Bruce Bachenheimer, 50, was promoted to director of the university’s entrepreneurship lab. He will continue as clinical professor of management. He was previously program director of entrepreneurship at the Lubin School of Business.
-
-[![](image56281.jpg)](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html)  
-[Original Link](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html) | [PDF Version](files/MAE_April2012.pdf)  
-
-**Pace to Encourage Entrepreneurship**  
-April 2012 (Volume 7, Issue 3, Page 15)  
-
-“Professor Bruce Bachenheimer is ideally suited to lead the E-Labs and grow the program,” continued Braun. “Bruce’s relationships throughout the New York City venture community and beyond will be an important building block as we seek to further enhance our standing and access to professionals in the field.”
-
-Bachenheimer is a member of the board of directors and past chairman of the MIT Enterprise Forum of New York City and has served on the organization’s Global Board. Bachenheimer also serves on the board of directors and advisors of LeadAmerica and has served as a consultant to the NYC Department of Small Services and the New York City Economic Development Corp. He founded Annapolis Maritime Corp. and co-founded StockCentral Australia. “The Entrepreneurship Lab aims to foster an entrepreneurial mindset– a way of thinking and acting that focuses on developing new ways to solve problems and create value,” said Bachenheimer, who rdafted the initial proposal of the E-Lab. “These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today’s hyper– competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.”
-
-[![](image5630.jpg)](http://nyconvergence.com/2012/03/fintech-innovation-lab-makes-wall-street-sexy-again.html)  
-[Original Link](http://nyconvergence.com/2012/03/fintech-innovation-lab-makes-wall-street-sexy-again.html) | [PDF Version](files/NYConvergence_3-19-12.pdf)    
-
-**FinTech Innovation Lab Makes Wall Street Sexy Again**  
-March 19, 2012  
-
-Since Wall Street's profits and prestige have slumped, the best and the brightest are looking elsewhere for jobs, making it harder to lure promising recruits. Bruce Bachenheimer, director of entrepreneurship at Pace University, told Technology Review that in the 1990s it was "exciting and sexy to say you were working on Wall Street."  But that's changed. Those formerly positive perceptions have flipped 180 degrees.  
-
-[![](image5619.png)](http://www.technologyreview.com/business/39826/)  
-[Original Link](http://www.technologyreview.com/business/39826/) | [PDF Version](files/TechnologyReview_3-16-12.pdf)  
-
-**Wall Street's Search for Innovation**  
-March 16, 2012  
-By **Erik Sherman**  
-
-After banking deregulation took off in the 1990s, it became "exciting and sexy to say you were working on Wall Street," says Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University. Money and prestige helped lure top academic talent, including mathematicians and computer scientists, to hedge funds.
-
-But that has changed, beginning with 2008 and the financial meltdown. "The perception of working on Wall Street went from positive to negative," Bachenheimer says. Wall Street reached its latest low this week when a Goldman Sachs executive resigned and publicly excoriated the company's ethics in a New York Times op-ed.
-
-Meanwhile, places like Silicon Valley, Boston, and other hotbeds of high tech suddenly look like the most attractive places to be. With the recent spate of Web-company IPOs, technology startups are also potentially a faster ticket to wealth than Wall Street, where bonuses fell 14 percent last year, continuing a multi-year slide.
-
-"Perceptions of desirability are very important in entrepreneurship. \[Technologists\] want to go where the action is and want to be doing cool stuff," says Bachenheimer.
-
-[![](image5609.jpg)](http://www.mo.com/Bruce-Bachenheimer-Pace-University)  
-[Original Link](http://www.mo.com/Bruce-Bachenheimer-Pace-University) | [PDF Version](files/MO_3-9-12.pdf)  
-
-**“Live Deliberately”**  
-March 9, 2012  
-By **MO**  
-
-MO.com interviews entrepreneurs from all walks, across all industries, and from around the world. Below are seven questions MO asked Pace Professor Bruce Bachenheimer; a brief bio and his responses and available at [http://www.mo.com/Bruce-Bachenheimer-Pace-University](http://www.mo.com/Bruce-Bachenheimer-Pace-University).
-
-MO: Where does your passion for entrepreneurship come from? Who or what were your early influences or inspirations?
-
-MO: How do you foster creativity and innovation in your students? Is creativity something that we’re born with or can it be taught and developed?
-
-MO: Have you had any mentors during the course of your career?
-
-MO: Why do you think that the field social entrepreneurship has recently exploded? Why are people looking for more meaningful ways to carve out a career and how will this trend impact the start-up landscape?
-
-MO: You’re in constant contact with bright, young innovators. What aspects of teaching and mentoring are most inspiring for you? On the flip side, are there any aspects of your job that you find specifically challenging?
-
-MO: What is the most important piece of advice you have for those looking to start a business?
-
-[![](image5611.jpg)](http://westfaironline.com/2012/19480-westchester-county-business-news-in-brief-2/)  
-[Original Link](http://westfaironline.com/2012/19480-westchester-county-business-news-in-brief-2/) | [PDF Version](files/WCBJ_2-27-12.pdf)  
-
-**Bachenheimer now runs E-Lab**  
-February 24, 2012  
-By **Editorial Staff**  
-
-Pace University’s new Entrepreneurship Lab, known as the E-Lab, now has a CEO –  it’s professor Bruce Bachenheimer of Chappaqua. A clinical professor of management at Pace, Bachenheimer is now also the director of the E-Lab. It is available to all Pace students, in New York City and in Pleasantville.
-
-Bachenheimer will advise all aspiring student entrepreneurs, in everything from accounting and computer science to law and the performing arts.
-
-He came up with the idea for the annual Pace Pitch Contest and Business Plan Competition, which he introduced in 2004, just after joining the Lubin School of Business faculty.
-
-“The Entrepreneurship Lab aims to foster an entrepreneurial mindset – a way of thinking and acting that focuses on developing new ways to solve problems and create value,” said Bachenheimer. “These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today’s hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.”
-
-Bachenheimer began his career as a Wall Street trader, and then took several years off to sail through the Caribbean to South America. After that, he launched an importing business and then moved into high-tech forensic science before joining Pace.
-
-[![](image56001.png)](http://intheempire.com/post/17788083605/pace-universitys-entrepreneurship-lab-will-train)
-[Original Link](http://intheempire.com/post/17788083605/pace-universitys-entrepreneurship-lab-will-train)   
-
-**Pace University’s Entrepreneurship Lab Will Train People To Think Differently**  
-February 17, 2012  
-By **Will Wei**  
-
-Pace University officially opened the doors to its Entrepreneurship Lab (aka, E-Lab) last night, and there to cut the ribbon was Professor Bruce Bachenheimer, who was named the lab’s first director.
-
-“It takes innovation and entrepreneurship to develop things that are meaningful,” Bachenheimer tells us over the phone.
-
-“We don’t measure our metrics by how many students launch businesses,” Bachenheimer says. “It’s the ability to come up with new and creative solutions to problems, and the ability to add value in a unique and innovative way.”
-
-To spur innovation, Bachenheimer and his E-Lab will provide students with workspace for creative thinking, in addition to access to workshops, guest speakers, roundtable discussions, and networking events involving members of the entrepreneurial community.
-
-“If you’re looking at very good innovators, they have to be young enough so that their minds are not so rigid in the way things are and the way things should be,” says Bachenheimer. “But they also need to have enough knowledge, skills, and abilities to find and solve problems.”
-
-To mold a mind into innovative shape, college students need an “experiential education.”
-
-“You need to train people to think differently, and if there are specific skills they don’t have, let them know how to get those resources,” Bachenheimer says. “Hopefully, the Entrepreneurship Lab is one of them.”
-
-[![](image5587.png)](http://wire.inc.com/2012/02/17/new-york-gets-new-start-up-lab/)  
-[Original Link](http://wire.inc.com/2012/02/17/new-york-gets-new-start-up-lab/) | [PDF Version](files/InTheEmpire_2-17-12.pdf)  
-
-**New York Gets New Start-up Lab**  
-February 17, 2012  
-By **Christine Lagorio**    
-
-The lab’s director, Bruce Bachenheimer, who also organizes the Pace Business Plan Competition and Pitch Contest, said he’d gotten a call from a nursing students asking if she could apply for the lab, hopefully to find a collaborator for a piece of health-care software or an app.
-
-[![](image5595.png)](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935)  
-[Original Link](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935) | [PDF Version](files/Crains_2-15-12.pdf)  
-
-**Pace University launches entrepreneur lab**  
-February 15, 2012  
-By **Emily Laermer**  
-
-The lab will include space for students to conference with investors, a studio for them to work and a large meeting room for speakers. Bruce Bachenheimer, the director of the lab and a professor at Lubin, says he plans to reach out to some of the thousand-plus Pace-area alums who self identify as entrepreneurs to be potential guests.
-
-“This will be very student focused,” Mr. Bachenheimer said. “It's important for me to see how the students are using the lab and what is providing them with the most value.”
-
-In fact, Mr. Bachenheimer says he has seen an increase in student interest in entrepreneurship in recent years. He blames this on the economy and the high unemployment rate. Students see creating their own companies as a safer route.
-
-“They also want to make something meaningful and create something,” he said.
-
-![](image5963.png)
-[PDF Version](files/DailyNews_2-6-12.pdf)  
-
-**Bouncing back: Laid-off NYers get fresh start with home businesses**  
-February 6, 2012  
-By **Fran Golden**    
-
-
-But before would-be self-employed moguls get started, they need to look realistically at what they’re hoping to accomplish, said Bruce Bachenheimer, a professor of management and Director of Entrepreneurship at Pace University.
-
-“Do you have a real strategy?  A lot of people in this bad economy see home-based as a way to be employed, fill a gap on the resume or whatever,” he said. “But it’s not as easy as it appears.”
-
-EXPERT ADVICE To start a home-based business:
-
-SET REALISTIC GOALS “To launch a business does take capital, time and money, and always twice as much as you think,” says Pace University’s Bruce Bachenheimer
-
-FIND A MENTOR Talk to people who have started home-based businesses, join entrepreneur and small business groups, and get feedback about start-ups. “Smart entrepreneurs surround themselves with even smarter experts,” said Bachenheimer.
-
-HINK SALES A lot of people have a romantic vision that working at home means making your own hours and making money.  But the reality is, no matter what you’re offering , you need someone to buy it.  “Entrepreneurs are optimistic by nature, but don’t confuse passion and stubbornness.  You need someone to actually open up their wallet and want,” said Bachenheimer.
-
-BE HONEST WITH YOURSELF Not everyone is cut out to be an entrepreneur. “The best are risk-takers confident in themselves and their ideas,” Bachenheimer says.
-
-
+[![El Punt Avui](images/elpuntavui.jpg)](http://www.elpuntavui.cat/noticia/article/4-economia/18-economia/565539-el-cinturo-de-silici.html) <br/>
+[Original Link](http://www.elpuntavui.cat/noticia/article/4-economia/18-economia/565539-el-cinturo-de-silici.html) | [PDF Version](files/ElPuntAvui_8-5-12.pdf) <br/>
+**Silicon Alley** <br/>
+August 5, 2012 <br/>
+By **Dani Triadó** <br/>
+>
+> "The bursting of the tech bubble collapsed the original Silicon Alley, established between 1996 and 2001", explained Bruce Bachenheimer, Director of Entrepreneurship at the Lubin School of Business, Pace University. "Ironically, the crisis of 2008 is responsible for the birth of the new group of technology firms. Dozens of engineers working on Wall Street lost their jobs and saw an opportunity in new technologies", he adds.
+> 
+> "Silicon Valley is based on technology; in New York, however, technology companies have been able to exploit their relationship with the financial industries, design, art, advertising and health", concludes Professor Bachenheimer.
+>
+> **Alternative to Silicon Valley**
+> 
+> "Silicon Valley is based on the technology; in New York, however, technology companies have been able to exploit their relationship with the finance, design, art, advertising and health '," says Bruce Bachenheimer, Director Entrepreneurship Program at the Lubin School of Business, Pace University.
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20120729/SUB/307299993) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20120729/SUB/307299993) | [PDF Version](files/Crains_7-29-12.pdf) <br/>
+**Funding draws on crowd** <br/>
+July 29, 2012 <br/>
+By **Steve Garmhausen** <br/>
+>
+> **A THREAT TO VCS**
+>
+> They also question crowd funding's viability, predicting, for example, that communicating with hundreds of mom-and-pop investors—and being second-guessed by them—will turn off many entrepreneurs, not to mention VCs, when the entrepreneurs attempt to attract later rounds of traditional funding. Unsophisticated investors are more likely to buy shares based on exaggerated valuations, the argument goes. To invest in a later round, more savvy angels or venture capitalists would insist on lowering the valuation—which would incur the wrath of the original shareholders. They argue, too, that entrepreneurs who work with amateur investors will miss out on the advice, networking opportunities and tough love provided by VCs and angels, not to mention the stamp of approval a venture investment confers.
+>
+> "They give you a huge amount of help finding top talent," said Bruce Bachenheimer, director of the entrepreneurship program at Pace University's Lubin School of Business. "[With crowd funders] if anything, you'll spend all day on the phone with Aunt Jenny."
+
+[![New Jersey Jewish Standard](images/newjerseyjewishstandard.jpg)](http://www.jstandard.com/content/item/how_to_succeed_in_business_play_games/) <br/>
+[Original Link](http://www.jstandard.com/content/item/how_to_succeed_in_business_play_games/) | [PDF Version](files/NJJewishStandard_7-27-12.pdf) <br/>
+**How to succeed in business – play games** <br/> 
+July 27, 2012 <br/>
+By **Abigail Klein Leichman** <br/>
+>
+> Bruce Bachenheimer, clinical professor of management at Pace University, told the Jewish Standard that he took his MBA students to play FreshBiz last March at Hive at 55, a co-working space in Lower Manhattan.
+>
+> “We all enjoyed the experience and found it quite insightful,” he said. “While the board game itself is quite well thought out, I believe the real value of the game lies in the facilitators — those coaching players during the game and, more importantly, conducting the debriefing afterward. The game itself is a very good tool, but not in and of itself — the ‘brilliance’ lies in the abilities of those conducting the exercise.”
+
+[![21st Century Business Herald](images/21cbh.jpg)](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html) <br/>
+[Original Link](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html) | [PDF Version](files/21stCenturyBusinessHerald_7-26-12.pdf) <br/>
+**Looking forward to the "negative": the possibility of significant increase of the EFSF rating downgrades** <br/>
+July 26, 2012 <br/>
+By **Ye Hui Jue** <br/>
+>
+> “Market behavior is usually difficult to predict, but it is nothing more than two kinds of emotional control - fear and greed." Pace University, USA Lubin Business School Professor Bruce Bachenheimer pointed out to reporters.
+
+[![La Presse](images/lapresse.jpg)](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php) <br/>
+[Original Link](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php) | [PDF Version](files/LaPresse_7-23-12.pdf) <br/>
+**Technology businesses by the thousands in New York** <br/>
+July 23, 2012 <br/>
+By **Richard Hetu** <br/>  
+>
+> **A beneficial crisis**
+>
+> Paradoxically, the financial crisis of 2008 contributed to the technology boom in New York, according to Bruce Bachenheimer, management professor and director of an entrepreneurship program at Pace University in New York.
+>
+> "A lot of programmers, engineers and quantitative analysis of cracks met at Silicon Alley after losing their jobs on Wall Street" he said during a meeting. "Wall Street has suddenly ceased to monopolize all the talent. It must be said also that it has become sexier to say that working in Silicon Alley rather than Wall Street. This is something that the mayor understands."
+>
+> **"It is not enough to say dot-com"**
+>
+> "It is not enough to say dot-com to raise money," says Bruce Bachenheimer, a professor at Pace University. "The" venture capitalists "watch the revenues and profits. And what startups are doing well in New York is using existing technology and apply it where it can respond to real needs."
+
+[![21st Century Business Herald](images/21cbh.jpg)](http://epaper.21cbh.com/html/2012-07/23/content_29455.htm) <br/>
+[Original Link](http://epaper.21cbh.com/html/2012-07/23/content_29455.htm) | [PDF Version](files/21stCenturyBusinessHerald_7-21-12.pdf) <br/>
+**The four major banks sigh: America's financial industry fears layoffs** <br/>
+July 23, 2012 <br/>
+By **Ye Hui Jue** <br/>
+>
+> Analysts believe that the more stringent financial regulation led to many companies to be discouraged by the public market. Pace University Lubin Business School Professor Bruce Bachenheimer said to this reporter: "Due to a series of financial regulatory requirements in the Sarbanes-Oxley Act and other strict rules for operating in the public market, many enterprises do not want to do an IPO at this time, choosing instead a more private and conservative trade sale."
+
+[![Young Entrepreneur](images/youngentrepreneur.png)](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/) <br/>
+[Original Link](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/) | [PDF Version](files/YoungEntrepreneur_7-13-12.pdf) <br/>
+**Must Read Books to Fuel Your Summer — And Your Startup** <br/>
+July 13, 2012 <br/>
+By **Lauren Cannon** <br/> 
+>
+> **Bruce Bachenheimer  
+> Director of Entrepreneurship, Pace University’s Lubin School of Business  
+> New York, NY**  
+>
+> *[The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](http://www.amazon.com/dp/1591840562/)*
+> **by Guy Kawasaki**
+>
+> It’s a really fun, easy read — and a very broad book for entrepreneurs starting everything.
+
+[![NY Convergence](images/nyconvergence.jpg)](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html) <br/>
+[Original Link](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html) | [PDF Version](files/NYConvergence_6-20-12.pdf) <br/>
+**MITEF/NYTECH Digital Discussion: Failure Is Liberating, Wild Success Is Exhilarating** <br/>
+June 20, 2012 <br/>
+By **Lauren Keyson** <br/>
+>
+> “NYC digital tech entrepreneurship has had such an impact in NYC on job creation,” said Bruce Bachenheimer, board member for the Enterprise Forum and entrepreneurship director for Pace University.  “In fact NYC is now in the number two spot for VC and angel investment, according to National Venture Capital Association PricewaterhouseCoopers Money Tree survey. While the whole economy is stagnating, NYC companies have received millions in funding.  While we have lagged the nation out of recoveries in the past, we are now ahead — this shows the impact of digital media has had.”
+>
+> He says that one way to be successful is to be part of the NY entrepreneurial ecosystem. “Get engaged, involved, and look for support because there are a lot of resources and other companies that want to help. Build straight in the eco-system so that we can make sure this isn’t a bubble, but that it’s something that can last.”
+
+[![Entrepreneurs Startups](images/entrepreneursstartups.png)](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28) <br/>
+[Original Link](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28) | [PDF Version](files/EntrepreneursStartups_Summer-2012.pdf) <br/>
+***Also featured in:***
+[![NBC News](images/nbcnews.jpg)](http://www.nbcnews.com/id/47995175/ns/business-small_business/t/steps-successful-business-launch/) <br/>
+**6 Steps to a Successful Start** <br/>
+Summer 2012 <br/>
+By **Nancy Mann Jackson** <br/>
+>
+> **GO BEYOND THE BUSINESS PLAN.**
+>
+> Planning carefully before launching a new business is not limited to preparing a business plan, says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University in New York City. “While preparing a business plan is generally a valuable exercise, there are other ways to plan carefully,” he says. Bachenheimer recommends three planning methods.
+>
+> • The Apprentice Model: gaining direct industry experience, as the founders of Tender Greens did.
+>
+> • The Hired-Gun Approach: partnering with experts who have in-depth knowledge and experience.
+>
+> • The Ultra-Lean School of Hard Knocks Tactic: figuring out a way to rapidly test and refine your model at a very reasonable cost.
+>
+> If you don't commit to in-depth preparation, launching a new business can be a very expensive lesson in the value of planning. Bachenheimer asks: “Would you enter a high-stakes poker tournament without knowing the game, assuming that you'll figure it out as you go?”
+>
+> **KNOW THE MARKET.**
+>
+> Ask questions, conduct research or gain experience to help you learn your market inside and out, including the key suppliers, distributors, competitors and customers, Bachenheimer says. “You also have to really understand the critical metrics of your market, whether it's as simple as sales per square foot and inventory turnover, or an esoteric measure in a highly specialized niche market,” he says.
+>
+> **ESTABLISH CASH RESOURCES.**
+>
+> To determine how much cash you'll need, develop a cash-flow statement that estimates your expenses and income. Be sure to include appropriate expense levels by researching actual business costs rather than estimating based on your personal experience as a retail consumer. “For instance, you can host your personal website with unlimited bandwidth for $9.95 a month, but operating a commercial website may cost hundreds or thousands of dollars a month,” Pace University's Bachenheimer says.
+
+[![Young Entrepreneur](images/youngentrepreneur.png)](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/) <br/> 
+[Original Link](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/) | [PDF Version](files/YoungEntrepreneur_5-22-12.pdf) <br/> 
+**At College Pitch Contests, Giant Companies Are Listening** <br/> 
+May 22, 2012 <br/> 
+>
+> Is the private incubator model right for your startup? They both have their pros and cons, but incubators backed by major companies may aid your development into a seasoned entrepreneur at a faster rate, says Bruce Bachenheimer, director of entrepreneurship at Pace University’s Lubin School of Business. "They all bring something unique and different and there certainly are a lot of benefits to the different approaches," he adds. "One thing that the Foundry does that’s special is creating the mindset of an entrepreneur primarily as opposed to just counting the number of startup companies they create."
+
+[![MSN Careers](images/msncareers.png)](http://msn.careerbuilder.com/Article/MSN-3008-College-Internships-First-Jobs-Should-you-work-between-undergrad-and-grad-school/) <br/> 
+[Original Link](http://msn.careerbuilder.com/Article/MSN-3008-College-Internships-First-Jobs-Should-you-work-between-undergrad-and-grad-school/) | [PDF Version](files/MSN_5-9-12.pdf) <br/>
+**Should you work between undergrad and grad school?** <br/> 
+May 9, 2012 <br/> 
+By **Debra Auerbach** <br/>  
+>
+> **4. Does the experience add value?**
+>
+> While working between undergraduate and graduate school certainly has its benefits, make sure you're not working just to work and that you're gaining experience that will add value to your education. "As far as the type of work a potential applicant should look for, the bottom line is how well that experience will enable you to add value to the classroom experience and contribute to group assignments," says Bruce Bachenheimer, clinical professor of management at Pace University's Lubin School of Business in New York.
+
+[![BizEd](images/bized.png)](http://theexchange.aacsb.edu/bized/home/) <br/> 
+[Original Link](http://theexchange.aacsb.edu/bized/home/) | [PDF Version](files/BizEd_May-June2012.pdf) <br/>
+**News** <br/> 
+May/June 2012 <br/> 
+>
+> **Pace University** has simultaneously opened two Entrepreneurship Labs (E-Labs) on its campuses in Lower Manhattan and Pleasantville, New York. E-Lab’s first director will be Bruce Bachenheimer of Pace’s Lubin School of Business.
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20120422/SMALLBIZ/304229998) <br/> 
+[Original Link](http://www.crainsnewyork.com/article/20120422/SMALLBIZ/304229998) | [PDF Version](files/Crains_4-22-12.pdf) <br/>
+**Colleges become startup factories** <br/> 
+April 22, 2012 <br/>
+>
+> One of the latest manifestations of the trend: the February launch, by Pace University’s Lubin School of Business, of an entrepreneurship lab that aims to facilitate collaborations between students in schools as diverse as nursing and business.
+>
+> “The idea is that it will involve all Pace students and faculty from all the schools,” said Bruce Bachenheimer, director of the lab and of the Lubin’s entrepreneurship program. “We’re stressing an interdisciplinary, hands-on experience to find new ways to solve difficult problems.”
+>
+> When it comes to harder stuff, such as the ability to recognize opportunities, Pace and other schools use case studies, brainstorming lessons and other exercises to nurture that skill.
+> 
+> “It’s kind of like teaching music or painting,” explained Mr. Bachenheimer.
+>
+> Pitch Contests have also proved to be a great way to network and meet investors. The most recent contest at Pace drew an audience of 400, including venture capitalists, angel investors and bankers, said Mr. Bachenheimer.
+> 
+> And by one definition, entrepreneurship training doesn’t have to result in a business launch to be successful. If a person is trained to size up opportunities and take initiatives, and he and his employer have an edge, said Mr. Bachenheimer.
+>
+> “The nature of the work is changing dramatically,” he said. “There’s no more ‘Give me a job and tell me what to do.’”
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20120401/SUB/304019993) <br/> 
+[Original Link](http://www.crainsnewyork.com/article/20120401/SUB/304019993) | [PDF Version](files/Crains_4-2-12.pdf) <br/>
+**Executive Moves** <br/>
+April 1, 2012 <br/> 
+>
+> **Pace University:**
+>
+> *Bruce Bachenheimer*, 50, was promoted to director of the university’s entrepreneurship lab. He will continue as clinical professor of management. He was previously program director of entrepreneurship at the Lubin School of Business.
+
+[![Military Advanced Education](images/militaryadvancedeductaion.jpg)](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html) <br/> 
+[Original Link](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html) | [PDF Version](files/MAE_April2012.pdf) <br/> 
+**Pace to Encourage Entrepreneurship** <br/> 
+April 2012 (Volume 7, Issue 3, Page 15) <br/> 
+>
+> “Professor Bruce Bachenheimer is ideally suited to lead the E-Labs and grow the program,” continued Braun. “Bruce’s relationships throughout the New York City venture community and beyond will be an important building block as we seek to further enhance our standing and access to professionals in the field.”
+>
+> Bachenheimer is a member of the board of directors and past chairman of the MIT Enterprise Forum of New York City and has served on the organization’s Global Board. Bachenheimer also serves on the board of directors and advisors of LeadAmerica and has served as a consultant to the NYC Department of Small Services and the New York City Economic Development Corp. He founded Annapolis Maritime Corp. and co-founded StockCentral Australia. “The Entrepreneurship Lab aims to foster an entrepreneurial mindset– a way of thinking and acting that focuses on developing new ways to solve problems and create value,” said Bachenheimer, who rdafted the initial proposal of the E-Lab. “These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today’s hyper– competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.”
+
+[![NY Convergence](images/nyconvergence.jpg)](http://nyconvergence.com/2012/03/fintech-innovation-lab-makes-wall-street-sexy-again.html) <br/> 
+[Original Link](http://nyconvergence.com/2012/03/fintech-innovation-lab-makes-wall-street-sexy-again.html) | [PDF Version](files/NYConvergence_3-19-12.pdf) <br/>
+**FinTech Innovation Lab Makes Wall Street Sexy Again** <br/> 
+March 19, 2012 <br/> 
+>
+> Since Wall Street's profits and prestige have slumped, the best and the brightest are looking elsewhere for jobs, making it harder to lure promising recruits. Bruce Bachenheimer, director of entrepreneurship at Pace University, told Technology Review that in the 1990s it was "exciting and sexy to say you were working on Wall Street."  But that's changed. Those formerly positive perceptions have flipped 180 degrees.  
+
+[![MIT Technology Review](images/technologyreview.png)](http://www.technologyreview.com/business/39826/) <br/> 
+[Original Link](http://www.technologyreview.com/business/39826/) | [PDF Version](files/TechnologyReview_3-16-12.pdf) <br/> 
+**Wall Street's Search for Innovation** <br/>
+March 16, 2012 <br/> 
+By **Erik Sherman** <br/> 
+>
+> After banking deregulation took off in the 1990s, it became "exciting and sexy to say you were working on Wall Street," says Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University. Money and prestige helped lure top academic talent, including mathematicians and computer scientists, to hedge funds.
+> 
+> But that has changed, beginning with 2008 and the financial meltdown. "The perception of working on Wall Street went from positive to negative," Bachenheimer says. Wall Street reached its latest low this week when a Goldman Sachs executive resigned and publicly excoriated the company's ethics in a New York Times op-ed.
+>
+> Meanwhile, places like Silicon Valley, Boston, and other hotbeds of high tech suddenly look like the most attractive places to be. With the recent spate of Web-company IPOs, technology startups are also potentially a faster ticket to wealth than Wall Street, where bonuses fell 14 percent last year, continuing a multi-year slide.
+>
+> "Perceptions of desirability are very important in entrepreneurship. \[Technologists\] want to go where the action is and want to be doing cool stuff," says Bachenheimer.
+
+[![M. O. What's Yours](images/mowhatsyours.jpg)](http://www.mo.com/Bruce-Bachenheimer-Pace-University) <br/> 
+[Original Link](http://www.mo.com/Bruce-Bachenheimer-Pace-University) | [PDF Version](files/MO_3-9-12.pdf) <br/> 
+**“Live Deliberately”** <br/> 
+March 9, 2012 <br/> 
+By **MO** <br/> 
+>
+> ***MO.com interviews entrepreneurs from all walks, across all industries, and from around the world. Below are seven questions MO asked Pace Professor Bruce Bachenheimer; a brief bio and his responses and available at*** **[http://www.mo.com/Bruce-Bachenheimer-Pace-University](http://www.mo.com/Bruce-Bachenheimer-Pace-University).**
+> 
+> **MO**: Where does your passion for entrepreneurship come from? Who or what were your early influences or inspirations?
+> 
+> **MO**: How do you foster creativity and innovation in your students? Is creativity something that we’re born with or can it be taught and developed?
+>
+> **MO**: Have you had any mentors during the course of your career?
+>
+> **MO**: Why do you think that the field social entrepreneurship has recently exploded? Why are people looking for more meaningful ways to carve out a career and how will this trend impact the start-up landscape?
+>
+> **MO**: You’re in constant contact with bright, young innovators. What aspects of teaching and mentoring are most inspiring for you? On the flip side, are there any aspects of your job that you find specifically challenging?
+>
+> **MO**: What is the most important piece of advice you have for those looking to start a business?
+
+[![Westchester County Business Journal](images/westchestercountybusinessjournal.jpg)](http://westfaironline.com/2012/19480-westchester-county-business-news-in-brief-2/) <br/> 
+[Original Link](http://westfaironline.com/2012/19480-westchester-county-business-news-in-brief-2/) | [PDF Version](files/WCBJ_2-27-12.pdf) <br/> 
+**Bachenheimer now runs E-Lab** <br/>  
+February 24, 2012 <br/>
+By **Editorial Staff** <br/> 
+>
+> Pace University’s new Entrepreneurship Lab, known as the E-Lab, now has a CEO –  it’s professor Bruce Bachenheimer of Chappaqua. A clinical professor of management at Pace, Bachenheimer is now also the director of the E-Lab. It is available to all Pace students, in New York City and in Pleasantville.
+>
+> Bachenheimer will advise all aspiring student entrepreneurs, in everything from accounting and computer science to law and the performing arts.
+>
+> He came up with the idea for the annual Pace Pitch Contest and Business Plan Competition, which he introduced in 2004, just after joining the Lubin School of Business faculty.
+>
+> “The Entrepreneurship Lab aims to foster an entrepreneurial mindset – a way of thinking and acting that focuses on developing new ways to solve problems and create value,” said Bachenheimer. “These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today’s hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.”
+>
+> Bachenheimer began his career as a Wall Street trader, and then took several years off to sail through the Caribbean to South America. After that, he launched an importing business and then moved into high-tech forensic science before joining Pace.
+
+[![In The Empire](images/intheempire.png)](http://intheempire.com/post/17788083605/pace-universitys-entrepreneurship-lab-will-train) <br/>
+[Original Link](http://intheempire.com/post/17788083605/pace-universitys-entrepreneurship-lab-will-train) <br/>
+**Pace University’s Entrepreneurship Lab Will Train People To Think Differently** <br/> 
+February 17, 2012 <br/> 
+By **Will Wei** <br/> 
+>
+> Pace University officially opened the doors to its Entrepreneurship Lab (aka, E-Lab) last night, and there to cut the ribbon was Professor Bruce Bachenheimer, who was named the lab’s first director.
+>
+> “It takes innovation and entrepreneurship to develop things that are meaningful,” Bachenheimer tells us over the phone.
+>
+> “We don’t measure our metrics by how many students launch businesses,” Bachenheimer says. “It’s the ability to come up with new and creative solutions to problems, and the ability to add value in a unique and innovative way.”
+>
+> To spur innovation, Bachenheimer and his E-Lab will provide students with workspace for creative thinking, in addition to access to workshops, guest speakers, roundtable discussions, and networking events involving members of the entrepreneurial community.
+>
+> “If you’re looking at very good innovators, they have to be young enough so that their minds are not so rigid in the way things are and the way things should be,” says Bachenheimer. “But they also need to have enough knowledge, skills, and abilities to find and solve problems.”
+>
+> To mold a mind into innovative shape, college students need an “experiential education.”
+>
+> “You need to train people to think differently, and if there are specific skills they don’t have, let them know how to get those resources,” Bachenheimer says. “Hopefully, the Entrepreneurship Lab is one of them.”
+
+[![Inc Wire](images/incwire.png)](http://wire.inc.com/2012/02/17/new-york-gets-new-start-up-lab/) <br/> 
+[Original Link](http://wire.inc.com/2012/02/17/new-york-gets-new-start-up-lab/) | [PDF Version](files/InTheEmpire_2-17-12.pdf) <br/>
+**New York Gets New Start-up Lab** <br/> 
+February 17, 2012 <br/> 
+By **Christine Lagorio** <br/>
+>
+> The lab’s director, Bruce Bachenheimer, who also organizes the Pace Business Plan Competition and Pitch Contest, said he’d gotten a call from a nursing students asking if she could apply for the lab, hopefully to find a collaborator for a piece of health-care software or an app.
+
+[![Crain's](images/crains.png)](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935) <br/> 
+[Original Link](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935) | [PDF Version](files/Crains_2-15-12.pdf) <br/> 
+**Pace University launches entrepreneur lab** <br/> 
+February 15, 2012 <br/> 
+By **Emily Laermer** <br/> 
+>
+> The lab will include space for students to conference with investors, a studio for them to work and a large meeting room for speakers. Bruce Bachenheimer, the director of the lab and a professor at Lubin, says he plans to reach out to some of the thousand-plus Pace-area alums who self identify as entrepreneurs to be potential guests.
+>
+> “This will be very student focused,” Mr. Bachenheimer said. “It's important for me to see how the students are using the lab and what is providing them with the most value.”
+>
+> In fact, Mr. Bachenheimer says he has seen an increase in student interest in entrepreneurship in recent years. He blames this on the economy and the high unemployment rate. Students see creating their own companies as a safer route.
+>
+> “They also want to make something meaningful and create something,” he said.
+
+![Daily News](images/dailynews.png) <br/>
+[PDF Version](files/DailyNews_2-6-12.pdf) <br/>  
+**Bouncing back: Laid-off NYers get fresh start with home businesses** <br/> 
+February 6, 2012 <br/> 
+By **Fran Golden** <br/>
+>
+> But before would-be self-employed moguls get started, they need to look realistically at what they’re hoping to accomplish, said Bruce Bachenheimer, a professor of management and Director of Entrepreneurship at Pace University.
+>
+> “Do you have a real strategy?  A lot of people in this bad economy see home-based as a way to be employed, fill a gap on the resume or whatever,” he said. “But it’s not as easy as it appears.”
+>
+> EXPERT ADVICE To start a home-based business:
+> 
+> SET REALISTIC GOALS “To launch a business does take capital, time and money, and always twice as much as you think,” says Pace University’s Bruce Bachenheimer
+>
+> FIND A MENTOR Talk to people who have started home-based businesses, join entrepreneur and small business groups, and get feedback about start-ups. “Smart entrepreneurs surround themselves with even smarter experts,” said Bachenheimer.
+>
+> THINK SALES A lot of people have a romantic vision that working at home means making your own hours and making money.  But the reality is, no matter what you’re offering , you need someone to buy it.  “Entrepreneurs are optimistic by nature, but don’t confuse passion and stubbornness.  You need someone to actually open up their wallet and want,” said Bachenheimer.
+>
+> BE HONEST WITH YOURSELF Not everyone is cut out to be an entrepreneur. “The best are risk-takers confident in themselves and their ideas,” Bachenheimer says.
 
 [![](image49831.png)](http://www.teenbusinessforum.com/entrepreneurship/why-entrepreneurs-should-celebrate-global-entrepreneurship-week-gew)  
 [PDF Version](files/TeenBusinessForum_11-14-11.pdf)  
