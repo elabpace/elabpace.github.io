@@ -4,7 +4,7 @@
 [Original Link](http://www.industryweek.com/leadership/creating-entrepreneurial-company) | [PDF Version](files/IndustryWeek_12-10-12.pdf) <br/>
 **Creating the Entrepreneurial Company** <br/>
 December  10, 2012 <br/>
-By **Steve Minter**
+By **Steve Minter** <br/>
 >
 >"It is incredibly important in today's hypercompetitive environment where technology and the macro-economy are changing so quickly that companies think much more entrepreneurially," says Bruce Bachenheimer, clinical professor of management at Pace University.
 >
@@ -14,105 +14,98 @@ By **Steve Minter**
 >
 > The first thing companies should consider is how they will handle risk and reward. "If you have some really bright, innovative employees, if they take the risk to do something and it doesn't work, is their career derailed?" posits Bachenheimer. "On the other hand, what happens if it is wildly successful, if it saves or makes the company millions and millions of dollars? What kind of reward do those employees get?" The reward doesn't have to be as lavish as a large grant of stock options, he says, but it should be "more than some kind of nominal $1,000 bonus."
 
-[![](images/nyconvergence.jpg)](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) <br/>
+[![NY Convergence](images/nyconvergence.jpg)](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) <br/>
 [Original Link](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) | [PDF Version](files/NYConvergence_12-5-12.pdf) <br/>
-**#MITEF: Clear, Concise and Convincing** <br/>  
+**#MITEF: Clear, Concise and Convincing** <br/>
 December  5, 2012 <br/>
 By **Lauren Keyson** <br/>
 >
 > **Bruce Bachenheimer, Pace University** director of entrepreneurism and board member, attended with his graduate business development class. He wanted them to see what he called “actual” companies presenting their business plans. “When you do it in the classroom, there is an academic part of doing research and looking at databases,” he said.  “I hope they see what a “real” presenter would look like – someone who has done a lot of pitching, probably has received a seed round or doing an A round now, have polished their pitch and have actual technology.”
 
-[![](images/workreimagined.jpg)](http://workreimagined.aarp.org/manage-your-career/how-to-shatter-the-glass-ceiling-go-outside/) <br/>
+[![AARP Work Reimagined](images/workreimagined.jpg)](http://workreimagined.aarp.org/manage-your-career/how-to-shatter-the-glass-ceiling-go-outside/) <br/>
 [Original Link](http://workreimagined.aarp.org/2012/11/how-to-shatter-the-glass-ceiling-go-outside/) | [PDF Version](files/WorkReimagined_11-27-12.pdf) <br/>
 **How to Shatter the Glass Ceiling: Go Outside** <br/>
 November 27, 2012 <br/>
-By **Elaine Pofeldt**  
+By **Elaine Pofeldt** <br/>
 >
-Have you struggled to get credit for your accomplishments? A common frustration for women is that when they’ve done the heavy lifting on executing projects at work, the men on their team seem to score more points with the boss. “Men tend to be much more self-promoting, which helps in corporate America in terms of who is getting ahead and getting attention,” says Bruce Bachenheimer, a professor of management at Pace University.
+> **Have you struggled to get credit for your accomplishments?**
+>
+> A common frustration for women is that when they’ve done the heavy lifting on executing projects at work, the men on their team seem to score more points with the boss. “Men tend to be much more self-promoting, which helps in corporate America in terms of who is getting ahead and getting attention,” says Bruce Bachenheimer, a professor of management at Pace University.
+>
+> Starting your own business can be a way to reap more rewards from your hard work, as Leigh discovered. If you keep customers happy, you’re the one who will see your revenues rise. However, to get clients to pay you what you’re worth, you may have to get better at tooting your own horn to clients, as you would to a boss. “In small business and growing ventures, you have to be out there and say how great you are,” says Bachenheimer.
+> 
+> **Have you been penalized for needing flexibility?**
+>
+> The downside to limiting your hours in a small business: If you’re not available when customers need you, you may find there are limits to your success. “At some point, if you decide that your objective is to maximize revenues, then you won’t turn down calls and meetings,” says Bachenheimer.
 
-Starting your own business can be a way to reap more rewards from your hard work, as Leigh discovered. If you keep customers happy, you’re the one who will see your revenues rise. However, to get clients to pay you what you’re worth, you may have to get better at tooting your own horn to clients, as you would to a boss. “In small business and growing ventures, you have to be out there and say how great you are,” says Bachenheimer.
+[![US News and World Report](images/usnews.png)](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students) <br/>
+[Original Link](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students) | [PDF Version](files/US_News_and_World_Report_11-12-12.pdf) <br/>
+**10 Work-Life Balance Tips for MBA Students** <br/>
+November 12, 2012 <br/>
+By **Menachem Wecker** <br/> 
+>
+> **10. Limit TV watching**: If you insist on having a television, store it in a closet and only bring it out for must-see programs, says Lubin management professor Bruce Bachenheimer. But that doesn't mean have no fun.
+>
+> "Eat, drink, and be merry without feeling guilty," he says. "Work hard for that time to relax and savor it."
 
-Have you been penalized for needing flexibility?
+[![l'Usine Nouvelle](images/usinenouvelle.png)](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314) <br/>
+[Original Link](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314) | [PDF Version](files/LUsineNouvelle_9-20-12.pdf) <br/>
+**Digital: New York built its Valley** <br/>
+September 20, 2012 <br/>
+By **Frederic Autran** <br/>
+>
+> ![Photo of Bruce with caption](images/image6004.png)
+>
+> Surprisingly, the 2008 financial crisis has been a catalyst for the technological scene in New York. "Many programmers, engineers and analysts have landed in Silicon Alley after losing or leaving their jobs on Wall Street” says Bruce Bachenheimer, director of the Entrepreneurship Laboratory at Pace University in New York. “And it has become sexier to say that you work in a start-up rather than on Wall Street. It is a situation that the mayor understood."
 
-The downside to limiting your hours in a small business: If you’re not available when customers need you, you may find there are limits to your success. “At some point, if you decide that your objective is to maximize revenues, then you won’t turn down calls and meetings,” says Bachenheimer.
+[![Finanz und Wirtschaft](images/fuw.jpg)](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/) <br/>
+[Original Link](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/) | [PDF Version](files/Finanz_und_Wirtschaft_9-10-12.pdf) <br/>
+**Optimism in Silicon Alley** <br/>
+September 10, 2012 <br/>
+By **Christopher Gisiger** <br/>
+>
+> "As far as the number of deals, this year New York came in second behind Silicon Valley, overtaking Boston" says Bruce Bachenheimer, Professor of Business at Pace University.
 
-[![](images/usnews.png)](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students)  
-[Original Link](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students) | [PDF Version](files/US_News_and_World_Report_11-12-12.pdf)  
+[![21st Century Business Herald](images/21cbh.jpg)](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm) <br/>
+[Original Link](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm) | [PDF Version](files/21stCenturyBusinessHerald_9-10-12.pdf) <br/>
+**The Fed’s QE fork: who benefits and who pays the bill** <br/>
+September 10, 2012 <br/>
+By **Ye Hui Jue** <br/>
+>
+> For the private sector of the economy, QE may not have an entirely a positive effect. Mr. Bachenheimer, who has long been engaged in entrepreneurial studies, stated that as the market stabilizes, it is likely that equities will improve, bond prices will decline slightly, gold will become less attractive, the dollar will strengthen, and start-up enterprises will find it easier to secure debt and raise capital.
 
-**10 Work-Life Balance Tips for MBA Students**  
-November 12, 2012  
-By **Menachem Wecker**  
+[![Crain's New York](images/crainsnewyork.jpg)](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992) | [PDF Version](files/Crains_9-9-12.pdf) <br/>
+**Woman Entrepreneurs smash an old barrier** <br/>
+September 9, 2012 <br/>
+By **Elizabeth MacBride** <br/>
+>
+> "Men have always seen themselves as breadwinners: 'If I'm working day and night, I'm supporting my family,' " said Bruce Bachenheimer, clinical professor and director of entrepreneurship at Pace University. "Women \[working that hard\] saw themselves as not doing a good job for their families. That is starting to change."
+>
+> "\[These networks\] are not a vague thing in the background," said Mr. Bachenheimer. "It's whom do you pick up the phone and call ... when you need talent?"
 
-10\. Limit TV watching: If you insist on having a television, store it in a closet and only bring it out for must-see programs, says Lubin management professor Bruce Bachenheimer. But that doesn't mean have no fun.
-
-"Eat, drink, and be merry without feeling guilty," he says. "Work hard for that time to relax and savor it."
-
-[![](images/usinenouvelle.png)](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314)  
-[Original Link](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314) | [PDF Version](files/LUsineNouvelle_9-20-12.pdf)
-
-**Digital: New York built its Valley**  
-September 20, 2012    
-By **Frederic Autran**  
-
-![](images/image6004.png)
-
-Surprisingly, the 2008 financial crisis has been a catalyst for the technological scene in New York. "Many programmers, engineers and analysts have landed in Silicon Alley after losing or leaving their jobs on Wall Street” says Bruce Bachenheimer, director of the Entrepreneurship Laboratory at Pace University in New York. “And it has become sexier to say that you work in a start-up rather than on Wall Street. It is a situation that the mayor understood."
-
-[![](images/fuw.jpg)](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/)  
-[Original Link](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/) | [PDF Version](files/Finanz_und_Wirtschaft_9-10-12.pdf)
-
-**Optimism in Silicon Alley**  
-September 10, 2012    
-By **Christopher Gisiger**  
-
-"As far as the number of deals, this year New York came in second behind Silicon Valley, overtaking Boston" says Bruce Bachenheimer, Professor of Business at Pace University.
-
-[![](images/21cbh.jpg)](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm)  
-[Original Link](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm) | [PDF Version](files/21stCenturyBusinessHerald_9-10-12.pdf)
-
-**The Fed’s QE fork: who benefits and who pays the bill**  
-September 10, 2012  
-By **Ye Hui Jue**  
-
-For the private sector of the economy, QE may not have an entirely a positive effect. Mr. Bachenheimer, who has long been engaged in entrepreneurial studies, stated that as the market stabilizes, it is likely that equities will improve, bond prices will decline slightly, gold will become less attractive, the dollar will strengthen, and start-up enterprises will find it easier to secure debt and raise capital.
-
-[![](images/crainsnewyork.jpg)](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992)  
-[Original Link](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992) | [PDF Version](files/Crains_9-9-12.pdf)
-
-**Woman Entrepreneurs smash an old barrier**  
-September 9, 2012  
-By **Elizabeth MacBride**  
-
-"Men have always seen themselves as breadwinners: 'If I'm working day and night, I'm supporting my family,' " said Bruce Bachenheimer, clinical professor and director of entrepreneurship at Pace University. "Women [working that hard] saw themselves as not doing a good job for their families. That is starting to change."
-
-"[These networks] are not a vague thing in the background," said Mr. Bachenheimer. "It's whom do you pick up the phone and call ... when you need talent?"
-
-[![](images/smh.jpg)](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html)
-[Original Link](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) | [PDF Version](files/SMH_8-24-12.pdf) 
-
+[![Sydney Morning Herald](images/smh.jpg)](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) <br/>
+[Original Link](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) | [PDF Version](files/SMH_8-24-12.pdf) <br/>
 ***Also featured in***:  
-[![](images/theage.png)](http://www.theage.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
-[![](images/brisbanetimes.png)](http://www.brisbanetimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
-[![](images/canberratimes.jpg)](http://www.canberratimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
-[![](images/watoday.png)](http://www.watoday.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html)  
- 
+[![The Age](images/theage.png)](http://www.theage.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html) <br/>
+[![Brisbane Times](images/brisbanetimes.png)](http://www.brisbanetimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html) <br/>
+[![Canberra Times](images/canberratimes.jpg)](http://www.canberratimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html) <br/>
+[![WA Today](images/watoday.png)](http://www.watoday.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html) <br/>
+**It’s the technology, stupid** <br/>
+August 24, 2012 <br/>
+By **Mathew Hall** <br/>
+>
+> The impact of tech cannot be underestimated. “The city recognised this and knew it needed to do something,” explained Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University, New York. Money isn't the only answer, however. “You need a strategy,” Bachenheimer said.
+>
+> Knowing what the private sector needs is also a key. “In the '90s, people were chasing money,” Bachenheimer said. “The saying was that if you could say dot-com you got money. Now people want revenue and profits. If you look at what New York is excelling at, it is not creating some technology, it is taking existing technology and applying it where there is real need.”
 
-**It’s the technology, stupid**  
-August 24, 2012  
-By **Mathew Hall**  
-
-The impact of tech cannot be underestimated. “The city recognised this and knew it needed to do something,” explained Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University, New York. Money isn't the only answer, however. “You need a strategy,” Bachenheimer said.
-
-Knowing what the private sector needs is also a key. “In the '90s, people were chasing money,” Bachenheimer said. “The saying was that if you could say dot-com you got money. Now people want revenue and profits. If you look at what New York is excelling at, it is not creating some technology, it is taking existing technology and applying it where there is real need.”
-
-[![](images/21cbh.jpg)](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm)  
-[Original Link](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm) | [PDF Version](files/21stCenturyBusinessHerald_8-13-12.pdf)
-
-**“IPO blowout Week” Dashed**  
-August 13, 2012  
-By **Ye Hui Jue**  
-
-In sharp contrast with this, the private equity market remains active. Pace University Professor Bruce Bachenheimer told reporters that an increasing number of businesses are opting for private investments and trade sales. Compared to the strictly regulated IPO market, private equity and M & A can be a more attractive choice.
+[![21st Century Business Herald](images/21cbh.jpg)](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm) <br/>
+[Original Link](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm) | [PDF Version](files/21stCenturyBusinessHerald_8-13-12.pdf) <br/>
+**“IPO blowout Week” Dashed** <br/>
+August 13, 2012 <br/>
+By **Ye Hui Jue** <br/>
+>
+>In sharp contrast with this, the private equity market remains active. Pace University Professor Bruce Bachenheimer told reporters that an increasing number of businesses are opting for private investments and trade sales. Compared to the strictly regulated IPO market, private equity and M & A can be a more attractive choice.
 
 [![](images/image57041.jpg)](http://www.elpuntavui.cat/noticia/article/4-economia/18-economia/565539-el-cinturo-de-silici.html)  
 [Original Link](http://www.elpuntavui.cat/noticia/article/4-economia/18-economia/565539-el-cinturo-de-silici.html) | [PDF Version](files/ElPuntAvui_8-5-12.pdf)
