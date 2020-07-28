@@ -280,7 +280,7 @@ April 1, 2012 <br/>
 >
 > *Bruce Bachenheimer*, 50, was promoted to director of the university’s entrepreneurship lab. He will continue as clinical professor of management. He was previously program director of entrepreneurship at the Lubin School of Business.
 
-[![Military Advanced Education](images/militaryadvancedeductaion.jpg)](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html) <br/> 
+[![Military Advanced Education](images/militaryadvancededucation.jpg)](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html) <br/> 
 [Original Link](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html) | [PDF Version](files/MAE_April2012.pdf) <br/> 
 **Pace to Encourage Entrepreneurship** <br/> 
 April 2012 (Volume 7, Issue 3, Page 15) <br/> 
@@ -374,7 +374,7 @@ By **Christine Lagorio** <br/>
 >
 > The lab’s director, Bruce Bachenheimer, who also organizes the Pace Business Plan Competition and Pitch Contest, said he’d gotten a call from a nursing students asking if she could apply for the lab, hopefully to find a collaborator for a piece of health-care software or an app.
 
-[![Crain's](images/crains.png)](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935) <br/> 
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935) <br/> 
 [Original Link](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935) | [PDF Version](files/Crains_2-15-12.pdf) <br/> 
 **Pace University launches entrepreneur lab** <br/> 
 February 15, 2012 <br/> 
