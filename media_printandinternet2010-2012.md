@@ -14,22 +14,20 @@ By **Steve Minter**
 >
 > The first thing companies should consider is how they will handle risk and reward. "If you have some really bright, innovative employees, if they take the risk to do something and it doesn't work, is their career derailed?" posits Bachenheimer. "On the other hand, what happens if it is wildly successful, if it saves or makes the company millions and millions of dollars? What kind of reward do those employees get?" The reward doesn't have to be as lavish as a large grant of stock options, he says, but it should be "more than some kind of nominal $1,000 bonus."
 
-[![](images/nyconvergence.jpg)](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html)  
-[Original Link](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) | [PDF Version](files/NYConvergence_12-5-12.pdf)
+[![](images/nyconvergence.jpg)](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) <br/>
+[Original Link](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) | [PDF Version](files/NYConvergence_12-5-12.pdf) <br/>
+**#MITEF: Clear, Concise and Convincing** <br/>  
+December  5, 2012 <br/>
+By **Lauren Keyson** <br/>
+>
+> **Bruce Bachenheimer, Pace University** director of entrepreneurism and board member, attended with his graduate business development class. He wanted them to see what he called “actual” companies presenting their business plans. “When you do it in the classroom, there is an academic part of doing research and looking at databases,” he said.  “I hope they see what a “real” presenter would look like – someone who has done a lot of pitching, probably has received a seed round or doing an A round now, have polished their pitch and have actual technology.”
 
-**#MITEF: Clear, Concise and Convincing**  
-December  5, 2012   
-By **Lauren Keyson**  
-
-Bruce Bachenheimer, Pace University director of entrepreneurism and board member, attended with his graduate business development class. He wanted them to see what he called “actual” companies presenting their business plans. “When you do it in the classroom, there is an academic part of doing research and looking at databases,” he said.  “I hope they see what a “real” presenter would look like – someone who has done a lot of pitching, probably has received a seed round or doing an A round now, have polished their pitch and have actual technology.”
-
-[![](images/workreimagined.jpg)](http://workreimagined.aarp.org/manage-your-career/how-to-shatter-the-glass-ceiling-go-outside/)  
-[Original Link](http://workreimagined.aarp.org/2012/11/how-to-shatter-the-glass-ceiling-go-outside/) | [PDF Version](files/WorkReimagined_11-27-12.pdf)
-
-**How to Shatter the Glass Ceiling: Go Outside**  
-November 27, 2012    
+[![](images/workreimagined.jpg)](http://workreimagined.aarp.org/manage-your-career/how-to-shatter-the-glass-ceiling-go-outside/) <br/>
+[Original Link](http://workreimagined.aarp.org/2012/11/how-to-shatter-the-glass-ceiling-go-outside/) | [PDF Version](files/WorkReimagined_11-27-12.pdf) <br/>
+**How to Shatter the Glass Ceiling: Go Outside** <br/>
+November 27, 2012 <br/>
 By **Elaine Pofeldt**  
-
+>
 Have you struggled to get credit for your accomplishments? A common frustration for women is that when they’ve done the heavy lifting on executing projects at work, the men on their team seem to score more points with the boss. “Men tend to be much more self-promoting, which helps in corporate America in terms of who is getting ahead and getting attention,” says Bruce Bachenheimer, a professor of management at Pace University.
 
 Starting your own business can be a way to reap more rewards from your hard work, as Leigh discovered. If you keep customers happy, you’re the one who will see your revenues rise. However, to get clients to pay you what you’re worth, you may have to get better at tooting your own horn to clients, as you would to a boss. “In small business and growing ventures, you have to be out there and say how great you are,” says Bachenheimer.
