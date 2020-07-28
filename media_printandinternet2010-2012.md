@@ -332,7 +332,7 @@ By **MO** <br/>
 
 [![Westchester County Business Journal](images/westchestercountybusinessjournal.jpg)](http://westfaironline.com/2012/19480-westchester-county-business-news-in-brief-2/) <br/> 
 [Original Link](http://westfaironline.com/2012/19480-westchester-county-business-news-in-brief-2/) | [PDF Version](files/WCBJ_2-27-12.pdf) <br/> 
-**Bachenheimer now runs E-Lab** <br/>  
+**Bachenheimer now runs E-Lab** <br/> 
 February 24, 2012 <br/>
 By **Editorial Staff** <br/> 
 >
@@ -389,7 +389,7 @@ By **Emily Laermer** <br/>
 > “They also want to make something meaningful and create something,” he said.
 
 ![Daily News](images/dailynews.png) <br/>
-[PDF Version](files/DailyNews_2-6-12.pdf) <br/>  
+[PDF Version](files/DailyNews_2-6-12.pdf) <br/> 
 **Bouncing back: Laid-off NYers get fresh start with home businesses** <br/> 
 February 6, 2012 <br/> 
 By **Fran Golden** <br/>
