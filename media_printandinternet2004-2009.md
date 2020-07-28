@@ -92,7 +92,7 @@ By **Rachel Solomon** <br/>
 > A database of trade events searchable by country, state, industry and date is available at [export.gov](http://export.gov/). No matter how you find a partner, though, conduct due diligence, Bachenheimer says. "Ask who their customers are, how long they've been in business and seek out their references.”
 
 [![The Journal News](images/thejournalnews.jpg)](http://www.thejournalnews.com/) <br/>
-[Original Link](http://www.thejournalnews.com/) | [PDF Version](files/CollegeStudentsGiveBackOnSpringBreak_TJN_4-3-08.pdf)
+[Original Link](http://www.thejournalnews.com/) | [PDF Version](files/CollegeStudentsGiveBackOnSpringBreak_TJN_4-3-08.pdf) <br/>
 **College students give back on spring break** <br/>
 April 3, 2008 <br/>
 By **Ben Rubin** <br/>
