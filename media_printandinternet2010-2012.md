@@ -10,7 +10,7 @@ By **Steve Minter**
 >
 > **Hearing a Different Drum**
 >
-< Companies that want to encourage innovation and entrepreneurship, or intrapreneurship, in their ranks must ensure that they provide the right incentives to employees. Too often, Bachenheimer says, companies say they want innovative, entrepreneurial employees but "what they really want is disciplined employees that are polite, respectful, come in well-dressed and are not insubordinate." That isn't necessarily the profile of a creative, strong-willed employee who wants to march to a different drum.
+> Companies that want to encourage innovation and entrepreneurship, or intrapreneurship, in their ranks must ensure that they provide the right incentives to employees. Too often, Bachenheimer says, companies say they want innovative, entrepreneurial employees but "what they really want is disciplined employees that are polite, respectful, come in well-dressed and are not insubordinate." That isn't necessarily the profile of a creative, strong-willed employee who wants to march to a different drum.
 >
 > The first thing companies should consider is how they will handle risk and reward. "If you have some really bright, innovative employees, if they take the risk to do something and it doesn't work, is their career derailed?" posits Bachenheimer. "On the other hand, what happens if it is wildly successful, if it saves or makes the company millions and millions of dollars? What kind of reward do those employees get?" The reward doesn't have to be as lavish as a large grant of stock options, he says, but it should be "more than some kind of nominal $1,000 bonus."
 
