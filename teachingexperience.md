@@ -1,5 +1,9 @@
 # Teaching Experience
 
+### Fall 2020 Courses
+- MGT 216 - Venture Initiation & Entrepreneurship 
+- MGT 490 - Business Strategy (3 sections)
+
 ### Spring 2020 Courses
 - MGT 150 - Managerial and Organizational Concepts
 - MGT 216 - Venture Initiation & Entrepreneurship 
