@@ -11,8 +11,8 @@
 ---
 
 ## Spring 2020 Office Hours (via Zoom):
-- Mon: 11:00 – 12:00 and 4:30-6:00
-- Thurs: 11:00 – 12:00 and 4:30-6:00
+- Mon: 11:00 – 12:00 and 4:30 - 6:00
+- Thurs: 11:00 – 12:00 and 4:30 - 6:00
 
 ## Online
 - LinkedIn: [www.linkedin.com/in/brucebach](http://www.linkedin.com/in/brucebach)
