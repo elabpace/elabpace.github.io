@@ -10,9 +10,9 @@
 
 ---
 
-## Spring 2020 Office Hours:
-- Mon: 3:30 – 6:00, 163 William Street, Room 342 (NYC)
-- Thurs: 3:30 – 6:00, Goldstein Academic Center, Room 116 (PLV)
+## Spring 2020 Office Hours (via Zoom):
+- Mon: 11:00 – 12:00 and 4:30-6:00
+- Thurs: 11:00 – 12:00 and 4:30-6:00
 
 ## Online
 - LinkedIn: [www.linkedin.com/in/brucebach](http://www.linkedin.com/in/brucebach)
