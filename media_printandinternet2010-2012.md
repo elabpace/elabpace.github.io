@@ -440,7 +440,7 @@ By **Meghan Streit** <br/>
 > “Parents usually have a very valuable amount of social capital,” Bachenheimer says. Your accountant, lawyer, banker, business associates or golf buddies could be potential customers, advisers or investors.
 
 
-[![Chatam Courier](images/ChatamCourier.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)<br/>
+[![Chatam Courier](images/ChathamCourier.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)<br/>
 [Original Link](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt) | [PDF Version](files/ChathamCourier_10-5-11.pdf) <br/>
 
 **Women’s drive helps canning company thrive**<br/>
