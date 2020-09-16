@@ -408,20 +408,18 @@ By **Fran Golden** <br/>
 >
 > BE HONEST WITH YOURSELF Not everyone is cut out to be an entrepreneur. “The best are risk-takers confident in themselves and their ideas,” Bachenheimer says.
 
-[![](image49831.png)](http://www.teenbusinessforum.com/entrepreneurship/why-entrepreneurs-should-celebrate-global-entrepreneurship-week-gew)  
-[PDF Version](files/TeenBusinessForum_11-14-11.pdf)  
-
-**Why Entrepreneurs should celebrate the Global Entrepreneurship Week #GEW**  
-November 14, 2011  
-By **Jack Liu**  
-
-[Original Link](http://www.teenbusinessforum.com/entrepreneurship/why-entrepreneurs-should-celebrate-global-entrepreneurship-week-gew)
-
-7\. To Celebrate The Entrepreneurial Mindset
-
-Because entrepreneurship is a mindset — a way of thinking and acting, not simply about starting a business. It is about imagining new ways to solve problems and create value. These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of careers given today’s hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.
-
-Bruce Bachenheimer, [Clinical Professor and Director of Entrepreneurship, Pace University](http://webpage.pace.edu/bbachenheimer/)
+[![Teen Business Forum](images/teenbusinessforum.png)](http://www.teenbusinessforum.com/entrepreneurship/why-entrepreneurs-should-celebrate-global-entrepreneurship-week-gew) <br/>
+[Original Link](http://www.teenbusinessforum.com/entrepreneurship/why-entrepreneurs-should-celebrate-global-entrepreneurship-week-gew) |
+[PDF Version](files/TeenBusinessForum_11-14-11.pdf) <br/>
+**Why Entrepreneurs should celebrate the Global Entrepreneurship Week #GEW** <br/>
+November 14, 2011 <br/>
+By **Jack Liu** <br/>
+>
+> **7. To Celebrate The Entrepreneurial Mindset**
+> 
+> Because entrepreneurship is a mindset — a way of thinking and acting, not simply about starting a business. It is about imagining new ways to solve problems and create value. These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of careers given today’s hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.
+> 
+> Bruce Bachenheimer, [Clinical Professor and Director of Entrepreneurship, Pace University](http://webpage.pace.edu/bbachenheimer/)
 
 [![](image49771.jpg)](http://www.kiplinger.com/members/krr)  
 [PDF Version](files/KRR_Nov2011.pdf)  
