@@ -440,7 +440,7 @@ By **Meghan Streit** <br/>
 > “Parents usually have a very valuable amount of social capital,” Bachenheimer says. Your accountant, lawyer, banker, business associates or golf buddies could be potential customers, advisers or investors.
 
 
-[![Chatam Courier](image/ChatamCourier.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)<br/>
+[![Chatam Courier](images/ChatamCourier.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)<br/>
 [Original Link](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt) | [PDF Version](files/ChathamCourier_10-5-11.pdf) <br/>
 
 **Women’s drive helps canning company thrive**<br/>
@@ -455,7 +455,7 @@ By **Lisa D. Connell**<br/>
 >  
 >“It’s about people and innovation and truly growing the business,” he said.
 
-[![BizPlanCompetions.com](image/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/)<br/>
+[![BizPlanCompetions.com](images/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/)<br/>
 [Original Link](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/) | [PDF Version](files/BPC_9-28-11.pdf)<br/>
 
 **Pitch contests gain popularity**<br/>
@@ -488,14 +488,14 @@ audience.”
 >
 >And that makes it a good selling point for judges, who have to make a big time commitment to judge a business plan competition. Those can take months and judges must read multiple business plans, evaluate them at various stages and mentor competitions. With the pitch competition, it’s a one-day commitment. It’s also much easier on organizers, which is why it’s easier to start and run a pitch competition than a full business plan competition, he continues.
 
-[![Crains New York Business](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906)<br/>
+[![Crains New York Business](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906) | [PDF Version](files/Crains_9-27-11.pdf)<br/>
 
 **New York exports its entrepreneurial expertise**<br/>
 September 27, 2011<br/>
 By **Eilene Zimmerman**<br/>
 >
->![BrucePicture](image5086.png)
+>![BrucePicture](images/BrucePicture.png)
 >
 >“Although the new semester had barely begun this year at Pace University's Lubin School of Business, Director of Entrepreneurship Bruce Bachenheimer already had teaching requests from groups and institutions in India, China, Norway and Israel.
 >
@@ -509,7 +509,7 @@ By **Eilene Zimmerman**<br/>
 >
 >Although students obviously can't absorb everything about running a business while in a classroom setting, the fastest way to get started and learn to manage risk is often with the guidance and assistance available through universities and colleges. (Other kinds of structured support can be invaluable as well: Research from the National Business Incubation Association and the U.S. Small Business Administration show that businesses coming out of incubators have a much lower failure rate than that for startups overall, says Mr. Bachenheimer.)
 >
-[![BizPlanCompetition](image/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/)<br/>
+[![BizPlanCompetition](images/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/)<br/>
 [Original Link](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/) | [PDF Version](files/BPC_9-22-11.pdf)<br/>
 
 **Is a bigger jackpot better in business plan competitions?**<br/>
@@ -522,7 +522,7 @@ By **Amy Buttell**<br/>
 >
 >“The participatory nature of the pitch competition means that it’s benefitting the audience as well as the competitors,” he says. “Everyone gets to hear about the ideas and follow the give and take between competitors and the judges as questions are asked and answered.”   
 >
-[![Crains](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966)<br/>
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966) | [PDF Version](files/Crains_8-12-11.pdf)<br/>
 
 **How to handle, and profit from, last-minute jobs**<br/>
@@ -533,7 +533,7 @@ By **Elaine Pofeldt**<br/>
 >
 >“You may have to work on Sunday at 2 a.m. to fill an order going outside of the U.S.” Mr. Bachenheimer said.
 
-[![Crains](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990)<br/>
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990) | [PDF Version](files/Crains_8-8-11.pdf)<br/>
 
 **Number of startups led by women rising**<br/>
@@ -542,7 +542,7 @@ By **Anne Field**<br/>
 >
 >The increased startup activity in New York state most likely is because of an increase in women-owned startups in New York City,” said Bruce Bachenheimer, director of entrepreneurship and clinical professor of management at Pace University.
 
-[![Consumer Reports Money Advisor](image/MoneyAdvisor.png)](http://pressroom.consumerreports.org/pressroom/money-adviser/)<br/>
+[![Consumer Reports Money Advisor](images/MoneyAdvisor.png)](http://pressroom.consumerreports.org/pressroom/money-adviser/)<br/>
 [Original Link](http://pressroom.consumerreports.org/pressroom/money-adviser/) | [PDF Version](files/ConsumerReportsMoneyAdviser_June2011.pdf)<br/>
 
 **Want to be your own boss?**<br/>
@@ -558,7 +558,7 @@ June 2011, Volume 8 Issue 6, pages 12-13<br/>
 >
 >Once your business has some cash flow, you might find it easier to get a small-business loan, Bachenheimer says.
 
-[![College Preview](image/CollegePreview.jpg)](http://www.cpgpublications.com/cp_may2011.pdf)<br/>
+[![College Preview](images/CollegePreview.jpg)](http://www.cpgpublications.com/cp_may2011.pdf)<br/>
 [Original Link](http://www.cpgpublications.com/cp_may2011.pdf) | [PDF Version](files/CollegePreview_May-June2011.pdf)<br/>
 
 **LEADERS WANTED How to become the leader employers will want**<br/>
@@ -573,7 +573,7 @@ By **Jacqueline Bodnar**<br/>
 >
 >“The role of a leader is to take people to a new place, to inspire them to do something they otherwise would not have done or even thought they could do,” adds Bachenheimer. “Think about how you can inspire fellow students and motivate them to take action!”
 
-[![Crains](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995)<br/>
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995) | [PDF Version](files/Crains_5-8-11.pdf)<br/>
 
 **Tips for tricky task of raising prices**<br/>
@@ -586,7 +586,7 @@ By **Elaine Pofeldt**<br/>
 >
 >For example, if you have two stores, raise prices on select items or at just one location, Mr. Bachenheimer says.
 
-[![Crains](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989)<br/>
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989) | [PDF Version](files/Crains_5-1-11.pdf)<br/>
 
 **'Mompreneurs' lead the way in infant-goods market**<br/>
@@ -595,7 +595,7 @@ By **Cara Trager**<br/>
 >
 >That's not necessarily a disadvantage for new entrants, including men, who “aren't \[stuck\] in the way things are typically done,” said Bruce Bachenheimer, professor of management and director of entrepreneurship at Pace University's Lubin School of Business. “They may have the ability to recognize and capture an opportunity others don't see.”
 
-[![The Star Ledger](image/TheStarLedger.png)](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html)<br/>
+[![The Star Ledger](images/TheStarLedger.png)](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html)<br/>
 [Original Link](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html) | [PDF Version](files/Star-Ledger_1-30-10.pdf)<br/>
 
 **Mentors offer unique career support**<br/>
