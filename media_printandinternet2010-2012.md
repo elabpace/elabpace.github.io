@@ -421,26 +421,23 @@ By **Jack Liu** <br/>
 > 
 > Bruce Bachenheimer, [Clinical Professor and Director of Entrepreneurship, Pace University](http://webpage.pace.edu/bbachenheimer/)
 
-[![](image49771.jpg)](http://www.kiplinger.com/members/krr)  
-[PDF Version](files/KRR_Nov2011.pdf)  
-
-**Help Your Child Launch a Business**  
-November, 2011  
-By **Meghan Streit**  
-
-[Original Link](http://www.kiplinger.com/members/krr)
-
-■ Crunch the numbers.
-
-Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University in New York City, suggests telling the budding entrepreneur you will invest your $50,000 after he or she finds outside investors willing to put up the other $100,000.
-
-These investors “are going to know what a business plan should look like, what the valuation of the business should be and what the privileges of the investors are,” says Bachenheimer.
-
-■ Write up the terms.
-
-It’s critical to document in writing the terms of your loan or equity investment. At a minimum, your document should spell out the amount being invested, how the funds are to be used and how the parent investor will be repaid. Bachenheimer says you can find sample loan documents on the Internet or seek advice from experts at a small business development center.
-
-“Parents usually have a very valuable amount of social capital,” Bachenheimer says. Your accountant, lawyer, banker, business associates or golf buddies could be potential customers, advisers or investors.
+[![Kiplingers Retirement Report](images/kiplingersretirementreport.jpg)](http://www.kiplinger.com/members/krr) <br/>
+[Original Link](http://www.kiplinger.com/members/krr) | [PDF Version](files/KRR_Nov2011.pdf) <br/>
+**Help Your Child Launch a Business** <br/>
+November, 2011 <br/>
+By **Meghan Streit** <br/>
+>
+> ■ **Crunch the numbers.**
+>
+> Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University in New York City, suggests telling the budding entrepreneur you will invest your $50,000 after he or she finds outside investors willing to put up the other $100,000.
+>
+>These investors “are going to know what a business plan should look like, what the valuation of the business should be and what the privileges of the investors are,” says Bachenheimer.
+>
+> ■ **Write up the terms.**
+>
+> It’s critical to document in writing the terms of your loan or equity investment. At a minimum, your document should spell out the amount being invested, how the funds are to be used and how the parent investor will be repaid. Bachenheimer says you can find sample loan documents on the Internet or seek advice from experts at a small business development center.
+>
+> “Parents usually have a very valuable amount of social capital,” Bachenheimer says. Your accountant, lawyer, banker, business associates or golf buddies could be potential customers, advisers or investors.
 
 
 [![](image49711.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)  
