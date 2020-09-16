@@ -440,241 +440,215 @@ By **Meghan Streit** <br/>
 > “Parents usually have a very valuable amount of social capital,” Bachenheimer says. Your accountant, lawyer, banker, business associates or golf buddies could be potential customers, advisers or investors.
 
 
-[![](image49711.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)  
-[PDF Version](files/ChathamCourier_10-5-11.pdf)
+[![Chatam Courier](image/ChatamCourier.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)<br/>
+[Original Link](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt) | [PDF Version](files/ChathamCourier_10-5-11.pdf) <br/>
 
-**Women’s drive helps canning company thrive**  
-October 5, 2011  
-By **Lisa D. Connell**  
+**Women’s drive helps canning company thrive**<br/>
+October 5, 2011<br/>
+By **Lisa D. Connell**<br/>
+>
+>Finding the right people and retaining them can actually be much more of a challenge than the idea for the business itself.
+>
+>“It’s hard to identify them and even if you do, how do you recruit them?” asked Bruce Bachenheimer, clinical professor of management at New York’s Pace University.
+>  
+>Attracting, recruiting, training, retraining and delegating — all of these factors are key to an entrepreneurial venture, Bachenheimer said during a telephone interview.  
+>  
+>“It’s about people and innovation and truly growing the business,” he said.
 
-[Original Link](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)
+[![BizPlanCompetions.com](image/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/)<br/>
+[Original Link](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/) | [PDF Version](files/BPC_9-28-11.pdf)<br/>
 
-Finding the right people and retaining them can actually be much more of a challenge than the idea for the business itself.
-
-“It’s hard to identify them and even if you do, how do you recruit them?” asked Bruce Bachenheimer, clinical professor of management at New York’s Pace University.  
-  
-Attracting, recruiting, training, retraining and delegating — all of these factors are key to an entrepreneurial venture, Bachenheimer said during a telephone interview.  
-  
-“It’s about people and innovation and truly growing the business,” he said.
-
-[![](image50841.png)](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/)  
-[PDF Version](files/BPC_9-28-11.pdf)  
-
-**Pitch contests gain popularity**  
-September 28, 2011  
-By **Amy Buttell**  
-
-[Original Link](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/)
-
-The advantage of a pitch competition is that it’s much easier to enter, organize, participate and judge than a typical
-
-business plan competition, which typically encompasses an entire academic year, according to Bruce Bachenheimer, a
-
-professor of management who runs both the Pace University Pitch and Business Plan Competitions.
-
-“Basically, competitors have three minutes in front of a panel of judges to sell their idea,” he says. “There’s an audience
-
-for our competition, who can suggest questions, and who also get an education in entrepreneurship.” Last year, Pace
-
-gave $50,000 in prizes to the competition winners, he says. The pitch competition has become very popular among
-
-business students.
-
-Pitch contests require different skills than business plan competitions. In a pitch contest, you don’t necessarily need to
-
-have the fully-fleshed out idea that you need to succeed in a business plan competition. Instead, as Bachenheimer puts it, competitors need to “have excellent presentation skills, be quick on their feet, be able to provide a quick summary and be responsive to the very pointed questions of a panel of very distinguished judges.”
-
-He’s very pleased with the way the pitch competition, which is now in it’s eighth year, has evolved. “In the beginning,
-
-some of the ideas were kind of crazy, but it’s gotten very serious,” he continues. “It’s very educational and very
-
-entertaining for the presenters and the audience. It’s a fast-paced, fun learning opportunity for everyone, including the
-
+**Pitch contests gain popularity**<br/>
+September 28, 2011<br/>
+By **Amy Buttell**<br/>
+>
+>The advantage of a pitch competition is that it’s much easier to enter, organize, participate and judge than a typical
+>
+>business plan competition, which typically encompasses an entire academic year, according to Bruce Bachenheimer, a
+>
+>professor of management who runs both the Pace University Pitch and Business Plan Competitions.
+>
+>“Basically, competitors have three minutes in front of a panel of judges to sell their idea,” he says. “There’s an audience
+>
+>for our competition, who can suggest questions, and who also get an education in entrepreneurship.” Last year, Pace
+>
+>gave $50,000 in prizes to the competition winners, he says. The pitch competition has become very popular among
+>
+>business students.
+>
+>Pitch contests require different skills than business plan competitions. In a pitch contest, you don’t necessarily need to
+>
+>have the fully-fleshed out idea that you need to succeed in a business plan competition. Instead, as Bachenheimer puts it, competitors need to “have excellent >presentation skills, be quick on their feet, be able to provide a quick summary and be responsive to the very pointed questions of a panel of very >distinguished judges.”
+>
+>He’s very pleased with the way the pitch competition, which is now in it’s eighth year, has evolved. “In the beginning,
+some of the ideas were kind of crazy, but it’s gotten very serious,” he continues. “It’s very educational and very entertaining for the presenters and the audience. It’s a fast-paced, fun learning opportunity for everyone, including the
 audience.”
+>
+>One big advantage of pitch contests is that they are relatively painless to enter. Instead of writing up a complicated, indepth business plan that participants may have to revise numerous times over the months, a simple 500 word or so entry form, a brief biography and a 10-question form are the sole requirements for the Pace Pitch Contest. Not only is it simpler for the contestants, it is also much easier for the judges and organizers, he says.
+>
+>And that makes it a good selling point for judges, who have to make a big time commitment to judge a business plan competition. Those can take months and judges must read multiple business plans, evaluate them at various stages and mentor competitions. With the pitch competition, it’s a one-day commitment. It’s also much easier on organizers, which is why it’s easier to start and run a pitch competition than a full business plan competition, he continues.
 
-One big advantage of pitch contests is that they are relatively painless to enter. Instead of writing up a complicated, indepth business plan that participants may have to revise numerous times over the months, a simple 500 word or so entry form, a brief biography and a 10-question form are the sole requirements for the Pace Pitch Contest. Not only is it simpler for the contestants, it is also much easier for the judges and organizers, he says.
+[![Crains New York Business](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906) | [PDF Version](files/Crains_9-27-11.pdf)<br/>
 
-And that makes it a good selling point for judges, who have to make a big time commitment to judge a business plan competition. Those can take months and judges must read multiple business plans, evaluate them at various stages and mentor competitions. With the pitch competition, it’s a one-day commitment. It’s also much easier on organizers, which is why it’s easier to start and run a pitch competition than a full business plan competition, he continues.
+**New York exports its entrepreneurial expertise**<br/>
+September 27, 2011<br/>
+By **Eilene Zimmerman**<br/>
+>
+>![BrucePicture](image5086.png)
+>
+>“Although the new semester had barely begun this year at Pace University's Lubin School of Business, Director of Entrepreneurship Bruce Bachenheimer already had teaching requests from groups and institutions in India, China, Norway and Israel.
+>
+>Mr. Bachenheimer returned from India in early September, spoke to a Chinese delegation at Pace immediately afterward and then taught a course on writing a business plan for students visiting from the BI Norwegian Business School. He will travel to Israel in early January.
+>
+>Colleges and universities abroad, especially those located in developing nations, are increasingly trying to establish the kinds of entrepreneurship programs that exist here in the U.S.
+>
+>Generations of immigrants may have fueled American entrepreneurialism, but, according to Mr. Bachenheimer, entrepreneurship education on the college level is primarily an American export. And local professors are seeing the demand for their expertise grow beyond the occasional request to teach overseas while they're on a school break or a sabbatical. Foreign universities are more and more willing to pay a premium for the know-how of professors from entrepreneurship centers such as Silicon Valley, New York City and Cambridge, Mass., the Lubin professor says.
+>
+>Reflecting the growing international interest in entrepreneurship education, the Bloomington, Ind.-based Global Consortium of Entrepreneurship Centers, whose members are university-based, switched to its current name three years ago, notes Mr. Bachenheimer. Founded in 1996 as a national consortium, the organization made the change in response to interest from international institutions.
+>
+>Although students obviously can't absorb everything about running a business while in a classroom setting, the fastest way to get started and learn to manage risk is often with the guidance and assistance available through universities and colleges. (Other kinds of structured support can be invaluable as well: Research from the National Business Incubation Association and the U.S. Small Business Administration show that businesses coming out of incubators have a much lower failure rate than that for startups overall, says Mr. Bachenheimer.)
+>
+[![BizPlanCompetition](image/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/)<br/>
+[Original Link](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/) | [PDF Version](files/BPC_9-22-11.pdf)<br/>
 
-[![](image7174.jpg)](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906)  
-[PDF Version](files/Crains_9-27-11.pdf)  
+**Is a bigger jackpot better in business plan competitions?**<br/>
+September 22, 2011<br/>
+By **Amy Buttell**<br/>
+>
+>Promoting entrepreneurship is also a goal of the [Pace University Business Plan and Pitch Competitions](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/pace-business-plan-competition), says Bruce Bachenheimer, clinical professor of Management, who runs both of the competitions. “One of our goals is to encourage an entrepreneurial mindset, which is important in today’s hyper competitive global economy, whether you work in an established business or not.”
+>
+>The brevity of the university’s Pitch Competition is one reason it attracts a 400 person audience and a substantial number of actual competitors. That’s impossible to accomplish in a business plan competition because of the nature of business plans and the sheer length of the competition.
+>
+>“The participatory nature of the pitch competition means that it’s benefitting the audience as well as the competitors,” he says. “Everyone gets to hear about the ideas and follow the give and take between competitors and the judges as questions are asked and answered.”   
+>
+[![Crains](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966) | [PDF Version](files/Crains_8-12-11.pdf)<br/>
 
-**New York exports its entrepreneurial expertise**  
-September 27, 2011  
-By **Eilene Zimmerman**  
+**How to handle, and profit from, last-minute jobs**<br/>
+August 12, 2011<br/>
+By **Elaine Pofeldt**<br/>
+>
+>“With all of the uncertainty, tight purse strings and risk-aversion, people are waiting until the last minute” to make purchases, said Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University. Increasing globalization has intensified competition in many fields and destroyed traditional business hours.
+>
+>“You may have to work on Sunday at 2 a.m. to fill an order going outside of the U.S.” Mr. Bachenheimer said.
 
-[Original Link](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906)
+[![Crains](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990) | [PDF Version](files/Crains_8-8-11.pdf)<br/>
 
-![](image5086.png)
+**Number of startups led by women rising**<br/>
+August 8, 2011<br/>
+By **Anne Field**<br/>
+>
+>The increased startup activity in New York state most likely is because of an increase in women-owned startups in New York City,” said Bruce Bachenheimer, director of entrepreneurship and clinical professor of management at Pace University.
 
-“Although the new semester had barely begun this year at Pace University's Lubin School of Business, Director of Entrepreneurship Bruce Bachenheimer already had teaching requests from groups and institutions in India, China, Norway and Israel.
+[![Consumer Reports Money Advisor](image/MoneyAdvisor.png)](http://pressroom.consumerreports.org/pressroom/money-adviser/)<br/>
+[Original Link](http://pressroom.consumerreports.org/pressroom/money-adviser/) | [PDF Version](files/ConsumerReportsMoneyAdviser_June2011.pdf)<br/>
 
-Mr. Bachenheimer returned from India in early September, spoke to a Chinese delegation at Pace immediately afterward and then taught a course on writing a business plan for students visiting from the BI Norwegian Business School. He will travel to Israel in early January.
+**Want to be your own boss?**<br/>
+June 2011, Volume 8 Issue 6, pages 12-13<br/>
+>
+>Be honest with yourself. Not everyone is cut out to be an entrepreneur. “The best are risk takers confident in themselves and their ideas,” says Bruce Bachenheimer, a professor of management at Pace University in New York.
+>
+>Take time to consider what you’re giving up or getting into. Do you need a structured environment? A steady paycheck? “Are you fleeing a boss only to find all customers will be your boss?” Bachenheimer asks. “Are you dumping a time clock but investing 100 hours a week?”
+>
+>Buying an existing business can be a good route. “Sometimes owners run out of capital or enthusiasm,” Bachenheimer says. “You can get a lot of assets, inventory, and a client base.” Still, he warns buyers to perform due diligence to prevent getting stuck with someone else’s bad debts.
+>
+>Smart entrepreneurs surround themselves with even smarter experts. Find a financial consultant or lawyer for advice, but choose advisers carefully. “Don’t pay hucksters to do things that are free – like obtaining an employer identification number,” Bachenheimer says. “Anyone can sell themselves as an expert, so get references and proposals.
+>
+>Once your business has some cash flow, you might find it easier to get a small-business loan, Bachenheimer says.
 
-Colleges and universities abroad, especially those located in developing nations, are increasingly trying to establish the kinds of entrepreneurship programs that exist here in the U.S.
+[![College Preview](image/CollegePreview.jpg)](http://www.cpgpublications.com/cp_may2011.pdf)<br/>
+[Original Link](http://www.cpgpublications.com/cp_may2011.pdf) | [PDF Version](files/CollegePreview_May-June2011.pdf)<br/>
 
-Generations of immigrants may have fueled American entrepreneurialism, but, according to Mr. Bachenheimer, entrepreneurship education on the college level is primarily an American export. And local professors are seeing the demand for their expertise grow beyond the occasional request to teach overseas while they're on a school break or a sabbatical. Foreign universities are more and more willing to pay a premium for the know-how of professors from entrepreneurship centers such as Silicon Valley, New York City and Cambridge, Mass., the Lubin professor says.
+**LEADERS WANTED How to become the leader employers will want**<br/>
+May/June 2011<br/>
+By **Jacqueline Bodnar**<br/>
+>
+>Putting Leadership Skills into Action
+>
+>“To position themselves for a valuable career, college students need to demonstrate how they can add value to a prospective employer,” says Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University.
+>
+>“They need to be able to solve problems creatively and to effectively implement solutions in a rapidly changing environment. To accomplish this, they will need to think entrepreneurially and take on a leadership role early in their career.”
+>
+>“The role of a leader is to take people to a new place, to inspire them to do something they otherwise would not have done or even thought they could do,” adds Bachenheimer. “Think about how you can inspire fellow students and motivate them to take action!”
 
-Reflecting the growing international interest in entrepreneurship education, the Bloomington, Ind.-based Global Consortium of Entrepreneurship Centers, whose members are university-based, switched to its current name three years ago, notes Mr. Bachenheimer. Founded in 1996 as a national consortium, the organization made the change in response to interest from international institutions.
+[![Crains](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995) | [PDF Version](files/Crains_5-8-11.pdf)<br/>
 
-Although students obviously can't absorb everything about running a business while in a classroom setting, the fastest way to get started and learn to manage risk is often with the guidance and assistance available through universities and colleges. (Other kinds of structured support can be invaluable as well: Research from the National Business Incubation Association and the U.S. Small Business Administration show that businesses coming out of incubators have a much lower failure rate than that for startups overall, says Mr. Bachenheimer.)
+**Tips for tricky task of raising prices**<br/>
+May 8, 2011<br/>
+By **Elaine Pofeldt**<br/>
+>
+>2\. Do a small-scale test.
+>
+>A pilot hike will help you gauge customer reactions and mitigate risks, according to Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University.
+>
+>For example, if you have two stores, raise prices on select items or at just one location, Mr. Bachenheimer says.
 
-[![](image5085.png)](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/)  
-[PDF Version](files/BPC_9-22-11.pdf)  
+[![Crains](image/Crains.jpg)](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989) | [PDF Version](files/Crains_5-1-11.pdf)<br/>
 
-**Is a bigger jackpot better in business plan competitions?**  
-September 22, 2011  
-By **Amy Buttell**  
+**'Mompreneurs' lead the way in infant-goods market**<br/>
+May 1, 2011<br/>
+By **Cara Trager**<br/>
+>
+>That's not necessarily a disadvantage for new entrants, including men, who “aren't \[stuck\] in the way things are typically done,” said Bruce Bachenheimer, professor of management and director of entrepreneurship at Pace University's Lubin School of Business. “They may have the ability to recognize and capture an opportunity others don't see.”
 
-[Original Link](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/)  
+[![The Star Ledger](image/TheStarLedger.png)](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html)<br/>
+[Original Link](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html) | [PDF Version](files/Star-Ledger_1-30-10.pdf)<br/>
 
-Promoting entrepreneurship is also a goal of the [Pace University Business Plan and Pitch Competitions](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/pace-business-plan-competition), says Bruce Bachenheimer, clinical professor of Management, who runs both of the competitions. “One of our goals is to encourage an entrepreneurial mindset, which is important in today’s hyper competitive global economy, whether you work in an established business or not.”
-
-The brevity of the university’s Pitch Competition is one reason it attracts a 400 person audience and a substantial number of actual competitors. That’s impossible to accomplish in a business plan competition because of the nature of business plans and the sheer length of the competition.
-
-“The participatory nature of the pitch competition means that it’s benefitting the audience as well as the competitors,” he says. “Everyone gets to hear about the ideas and follow the give and take between competitors and the judges as questions are asked and answered.”   
-
-[![](image7176.jpg)](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966)  
-[PDF Version](files/Crains_8-12-11.pdf)  
-
-**How to handle, and profit from, last-minute jobs**  
-August 12, 2011  
-By **Elaine Pofeldt**  
-
-[Original Link](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966)
-
-“With all of the uncertainty, tight purse strings and risk-aversion, people are waiting until the last minute” to make purchases, said Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University. Increasing globalization has intensified competition in many fields and destroyed traditional business hours.
-
-“You may have to work on Sunday at 2 a.m. to fill an order going outside of the U.S.” Mr. Bachenheimer said.
-
-[![](image7176.jpg)](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990)  
-[PDF Version](files/Crains_8-8-11.pdf)  
-
-**Number of startups led by women rising**  
-August 8, 2011  
-By **Anne Field**  
-
-[Original Link](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990)
-
-The increased startup activity in New York state most likely is because of an increase in women-owned startups in New York City,” said Bruce Bachenheimer, director of entrepreneurship and clinical professor of management at Pace University.
-
-[![](image4954.png)](http://pressroom.consumerreports.org/pressroom/money-adviser/)  
-[PDF Version](files/ConsumerReportsMoneyAdviser_June2011.pdf)  
-
-**Want to be your own boss?**  
-June 2011, Volume 8 Issue 6, pages 12-13  
-
-[Original Link](http://pressroom.consumerreports.org/pressroom/money-adviser/)
-
-Be honest with yourself. Not everyone is cut out to be an entrepreneur. “The best are risk takers confident in themselves and their ideas,” says Bruce Bachenheimer, a professor of management at Pace University in New York.
-
-Take time to consider what you’re giving up or getting into. Do you need a structured environment? A steady paycheck? “Are you fleeing a boss only to find all customers will be your boss?” Bachenheimer asks. “Are you dumping a time clock but investing 100 hours a week?”
-
-Buying an existing business can be a good route. “Sometimes owners run out of capital or enthusiasm,” Bachenheimer says. “You can get a lot of assets, inventory, and a client base.” Still, he warns buyers to perform due diligence to prevent getting stuck with someone else’s bad debts.
-
-Smart entrepreneurs surround themselves with even smarter experts. Find a financial consultant or lawyer for advice, but choose advisers carefully. “Don’t pay hucksters to do things that are free – like obtaining an employer identification number,” Bachenheimer says. “Anyone can sell themselves as an expert, so get references and proposals.
-
-Once your business has some cash flow, you might find it easier to get a small-business loan, Bachenheimer says.
-
-[![](image50031.jpg)](http://www.cpgpublications.com/cp_may2011.pdf)  
-[PDF Version](files/CollegePreview_May-June2011.pdf)  
-
-**LEADERS WANTED How to become the leader employers will want**  
-May/June 2011  
-By **Jacqueline Bodnar**  
-
-[Original Link](http://www.cpgpublications.com/cp_may2011.pdf)
-
-Putting Leadership Skills into Action
-
-“To position themselves for a valuable career, college students need to demonstrate how they can add value to a prospective employer,” says Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University.
-
-“They need to be able to solve problems creatively and to effectively implement solutions in a rapidly changing environment. To accomplish this, they will need to think entrepreneurially and take on a leadership role early in their career.”
-
-“The role of a leader is to take people to a new place, to inspire them to do something they otherwise would not have done or even thought they could do,” adds Bachenheimer. “Think about how you can inspire fellow students and motivate them to take action!”
-
-[![](image7180.jpg)](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995)  
-[PDF Version](files/Crains_5-8-11.pdf)  
-
-**Tips for tricky task of raising prices**  
-May 8, 2011  
-By **Elaine Pofeldt**  
-
-[Original Link](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995)
-
-2\. Do a small-scale test.
-
-A pilot hike will help you gauge customer reactions and mitigate risks, according to Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University.
-
-For example, if you have two stores, raise prices on select items or at just one location, Mr. Bachenheimer says.
-
-[![](image7176.jpg)](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989)  
-[PDF Version](files/Crains_5-1-11.pdf)  
-
-**'Mompreneurs' lead the way in infant-goods market**  
-May 1, 2011  
-By **Cara Trager**  
-
-[Original Link](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989)
-
-That's not necessarily a disadvantage for new entrants, including men, who “aren't \[stuck\] in the way things are typically done,” said Bruce Bachenheimer, professor of management and director of entrepreneurship at Pace University's Lubin School of Business. “They may have the ability to recognize and capture an opportunity others don't see.”
-
-[![Advertising Specialty Institute](image49241.png)](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html)  
-[PDF Version](files/Star-Ledger_1-30-10.pdf)  
-
-**Mentors offer unique career support**  
-January 30, 2011  
-By **Lee Miller**    
-
-[Original Link](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html)
-
-Professor Bruce Bachenheimer, director of entrepreneurship at Pace University, offers the following guidance on managing the mentor relationship:
-
-“Do some research before seeking a mentor — to help find an appropriate candidate and to be able to ask that person to serve as a mentor in a meaningful way.
-
-“Once you have a mentor, be sure to demonstrate that you value the relationship and are taking affirmative action (i.e. not just saying “thanks” regularly, but really letting the mentor know the efforts are worthwhile).
-
-“Always try to find ways to reciprocate — to demonstrate your gratitude and commitment. Little things that may be of assistance to the mentor can go a long way.”
+**Mentors offer unique career support**<br/>
+January 30, 2011<br/>
+By **Lee Miller**<br/><br/>
+>
+>Professor Bruce Bachenheimer, director of entrepreneurship at Pace University, offers the following guidance on managing the mentor relationship:
+>
+>“Do some research before seeking a mentor — to help find an appropriate candidate and to be able to ask that person to serve as a mentor in a meaningful way.
+>
+>“Once you have a mentor, be sure to demonstrate that you value the relationship and are taking affirmative action (i.e. not just saying “thanks” regularly, but really letting the mentor know the efforts are worthwhile).
+>
+>“Always try to find ways to reciprocate — to demonstrate your gratitude and commitment. Little things that may be of assistance to the mentor can go a long way.”
 
 [![Advertising Specialty Institute](image48401.jpg)](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)
-[PDF Version](files/ASI_11-15-10.pdf)  
+[PDF Version](files/ASI_11-15-10.pdf)<br/>
 
-**Tip of the Day - 4 Tips to Increase Your Profits in 2011**  
-November 15, 2010  
-By **Betsy Cummings**  
+**Tip of the Day - 4 Tips to Increase Your Profits in 2011**<br/>
+November 15, 2010<br/>
+By **Betsy Cummings**<br/>
 
-Also featured in   
+Also featured in<br/> 
 [![](image49271.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)
 
 
-[Original Link](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)  
+[Original Link](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)<br/>
 
 **Profit Builders: Six ways to improve your company’s profitability in 2011**
 December 2010 (page 67)
 
-Step 3: Outwit Bad Buyers  
+Step 3: Outwit Bad Buyers<br/>
 Sure, the 80/20 rule – where 80% of your revenue comes from 20% of your clients – applies to almost any distributor, but firing bad customers indiscriminately is a dangerous move, says Bruce Bachenheimer, clinical professor of management at Pace University in New York. For years, experts have suggested small-business owners dump the deadweight. Instead, Bachenheimer says, keep the marginal clients – you never know when a small order or difficult customer might pay off handsomely down the road – but make them turn their drain on your company into a potential profit center.
 
 For example, Bachenheimer says, when electronics retailer Best Buy noticed certain types of shoppers would buy a TV to watch the Super Bowl and return it the next day, the money it cost to service the returns and restock those items was a drain on its profits. So it started charging a restocking fee to discourage customers who had no intention of keeping the products they bought. Distributors might consider imposing fees, for example, for clients that repeatedly demand multiple samples, art proofs, shipping returns and other profit-reducing services.
 
-[![](image7176.jpg)](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986)  
-[PDF Version](files/Crains_11-14-10.pdf)  
+[![](image7176.jpg)](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986)<br/>
+[PDF Version](files/Crains_11-14-10.pdf)<br/>
 
-**Social-media needs spur student hires**  
-November 14, 2010  
-By **Anne Field**  
+**Social-media needs spur student hires**<br/>
+November 14, 2010<br/>
+By **Anne Field**<br/>
 
 [Original Link](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986)
 
-Help wanted  
+Help wanted<br/>
 “Five years ago, I might have gotten one call every four or five weeks,” says Bruce Bachenheimer, program director of entrepreneurship at Pace University's Lubin School of Business. “Now, it's more like one a week, at a minimum.”
 
-[![](image50051.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)  
-[PDF Version](files/New_Firm_Connects_Overseas_Entrepreneurs_with_US-Based_Partners.pdf)  
+[![](image50051.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)<br/>
+[PDF Version](files/New_Firm_Connects_Overseas_Entrepreneurs_with_US-Based_Partners.pdf)<br/>
 
-**New Firm Connects Overseas Entrepreneurs with U.S.-Based Partners**  
-October 22, 2010  
-By **Brian Anthony Hernandez**  
+**New Firm Connects Overseas Entrepreneurs with U.S.-Based Partners**<br/>
+October 22, 2010<br/>
+By **Brian Anthony Hernandez**<br/>
 
 [Original Link](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)
 
@@ -684,18 +658,18 @@ Bruce Bachenheimer, a professor of management at Pace University in New York who
 
 “They know they have to sell to several markets and have to look at the whole globe as a market. The domestic market is just too small.”
 
-[![](image49151.png)](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521)  
+[![](image49151.png)](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521)<br/>
 [Original Link](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521) | [PDF Version](files/Win_Over_Investors_in_3_Minutes_or_Less.pdf)
 
-**Win over Investors in 3 minutes or Less**  
-October 18, 2010  
-By **Joanna Krotz**  
+**Win over Investors in 3 minutes or Less**<br/>
+October 18, 2010<br/>
+By **Joanna Krotz**<br/>
 
 Also featured on Fox Small Business on December 8, 2010 
-[![](image49121.jpg)](http://smallbusiness.foxbusiness.com/biz-on-main/2010/12/08/win-over-investors-in-3-minutes-or-less/)  
+[![](image49121.jpg)](http://smallbusiness.foxbusiness.com/biz-on-main/2010/12/08/win-over-investors-in-3-minutes-or-less/)<br/>
 
 Also featured on Entrepreneur.com on January 14, 2011 
-[![Entrepreneur: Start & Grow Your Business](image4918.png)](http://www.entrepreneur.com/article/217844)  
+[![Entrepreneur: Start & Grow Your Business](image4918.png)](http://www.entrepreneur.com/article/217844)<br/>
 
 “In today’s busy world, with 140-character Twitter \[posts\] and one-paragraph Zagat reviews, everything has to be shorter and persuasive,” says Bruce Bachenheimer, competition founder and director of entrepreneurship at Pace.
 
@@ -705,25 +679,25 @@ And the winners are …
 
 The critical requirement, sums up Bachenheimer, is “venture capitalists need to be convinced not only that it’s a good idea, but that you can make it happen. It’s always better to bet on the jockey rather than the horse.”
 
-[![](image48441.jpg)](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html)  
-[PDF Version](http://webpage.pace.edu/bbachenheimer/press/Forbes_9-20-10.pdf)  
+[![](image48441.jpg)](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html)<br/>
+[PDF Version](http://webpage.pace.edu/bbachenheimer/press/Forbes_9-20-10.pdf)<br/>
 
-**15 Tips For Raising A Young Mogul**  
-September 20, 2010  
-By **Dale Buss and Melanie Lindner**  
+**15 Tips For Raising A Young Mogul**<br/>
+September 20, 2010<br/>
+By **Dale Buss and Melanie Lindner**<br/>
 
 [Original Link](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html)
 
 Trigger their imaginations. "Expose them to possibilities through travel, talking about the environment, talking about the news and things that impact the world, and opportunities that may exist for business from all of that," says Bruce Bachenheimer, director of entrepreneurship at Pace University. Drawing their attention to a few magazine profiles of interesting entrepreneurs wouldn't hurt, either.
 
-[![](image48501.png)](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)  
-[PDF Version](files/NYPost_8-30-10.pdf)  
+[![](image48501.png)](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)<br/>
+[PDF Version](files/NYPost_8-30-10.pdf)<br/>
 
-**The book of blunders -The most common mistakes entrepreneurs make**  
-August 30, 2010  
-By **Brian Moore**  
+**The book of blunders -The most common mistakes entrepreneurs make**<br/>
+August 30, 2010<br/>
+By **Brian Moore**<br/>
 
-[Original Link](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)  
+[Original Link](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)<br/>
 
 Many entrepreneurs have trouble “mixing up stubbornness and arrogance with passion and persistence,” says Pace University professor of management Bruce Bachenheimer. You can’t throw in the towel every time things don’t go your way, but you also can’t ignore circumstances that call for a change in your business plan, no matter how ingenious you may think it is.
 
@@ -737,7 +711,7 @@ Entrepreneurs “just overestimate everything,” says Bachenheimer, citing cust
 **App stars—The best smartphone programs for taking care of business** <br/>
 August 16, 2010 <br/>
 By **Linley Taber** <br/>
-> **FlightTrack Pro**  <br/>
+> **FlightTrack Pro**<br/><br/>
 > This business-traveler favorite provides up-to-the-second information on flights’ statuses, gates, cancellations and area weather. It often posts info “before airline personnel appear to have it,” notes devotee Bruce Bachenheimer, a Pace University professor. For Android, iPad, iPhone and iPod Touch; $9.99.
 
 [![US News and World Report](images/usnews.png)](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html) <br/>
