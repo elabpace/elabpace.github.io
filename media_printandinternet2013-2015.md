@@ -1,54 +1,50 @@
 # Print and Internet 2013-2015
 
-[![](image6561.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)
-
-Walmart to Vendors: Give Us a Discount
-
+[![Inc.](images/Inc.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)
+**Walmart to Vendors: Give Us a Discount**
 September 28, 2015
-
-By Jeremy Quittner
-
+By **Jeremy Quittner**
 [![](image1732.jpg)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)
-
-“To do business with a company like Walmart, vendors are really pushed to the maximum of what they can do,” says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
-
-1. Consider a currency hedging strategy.
-
-It makes sense, if you’re manufacturing overseas and paying for things using local money, to get a handle on costs by protecting against currency swings. One way to do that is by purchasing a currency contract, known as a hedge, that allows you to exchange dollars into the local currency, but at a fixed price and at a predetermined time in the future. 
-
-You benefit if the value of the local currency goes up, but not necessarily when it drops in value. With the strong greenback in recent months, you’re likely to feel some pain. But here’s an additional thing to be wary of, Bachenheimer says: If the currency you’ve hedged decreases in value, and the retailer you supply also asks for a price concession, you’ll take a double hit to your bottom line. 
-
-2\. Create more flexibility in your overseas production. 
-
-While that’s not as easy at it sounds, you could explore adding in other countries that peg their currency to the dollar. That includes many Caribbean nations, suh as Barbados, Antigua, and Belize, Bachenheimer says.
+>
+>“To do business with a company like Walmart, vendors are really pushed to the maximum of what they can do,” says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
+>
+>1. Consider a currency hedging strategy.
+>
+>It makes sense, if you’re manufacturing overseas and paying for things using local money, to get a handle on costs by protecting against currency swings. One way to do that is by purchasing a currency contract, known as a hedge, that allows you to exchange dollars into the local currency, but at a fixed price and at a predetermined time in the future. 
+>
+>You benefit if the value of the local currency goes up, but not necessarily when it drops in value. With the strong greenback in recent months, you’re likely to feel some pain. But here’s an additional thing to be wary of, Bachenheimer says: If the currency you’ve hedged decreases in value, and the retailer you supply also asks for a price concession, you’ll take a double hit to your bottom line. 
+>
+>2\. Create more flexibility in your overseas production. 
+>
+>While that’s not as easy at it sounds, you could explore adding in other countries that peg their currency to the dollar. That includes many Caribbean nations, suh as Barbados, Antigua, and Belize, Bachenheimer says.
 
 [Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
 
-[![](image2781.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)[![](image2783.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)
-
-Experts: Opportunity lies in Chinese stock collapse
-
+[![WCBJ](images/WCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)[![](image2783.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)
+**Experts: Opportunity lies in Chinese stock collapse**
 September 3, 2015
+By **Evan Fallor**
 
-By Evan Fallor
+[![Photo Picture](images/PhotoPic://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/) While most may see the recent Chinese stock market collapse as an indicator of economic despair, some business experts see it as a golden opportunity for Westchester and Fairfield County firms.
 
-[![](image1745.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/) While most may see the recent Chinese stock market collapse as an indicator of economic despair, some business experts see it as a golden opportunity for Westchester and Fairfield County firms.
+>
+>Bruce Bachenheimer, a clinical professor of management at Pace University and the executive director of Entrepreneurship Lab — a Lubin School of Business networking and development program — said now is as good a time as ever for local companies to explore opportunities for partnerships and strategic alliances with Chinese companies.
+>
+>“If I was a Chinese firm and saw this going on, I wouldn’t want to have all my eggs in one basket,” he said. “New York City is the financial capital of the world, and there is a lot of talent here in Westchester County and Fairfield County. I see it as an opportunity for small firms to do business.”
+>
+>Despite China having the second largest economy in the world after experiencing accelerated growth in recent years, the Shanghai Stock Exchange has been on a downward slump for much of the summer.
+>
+>Aug. 24, now widely known as “Black Monday” in the financial world, saw the Shanghai main share index lose 8.49 percent.
+>
+>Calling the U.S. a safe haven economy, Bachenheimer said Westchester’s standing as a wealthy county with large amounts of intellectual capital make it a desirable destination for Chinese companies. Investments in the tech industry would help these firms diversify.
+>
+>Investors in Westchester, he said, can do one of two things: buy from China, where products and services are less expensive, or conversely, sell to Chinese companies. The selling opportunities, he said, are plentiful in a big market where specialty products may not be impacted by the shrinking Chinese growth rate.
+>
+>At roughly $10 trillion in gross domestic product, the Chinese economy is still the second largest in the world and has been growing at a very rapid rate for decades. Though the rate is slowing now, it continues to grow. The latest crash does not mean a direct negative impact on Westchester’s small businesses, Bachenheimer said.
+>
+>“I think, if anything, the Chinese stock market crisis provides more opportunities than stability does,” Bachenheimer said. “They should take these market jitters as an opportunity, not a reason to withdraw into a shell. The Chinese symbol for crisis is the same symbol for opportunity.”
 
-Bruce Bachenheimer, a clinical professor of management at Pace University and the executive director of Entrepreneurship Lab — a Lubin School of Business networking and development program — said now is as good a time as ever for local companies to explore opportunities for partnerships and strategic alliances with Chinese companies.
-
-“If I was a Chinese firm and saw this going on, I wouldn’t want to have all my eggs in one basket,” he said. “New York City is the financial capital of the world, and there is a lot of talent here in Westchester County and Fairfield County. I see it as an opportunity for small firms to do business.”
-
-Despite China having the second largest economy in the world after experiencing accelerated growth in recent years, the Shanghai Stock Exchange has been on a downward slump for much of the summer.
-
-Aug. 24, now widely known as “Black Monday” in the financial world, saw the Shanghai main share index lose 8.49 percent.
-
-Calling the U.S. a safe haven economy, Bachenheimer said Westchester’s standing as a wealthy county with large amounts of intellectual capital make it a desirable destination for Chinese companies. Investments in the tech industry would help these firms diversify.
-
-Investors in Westchester, he said, can do one of two things: buy from China, where products and services are less expensive, or conversely, sell to Chinese companies. The selling opportunities, he said, are plentiful in a big market where specialty products may not be impacted by the shrinking Chinese growth rate.
-
-At roughly $10 trillion in gross domestic product, the Chinese economy is still the second largest in the world and has been growing at a very rapid rate for decades. Though the rate is slowing now, it continues to grow. The latest crash does not mean a direct negative impact on Westchester’s small businesses, Bachenheimer said.
-
-“I think, if anything, the Chinese stock market crisis provides more opportunities than stability does,” Bachenheimer said. “They should take these market jitters as an opportunity, not a reason to withdraw into a shell. The Chinese symbol for crisis is the same symbol for opportunity.”![](image1789.jpg)[![](image6561.png)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)What You Can Learn From Carly Fiorina's Smackdown of Trump
+[![](image1789.jpg)[![](image6561.png)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)What You Can Learn From Carly Fiorina's Smackdown of Trump
 
 August 15, 2015
 
@@ -372,7 +368,7 @@ No matter what your occupation, “it’s about recognizing opportunity and crea
 
 NYC Social Infrastructure & Tech Ecosystem: Are We At An Inflection Point?
 
-October 27, 2014  
+October 27, 2014<br/>
 By Danielle Brody
 
 [![](image1430.jpg)](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html)
@@ -461,7 +457,7 @@ By John S. Kiernan
 
 Biz-school courses focus on giving back
 
-March 17, 2014  
+March 17, 2014<br/>
 By Anne Field
 
 [![](image1392.jpg)](http://www.crainsnewyork.com/article/20140318/PROFESSIONAL_SERVICES/303169996/biz-school-courses-focus-on-giving-back)
@@ -506,7 +502,7 @@ Socialize Your Own Way Joining study groups with fellow students or showing up f
 
 January 27th, 2014 Disruptive Technologists in NYC
 
-February 4, 2014  
+February 4, 2014<br/>
 By Stephanie Lowe
 
 [![](image1367.jpg)](http://www.officeleasecenter.com/articles/january-27th-2014-disruptive-technologists-in-nyc.html)
@@ -517,7 +513,7 @@ By Stephanie Lowe
 
 The Perils of Starting a Business On Your Own
 
-January 16, 2014  
+January 16, 2014<br/>
 By Elaine Pofeldt
 
 [![](image1352.jpg)](http://www.inc.com/magazine/201402/elaine-pofeldt/starting-a-company-without-a-partner.html)
@@ -532,7 +528,7 @@ Also featured in:
 
 Ten tips for making the perfect pitch
 
-January 4, 2014  
+January 4, 2014<br/>
 By Daniel Bukszpan
 
 [![](image1344.jpg)](http://www.cnbc.com/id/101313179/page/6)
@@ -581,11 +577,11 @@ How can young American entrepreneurs improve their chance of start-up success? �
 
 [![](image55351.jpg)](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem/)[![](image55311.jpg)](../press/NYCMediaLab_11-8-13.pdf)
 
-Panel Convenes to Spotlight Universities’ Role in NYC’s Entrepreneurial Ecosystem November 8, 2013  
+Panel Convenes to Spotlight Universities’ Role in NYC’s Entrepreneurial Ecosystem November 8, 2013<br/>
 
 [![](image5533.jpg)](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem/) On Thursday, November 7, Pace University’s [Entrepreneurship Lab](http://www.pace.edu/elab) and the [MIT Enterprise Forum of NYC](http://www.mitef-nyc.org) hosted a forum to discuss the significance of universities in today’s rapidly changing ecosystem. Bruce Bachenheimer, Clinical Professor of Management and Director of the Entrepreneurship Lab at Pace University, moderated a panel stacked with those who can speak best to the potential of university collaborations: panelists included NYC Media Lab Oversight Board members Eric Gertler, Executive Vice President for [the New York City Economic Development Corporation](http://www.nycedc.com) and Managing Director for the Center for Economic Transformation and Orin Herskowitz, VP of Intellectual Property and [Tech Transfer at Columbia University](http://www.techventures.columbia.edu); as well as Debera Johnson, Executive Director, [Center for Sustainable Design Studies and Research](http://csds.pratt.edu) at Pratt and Geoffrey W. Smith, Director,[Center for Technology, Innovation, and Entrepreneurship](http://icahn.mssm.edu/research/centers/center-for-technology-innovation-and-entrepreneurship) at the Icahn School of Medicine at Mount Sinai Hospital.![](image1946.jpg)[![](image5579.jpg)](../press/MetroMBA_11-5-13.pdf)[![](image55811.jpg)](http://www.metromba.com/2013/11/entrepreneurship-centers-reaching-students/)
 
-MBA Entrepreneurship Centers Reaching Out To More Students November 5, 2013  
+MBA Entrepreneurship Centers Reaching Out To More Students November 5, 2013<br/>
 
 [![](image5583.jpg)](http://www.metromba.com/2013/11/entrepreneurship-centers-reaching-students/)
 
@@ -593,23 +589,23 @@ The [Entrepreneurship Lab (eLab)](http://www.pace.edu/elab) at [Pace University�
 
 [![](image4456.jpg)](http://www.bizedmagazine.com/features/articles/idea-central.asp)![](image5992.jpg)
 
-Bright Ideas: B-schools spark entrepreneurial thinking across g campus  
+Bright Ideas: B-schools spark entrepreneurial thinking across g campus<br/>
 November/December 2013 (cover story)By Tricia Bisoux
 
 [![](image5984.jpg)](http://www.bizedmagazine.com/features/articles/idea-central.asp)
 
-Building Excitement  
+Building Excitement<br/>
 Embracing an interdisciplinary purpose brings a sense of excitement to a business school and its entrepreneurial center, says Bruce Bachenheimer, who directs the Entrepreneurship Lab (eLab) at Pace University’s Lubin School of Business. Opened in February 2012 in a building near New York City Hall, eLab’s purpose is not only to augment the school’s entrepreneurship curriculum with events and services, but also to bring together the schools of business, arts and sciences, health professions, education, and computer science and information systems in cross disciplinary problem solving.
 
 “I recently met with education students who want to develop new educational technologies to teach STEM subjects to New York City high school students—they call themselves ‘edupreneurs,’” says Bachenheimer. “We’re working with nursing students to help them collaborate with computer science students to develop mobile apps for the field of gerontology. Bringing together students from different colleges has been exciting.” 
 
-WHAT MAKES A GREAT CENTER?  
+WHAT MAKES A GREAT CENTER?<br/>
 Listen to users. “There’s an old saying, ‘Why give customers what they want when we know what they need?’” jokes Bruce Bachenheimer of Pace University. But he emphasizes that entrepreneurship centers must let users help direct their design. Pace’s eLab is equipped with the latest computer equipment, but it turns out most students “just need big tables, power outlets, fast wi-fi , and a refrigerator.”
 
 [![](image5989.jpg)](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html)[![](image5994.jpg)](../press/E-CommerceTimes_10-23-13.pdf)
 
-SEC Opens the Door to Crowdfunding  
-October, 23 2013  
+SEC Opens the Door to Crowdfunding<br/>
+October, 23 2013<br/>
 By Erika Morphy
 
 [![](image5987.jpg)](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html)
@@ -630,7 +626,7 @@ Also featured in:
 
 Entertaining Clients? Save Your Money
 
-October 9, 2013  
+October 9, 2013<br/>
 By Kathryn Tuggle
 
 [![](image5872.jpg)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html)
@@ -663,7 +659,7 @@ Also featured in:
 
 Pace Professor Discusses Obamacare’s Impact On Tech Startups
 
-October 4, 2013  
+October 4, 2013<br/>
 By Joe Jenkins
 
 [![](image5842.jpg)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups)
@@ -712,7 +708,7 @@ Also featured in:
 
 Top Campus-Based Resources for Aspiring College Entrepreneurs
 
-September 30, 2013  
+September 30, 2013<br/>
 By Laura Schaefer
 
 [![](image5850.jpg)](http://www.entrepreneur.com/article/228625)
@@ -727,7 +723,7 @@ Also featured in:
 
 Obamacare could help fuel a tech start-up boom
 
-September 30, 2013  
+September 30, 2013<br/>
 By Patrick Thibodeau
 
 [![](image5832.jpg)](http://www.computerworld.com/s/article/9242833/Obamacare_could_help_fuel_a_tech_start_up_boom)
@@ -748,7 +744,7 @@ While Obamacare may lead to an increase in start-ups, there's another side to th
 
 3 Smart Ways to Earn Business Credentials Without an MBA
 
-September 3, 2013  
+September 3, 2013<br/>
 By Ben Weiss
 
 [![](image5821.jpg)](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba)
@@ -765,7 +761,7 @@ Should you decide you don't have the time, finances or direction to do so, Bache
 
 The Accidental Entrepreneur
 
-June 21, 2013  
+June 21, 2013<br/>
 By Lauren Keyson
 
 [![](image5815.jpg)](http://disruptivetechnologists.com/2013/06/21/the-accidental-entrepreneur/)
@@ -784,8 +780,8 @@ Bruce Bachenheimer, the accidental entrepreneur, is a clinical professor of mana
 
 [![Forbes-logo](image58111.jpg)](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2/)[![](image58951.jpg)](../press/Forbes_4-17-13.pdf)
 
-The Apprentices: Learn-By-Doing Entrepreneurship At Enstitute  
-April 17, 2013 (May 6, 2013 print issue)  
+The Apprentices: Learn-By-Doing Entrepreneurship At Enstitute<br/>
+April 17, 2013 (May 6, 2013 print issue)<br/>
 By Meghan Casserly
 
 [![](image5803.jpg)](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2/)
@@ -810,7 +806,7 @@ Bachenheimer, who is working on an autobiography, has stories for days. From his
 
 Delivering the perfect pitch
 
-April 14, 2013  
+April 14, 2013<br/>
 By Lori Ioannou
 
 [![](image5974.jpg)](http://www.crainsnewyork.com/article/20130414/SMALLBIZ/304149990)
@@ -821,7 +817,7 @@ By Lori Ioannou
 
 “Shark Tank” Lessons for Entrepreneurs
 
-April 8, 2013  
+April 8, 2013<br/>
 By Angela Stringfellow
 
 [![](image5807.jpg)](https://admin.openforum.com/articles/6-lessons-sbos-can-learn-from-shark-tank/)
@@ -832,7 +828,7 @@ By Angela Stringfellow
 
 6 ways to solve tech talent crunch
 
-February 20, 2013  
+February 20, 2013<br/>
 By Anne Field
 
 [![](image5797.jpg)](http://www.crainsnewyork.com/article/20130220/TECHNOLOGY/130219895)
@@ -849,7 +845,7 @@ Also featured in:
 
 Lose the tickets on yourself        to make it in the States
 
-January 28, 2013  
+January 28, 2013<br/>
 By Mathew Hall
 
 [![](image5786.jpg)](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)
