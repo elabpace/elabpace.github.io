@@ -508,7 +508,7 @@ By **Eilene Zimmerman**<br/>
 >Reflecting the growing international interest in entrepreneurship education, the Bloomington, Ind.-based Global Consortium of Entrepreneurship Centers, whose members are university-based, switched to its current name three years ago, notes Mr. Bachenheimer. Founded in 1996 as a national consortium, the organization made the change in response to interest from international institutions.
 >
 >Although students obviously can't absorb everything about running a business while in a classroom setting, the fastest way to get started and learn to manage risk is often with the guidance and assistance available through universities and colleges. (Other kinds of structured support can be invaluable as well: Research from the National Business Incubation Association and the U.S. Small Business Administration show that businesses coming out of incubators have a much lower failure rate than that for startups overall, says Mr. Bachenheimer.)
->
+
 [![BizPlanCompetition](images/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/)<br/>
 [Original Link](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/) | [PDF Version](files/BPC_9-22-11.pdf)<br/>
 
@@ -521,7 +521,7 @@ By **Amy Buttell**<br/>
 >The brevity of the university’s Pitch Competition is one reason it attracts a 400 person audience and a substantial number of actual competitors. That’s impossible to accomplish in a business plan competition because of the nature of business plans and the sheer length of the competition.
 >
 >“The participatory nature of the pitch competition means that it’s benefitting the audience as well as the competitors,” he says. “Everyone gets to hear about the ideas and follow the give and take between competitors and the judges as questions are asked and answered.”   
->
+
 [![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966) | [PDF Version](files/Crains_8-12-11.pdf)<br/>
 
@@ -610,55 +610,48 @@ By **Lee Miller**<br/><br/>
 >
 >“Always try to find ways to reciprocate — to demonstrate your gratitude and commitment. Little things that may be of assistance to the mentor can go a long way.”
 
-[![Advertising Specialty Institute](image48401.jpg)](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)
-[PDF Version](files/ASI_11-15-10.pdf)<br/>
+[![Advertising Specialty Institute](images/AdvertisingInstitute.jpg)](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)
+[Original Link](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/) | [PDF Version](files/ASI_11-15-10.pdf)<br/>
 
 **Tip of the Day - 4 Tips to Increase Your Profits in 2011**<br/>
 November 15, 2010<br/>
 By **Betsy Cummings**<br/>
 
 Also featured in<br/> 
-[![](image49271.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)
-
-
-[Original Link](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)<br/>
+[![Counselor](images/Counselor.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)
 
 **Profit Builders: Six ways to improve your company’s profitability in 2011**
 December 2010 (page 67)
+>
+>Step 3: Outwit Bad Buyers<br/>
+>Sure, the 80/20 rule – where 80% of your revenue comes from 20% of your clients – applies to almost any distributor, but firing bad customers indiscriminately is a dangerous move, says Bruce Bachenheimer, clinical professor of management at Pace University in New York. For years, experts have suggested small-business owners dump the deadweight. Instead, Bachenheimer says, keep the marginal clients – you never know when a small order or difficult customer might pay off handsomely down the road – but make them turn their drain on your company into a potential profit center.
+>
+>For example, Bachenheimer says, when electronics retailer Best Buy noticed certain types of shoppers would buy a TV to watch the Super Bowl and return it the next day, the money it cost to service the returns and restock those items was a drain on its profits. So it started charging a restocking fee to discourage customers who had no intention of keeping the products they bought. Distributors might consider imposing fees, for example, for clients that repeatedly demand multiple samples, art proofs, shipping returns and other profit-reducing services.
 
-Step 3: Outwit Bad Buyers<br/>
-Sure, the 80/20 rule – where 80% of your revenue comes from 20% of your clients – applies to almost any distributor, but firing bad customers indiscriminately is a dangerous move, says Bruce Bachenheimer, clinical professor of management at Pace University in New York. For years, experts have suggested small-business owners dump the deadweight. Instead, Bachenheimer says, keep the marginal clients – you never know when a small order or difficult customer might pay off handsomely down the road – but make them turn their drain on your company into a potential profit center.
-
-For example, Bachenheimer says, when electronics retailer Best Buy noticed certain types of shoppers would buy a TV to watch the Super Bowl and return it the next day, the money it cost to service the returns and restock those items was a drain on its profits. So it started charging a restocking fee to discourage customers who had no intention of keeping the products they bought. Distributors might consider imposing fees, for example, for clients that repeatedly demand multiple samples, art proofs, shipping returns and other profit-reducing services.
-
-[![](image7176.jpg)](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986)<br/>
-[PDF Version](files/Crains_11-14-10.pdf)<br/>
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986) | [PDF Version](files/Crains_11-14-10.pdf)<br/>
 
 **Social-media needs spur student hires**<br/>
 November 14, 2010<br/>
 By **Anne Field**<br/>
 
-[Original Link](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986)
+>Help wanted<br/>
+>“Five years ago, I might have gotten one call every four or five weeks,” says Bruce Bachenheimer, program director of entrepreneurship at Pace University's Lubin School of Business. “Now, it's more like one a week, at a minimum.”
 
-Help wanted<br/>
-“Five years ago, I might have gotten one call every four or five weeks,” says Bruce Bachenheimer, program director of entrepreneurship at Pace University's Lubin School of Business. “Now, it's more like one a week, at a minimum.”
-
-[![](image50051.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)<br/>
-[PDF Version](files/New_Firm_Connects_Overseas_Entrepreneurs_with_US-Based_Partners.pdf)<br/>
+[![Business News Daily(images/BusinessNews.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)<br/>
+[Original Link](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/) | [PDF Version](files/New_Firm_Connects_Overseas_Entrepreneurs_with_US-Based_Partners.pdf)<br/>
 
 **New Firm Connects Overseas Entrepreneurs with U.S.-Based Partners**<br/>
 October 22, 2010<br/>
 By **Brian Anthony Hernandez**<br/>
+>
+>Bruce Bachenheimer, a professor of management at Pace University in New York who teaches about international entrepreneurship, believes foreign startups’ local domestic markets are not big enough to sustain the ventures they’re trying to accomplish.
+>
+>“They have to be born global from the beginning,” said Bachenheimer, who has taken his students to Tanzania and will take more to Israel in 2011.
+>
+>“They know they have to sell to several markets and have to look at the whole globe as a market. The domestic market is just too small.”
 
-[Original Link](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)
-
-Bruce Bachenheimer, a professor of management at Pace University in New York who teaches about international entrepreneurship, believes foreign startups’ local domestic markets are not big enough to sustain the ventures they’re trying to accomplish.
-
-“They have to be born global from the beginning,” said Bachenheimer, who has taken his students to Tanzania and will take more to Israel in 2011.
-
-“They know they have to sell to several markets and have to look at the whole globe as a market. The domestic market is just too small.”
-
-[![](image49151.png)](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521)<br/>
+[![Business On Main](images/BusinessOnMain.png)](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521)<br/>
 [Original Link](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521) | [PDF Version](files/Win_Over_Investors_in_3_Minutes_or_Less.pdf)
 
 **Win over Investors in 3 minutes or Less**<br/>
@@ -666,44 +659,40 @@ October 18, 2010<br/>
 By **Joanna Krotz**<br/>
 
 Also featured on Fox Small Business on December 8, 2010 
-[![](image49121.jpg)](http://smallbusiness.foxbusiness.com/biz-on-main/2010/12/08/win-over-investors-in-3-minutes-or-less/)<br/>
+[![Fox Business](images/FoxBusiness.jpg)](http://smallbusiness.foxbusiness.com/biz-on-main/2010/12/08/win-over-investors-in-3-minutes-or-less/)<br/>
 
 Also featured on Entrepreneur.com on January 14, 2011 
-[![Entrepreneur: Start & Grow Your Business](image4918.png)](http://www.entrepreneur.com/article/217844)<br/>
+[![Entrepreneur: Start & Grow Your Business](images/Entrepreneur.png)](http://www.entrepreneur.com/article/217844)<br/>
+>
+>“In today’s busy world, with 140-character Twitter \[posts\] and one-paragraph Zagat reviews, everything has to be shorter and persuasive,” says Bruce Bachenheimer, competition founder and director of entrepreneurship at Pace.
+>
+>Your pitch must also convince investors that you won’t burn through money. “This is the era of the lean startup,” says Bachenheimer. “If the idea costs $1 million, you need to show $100,000 milestones, a working model of how you will get and grow customers to make investors more comfortable.”
+>
+>And the winners are …
+>
+>The critical requirement, sums up Bachenheimer, is “venture capitalists need to be convinced not only that it’s a good idea, but that you can make it happen. It’s always better to bet on the jockey rather than the horse.”
 
-“In today’s busy world, with 140-character Twitter \[posts\] and one-paragraph Zagat reviews, everything has to be shorter and persuasive,” says Bruce Bachenheimer, competition founder and director of entrepreneurship at Pace.
-
-Your pitch must also convince investors that you won’t burn through money. “This is the era of the lean startup,” says Bachenheimer. “If the idea costs $1 million, you need to show $100,000 milestones, a working model of how you will get and grow customers to make investors more comfortable.”
-
-And the winners are …
-
-The critical requirement, sums up Bachenheimer, is “venture capitalists need to be convinced not only that it’s a good idea, but that you can make it happen. It’s always better to bet on the jockey rather than the horse.”
-
-[![](image48441.jpg)](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html)<br/>
-[PDF Version](http://webpage.pace.edu/bbachenheimer/press/Forbes_9-20-10.pdf)<br/>
+[![Forbes](images/Forbes.jpg)](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html)<br/>
+[Original Link](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html) | [PDF Version](http://webpage.pace.edu/bbachenheimer/press/Forbes_9-20-10.pdf)<br/>
 
 **15 Tips For Raising A Young Mogul**<br/>
 September 20, 2010<br/>
 By **Dale Buss and Melanie Lindner**<br/>
+>
+>Trigger their imaginations. "Expose them to possibilities through travel, talking about the environment, talking about the news and things that impact the world, and opportunities that may exist for business from all of that," says Bruce Bachenheimer, director of entrepreneurship at Pace University. Drawing their attention to a few magazine profiles of interesting entrepreneurs wouldn't hurt, either.
 
-[Original Link](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html)
-
-Trigger their imaginations. "Expose them to possibilities through travel, talking about the environment, talking about the news and things that impact the world, and opportunities that may exist for business from all of that," says Bruce Bachenheimer, director of entrepreneurship at Pace University. Drawing their attention to a few magazine profiles of interesting entrepreneurs wouldn't hurt, either.
-
-[![](image48501.png)](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)<br/>
-[PDF Version](files/NYPost_8-30-10.pdf)<br/>
+[![New York Post](images/newyorkpost.png)](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)<br/>
+[Original Link](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0) | [PDF Version](files/NYPost_8-30-10.pdf)<br/>
 
 **The book of blunders -The most common mistakes entrepreneurs make**<br/>
 August 30, 2010<br/>
 By **Brian Moore**<br/>
-
-[Original Link](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)<br/>
-
-Many entrepreneurs have trouble “mixing up stubbornness and arrogance with passion and persistence,” says Pace University professor of management Bruce Bachenheimer. You can’t throw in the towel every time things don’t go your way, but you also can’t ignore circumstances that call for a change in your business plan, no matter how ingenious you may think it is.
-
-Entrepreneurs “just overestimate everything,” says Bachenheimer, citing customer appeal and investor enthusiasm as two areas new business owners typically exaggerate. “They can’t put themselves in other people’s shoes and separate themselves from their own optimism.”
-
-“People underestimate virtually every expense associated with starting and running the business,” says Bachenheimer. He adds that this is particularly true of Web entrepreneurs, who often think a new site can be started with nothing more than a laptop and a $20 domain registration. Actual expenses are exponentially larger. 
+>
+>Many entrepreneurs have trouble “mixing up stubbornness and arrogance with passion and persistence,” says Pace University professor of management Bruce Bachenheimer. You can’t throw in the towel every time things don’t go your way, but you also can’t ignore circumstances that call for a change in your business plan, no matter how ingenious you may think it is.
+>
+>Entrepreneurs “just overestimate everything,” says Bachenheimer, citing customer appeal and investor enthusiasm as two areas new business owners typically exaggerate. “They can’t put themselves in other people’s shoes and separate themselves from their own optimism.”
+>
+>“People underestimate virtually every expense associated with starting and running the business,” says Bachenheimer. He adds that this is particularly true of Web entrepreneurs, who often think a new site can be started with nothing more than a laptop and a $20 domain registration. Actual expenses are exponentially larger. 
 
 [![New York Post](images/newyorkpost.png)](http://www.nypost.com/p/news/business/jobs/app_stars_uLmOkrqT8K72zY8xD5YLoK) <br/>
 [Original Link](http://www.nypost.com/p/news/business/jobs/app_stars_uLmOkrqT8K72zY8xD5YLoK) |
