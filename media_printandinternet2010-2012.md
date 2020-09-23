@@ -605,8 +605,9 @@ By **Lee Miller**<br/><br/>
 **Tip of the Day - 4 Tips to Increase Your Profits in 2011**<br/>
 November 15, 2010<br/>
 By **Betsy Cummings**<br/>
-Also featured in<br/> 
+*Also featured in*<br/> 
 [![Counselor](images/Counselor.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)
+
 **Profit Builders: Six ways to improve your company’s profitability in 2011**
 December 2010 (page 67)
 >
@@ -624,7 +625,7 @@ By **Anne Field**<br/>
 >Help wanted<br/>
 >“Five years ago, I might have gotten one call every four or five weeks,” says Bruce Bachenheimer, program director of entrepreneurship at Pace University's Lubin School of Business. “Now, it's more like one a week, at a minimum.”
 
-[![Business News Daily(images/BusinessNews.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)<br/>
+[![Business News Daily](images/BusinessNews.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)<br/>
 [Original Link](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/) | [PDF Version](files/New_Firm_Connects_Overseas_Entrepreneurs_with_US-Based_Partners.pdf)<br/>
 **New Firm Connects Overseas Entrepreneurs with U.S.-Based Partners**<br/>
 October 22, 2010<br/>
@@ -637,7 +638,7 @@ By **Brian Anthony Hernandez**<br/>
 >“They know they have to sell to several markets and have to look at the whole globe as a market. The domestic market is just too small.”
 
 [![Business On Main](images/BusinessOnMain.png)](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521)<br/>
-[Original Link](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521) | [PDF Version](files/Win_Over_Investors_in_3_Minutes_or_Less.pdf)
+[Original Link](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521) | [PDF Version](files/Win_Over_Investors_in_3_Minutes_or_Less.pdf)<br/>
 **Win over Investors in 3 minutes or Less**<br/>
 October 18, 2010<br/>
 By **Joanna Krotz**<br/>
