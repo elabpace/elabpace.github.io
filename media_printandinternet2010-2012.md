@@ -442,7 +442,6 @@ By **Meghan Streit** <br/>
 
 [![Chatam Courier](images/ChathamCourier.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)<br/>
 [Original Link](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt) | [PDF Version](files/ChathamCourier_10-5-11.pdf) <br/>
-
 **Women’s drive helps canning company thrive**<br/>
 October 5, 2011<br/>
 By **Lisa D. Connell**<br/>
@@ -457,7 +456,6 @@ By **Lisa D. Connell**<br/>
 
 [![BizPlanCompetions.com](images/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/)<br/>
 [Original Link](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/) | [PDF Version](files/BPC_9-28-11.pdf)<br/>
-
 **Pitch contests gain popularity**<br/>
 September 28, 2011<br/>
 By **Amy Buttell**<br/>
@@ -490,7 +488,6 @@ audience.”
 
 [![Crains New York Business](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906) | [PDF Version](files/Crains_9-27-11.pdf)<br/>
-
 **New York exports its entrepreneurial expertise**<br/>
 September 27, 2011<br/>
 By **Eilene Zimmerman**<br/>
@@ -511,7 +508,6 @@ By **Eilene Zimmerman**<br/>
 
 [![BizPlanCompetition](images/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/)<br/>
 [Original Link](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/) | [PDF Version](files/BPC_9-22-11.pdf)<br/>
-
 **Is a bigger jackpot better in business plan competitions?**<br/>
 September 22, 2011<br/>
 By **Amy Buttell**<br/>
@@ -524,7 +520,6 @@ By **Amy Buttell**<br/>
 
 [![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966) | [PDF Version](files/Crains_8-12-11.pdf)<br/>
-
 **How to handle, and profit from, last-minute jobs**<br/>
 August 12, 2011<br/>
 By **Elaine Pofeldt**<br/>
@@ -535,7 +530,6 @@ By **Elaine Pofeldt**<br/>
 
 [![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990) | [PDF Version](files/Crains_8-8-11.pdf)<br/>
-
 **Number of startups led by women rising**<br/>
 August 8, 2011<br/>
 By **Anne Field**<br/>
@@ -544,7 +538,6 @@ By **Anne Field**<br/>
 
 [![Consumer Reports Money Advisor](images/MoneyAdvisor.png)](http://pressroom.consumerreports.org/pressroom/money-adviser/)<br/>
 [Original Link](http://pressroom.consumerreports.org/pressroom/money-adviser/) | [PDF Version](files/ConsumerReportsMoneyAdviser_June2011.pdf)<br/>
-
 **Want to be your own boss?**<br/>
 June 2011, Volume 8 Issue 6, pages 12-13<br/>
 >
@@ -560,7 +553,6 @@ June 2011, Volume 8 Issue 6, pages 12-13<br/>
 
 [![College Preview](images/CollegePreview.jpg)](http://www.cpgpublications.com/cp_may2011.pdf)<br/>
 [Original Link](http://www.cpgpublications.com/cp_may2011.pdf) | [PDF Version](files/CollegePreview_May-June2011.pdf)<br/>
-
 **LEADERS WANTED How to become the leader employers will want**<br/>
 May/June 2011<br/>
 By **Jacqueline Bodnar**<br/>
@@ -575,7 +567,6 @@ By **Jacqueline Bodnar**<br/>
 
 [![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995) | [PDF Version](files/Crains_5-8-11.pdf)<br/>
-
 **Tips for tricky task of raising prices**<br/>
 May 8, 2011<br/>
 By **Elaine Pofeldt**<br/>
@@ -588,7 +579,6 @@ By **Elaine Pofeldt**<br/>
 
 [![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989) | [PDF Version](files/Crains_5-1-11.pdf)<br/>
-
 **'Mompreneurs' lead the way in infant-goods market**<br/>
 May 1, 2011<br/>
 By **Cara Trager**<br/>
@@ -597,7 +587,6 @@ By **Cara Trager**<br/>
 
 [![The Star Ledger](images/TheStarLedger.png)](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html)<br/>
 [Original Link](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html) | [PDF Version](files/Star-Ledger_1-30-10.pdf)<br/>
-
 **Mentors offer unique career support**<br/>
 January 30, 2011<br/>
 By **Lee Miller**<br/><br/>
@@ -616,10 +605,8 @@ By **Lee Miller**<br/><br/>
 **Tip of the Day - 4 Tips to Increase Your Profits in 2011**<br/>
 November 15, 2010<br/>
 By **Betsy Cummings**<br/>
-
 Also featured in<br/> 
 [![Counselor](images/Counselor.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)
-
 **Profit Builders: Six ways to improve your company’s profitability in 2011**
 December 2010 (page 67)
 >
@@ -630,7 +617,6 @@ December 2010 (page 67)
 
 [![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986) | [PDF Version](files/Crains_11-14-10.pdf)<br/>
-
 **Social-media needs spur student hires**<br/>
 November 14, 2010<br/>
 By **Anne Field**<br/>
@@ -640,7 +626,6 @@ By **Anne Field**<br/>
 
 [![Business News Daily(images/BusinessNews.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)<br/>
 [Original Link](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/) | [PDF Version](files/New_Firm_Connects_Overseas_Entrepreneurs_with_US-Based_Partners.pdf)<br/>
-
 **New Firm Connects Overseas Entrepreneurs with U.S.-Based Partners**<br/>
 October 22, 2010<br/>
 By **Brian Anthony Hernandez**<br/>
@@ -653,7 +638,6 @@ By **Brian Anthony Hernandez**<br/>
 
 [![Business On Main](images/BusinessOnMain.png)](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521)<br/>
 [Original Link](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521) | [PDF Version](files/Win_Over_Investors_in_3_Minutes_or_Less.pdf)
-
 **Win over Investors in 3 minutes or Less**<br/>
 October 18, 2010<br/>
 By **Joanna Krotz**<br/>
@@ -663,7 +647,6 @@ Also featured on Fox Small Business on December 8, 2010
 
 Also featured on Entrepreneur.com on January 14, 2011 
 [![Entrepreneur: Start & Grow Your Business](images/Entrepreneur.png)](http://www.entrepreneur.com/article/217844)<br/>
->
 >“In today’s busy world, with 140-character Twitter \[posts\] and one-paragraph Zagat reviews, everything has to be shorter and persuasive,” says Bruce Bachenheimer, competition founder and director of entrepreneurship at Pace.
 >
 >Your pitch must also convince investors that you won’t burn through money. “This is the era of the lean startup,” says Bachenheimer. “If the idea costs $1 million, you need to show $100,000 milestones, a working model of how you will get and grow customers to make investors more comfortable.”
@@ -674,7 +657,6 @@ Also featured on Entrepreneur.com on January 14, 2011
 
 [![Forbes](images/Forbes.jpg)](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html)<br/>
 [Original Link](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html) | [PDF Version](http://webpage.pace.edu/bbachenheimer/press/Forbes_9-20-10.pdf)<br/>
-
 **15 Tips For Raising A Young Mogul**<br/>
 September 20, 2010<br/>
 By **Dale Buss and Melanie Lindner**<br/>
@@ -683,7 +665,6 @@ By **Dale Buss and Melanie Lindner**<br/>
 
 [![New York Post](images/newyorkpost.png)](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)<br/>
 [Original Link](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0) | [PDF Version](files/NYPost_8-30-10.pdf)<br/>
-
 **The book of blunders -The most common mistakes entrepreneurs make**<br/>
 August 30, 2010<br/>
 By **Brian Moore**<br/>
