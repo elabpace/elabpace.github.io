@@ -541,7 +541,7 @@ By **Anne Field**<br/>
 **Want to be your own boss?**<br/>
 June 2011, Volume 8 Issue 6, pages 12-13<br/>
 >
->Be honest with yourself. Not everyone is cut out to be an entrepreneur. “The best are risk takers confident in themselves and their ideas,” says Bruce Bachenheimer, a professor of management at Pace University in New York.
+>**Be honest with yourself.** Not everyone is cut out to be an entrepreneur. “The best are risk takers confident in themselves and their ideas,” says Bruce Bachenheimer, a professor of management at Pace University in New York.
 >
 >Take time to consider what you’re giving up or getting into. Do you need a structured environment? A steady paycheck? “Are you fleeing a boss only to find all customers will be your boss?” Bachenheimer asks. “Are you dumping a time clock but investing 100 hours a week?”
 >
@@ -557,13 +557,12 @@ June 2011, Volume 8 Issue 6, pages 12-13<br/>
 May/June 2011<br/>
 By **Jacqueline Bodnar**<br/>
 >
->Putting Leadership Skills into Action
->
+>**Putting Leadership Skills into Action**
 >“To position themselves for a valuable career, college students need to demonstrate how they can add value to a prospective employer,” says Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University.
 >
 >“They need to be able to solve problems creatively and to effectively implement solutions in a rapidly changing environment. To accomplish this, they will need to think entrepreneurially and take on a leadership role early in their career.”
 >
->“The role of a leader is to take people to a new place, to inspire them to do something they otherwise would not have done or even thought they could do,” adds Bachenheimer. “Think about how you can inspire fellow students and motivate them to take action!”
+>**“The role of a leader is to take people to a new place, to inspire them to do something they otherwise would not have done or even thought they could do,” adds Bachenheimer. “Think about how you can inspire fellow students and motivate them to take action!”**
 
 [![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995)<br/>
 [Original Link](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995) | [PDF Version](files/Crains_5-8-11.pdf)<br/>
@@ -571,8 +570,7 @@ By **Jacqueline Bodnar**<br/>
 May 8, 2011<br/>
 By **Elaine Pofeldt**<br/>
 >
->2\. Do a small-scale test.
->
+>**2\. Do a small-scale test.**
 >A pilot hike will help you gauge customer reactions and mitigate risks, according to Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University.
 >
 >For example, if you have two stores, raise prices on select items or at just one location, Mr. Bachenheimer says.
@@ -589,7 +587,7 @@ By **Cara Trager**<br/>
 [Original Link](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html) | [PDF Version](files/Star-Ledger_1-30-10.pdf)<br/>
 **Mentors offer unique career support**<br/>
 January 30, 2011<br/>
-By **Lee Miller**<br/><br/>
+By **Lee Miller**<br/>
 >
 >Professor Bruce Bachenheimer, director of entrepreneurship at Pace University, offers the following guidance on managing the mentor relationship:
 >
@@ -599,19 +597,19 @@ By **Lee Miller**<br/><br/>
 >
 >“Always try to find ways to reciprocate — to demonstrate your gratitude and commitment. Little things that may be of assistance to the mentor can go a long way.”
 
-[![Advertising Specialty Institute](images/AdvertisingInstitute.jpg)](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)
+[![Advertising Specialty Institute](images/AdvertisingInstitute.jpg)](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)<br/>
 [Original Link](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/) | [PDF Version](files/ASI_11-15-10.pdf)<br/>
 
 **Tip of the Day - 4 Tips to Increase Your Profits in 2011**<br/>
 November 15, 2010<br/>
 By **Betsy Cummings**<br/>
+
 *Also featured in*<br/> 
 [![Counselor](images/Counselor.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)
-
 **Profit Builders: Six ways to improve your company’s profitability in 2011**
 December 2010 (page 67)
 >
->Step 3: Outwit Bad Buyers<br/>
+>**Step 3: Outwit Bad Buyers**<br/>
 >Sure, the 80/20 rule – where 80% of your revenue comes from 20% of your clients – applies to almost any distributor, but firing bad customers indiscriminately is a dangerous move, says Bruce Bachenheimer, clinical professor of management at Pace University in New York. For years, experts have suggested small-business owners dump the deadweight. Instead, Bachenheimer says, keep the marginal clients – you never know when a small order or difficult customer might pay off handsomely down the road – but make them turn their drain on your company into a potential profit center.
 >
 >For example, Bachenheimer says, when electronics retailer Best Buy noticed certain types of shoppers would buy a TV to watch the Super Bowl and return it the next day, the money it cost to service the returns and restock those items was a drain on its profits. So it started charging a restocking fee to discourage customers who had no intention of keeping the products they bought. Distributors might consider imposing fees, for example, for clients that repeatedly demand multiple samples, art proofs, shipping returns and other profit-reducing services.
@@ -622,7 +620,7 @@ December 2010 (page 67)
 November 14, 2010<br/>
 By **Anne Field**<br/>
 
->Help wanted<br/>
+>**Help wanted**<br/>
 >“Five years ago, I might have gotten one call every four or five weeks,” says Bruce Bachenheimer, program director of entrepreneurship at Pace University's Lubin School of Business. “Now, it's more like one a week, at a minimum.”
 
 [![Business News Daily](images/BusinessNews.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)<br/>
@@ -643,11 +641,10 @@ By **Brian Anthony Hernandez**<br/>
 October 18, 2010<br/>
 By **Joanna Krotz**<br/>
 
-Also featured on Fox Small Business on December 8, 2010 
+*Also featured on Fox Small Business on December 8, 2010* 
 [![Fox Business](images/FoxBusiness.jpg)](http://smallbusiness.foxbusiness.com/biz-on-main/2010/12/08/win-over-investors-in-3-minutes-or-less/)<br/>
-
-Also featured on Entrepreneur.com on January 14, 2011 
-[![Entrepreneur: Start & Grow Your Business](images/Entrepreneur.png)](http://www.entrepreneur.com/article/217844)<br/>
+*Also featured on Entrepreneur.com on January 14, 2011*
+[![Entrepreneur: Start & Grow Your Business](images/Entrepreneur.png)](http://www.entrepreneur.com/article/217844)
 >“In today’s busy world, with 140-character Twitter \[posts\] and one-paragraph Zagat reviews, everything has to be shorter and persuasive,” says Bruce Bachenheimer, competition founder and director of entrepreneurship at Pace.
 >
 >Your pitch must also convince investors that you won’t burn through money. “This is the era of the lean startup,” says Bachenheimer. “If the idea costs $1 million, you need to show $100,000 milestones, a working model of how you will get and grow customers to make investors more comfortable.”
@@ -662,7 +659,7 @@ Also featured on Entrepreneur.com on January 14, 2011
 September 20, 2010<br/>
 By **Dale Buss and Melanie Lindner**<br/>
 >
->Trigger their imaginations. "Expose them to possibilities through travel, talking about the environment, talking about the news and things that impact the world, and opportunities that may exist for business from all of that," says Bruce Bachenheimer, director of entrepreneurship at Pace University. Drawing their attention to a few magazine profiles of interesting entrepreneurs wouldn't hurt, either.
+>**Trigger their imaginations.** "Expose them to possibilities through travel, talking about the environment, talking about the news and things that impact the world, and opportunities that may exist for business from all of that," says Bruce Bachenheimer, director of entrepreneurship at Pace University. Drawing their attention to a few magazine profiles of interesting entrepreneurs wouldn't hurt, either.
 
 [![New York Post](images/newyorkpost.png)](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)<br/>
 [Original Link](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0) | [PDF Version](files/NYPost_8-30-10.pdf)<br/>
@@ -682,7 +679,7 @@ By **Brian Moore**<br/>
 **App stars—The best smartphone programs for taking care of business** <br/>
 August 16, 2010 <br/>
 By **Linley Taber** <br/>
-> **FlightTrack Pro**<br/><br/>
+> **FlightTrack Pro**<br/>
 > This business-traveler favorite provides up-to-the-second information on flights’ statuses, gates, cancellations and area weather. It often posts info “before airline personnel appear to have it,” notes devotee Bruce Bachenheimer, a Pace University professor. For Android, iPad, iPhone and iPod Touch; $9.99.
 
 [![US News and World Report](images/usnews.png)](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html) <br/>
