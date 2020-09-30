@@ -599,13 +599,12 @@ By **Lee Miller**<br/>
 
 [![Advertising Specialty Institute](images/AdvertisingInstitute.jpg)](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)<br/>
 [Original Link](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/) | [PDF Version](files/ASI_11-15-10.pdf)<br/>
-
 **Tip of the Day - 4 Tips to Increase Your Profits in 2011**<br/>
 November 15, 2010<br/>
 By **Betsy Cummings**<br/>
 
 *Also featured in*<br/> 
-[![Counselor](images/Counselor.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)
+[![Counselor](images/Counselor.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)<br/>
 **Profit Builders: Six ways to improve your company’s profitability in 2011**
 December 2010 (page 67)
 >
