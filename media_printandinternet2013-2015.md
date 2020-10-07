@@ -1,6 +1,7 @@
 # Print and Internet 2013-2015
 
 [![Inc.](images/Inc.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)<br/>
+[Original Link](https://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)<br/>
 **Walmart to Vendors: Give Us a Discount**<br/>
 September 28, 2015<br/>
 By **Jeremy Quittner**
@@ -15,12 +16,13 @@ By **Jeremy Quittner**
 
 [Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
 
-[![WCBJ](images/WCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)[![](image2783.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
+[![WCBJ](images/WCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)[![](image2783.jpg)]<br/>
+[Original Link](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
 **Experts: Opportunity lies in Chinese stock collapse**<br/>
 September 3, 2015<br/>
 By **Evan Fallor**<br/>
 >
-[![Photo Picture](images/PhotoPic://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)]<br/>
+[![Photo Picture](images/PhotoPic.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)]<br/>
 While most may see the recent Chinese stock market collapse as an indicator of economic despair, some business experts see it as a golden opportunity for Westchester and Fairfield County firms.
 >
 >Bruce Bachenheimer, a clinical professor of management at Pace University and the executive director of Entrepreneurship Lab — a Lubin School of Business networking and development program — said now is as good a time as ever for local companies to explore opportunities for partnerships and strategic alliances with Chinese companies.
@@ -52,149 +54,139 @@ By **Jeremy Quittner**<br/> [![](image1535.jpg)](http://www.inc.com/travis-wrigh
 >
 >“For Carly Fiorina, it was worth taking a risk \[in the debates\], because the consequences would have been death by a thousand cuts, and becoming completely marginalized,” Bachenheimer say. “By attacking Donald Trump, she could get to five or seven percent in the polls.”
 
-![](image1817.jpg)The worst thing about tech bubbles isn't what you may think
+![](images/ComputerWorld.jpg)<br/>
+[![Original Link](image1540.jpg)](http://www.computerworld.com/article/2952732/it-industry/the-worst-thing-about-tech-bubbles-isnt-what-you-may-think.html)<br/>
+**The worst thing about tech bubbles isn't what you may think**<br/>
+July 27, 2015<br/>
+By **Patrick Thibodeau**<br/>
+>
+>"It's often difficult to recognize a bubble while you're in it, as unreasonable optimism and speculative greed lead to the belief that a 'new paradigm' will validate wildly aggressive projections," said Bruce Bachenheimer, clinical professor of management at Pace University and executive director of its Entrepreneurship Lab. "It certainly appears that certain sectors of the market are due for a major correction," he said.
 
-July 27, 2015
-
-By Patrick Thibodeau [![](image1540.jpg)](http://www.computerworld.com/article/2952732/it-industry/the-worst-thing-about-tech-bubbles-isnt-what-you-may-think.html)
-
-"It's often difficult to recognize a bubble while you're in it, as unreasonable optimism and speculative greed lead to the belief that a 'new paradigm' will validate wildly aggressive projections," said Bruce Bachenheimer, clinical professor of management at Pace University and executive director of its Entrepreneurship Lab. "It certainly appears that certain sectors of the market are due for a major correction," he said.
-
-[![](image1549.jpg)](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)Pommes Frittes tries to rebuild with a little help from Uber-competitor Gett
-
-July 10, 2015
-
-By Gary M. Stern [![](image1546.jpg)](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)
-
-[Bruce Bachenheimer](http://www.bizjournals.com/newyork/search/results?q=Bruce%20Bachenheimer), executive director of the Entrepreneurship Lab at Pace University, says the rise of the Internet is fostering these co-marketing ventures. “When your only options to promote such partnerships were expensive television, radio or newspaper ads, it wasn’t really a viable proposition,” he says.
-
-With the Internet and social media, companies can join forces and avoid spending expensive marketing dollars.
-
-Moreover, corporate social responsibility is playing a more potent role in consumer choices. When Toms shoes donated a free pair of shoes to the disadvantaged for every pair of shoes bought, it inspired confidence in the company and boosted business.
-
-But some of these partnerships are “publicity stunts” and antagonize customers, acknowledges Bachenheimer.
-
-In the case of Pommes Frites’ disaster, the circumstances were so “out of control, along the lines of an act of God,” that it warranted a charitable outpouring, hints the Pace University professor. Hence, Pommes Frites was considered a worthy recipient for Gett’s assistance.
-
-This partnership could generate attention and business for Gett, which faces a very competitive market in going head-to-head versus Uber and Lyft. Most for-profit businesses assist non-profits, not profitable enterprises, but this situation is a special one.
-
+[![](images/NewYorkBJ.jpg)](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)<br/>
+[![Original Link](image1546.jpg)](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)
+**Pommes Frittes tries to rebuild with a little help from Uber-competitor Gett**<br/>
+July 10, 2015<br/>
+By **Gary M. Stern**<br/> 
+>
+>[Bruce Bachenheimer](http://www.bizjournals.com/newyork/search/results?q=Bruce%20Bachenheimer), executive director of the Entrepreneurship Lab at Pace University, says the rise of the Internet is fostering these co-marketing ventures. “When your only options to promote such partnerships were expensive television, radio or newspaper ads, it wasn’t really a viable proposition,” he says.
+>
+>With the Internet and social media, companies can join forces and avoid spending expensive marketing dollars.
+>
+>Moreover, corporate social responsibility is playing a more potent role in consumer choices. When Toms shoes donated a free pair of shoes to the disadvantaged for every pair of shoes bought, it inspired confidence in the company and boosted business.
+>
+>But some of these partnerships are “publicity stunts” and antagonize customers, acknowledges Bachenheimer.
+>
+>In the case of Pommes Frites’ disaster, the circumstances were so “out of control, along the lines of an act of God,” that it warranted a charitable outpouring, hints the Pace University professor. Hence, Pommes Frites was considered a worthy recipient for Gett’s assistance.
+>
+>This partnership could generate attention and business for Gett, which faces a very competitive market in going head-to-head versus Uber and Lyft. Most for-profit businesses assist non-profits, not profitable enterprises, but this situation is a special one.
+>
 But Pommes Frites may benefit long after the check is cashed. “It should build brand awareness for a restaurant that many probably didn’t hear of,” Bachenheimer asserts.
 
-[![](image1555.png)](http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)How to Raise an Entrepreneurial Child
+[![STAPLES](images/Staples.png)](http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)<br/>
+**How to Raise an Entrepreneurial Child**<br/>
+July 5, 2015<br/>
+By **Steve Peha** [![Original Link](image1552.jpg)](http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)<br/>
+>
+>Talk about value creation. Sounds like a lofty topic, but even the youngest kids can understand value. "Entrepreneurship is really about opportunity and value creation - the ability to recognize, analyze and capture opportunity in order to create value by solving problems or providing benefits,” says Bruce Bachenheimer, clinical professor of management and executive director of the [Entrepreneurship Lab](http://www.pace.edu/elab) at Pace University in New York. "This is important for kids to learn because jobs, and more importantly meaningful careers, are much less about ‘Tell me what to do and I will do my best to accomplish it' and more about ‘What can you do for me?' - i.e., how can you create value by capturing opportunity in this position. Focus on recognizing opportunities, discussing how to analyze them, and seeing if there is some way to test how to capture them by trying some aspect of the idea in the real world.”
+>
+>"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
 
-July 5, 2015
+[![USA TODAY](images/UsaToday.png)](http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)<br/>
+**Taiwan becomes first Asian nation with Silicon Valley launch pad**<br/>
+June 19, 2015<br/>
+By **Elizabeth Weise** [![](image1517.jpg)](http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)<br/>
+>
+>"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
 
-By Steve Peha [![](image1552.jpg)](http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)
+[![](image1526.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
+**How to Survive Being an Overnight Success**<br/>
+June 19, 2015<br/>
+By **Neil Parmar** [![](image1523.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
+>
+>As a company grows, it’s “very difficult for them to maintain that culture,” warns Bruce Bachenheimer, a management professor and executive director of the Entrepreneurship Lab at Pace University.
 
-Talk about value creation. Sounds like a lofty topic, but even the youngest kids can understand value. "Entrepreneurship is really about opportunity and value creation - the ability to recognize, analyze and capture opportunity in order to create value by solving problems or providing benefits,” says Bruce Bachenheimer, clinical professor of management and executive director of the [Entrepreneurship Lab](http://www.pace.edu/elab) at Pace University in New York. "This is important for kids to learn because jobs, and more importantly meaningful careers, are much less about ‘Tell me what to do and I will do my best to accomplish it' and more about ‘What can you do for me?' - i.e., how can you create value by capturing opportunity in this position. Focus on recognizing opportunities, discussing how to analyze them, and seeing if there is some way to test how to capture them by trying some aspect of the idea in the real world.”
+[![THE HILL](images/TheHill.jpg)](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)<br/>
+**US must support new entrepreneurial ventures to create jobs and remain competitive**<br/>
+May 15, 2015<br/>
+By **Bruce Bachenheimer** [![](image1529.jpg)](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)<br/>
+>
+>During National Small Business Week, Sen. Mazie K. Hirono (D-Hawaii), a member of the Senate Small Business and Entrepreneurship Committee, introduced [legislation](http://www.hirono.senate.gov/press-releases/during-national-small-business-week-hirono-introduces-legislation-to-help-hawaii-small-businesses-get-started-and-grow-green-jobs) to help small businesses in Hawaii and across the country grow and succeed.
+>
+>The United States needs to support new entrepreneurial ventures in order to create jobs, sustain innovation and remain competitive in a global economy. But lumping small business owners and innovative entrepreneurs in the same category will only serve to mask the problem.
+>
+>Small business and entrepreneurship is not synonymous. Small businesses are certainly an important part of our economy, but they are quite different than high-growth entrepreneurial start-ups.
+>
+>Small business is not the engine of job growth. The prevailing belief to the contrary is appealing to populist policy makers and small business advocates, but is not supported by analytical research.
+>
+>Census data demonstrates that young firms, those one to five years old, are responsible for about two-thirds of job creation (Kauffman 2014). And this is not a new phenomenon. David L. Birch studied 5.6 million businesses between 1969 and 1976 and found that two-thirds of net new jobs were created by firms with twenty or fewer employees. Perhaps more importantly, he found that approximately 80 percent of those jobs were created by firms four years old and younger (‘The Job Generation Process' 1979). While entrepreneurial ventures generally start small, they are intended to scale rapidly. Small businesses generally stay small in support of the owner’s lifestyle.
+>
+>Small businesses are often founded as an alternative to traditional employment, sustaining a level of income for its founders. An independent contractor, solo-professional, mom-and-pop shop, and family business are examples. Some of these certainly grow to become very large firms that create a significant number of jobs, but those are the exception.
+>
+>Entrepreneurship is the ability to recognize, analyze and capture opportunity in order to create value by solving problems or creating a bundle of benefits. The three key elements that distinguish an entrepreneurial venture from a small business are a truly new business innovation, a basis of sustainable competitive advantage, and an inherently scalable business model.
+>
+>High-growth entrepreneurial ventures are needed to transform the economy. A large number of small businesses does not translate into job creation, commercial innovation and national economic competitiveness. With only 3.8% of adults engaged in early-stage entrepreneurial activity, Japan is ranked among the least entrepreneurial economies in the Global Entrepreneurship Monitor (GEM) 2014 Global Report. It is, however, often referred to as a ‘nation of shopkeepers’ (i.e. small business owners), which may explain why it has been in a recession for more than two decades. The nation’s economic success in the 1970s and 80s was largely due to manufacturing efficiencies, which were eventually competed away to the consumer in the form of lower prices. In the end, innovation is the only basis of sustainable competitive advantage.
+>
+>Unfortunately, for the past 30 years business startups have been steadily declining in the United States (US Census). This is likely due to financing difficulties and a sharp decline in average household net worth, which fell 48% for those under 30 since 2007 (Pew 2014).
+>
+>SBA guaranteed loans can help small businesses, but will not significantly spur the growth of entrepreneurial start-ups. These firms need private equity investments, something President Eisenhower recognized in 1958 when he signed the Small Business Investment Act, a time when public support for venture capital to promote American innovation was galvanized by Sputnik.
+>
+>Bachenheimer is clinical professor of Management at Pace University's Lubin School of Business and executive director of its Entrepreneurship Lab. He was also the founder of a small business, Annapolis Maritime Corp., and co-founder of an entrepreneurial venture, StockCentral Australia.
 
-"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
-
-[![](image1520.png)](http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)Taiwan becomes first Asian nation with Silicon Valley launch pad
-
-June 19, 2015
-
-By Elizabeth Weise [![](image1517.jpg)](http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)
-
-"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
-
-[![](image1526.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)How to Survive Being an Overnight Success
-
-June 19, 2015
-
-By Neil Parmar [![](image1523.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)
-
-As a company grows, it’s “very difficult for them to maintain that culture,” warns Bruce Bachenheimer, a management professor and executive director of the Entrepreneurship Lab at Pace University.
-
-[![](image1532.jpg)](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)US must support new entrepreneurial ventures to create jobs and remain competitive
-
-May 15, 2015
-
-By Bruce Bachenheimer [![](image1529.jpg)](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)
-
-During National Small Business Week, Sen. Mazie K. Hirono (D-Hawaii), a member of the Senate Small Business and Entrepreneurship Committee, introduced [legislation](http://www.hirono.senate.gov/press-releases/during-national-small-business-week-hirono-introduces-legislation-to-help-hawaii-small-businesses-get-started-and-grow-green-jobs) to help small businesses in Hawaii and across the country grow and succeed.
-
-The United States needs to support new entrepreneurial ventures in order to create jobs, sustain innovation and remain competitive in a global economy. But lumping small business owners and innovative entrepreneurs in the same category will only serve to mask the problem.
-
-Small business and entrepreneurship is not synonymous. Small businesses are certainly an important part of our economy, but they are quite different than high-growth entrepreneurial start-ups.
-
-Small business is not the engine of job growth. The prevailing belief to the contrary is appealing to populist policy makers and small business advocates, but is not supported by analytical research.
-
-Census data demonstrates that young firms, those one to five years old, are responsible for about two-thirds of job creation (Kauffman 2014). And this is not a new phenomenon. David L. Birch studied 5.6 million businesses between 1969 and 1976 and found that two-thirds of net new jobs were created by firms with twenty or fewer employees. Perhaps more importantly, he found that approximately 80 percent of those jobs were created by firms four years old and younger (‘The Job Generation Process' 1979). While entrepreneurial ventures generally start small, they are intended to scale rapidly. Small businesses generally stay small in support of the owner’s lifestyle.
-
-Small businesses are often founded as an alternative to traditional employment, sustaining a level of income for its founders. An independent contractor, solo-professional, mom-and-pop shop, and family business are examples. Some of these certainly grow to become very large firms that create a significant number of jobs, but those are the exception.
-
-Entrepreneurship is the ability to recognize, analyze and capture opportunity in order to create value by solving problems or creating a bundle of benefits. The three key elements that distinguish an entrepreneurial venture from a small business are a truly new business innovation, a basis of sustainable competitive advantage, and an inherently scalable business model.
-
-High-growth entrepreneurial ventures are needed to transform the economy. A large number of small businesses does not translate into job creation, commercial innovation and national economic competitiveness. With only 3.8% of adults engaged in early-stage entrepreneurial activity, Japan is ranked among the least entrepreneurial economies in the Global Entrepreneurship Monitor (GEM) 2014 Global Report. It is, however, often referred to as a ‘nation of shopkeepers’ (i.e. small business owners), which may explain why it has been in a recession for more than two decades. The nation’s economic success in the 1970s and 80s was largely due to manufacturing efficiencies, which were eventually competed away to the consumer in the form of lower prices. In the end, innovation is the only basis of sustainable competitive advantage.
-
-Unfortunately, for the past 30 years business startups have been steadily declining in the United States (US Census). This is likely due to financing difficulties and a sharp decline in average household net worth, which fell 48% for those under 30 since 2007 (Pew 2014).
-
-SBA guaranteed loans can help small businesses, but will not significantly spur the growth of entrepreneurial start-ups. These firms need private equity investments, something President Eisenhower recognized in 1958 when he signed the Small Business Investment Act, a time when public support for venture capital to promote American innovation was galvanized by Sputnik.
-
-Bachenheimer is clinical professor of Management at Pace University's Lubin School of Business and executive director of its Entrepreneurship Lab. He was also the founder of a small business, Annapolis Maritime Corp., and co-founder of an entrepreneurial venture, StockCentral Australia.
-
-[![](image1514.jpg)](http://www.onlinedegrees.com/degree360/student-focus/best-business-degrees-2015.html)Most Employable Degrees for Business 2015
-
-April 20, 2015
-
-By Francesca Di Meglio [![](image1511.jpg)](http://www.onlinedegrees.com/degree360/student-focus/best-business-degrees-2015.html)
-
-1. Entrepreneurship/Entrepreneurial Studies
-
-People assume that studying entrepreneurship automatically means you're planning to go into business for yourself. In fact, early on, many questioned whether business schools could even teach entrepreneurship or if the required talents were innate. But today, many employers look favorably at the study of entrepreneurship. After all, companies need people who know how to grow a business.
-
+[![ONLINEDEGREE.COM](images/OnlineDegree.jpg)](http://www.onlinedegrees.com/degree360/student-focus/best-business-degrees-2015.html)<br/>
+**Most Employable Degrees for Business 2015**<br/>
+April 20, 2015<br/>
+By **Francesca Di Meglio** [![](image1511.jpg)](http://www.onlinedegrees.com/degree360/student-focus/best-business-degrees-2015.html)<br/>
+>
+>1. **Entrepreneurship/Entrepreneurial Studies**
+>
+>People assume that studying entrepreneurship automatically means you're planning to go into business for yourself. In fact, early on, many questioned whether business schools could even teach entrepreneurship or if the required talents were innate. But today, many employers look favorably at the study of entrepreneurship. After all, companies need people who know how to grow a business.
+>
 "These days companies large and small are recognizing the value of an 'entrepreneurial mindset' and see the unique value in hiring someone who has a demonstrated interest and commitment to entrepreneurial thinking (i.e., by pursuing a degree in the subject)," says Bruce Bachenheimer, clinical professor of management at Pace University.
 
-[![](image1505.jpg)](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)Pace University’s eLab Provides Crucial Entrepreneurial Education to Veterans
+[![AmericanEntrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)<br/>
+**Pace University’s eLab Provides Crucial Entrepreneurial Education to Veterans**<br/>
+April 10, 2015 [![](image1507.jpg)](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)<br/>
+>
+>![VeteransEntrepreneurship](images/VeteransEntrepreneurship.jpg)With hundreds of military veterans enrolled, Pace University places considerable importance on being responsive to veteran needs.  The Entrepreneurship Lab or eLab run by Bruce Bachenheimer is a case in point. 
+>
+>Thanks to a $50,000 grant they received from the Blackstone Charitable Foundation for veteran entrepreneurial initiatives, the eLab runs boot camps to provide veterans with the critical skills they need to pursue entrepreneurship. Pace was one of only six organizations nationwide to receive such a grant out of 200 plus applicants. Needless to say, they feel quite honored by their selection and have a special commitment to the programs they are running for veterans.
+>
+>“Blackstone is obviously a very prestigious name and they’re doing some important work,” Director of the Pace University Entrepreneurial Lab Bruce Bachenheimer said in an interview. “It’s great to have been selected by them in a competitive process.”
+>
+>“We don’t just want to take their skills and transition them into the workforce; we want to get them thinking and acting entrepreneurially,” Bachenheimer said. “It’s about unleashing the entrepreneurial mindset, discovering it, and harnessing it.”
+>
+>Bachenheimer, along with Associate Director Nikhil Kalyankar, teach the courses. Bachenheimer focuses on fundamentals such as marketing, strategy, and entrepreneurship while Kalyankar teaches technical hands-on courses that ground veterans in the current technology that they can apply to their specific business venture.
+>
+>“For me personally, when I saw the opportunity to provide a service to those who served, it was really rewarding,” Bachenheimer said.
 
-April 10, 2015 [![](image1507.jpg)](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)
+[![Forbes.com](images/Forbes.jpg)](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)<br/>
+**After The Sharing Economy -- Companies That Connect People In Real Life**<br/>
+April 8, 2015<br/>
+By **Mike Montgomery**[![](image1502.jpg)](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)<br/>
+>
+>Bruce Bachenheimer, the executive director of [Pace University](http://www.forbes.com/colleges/pace-university-new-york/)’s Entrepreneurship Lab, says that he’s seeing more and more startup businesses that are incorporating a face-to-face element.
+>
+>“We are social animals by nature,” says Bachenheimer.
+>
+>In the past, entrepreneurs (outside of dating companies) were hesitant to include a real-life element in startups. Putting people together offline can be messy, and potentially dangerous. It’s hard to give 100% assurance that a driver isn’t going to rob his customer or that a temporary guest isn’t going to smash the place up. But that has been the case for taxis and hotels for decades.
+>
+>It’s also challenging to scale something that requires human interaction. It’s easier to attract millions of people to click on your website than it is to convince millions of people to share their cars or their homes.
+>
+>“But now that someone has done it, other people see that it can work,” says Bachenheimer. “Companies like Uber and Airbnb created a perception of feasibility.”
+>
+>And that hard work put into securing drivers, landlords and chefs pays off in stickiness. Bachenheimer says that once people have committed to a company, it’s less likely they will jump ship to a competitor.
 
-![](image1609.jpg)With hundreds of military veterans enrolled, Pace University places considerable importance on being responsive to veteran needs.  The Entrepreneurship Lab or eLab run by Bruce Bachenheimer is a case in point. 
-
-Thanks to a $50,000 grant they received from the Blackstone Charitable Foundation for veteran entrepreneurial initiatives, the eLab runs boot camps to provide veterans with the critical skills they need to pursue entrepreneurship. Pace was one of only six organizations nationwide to receive such a grant out of 200 plus applicants. Needless to say, they feel quite honored by their selection and have a special commitment to the programs they are running for veterans.
-
-“Blackstone is obviously a very prestigious name and they’re doing some important work,” Director of the Pace University Entrepreneurial Lab Bruce Bachenheimer said in an interview. “It’s great to have been selected by them in a competitive process.”
-
-“We don’t just want to take their skills and transition them into the workforce; we want to get them thinking and acting entrepreneurially,” Bachenheimer said. “It’s about unleashing the entrepreneurial mindset, discovering it, and harnessing it.”
-
-Bachenheimer, along with Associate Director Nikhil Kalyankar, teach the courses. Bachenheimer focuses on fundamentals such as marketing, strategy, and entrepreneurship while Kalyankar teaches technical hands-on courses that ground veterans in the current technology that they can apply to their specific business venture.
-
-“For me personally, when I saw the opportunity to provide a service to those who served, it was really rewarding,” Bachenheimer said.
-
-[![](image1500.jpg)](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)
-
-After The Sharing Economy -- Companies That Connect People In Real Life
-
-April 8, 2015
-
-By Mike Montgomery
-
-[![](image1502.jpg)](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)
-
-Bruce Bachenheimer, the executive director of [Pace University](http://www.forbes.com/colleges/pace-university-new-york/)’s Entrepreneurship Lab, says that he’s seeing more and more startup businesses that are incorporating a face-to-face element.
-
-“We are social animals by nature,” says Bachenheimer.
-
-In the past, entrepreneurs (outside of dating companies) were hesitant to include a real-life element in startups. Putting people together offline can be messy, and potentially dangerous. It’s hard to give 100% assurance that a driver isn’t going to rob his customer or that a temporary guest isn’t going to smash the place up. But that has been the case for taxis and hotels for decades.
-
-It’s also challenging to scale something that requires human interaction. It’s easier to attract millions of people to click on your website than it is to convince millions of people to share their cars or their homes.
-
-“But now that someone has done it, other people see that it can work,” says Bachenheimer. “Companies like Uber and Airbnb created a perception of feasibility.”
-
-And that hard work put into securing drivers, landlords and chefs pays off in stickiness. Bachenheimer says that once people have committed to a company, it’s less likely they will jump ship to a competitor.
-
-[![](image1496.jpg)](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)Investor-Entrepreneur Discussion Highlights Disruptive Technologists of NYC
-
-April 6, 2015 [![](image1494.jpg)](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)
-
-Bruce Bachenheimer, a Clinical Professor of Management and Executive Director of the [Entrepreneurship Lab](http://www.pace.edu/elab) at Pace University, moderated the discussion.
-
-As posed by moderator Bachenheimer on the issue of just focusing on the venture idea, two of the panelists attempted to provide a more balanced perspective.
-
-During a discussion about Shark Tank, a reality TV entrepreneurship competition, Bachenheimer expressed the importance of the venture’s potential profitability when pitching to investors. Revenue or customer traction and profitability catch an investor’s more quickly than just a "cool" idea.
-
-"The one thing that impresses me is that when the person making the pitch has this idea... \[The judges\] don’t seem to be too thrilled with the idea or think it's a cool idea. But then, if they ask about sales or profitability and the person does in fact have real sales and decent profitability, they're like sharks in a feeding frenzy. They want to be part of it," said Bachenheimer. "Even when they didn’t think the idea was cool, when they're able to prove to them that there's real traction, real sales and real profit; they were very interested."
+[![AmericanEntrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)<br/>
+**Investor-Entrepreneur Discussion Highlights Disruptive Technologists of NYC**<br/>
+April 6, 2015 [![](image1494.jpg)](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)<br/>
+>
+>**Bruce Bachenheimer**, a Clinical Professor of Management and Executive Director of the [Entrepreneurship Lab](http://www.pace.edu/elab) at Pace University, moderated the discussion.
+>
+>As posed by moderator Bachenheimer on the issue of just focusing on the venture idea, two of the panelists attempted to provide a more balanced perspective.
+>
+>During a discussion about Shark Tank, a reality TV entrepreneurship competition, Bachenheimer expressed the importance of the venture’s potential profitability when pitching to investors. Revenue or customer traction and profitability catch an investor’s more quickly than just a "cool" idea.
+>
+>"The one thing that impresses me is that when the person making the pitch has this idea... \[The judges\] don’t seem to be too thrilled with the idea or think it's a cool idea. But then, if they ask about sales or profitability and the person does in fact have real sales and decent profitability, they're like sharks in a feeding frenzy. They want to be part of it," said Bachenheimer. "Even when they didn’t think the idea was cool, when they're able to prove to them that there's real traction, real sales and real profit; they were very interested."
 
 [![](image1487.jpg)](http://www.officeleasecenter.com/articles/execution-trumps-ideas-but-immigration-can-bring-in-more-talent.html)
 
