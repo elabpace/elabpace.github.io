@@ -1,20 +1,20 @@
 # Print and Internet 2013-2015
 
-[![Inc.](images/Inc.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)<br/>
+[![Inc.](images/Inc.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)<br/>
 [Original Link](https://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)<br/>
 **Walmart to Vendors: Give Us a Discount**<br/>
 September 28, 2015<br/>
 By **Jeremy Quittner**
-[![](image1732.jpg)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)
->
 >“To do business with a company like Walmart, vendors are really pushed to the maximum of what they can do,” says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
-**>1\. Consider a currency hedging strategy.**
+>**1. Consider a currency hedging strategy.**
+>
 >It makes sense, if you’re manufacturing overseas and paying for things using local money, to get a handle on costs by protecting against currency swings. One way to do that is by purchasing a currency contract, known as a hedge, that allows you to exchange dollars into the local currency, but at a fixed price and at a predetermined time in the future. 
+>
 >You benefit if the value of the local currency goes up, but not necessarily when it drops in value. With the strong greenback in recent months, you’re likely to feel some pain. But here’s an additional thing to be wary of, Bachenheimer says: If the currency you’ve hedged decreases in value, and the retailer you supply also asks for a price concession, you’ll take a double hit to your bottom line. 
-**>2\. Create more flexibility in your overseas production.**
+>
+>**2. Create more flexibility in your overseas production.**
+>
 >While that’s not as easy at it sounds, you could explore adding in other countries that peg their currency to the dollar. That includes many Caribbean nations, suh as Barbados, Antigua, and Belize, Bachenheimer says.
-
-[Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
 
 [![WCBJ](images/WCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)[![](image2783.jpg)]<br/>
 [Original Link](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
