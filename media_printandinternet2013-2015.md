@@ -17,7 +17,7 @@ By **Jeremy Quittner**
 >
 >While that’s not as easy at it sounds, you could explore adding in other countries that peg their currency to the dollar. That includes many Caribbean nations, suh as Barbados, Antigua, and Belize, Bachenheimer says.
 
-[![WCBJ](images/WCBJ.jpg)[FCBJ](images/FCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
+[![WCBJ](images/WCBJ.jpg)![FCBJ](images/FCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
 [Original Link](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
 **Experts: Opportunity lies in Chinese stock collapse**<br/>
 September 3, 2015<br/>
