@@ -6,6 +6,7 @@
 September 28, 2015<br/>
 By **Jeremy Quittner**
 >“To do business with a company like Walmart, vendors are really pushed to the maximum of what they can do,” says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
+>
 >**1. Consider a currency hedging strategy.**
 >
 >It makes sense, if you’re manufacturing overseas and paying for things using local money, to get a handle on costs by protecting against currency swings. One way to do that is by purchasing a currency contract, known as a hedge, that allows you to exchange dollars into the local currency, but at a fixed price and at a predetermined time in the future. 
@@ -16,13 +17,13 @@ By **Jeremy Quittner**
 >
 >While that’s not as easy at it sounds, you could explore adding in other countries that peg their currency to the dollar. That includes many Caribbean nations, suh as Barbados, Antigua, and Belize, Bachenheimer says.
 
-[![WCBJ](images/WCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)[![](image2783.jpg)]<br/>
+[![WCBJ](images/WCBJ.jpg)][![FCBJ](images/FCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
 [Original Link](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
 **Experts: Opportunity lies in Chinese stock collapse**<br/>
 September 3, 2015<br/>
 By **Evan Fallor**<br/>
 >
-[![Photo Picture](images/PhotoPic.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)]<br/>
+[![Photo Picture](images/PhotoPic.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
 While most may see the recent Chinese stock market collapse as an indicator of economic despair, some business experts see it as a golden opportunity for Westchester and Fairfield County firms.
 >
 >Bruce Bachenheimer, a clinical professor of management at Pace University and the executive director of Entrepreneurship Lab — a Lubin School of Business networking and development program — said now is as good a time as ever for local companies to explore opportunities for partnerships and strategic alliances with Chinese companies.
@@ -41,10 +42,11 @@ While most may see the recent Chinese stock market collapse as an indicator of e
 >
 >“I think, if anything, the Chinese stock market crisis provides more opportunities than stability does,” Bachenheimer said. “They should take these market jitters as an opportunity, not a reason to withdraw into a shell. The Chinese symbol for crisis is the same symbol for opportunity.”
 
-[![Inc.](images/Inc.pngg)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)<br/>
+[![Inc.](images/Inc.png)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)<br/>
+[Original Link](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)
 **What You Can Learn From Carly Fiorina's Smackdown of Trump**<br/>
 August 15, 2015<br/>
-By **Jeremy Quittner**<br/> [![](image1535.jpg)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)
+By **Jeremy Quittner**<br/>
 >
 >Her record at Hewlett-Packard, which she led form 1999 until 2005, is controversial at best. Under her leadership, the company’s share price decreased by more than half, she oversaw the layoffs of tens of thousands of employees, and she engineered a merger with computer maker Compaq that resulted in an ugly public feud with Hewlett family members. Fiorina was also ultimately fired by the computer company’s board.
 >
@@ -55,15 +57,15 @@ By **Jeremy Quittner**<br/> [![](image1535.jpg)](http://www.inc.com/travis-wrigh
 >“For Carly Fiorina, it was worth taking a risk \[in the debates\], because the consequences would have been death by a thousand cuts, and becoming completely marginalized,” Bachenheimer say. “By attacking Donald Trump, she could get to five or seven percent in the polls.”
 
 ![](images/ComputerWorld.jpg)<br/>
-[![Original Link](image1540.jpg)](http://www.computerworld.com/article/2952732/it-industry/the-worst-thing-about-tech-bubbles-isnt-what-you-may-think.html)<br/>
+[Original Link](image1540.jpg)(http://www.computerworld.com/article/2952732/it-industry/the-worst-thing-about-tech-bubbles-isnt-what-you-may-think.html)<br/>
 **The worst thing about tech bubbles isn't what you may think**<br/>
 July 27, 2015<br/>
 By **Patrick Thibodeau**<br/>
 >
 >"It's often difficult to recognize a bubble while you're in it, as unreasonable optimism and speculative greed lead to the belief that a 'new paradigm' will validate wildly aggressive projections," said Bruce Bachenheimer, clinical professor of management at Pace University and executive director of its Entrepreneurship Lab. "It certainly appears that certain sectors of the market are due for a major correction," he said.
 
-[![](images/NewYorkBJ.jpg)](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)<br/>
-[![Original Link](image1546.jpg)](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)
+[![NewYorkBusiness](images/NewYorkBJ.jpg)](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)<br/>
+[Original Link](image1546.jpg)(http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)<br/>
 **Pommes Frittes tries to rebuild with a little help from Uber-competitor Gett**<br/>
 July 10, 2015<br/>
 By **Gary M. Stern**<br/> 
@@ -83,32 +85,35 @@ By **Gary M. Stern**<br/>
 But Pommes Frites may benefit long after the check is cashed. “It should build brand awareness for a restaurant that many probably didn’t hear of,” Bachenheimer asserts.
 
 [![STAPLES](images/Staples.png)](http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)<br/>
+[Original Link](image1552.jpg)(http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)<br/>
 **How to Raise an Entrepreneurial Child**<br/>
 July 5, 2015<br/>
-By **Steve Peha** [![Original Link](image1552.jpg)](http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)<br/>
+By **Steve Peha** 
 >
 >Talk about value creation. Sounds like a lofty topic, but even the youngest kids can understand value. "Entrepreneurship is really about opportunity and value creation - the ability to recognize, analyze and capture opportunity in order to create value by solving problems or providing benefits,” says Bruce Bachenheimer, clinical professor of management and executive director of the [Entrepreneurship Lab](http://www.pace.edu/elab) at Pace University in New York. "This is important for kids to learn because jobs, and more importantly meaningful careers, are much less about ‘Tell me what to do and I will do my best to accomplish it' and more about ‘What can you do for me?' - i.e., how can you create value by capturing opportunity in this position. Focus on recognizing opportunities, discussing how to analyze them, and seeing if there is some way to test how to capture them by trying some aspect of the idea in the real world.”
 >
 >"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
 
 [![USA TODAY](images/UsaToday.png)](http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)<br/>
+[Original Link](image1517.jpg)(http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)<br/>
 **Taiwan becomes first Asian nation with Silicon Valley launch pad**<br/>
 June 19, 2015<br/>
-By **Elizabeth Weise** [![](image1517.jpg)](http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)<br/>
+By **Elizabeth Weise** 
 >
 >"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
 
 [![](image1526.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
 **How to Survive Being an Overnight Success**<br/>
 June 19, 2015<br/>
-By **Neil Parmar** [![](image1523.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
+By **Neil Parmar** [Original Link](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
 >
 >As a company grows, it’s “very difficult for them to maintain that culture,” warns Bruce Bachenheimer, a management professor and executive director of the Entrepreneurship Lab at Pace University.
 
 [![THE HILL](images/TheHill.jpg)](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)<br/>
+[Original Link]](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)<br/>
 **US must support new entrepreneurial ventures to create jobs and remain competitive**<br/>
 May 15, 2015<br/>
-By **Bruce Bachenheimer** [![](image1529.jpg)](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)<br/>
+By **Bruce Bachenheimer** 
 >
 >During National Small Business Week, Sen. Mazie K. Hirono (D-Hawaii), a member of the Senate Small Business and Entrepreneurship Committee, introduced [legislation](http://www.hirono.senate.gov/press-releases/during-national-small-business-week-hirono-introduces-legislation-to-help-hawaii-small-businesses-get-started-and-grow-green-jobs) to help small businesses in Hawaii and across the country grow and succeed.
 >
@@ -133,19 +138,21 @@ By **Bruce Bachenheimer** [![](image1529.jpg)](http://thehill.com/blogs/congress
 >Bachenheimer is clinical professor of Management at Pace University's Lubin School of Business and executive director of its Entrepreneurship Lab. He was also the founder of a small business, Annapolis Maritime Corp., and co-founder of an entrepreneurial venture, StockCentral Australia.
 
 [![ONLINEDEGREE.COM](images/OnlineDegree.jpg)](http://www.onlinedegrees.com/degree360/student-focus/best-business-degrees-2015.html)<br/>
+[Original Link](http://www.onlinedegrees.com/degree360/student-focus/best-business-degrees-2015.html)<br/>
 **Most Employable Degrees for Business 2015**<br/>
 April 20, 2015<br/>
-By **Francesca Di Meglio** [![](image1511.jpg)](http://www.onlinedegrees.com/degree360/student-focus/best-business-degrees-2015.html)<br/>
+By **Francesca Di Meglio** 
 >
->1. **Entrepreneurship/Entrepreneurial Studies**
+>1.**Entrepreneurship/Entrepreneurial Studies**
 >
 >People assume that studying entrepreneurship automatically means you're planning to go into business for yourself. In fact, early on, many questioned whether business schools could even teach entrepreneurship or if the required talents were innate. But today, many employers look favorably at the study of entrepreneurship. After all, companies need people who know how to grow a business.
 >
 "These days companies large and small are recognizing the value of an 'entrepreneurial mindset' and see the unique value in hiring someone who has a demonstrated interest and commitment to entrepreneurial thinking (i.e., by pursuing a degree in the subject)," says Bruce Bachenheimer, clinical professor of management at Pace University.
 
 [![AmericanEntrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)<br/>
+[Original Link](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)<br/>
 **Pace University’s eLab Provides Crucial Entrepreneurial Education to Veterans**<br/>
-April 10, 2015 [![](image1507.jpg)](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)<br/>
+April 10, 2015 
 >
 >![VeteransEntrepreneurship](images/VeteransEntrepreneurship.jpg)With hundreds of military veterans enrolled, Pace University places considerable importance on being responsive to veteran needs.  The Entrepreneurship Lab or eLab run by Bruce Bachenheimer is a case in point. 
 >
@@ -160,9 +167,10 @@ April 10, 2015 [![](image1507.jpg)](http://americanentrepreneurship.com/ny/aetst
 >“For me personally, when I saw the opportunity to provide a service to those who served, it was really rewarding,” Bachenheimer said.
 
 [![Forbes.com](images/Forbes.jpg)](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)<br/>
+[Original Link](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)<br/>
 **After The Sharing Economy -- Companies That Connect People In Real Life**<br/>
 April 8, 2015<br/>
-By **Mike Montgomery**[![](image1502.jpg)](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)<br/>
+By **Mike Montgomery**
 >
 >Bruce Bachenheimer, the executive director of [Pace University](http://www.forbes.com/colleges/pace-university-new-york/)’s Entrepreneurship Lab, says that he’s seeing more and more startup businesses that are incorporating a face-to-face element.
 >
@@ -177,8 +185,9 @@ By **Mike Montgomery**[![](image1502.jpg)](http://www.forbes.com/sites/mikemontg
 >And that hard work put into securing drivers, landlords and chefs pays off in stickiness. Bachenheimer says that once people have committed to a company, it’s less likely they will jump ship to a competitor.
 
 [![AmericanEntrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)<br/>
+[Original Link](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)<br/>
 **Investor-Entrepreneur Discussion Highlights Disruptive Technologists of NYC**<br/>
-April 6, 2015 [![](image1494.jpg)](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)<br/>
+April 6, 2015 
 >
 >**Bruce Bachenheimer**, a Clinical Professor of Management and Executive Director of the [Entrepreneurship Lab](http://www.pace.edu/elab) at Pace University, moderated the discussion.
 >
@@ -188,15 +197,12 @@ April 6, 2015 [![](image1494.jpg)](http://ny.americanentrepreneurship.com/latest
 >
 >"The one thing that impresses me is that when the person making the pitch has this idea... \[The judges\] don’t seem to be too thrilled with the idea or think it's a cool idea. But then, if they ask about sales or profitability and the person does in fact have real sales and decent profitability, they're like sharks in a feeding frenzy. They want to be part of it," said Bachenheimer. "Even when they didn’t think the idea was cool, when they're able to prove to them that there's real traction, real sales and real profit; they were very interested."
 
-[![](image1487.jpg)](http://www.officeleasecenter.com/articles/execution-trumps-ideas-but-immigration-can-bring-in-more-talent.html)
+[![Office Lease Center](images/OfficeLease.jpg)](http://www.officeleasecenter.com/articles/execution-trumps-ideas-but-immigration-can-bring-in-more-talent.html)<br/>
+**Execution trumps ideas but immigration can bring in more talent** <br/>
+April 4, 2015<br/>
+By **Dennis Clemente**<br/>
 
-Execution trumps ideas but immigration can bring in more talent 
-
-April 4, 2015
-
-By Dennis Clemente
-
-[![](image1490.jpg)](http://www.officeleasecenter.com/articles/execution-trumps-ideas-but-immigration-can-bring-in-more-talent.html)
+[Original Link](http://www.officeleasecenter.com/articles/execution-trumps-ideas-but-immigration-can-bring-in-more-talent.html)<br/>
 
 NEW YORK--Sometimes the title of a meetup ends up being more. You simply need a host who knows how to push the right buttons and no demos.
 
@@ -212,7 +218,7 @@ February 16, 2015
 
 By Andrew Osterland
 
-[![](image1454.jpg)](http://www.crainsnewyork.com/article/20150217/FINANCE/302159998)
+[Original Link](http://www.crainsnewyork.com/article/20150217/FINANCE/302159998)
 
 “The recovery of M&A is important to the city. It’s usually accompanied by a rising stock market and improving economy,” said Bruce Bachenheimer, a professor of management with the Lubin School of Business at Pace University. “When the bankers make this kind of money, a lot of it gets recycled into the New York City economy.”
 
@@ -226,7 +232,7 @@ Q1 2015
 
 By Elaine Pofeldt
 
-[![](image1460.jpg)](http://www.westchestermagazine.com/914-INC/Q1-2015/Why-And-How-You-Can-Make-Vital-Team-Building-Actually-Work/)
+[Original Link](http://www.westchestermagazine.com/914-INC/Q1-2015/Why-And-How-You-Can-Make-Vital-Team-Building-Actually-Work/)
 
 Companies of all sizes face challenges such as heightened competition in a more digital and increasingly global marketplace, shorter product lifespans, rapidly evolving technology, and changes in the nature of work that bring more freelance and other flexible talent to their teams, according to Bruce Bachenheimer, a clinical professor of management at Pace University and executive director of its Entrepreneurship Lab.
 
@@ -240,7 +246,7 @@ February 2015
 
 By John Rossheim
 
-[![](image1466.jpg)](http://hiring.monster.com/hr/hr-best-practices/small-business/conducting-an-interview/your-next-hire.aspx)
+[Original Link](http://hiring.monster.com/hr/hr-best-practices/small-business/conducting-an-interview/your-next-hire.aspx)
 
 Devote sufficient time to conduct -- and prepare for -- interviews. You know from experience (perhaps both positive and negative) that hiring decisions are among the most significant that you make. So allocate proportionate time to the process, especially for interviewing.
 
@@ -258,7 +264,7 @@ January 27, 2015
 
 By Caren Chesler
 
-[![](image1434.jpg)](http://www.fa-mag.com/news/new-journeys-20570.html)
+[Original Link](http://www.fa-mag.com/news/new-journeys-20570.html)
 
 In his book, Walden, Henry David Thoreau wrote, “I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.”
 
@@ -288,7 +294,7 @@ November 18 , 2014 [![](image1471.jpg)](http://ny.americanentrepreneurship.com/p
 
 November 17 , 2014
 
-By Jeanne Gray [![](image1471.jpg)](http://ny.americanentrepreneurship.com/featured-articles/disruptive-technologists-panel-discussed-future-of-nyc-tech-startup-community.html)
+By Jeanne Gray [Original Link](http://ny.americanentrepreneurship.com/featured-articles/disruptive-technologists-panel-discussed-future-of-nyc-tech-startup-community.html)
 
 ![](image1611.jpg)The panel consisted of angel investor and serial entrepreneur David Rose, Chaz Mee, a brand innovation strategist and entrepreneur, and Bruce Bachenheimer, a Professor and Director at the Pace University Entrepreneurship Lab.
 
