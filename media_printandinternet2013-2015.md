@@ -1,32 +1,27 @@
 # Print and Internet 2013-2015
 
-[![Inc.](images/Inc.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)
-**Walmart to Vendors: Give Us a Discount**
-September 28, 2015
+[![Inc.](images/Inc.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)<br/>
+**Walmart to Vendors: Give Us a Discount**<br/>
+September 28, 2015<br/>
 By **Jeremy Quittner**
 [![](image1732.jpg)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)
 >
 >“To do business with a company like Walmart, vendors are really pushed to the maximum of what they can do,” says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
->
->1. Consider a currency hedging strategy.
->
+**>1\. Consider a currency hedging strategy.**
 >It makes sense, if you’re manufacturing overseas and paying for things using local money, to get a handle on costs by protecting against currency swings. One way to do that is by purchasing a currency contract, known as a hedge, that allows you to exchange dollars into the local currency, but at a fixed price and at a predetermined time in the future. 
->
 >You benefit if the value of the local currency goes up, but not necessarily when it drops in value. With the strong greenback in recent months, you’re likely to feel some pain. But here’s an additional thing to be wary of, Bachenheimer says: If the currency you’ve hedged decreases in value, and the retailer you supply also asks for a price concession, you’ll take a double hit to your bottom line. 
->
->2\. Create more flexibility in your overseas production. 
->
+**>2\. Create more flexibility in your overseas production.**
 >While that’s not as easy at it sounds, you could explore adding in other countries that peg their currency to the dollar. That includes many Caribbean nations, suh as Barbados, Antigua, and Belize, Bachenheimer says.
 
 [Click to download sample chapter | co-authored](../press/Entrepreneurship-SampleChapter.pdf)
 
-[![WCBJ](images/WCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)[![](image2783.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)
-**Experts: Opportunity lies in Chinese stock collapse**
-September 3, 2015
-By **Evan Fallor**
-
-[![Photo Picture](images/PhotoPic://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/) While most may see the recent Chinese stock market collapse as an indicator of economic despair, some business experts see it as a golden opportunity for Westchester and Fairfield County firms.
-
+[![WCBJ](images/WCBJ.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)[![](image2783.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
+**Experts: Opportunity lies in Chinese stock collapse**<br/>
+September 3, 2015<br/>
+By **Evan Fallor**<br/>
+>
+[![Photo Picture](images/PhotoPic://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)]<br/>
+While most may see the recent Chinese stock market collapse as an indicator of economic despair, some business experts see it as a golden opportunity for Westchester and Fairfield County firms.
 >
 >Bruce Bachenheimer, a clinical professor of management at Pace University and the executive director of Entrepreneurship Lab — a Lubin School of Business networking and development program — said now is as good a time as ever for local companies to explore opportunities for partnerships and strategic alliances with Chinese companies.
 >
@@ -44,19 +39,18 @@ By **Evan Fallor**
 >
 >“I think, if anything, the Chinese stock market crisis provides more opportunities than stability does,” Bachenheimer said. “They should take these market jitters as an opportunity, not a reason to withdraw into a shell. The Chinese symbol for crisis is the same symbol for opportunity.”
 
-[![](image1789.jpg)[![](image6561.png)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)What You Can Learn From Carly Fiorina's Smackdown of Trump
-
-August 15, 2015
-
-By Jeremy Quittner [![](image1535.jpg)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)
-
-Her record at Hewlett-Packard, which she led form 1999 until 2005, is controversial at best. Under her leadership, the company’s share price decreased by more than half, she oversaw the layoffs of tens of thousands of employees, and she engineered a merger with computer maker Compaq that resulted in an ugly public feud with Hewlett family members. Fiorina was also ultimately fired by the computer company’s board.
-
-With those things in mind, Fiorina’s strategy then, as now, is closest to something called agency theory, says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
-
-Loosely defined, it describes the way public shareholders hire agents--such as chief executives--to make decisions for their companies. Sometimes these agents don’t work in the best interests of the company, Bachenheimer says, which could include having a greater appetite for risk than the owners have, because it’s not really their money at stake. And that appetite for risk sometimes increases as a company underperforms, because the agent’s skin in the game--such as stock options--are worth less. So it can cause an agent to aim for the bleachers, in an all or nothing strategy.
-
-“For Carly Fiorina, it was worth taking a risk \[in the debates\], because the consequences would have been death by a thousand cuts, and becoming completely marginalized,” Bachenheimer say. “By attacking Donald Trump, she could get to five or seven percent in the polls.”
+[![Inc.](images/Inc.pngg)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)<br/>
+**What You Can Learn From Carly Fiorina's Smackdown of Trump**<br/>
+August 15, 2015<br/>
+By **Jeremy Quittner**<br/> [![](image1535.jpg)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)
+>
+>Her record at Hewlett-Packard, which she led form 1999 until 2005, is controversial at best. Under her leadership, the company’s share price decreased by more than half, she oversaw the layoffs of tens of thousands of employees, and she engineered a merger with computer maker Compaq that resulted in an ugly public feud with Hewlett family members. Fiorina was also ultimately fired by the computer company’s board.
+>
+>With those things in mind, Fiorina’s strategy then, as now, is closest to something called agency theory, says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
+>
+>Loosely defined, it describes the way public shareholders hire agents--such as chief executives--to make decisions for their companies. Sometimes these agents don’t work in the best interests of the company, Bachenheimer says, which could include having a greater appetite for risk than the owners have, because it’s not really their money at stake. And that appetite for risk sometimes increases as a company underperforms, because the agent’s skin in the game--such as stock options--are worth less. So it can cause an agent to aim for the bleachers, in an all or nothing strategy.
+>
+>“For Carly Fiorina, it was worth taking a risk \[in the debates\], because the consequences would have been death by a thousand cuts, and becoming completely marginalized,” Bachenheimer say. “By attacking Donald Trump, she could get to five or seven percent in the polls.”
 
 ![](image1817.jpg)The worst thing about tech bubbles isn't what you may think
 
