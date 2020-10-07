@@ -110,7 +110,7 @@ By **Neil Parmar** [Original Link](http://www.wsj.com/articles/how-to-survive-be
 >As a company grows, it’s “very difficult for them to maintain that culture,” warns Bruce Bachenheimer, a management professor and executive director of the Entrepreneurship Lab at Pace University.
 
 [![THE HILL](images/TheHill.jpg)](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)<br/>
-[Original Link]](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)<br/>
+[Original Link](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create)<br/>
 **US must support new entrepreneurial ventures to create jobs and remain competitive**<br/>
 May 15, 2015<br/>
 By **Bruce Bachenheimer** 
