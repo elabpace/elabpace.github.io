@@ -43,7 +43,7 @@ While most may see the recent Chinese stock market collapse as an indicator of e
 >“I think, if anything, the Chinese stock market crisis provides more opportunities than stability does,” Bachenheimer said. “They should take these market jitters as an opportunity, not a reason to withdraw into a shell. The Chinese symbol for crisis is the same symbol for opportunity.”
 
 [![Inc.](images/Inc.png)](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)<br/>
-[Original Link](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)
+[Original Link](http://www.inc.com/travis-wright/28-favorite-tech-tools-for-small-business-entrepreneurs-in-2015.html)<br/>
 **What You Can Learn From Carly Fiorina's Smackdown of Trump**<br/>
 August 15, 2015<br/>
 By **Jeremy Quittner**<br/>
@@ -57,7 +57,7 @@ By **Jeremy Quittner**<br/>
 >“For Carly Fiorina, it was worth taking a risk \[in the debates\], because the consequences would have been death by a thousand cuts, and becoming completely marginalized,” Bachenheimer say. “By attacking Donald Trump, she could get to five or seven percent in the polls.”
 
 ![](images/ComputerWorld.jpg)<br/>
-[Original Link](image1540.jpg)(http://www.computerworld.com/article/2952732/it-industry/the-worst-thing-about-tech-bubbles-isnt-what-you-may-think.html)<br/>
+[Original Link](http://www.computerworld.com/article/2952732/it-industry/the-worst-thing-about-tech-bubbles-isnt-what-you-may-think.html)<br/>
 **The worst thing about tech bubbles isn't what you may think**<br/>
 July 27, 2015<br/>
 By **Patrick Thibodeau**<br/>
@@ -65,7 +65,7 @@ By **Patrick Thibodeau**<br/>
 >"It's often difficult to recognize a bubble while you're in it, as unreasonable optimism and speculative greed lead to the belief that a 'new paradigm' will validate wildly aggressive projections," said Bruce Bachenheimer, clinical professor of management at Pace University and executive director of its Entrepreneurship Lab. "It certainly appears that certain sectors of the market are due for a major correction," he said.
 
 [![NewYorkBusiness](images/NewYorkBJ.jpg)](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)<br/>
-[Original Link](image1546.jpg)(http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)<br/>
+[Original Link](http://www.bizjournals.com/newyork/news/2015/07/10/pommes-frites-gett-business-cooperation.html)<br/>
 **Pommes Frittes tries to rebuild with a little help from Uber-competitor Gett**<br/>
 July 10, 2015<br/>
 By **Gary M. Stern**<br/> 
@@ -85,7 +85,7 @@ By **Gary M. Stern**<br/>
 But Pommes Frites may benefit long after the check is cashed. “It should build brand awareness for a restaurant that many probably didn’t hear of,” Bachenheimer asserts.
 
 [![STAPLES](images/Staples.png)](http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)<br/>
-[Original Link](image1552.jpg)(http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)<br/>
+[Original Link](http://www.staples.com/sbd/cre/education/k-5/how-to-raise-an-entrepreneurial-child.html)<br/>
 **How to Raise an Entrepreneurial Child**<br/>
 July 5, 2015<br/>
 By **Steve Peha** 
@@ -95,7 +95,7 @@ By **Steve Peha**
 >"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
 
 [![USA TODAY](images/UsaToday.png)](http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)<br/>
-[Original Link](image1517.jpg)(http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)<br/>
+[Original Link](http://www.usatoday.com/story/tech/2015/06/19/taiwan-silicon-valley-soft-landing-bridge/28928305/)<br/>
 **Taiwan becomes first Asian nation with Silicon Valley launch pad**<br/>
 June 19, 2015<br/>
 By **Elizabeth Weise** 
@@ -103,9 +103,10 @@ By **Elizabeth Weise**
 >"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
 
 [![](image1526.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
+[Original Link](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
 **How to Survive Being an Overnight Success**<br/>
 June 19, 2015<br/>
-By **Neil Parmar** [Original Link](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
+By **Neil Parmar** 
 >
 >As a company grows, it’s “very difficult for them to maintain that culture,” warns Bruce Bachenheimer, a management professor and executive director of the Entrepreneurship Lab at Pace University.
 
