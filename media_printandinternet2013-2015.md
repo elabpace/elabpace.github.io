@@ -23,8 +23,8 @@ By **Jeremy Quittner**
 September 3, 2015<br/>
 By **Evan Fallor**<br/>
 >
-[![Photo Picture](images/PhotoPic.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
-While most may see the recent Chinese stock market collapse as an indicator of economic despair, some business experts see it as a golden opportunity for Westchester and Fairfield County firms.
+> [![Photo Picture](images/PhotoPic.jpg)](http://westfaironline.com/73960/experts-opportunity-lies-in-chinese-stock-collapse/)<br/>
+> While most may see the recent Chinese stock market collapse as an indicator of economic despair, some business experts see it as a golden opportunity for Westchester and Fairfield County firms.
 >
 >Bruce Bachenheimer, a clinical professor of management at Pace University and the executive director of Entrepreneurship Lab — a Lubin School of Business networking and development program — said now is as good a time as ever for local companies to explore opportunities for partnerships and strategic alliances with Chinese companies.
 >
