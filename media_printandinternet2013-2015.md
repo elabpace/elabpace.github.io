@@ -199,17 +199,16 @@ April 6, 2015
 >"The one thing that impresses me is that when the person making the pitch has this idea... \[The judges\] don’t seem to be too thrilled with the idea or think it's a cool idea. But then, if they ask about sales or profitability and the person does in fact have real sales and decent profitability, they're like sharks in a feeding frenzy. They want to be part of it," said Bachenheimer. "Even when they didn’t think the idea was cool, when they're able to prove to them that there's real traction, real sales and real profit; they were very interested."
 
 [![Office Lease Center](images/OfficeLease.jpg)](http://www.officeleasecenter.com/articles/execution-trumps-ideas-but-immigration-can-bring-in-more-talent.html)<br/>
+[Original Link](http://www.officeleasecenter.com/articles/execution-trumps-ideas-but-immigration-can-bring-in-more-talent.html)<br/>
 **Execution trumps ideas but immigration can bring in more talent** <br/>
 April 4, 2015<br/>
 By **Dennis Clemente**<br/>
-
-[Original Link](http://www.officeleasecenter.com/articles/execution-trumps-ideas-but-immigration-can-bring-in-more-talent.html)<br/>
-
-NEW YORK--Sometimes the title of a meetup ends up being more. You simply need a host who knows how to push the right buttons and no demos.
-
-Last April 1, the Disruptive Technologists group planned a forum called “Balancing a Cool Idea with Profitability” with host/moderator Bruce Bachenheimer, a Pace University professor. It turned out to be about a lot more, including a call for immigration reform to fill up the critical need for developers and other talented people in the United States.
-
-Bachenheimer asked his panel questions that made for an interesting evening at Microsoft’s office at Times Square. It helped that there were no demos, just talk.
+>
+>NEW YORK--Sometimes the title of a meetup ends up being more. You simply need a host who knows how to push the right buttons and no demos.
+>
+>Last April 1, the Disruptive Technologists group planned a forum called “Balancing a Cool Idea with Profitability” with host/moderator Bruce Bachenheimer, a Pace University professor. It turned out to be about a lot more, including a call for immigration reform to fill up the critical need for developers and other talented people in the United States.
+>
+>Bachenheimer asked his panel questions that made for an interesting evening at Microsoft’s office at Times Square. It helped that there were no demos, just talk.
 
 [![](image14511.jpg)](http://www.crainsnewyork.com/article/20150217/FINANCE/302159998)
 
