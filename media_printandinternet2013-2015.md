@@ -155,7 +155,8 @@ By **Francesca Di Meglio**
 **Pace University’s eLab Provides Crucial Entrepreneurial Education to Veterans**<br/>
 April 10, 2015 
 >
->![VeteransEntrepreneurship](images/VeteransEntrepreneurship.jpg)With hundreds of military veterans enrolled, Pace University places considerable importance on being responsive to veteran needs.  The Entrepreneurship Lab or eLab run by Bruce Bachenheimer is a case in point. 
+>![VeteransEntrepreneurship](images/VeteransEntrepreneurship.jpg)
+>With hundreds of military veterans enrolled, Pace University places considerable importance on being responsive to veteran needs.  The Entrepreneurship Lab or eLab run by Bruce Bachenheimer is a case in point. 
 >
 >Thanks to a $50,000 grant they received from the Blackstone Charitable Foundation for veteran entrepreneurial initiatives, the eLab runs boot camps to provide veterans with the critical skills they need to pursue entrepreneurship. Pace was one of only six organizations nationwide to receive such a grant out of 200 plus applicants. Needless to say, they feel quite honored by their selection and have a special commitment to the programs they are running for veterans.
 >
@@ -185,7 +186,7 @@ By **Mike Montgomery**
 >
 >And that hard work put into securing drivers, landlords and chefs pays off in stickiness. Bachenheimer says that once people have committed to a company, it’s less likely they will jump ship to a competitor.
 
-[![AmericanEntrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)<br/>
+[![American Entrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)<br/>
 [Original Link](http://ny.americanentrepreneurship.com/latest-news/investor-entrepreneur-discussion-highlights-disruptive-technologists-of-nyc.html)<br/>
 **Investor-Entrepreneur Discussion Highlights Disruptive Technologists of NYC**<br/>
 April 6, 2015 
