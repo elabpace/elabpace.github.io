@@ -1,15 +1,9 @@
 # Presentations
 
-### 2019
-
 - Why an Entrepreneurship Degree Should be Much More Than a Series of Courses – [Global Consortium of Entrepreneurship Centers](http://www.gcec2019.com/) (September 27, 2019)  
-
-### 2018
 
 - Technology Commercialization (webinar) – [Accelerator for Biosciences in Connecticut](http://abct.co/) (April 3, 2018)  
 - [Fifth Annual Entrepreneurs Roundtable](http://elab.nyc/entrepreneurship-lab/events/past-events/fifth-roundtable) (Moderator) -- [Pace University](http://www.pace.edu/) (February 22, 2018)  
-
-### 2017
 
 - Blockchain: Innovating Digital Advertising (Panelist) – Dentons US LLP (September 5, 2017)  
 - [Israel Entrepreneurship Initiative Information Session](http://www.mit-forum.org.il/pace-university-israel) – MIT Enterprise Forum of Israel at Tel Aviv University (May 21, 2017)  
@@ -20,8 +14,6 @@
 - An Entrepreneurial Mindset (global webinar) – [Wipro](http://www.wipro.com/) Master Class (February 16, 2017)  
 - Evidence-Based Entrepreneurship (global webinar) – [The New York Academy of Sciences](http://www.nyas.org/), Challenge 2030 program (February 2, 2017)  
 - The Future of Retail: How Cloud + Cognitive Technology is Transforming the Retail Industry and Driving New Opportunities for Businesses and Consumers (Panelist) - IBM Roundtable (January 16, 2017)  
-
-### 2016
 
 - [Panel Discussion of the film Generation Startup](http://elab.nyc/events/ScreeningofGenerationStartup) (Moderator) (December 1, 2016)  
 - Entrepreneurial Ecosystems – [China Publishing Group](http://en.cnpubg.com/) training delegation (September 15, 2016)  
@@ -34,8 +26,6 @@
 - [Third Annual Entrepreneurs Roundtable](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab/events/entrepreneurs-roundtable) (Moderator) – [Pace University](http://www.pace.edu/) (February 25, 2016)  
 - Contemporary Trends, Thinking & Tools in Entrepreneurship - [NYCEDC’s Entrepreneurship Lab Bio and Health Tech NYC](http://elabnyc.com/) (February 18, 2016)  
 
-### 2015
-
 - [Structure and Design Issues in Entrepreneurship Centers: A Workshop](http://gcec2015.com/schedule.asp) (Facilitator) – [Global Consortium of Entrepreneurship Centers Annual](http://www.globalentrepreneurshipconsortium.org/)  
 - [Conference](http://www.globalentrepreneurshipconsortium.org/) (October 30, 2015)  
 - [Virtual Reality in the Business Market: On the Periphery of the Next Tech Boom](http://www.onedayimmersion.com/annual-conference/2015-program-schedule.html) (Panelist) – [One Day Immersion](http://www.onedayimmersion.com/) (October 23, 2015)  
@@ -46,8 +36,6 @@
 - [Entrepreneurship at the Bar: An Accidental Entrepreneur](http://www.meetup.com/yazamalhabar/events/219474069/) – Global Entrepreneurship Week Israel Meetup (January 12, 2015)  
 - [Providing Israeli Startups a Home Base in NYC](http://www.mit-forum.org.il/#!providing-a-home-for-israeli-startups-ny/cyru) – MIT Enterprise Forum of Israel at Tel Aviv University (January 7, 2015)  
 
-### 2014
-
 - NYC Social Infrastructure & Tech Ecosystem: [Are We At An Inflection Point?](http://www.meetup.com/Disruptive-Technologists-in-NYC/events/207242512/) \- [Disruptive Technologists in NYC](http://disruptivetechnologists.com/2014/10/13/nyc-social-infrastructure-tech-ecosystem-are-we-at-an-inflection-point/) (October 27th, 2014)  
 - [Eco-systems for Long Term Success](http://gcec2014.com/eco-systems-long-term-success-building-sustainable-enterprise) \- [Global Consortium of Entrepreneurship Centers Annual Conference](http://www.globalentrepreneurshipconsortium.org/) (Panelist) (October 3, 2014)  
 - [Building Scalable Ventures](http://gcec2014.com/building-scalable-ventures-%E2%80%93-university%E2%80%99s-role-entrepreneurial-ecosystem) \- [Global Consortium of Entrepreneurship Centers Annual Conference](http://www.globalentrepreneurshipconsortium.org/) (October 3, 2014)  
@@ -57,8 +45,6 @@
 - [Entrepreneurs Roundtable](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab/events/roundtable) (Moderator) – Pace University (February 20, 2014)  
 - [Social Media](http://www.meetup.com/Disruptive-Technologists-in-NYC/events/151437182/) (Panelist) – [Disruptive Technologists in NYC](http://disruptivetechnologists.com/) (January 27, 2014)  
 - Creativity and Innovation – [ROI Community Delegation](http://www.roicommunity.org/) (January 16, 2014)  
-
-### 2013
 
 - Forum on Entrepreneurship at NYC Universities (Panelist) - [Goldenseeds](http://www.goldenseeds.com/) (December 5, 2013)  
 - A Dialogue for Global Entrepreneurship Week - Technology Entrepreneurship Course, Tel Aviv University (via Skype) (November 17, 2013)  
@@ -72,8 +58,6 @@
 - A Fireside Chat with Miles Lasater, Co-Founder & Chairman, HigherOne (Moderator) – Pace University (March 21, 2013)  
 - Commercial Real Estate Insights for NYC StartUps (Moderator) – Pace University (February 21, 2013)  
 - An Entrepreneurial Mindset - Enstitute Fellows Dinner (February 7, 2013)  
-
-### 2012
 
 - What is Entrepreneurship? – Girl Scouts (December 7, 2012)  
 - A Dialogue for Global Entrepreneurship Week - Technology Entrepreneurship Course, IDC Herzliya (via Skype) (November 12, 2012)  
@@ -89,8 +73,6 @@
 - [Technology Entrepreneurship - Tel Aviv University, Business Entrepreneurship for Engineers course (January 12, 2012)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/TAU.jpg)
 - [What They Don’t Teach You In Business School - MIT Enterprise Forum of Israel (January 11, 2012)](http://www.mit-forum.org.il/events/439-dontteach)  
 
-### 2011
-
 - Small Business Development and Entrepreneurship - U.S. Department of State International Visitor Leadership Program, delegation from Algeria, Bahrain, Iraq, Morocco, Oman, Palestinian Territories, Qatar, Saudi Arabia, Tunisia, & Yemen (December 1, 2011)  
 - Small Business Development in the United States - U.S. Department of State International Visitor Leadership Program, delegation from the People's Republic of China (September 6, 2011)  
 - A Dialogue for Global Entrepreneurship Week - Technology Entrepreneurship Course, Tel Aviv University (via Skype) (November 17, 2011)  
@@ -101,13 +83,9 @@
 - [Ways to Engage: Involving Your Audience - MIT Enterprise Forum Global Chapter Leadership Conference (April 9, 2011)](images/MITEF_CLC2011.jpg)  
 - An Entrepreneurial Mindset – The Executive MBA Distinguished Speaker Series, Pace University (February 20, 2011)  
 
-### 2010
-
 - [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (July 6, 2010)](images/L-A_2010.jpg)  
 - [Technology Innovation and Entrepreneurship in Israel (Moderator) - MIT Enterprise Forum (April 12, 2010)](http://www.mitef-nyc.org/mc/community/eventdetails.do?eventId=264007&orgId=mefny&recurringId=0)  
 - [A Practical Look at Social Media Policies - LawLine.com Continuing Legal Education Course](http://www.lawline.com/cle/course-details.php?i=939&course\_type=video)  
-
-### 2009
 
 - [How Your Company Can Capitalize on the Phenomenal Growth in Emerging Markets (Moderator) - MIT Enterprise Forum (October 22, 2009)](images/EmergingMarkets.jpg)\- [Video Link](http://www.scribemedia.org/2009/10/31/capitalize-growth-in-emerging-markets/)  
 - [Social Entrepreneurship - Global Consortium of Entrepreneurship Centers Annual Conference (October 16, 2009)](images/GCEC.jpg)  
@@ -115,20 +93,14 @@
 - [Opportunistic Innovation and Creative Destruction - MIT Enterprise Forum Global Chapter Leadership Conference (April 18, 2009)](images/MITEF_CLC2009.jpg)  
 - [How Businesses Can Develop Trust on a Global Scale Through Corporate Service (Moderator) - MIT Enterprise Forum (January 15, 2009) ](images/panel.jpg)  
 
-### 2008
-
 - [The Impact of Globalization on the Future of Africa - Center for Global Business Programs (October 21, 2008)](images/CGBPAfrica.jpg)  
 - [Entrepreneurship & International Business - LeadAmerica's Congressional Student Leadership Conference (June 17, 2008)](images/LeadAmerica2008.jpg)  
 - [The growth of Social Entrepreneurship in the United States - University of Dar es Salaam (March 19, 2008)](images/BB_UDSM.jpg)  
 - The role of Entrepreneurship in the United States - University of Dar es Salaam (March 18, 2008)  
 
-### 2007
-
 - [Breaking Through the Roadblocks to Growth - Make Mine a Million $ Business Event (October 23, 2007)](images/m3.jpg)  
 - Social Entrepreneurship - 4th Annual Youth Assembly at the United Nations (August 14, 2007)  
 - Keynote Address - LeadAmerica's Congressional Student Leadership Conference (July 20, 2007)  
-
-### 2006
 
 - Entrepreneurial Leadership - Friendship Ambassadors Foundation Leadership Seminar (August 23, 2006)  
 - Understanding Entrepreneurship - 3rd Annual Youth Assembly at the United Nations (August 17, 2006)  
@@ -138,12 +110,8 @@
 - Strategy & Management - LeadAmerica's Congressional Student Leadership Conference (June 17, 2006)  
 - [Entrepreneurship Competitions - McGraw-Hill/Irwin Entrepreneurship and Small Business Workshop (March 10, 2006)](images/McGrawHill.jpg)  
 
-### 2005
-
 - Entrepreneurial Internships - National Consortium of Entrepreneurship Centers Annual Conference (October 7, 2005)  
 - Entrepreneurship Database Resources - Lubin Research Day (April 29, 2005)  
 - Entrepreneurship Education - SBA/SCORE Westchester (February 7, 2005)  
-
-### 2003
 
 - Entrepreneurship Orientation - New York City Department of Small Business Services (March 20, 2003)
