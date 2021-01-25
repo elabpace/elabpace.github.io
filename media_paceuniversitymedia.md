@@ -1,5 +1,24 @@
 # Pace University Media
 
+[![Pace Magazine](images/pacewinter.jpg)](https://www.pace.edu/magazine/features/pace-professors-how-covid-19-changed-everything) <br/>
+[Original Link](https://www.pace.edu/magazine/features/pace-professors-how-covid-19-changed-everything) <br/>
+**Pace Professors on How COVID-19 Changed Everything** <br/>
+Winter 2021 <br/>
+By **Lance Pauker** <br/>
+> [Bruce Bachenheimer](images/image4031.jpg)
+> **Entrepreneurship During Times of Crisis** <br/>
+> Bruce Bachenheimer <br/>
+> Clinical Professor of Management and Executive Director, Entrepreneurship Lab <br/>
+> Lubin School of Business
+>
+> The great baseball philosopher Yogi Berra once said, "It's difficult to make predictions, especially about the future." That might sound somewhat inane, but the underlying message is astute: The future is not only unpredictable, it's unknowable.
+> 
+> Although that is especially true when it comes to human behavior and societal norms—and so many variables are changing the way we teach, learn, worship and socialize these days—we can expect that innovative business concepts will be born out of the COVID-19 crisis.
+>
+> **How do we know? Entrepreneurship is often associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more "ripe for disruption” than during a crisis.** Airbnb and Uber were founded amid the 2008 financial crisis, and probably would not have succeeded if either was launched a few years earlier or later. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who were suddenly willing to sleep in a stranger’s bed and pay for a ride in a regular car. Once these concepts proved successful, they were able to become a new normal.
+>
+> What innovative business concepts will be born out of the COVID-19 crisis? We’ll have to wait and see. But what’s important to remember is that it’s not about making predictions or coming up with an interesting idea; it’s about the passion, persistence, and perseverance to actually make it happen. Remember what Yogi Berra said: "It ain’t over ’til it’s over."
+
 [![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/world-changing-impact-covid-19) <br/>
 [Original Link](https://www.pace.edu/mypace/world-changing-impact-covid-19) <br/>
 **PACESPECTIVES: The World-Changing Impact of COVID-19** <br/>
