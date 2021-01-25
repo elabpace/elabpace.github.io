@@ -144,11 +144,11 @@ By **Bruce Bachenheimer**
 April 20, 2015<br/>
 By **Francesca Di Meglio** 
 >
->1. **Entrepreneurship/Entrepreneurial Studies**
+>**1. Entrepreneurship/Entrepreneurial Studies**
 >
 >People assume that studying entrepreneurship automatically means you're planning to go into business for yourself. In fact, early on, many questioned whether business schools could even teach entrepreneurship or if the required talents were innate. But today, many employers look favorably at the study of entrepreneurship. After all, companies need people who know how to grow a business.
 >
-"These days companies large and small are recognizing the value of an 'entrepreneurial mindset' and see the unique value in hiring someone who has a demonstrated interest and commitment to entrepreneurial thinking (i.e., by pursuing a degree in the subject)," says Bruce Bachenheimer, clinical professor of management at Pace University.
+>"These days companies large and small are recognizing the value of an 'entrepreneurial mindset' and see the unique value in hiring someone who has a demonstrated interest and commitment to entrepreneurial thinking (i.e., by pursuing a degree in the subject)," says Bruce Bachenheimer, clinical professor of management at Pace University.
 
 [![AmericanEntrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)<br/>
 [Original Link](http://americanentrepreneurship.com/ny/aetstories/entrepreneur-profiles/pace-university-s-elab-provides-crucial-entrepreneurial-education-to-veterans.html)<br/>
