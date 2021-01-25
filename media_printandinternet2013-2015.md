@@ -211,79 +211,59 @@ By **Dennis Clemente**<br/>
 >
 >Bachenheimer asked his panel questions that made for an interesting evening at Microsoft’s office at Times Square. It helped that there were no demos, just talk.
 
-[![](image14511.jpg)](http://www.crainsnewyork.com/article/20150217/FINANCE/302159998)
+[![Crain's New York](images/crainsnewyork.jpg)](http://www.crainsnewyork.com/article/20150217/FINANCE/302159998) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20150217/FINANCE/302159998) <br/>
+**Bankers, lawyers ready for the return of the dealmakers** <br/>
+February 16, 2015 <br/>
+By **Andrew Osterland** <br/>
+> “The recovery of M&A is important to the city. It’s usually accompanied by a rising stock market and improving economy,” said Bruce Bachenheimer, a professor of management with the Lubin School of Business at Pace University. “When the bankers make this kind of money, a lot of it gets recycled into the New York City economy.”
+>
+>“The 2008 crisis was not just another downturn,” said Mr. Bachenheimer. “We need to further diversify the economy.”
 
-Bankers, lawyers ready for the return of the dealmakers
+[![914 Inc](images/914inc.jpg)](http://www.westchestermagazine.com/914-INC/Q1-2015/Why-And-How-You-Can-Make-Vital-Team-Building-Actually-Work/) <br/>
+[Original Link](http://www.westchestermagazine.com/914-INC/Q1-2015/Why-And-How-You-Can-Make-Vital-Team-Building-Actually-Work/) <br/>
+**Team Building 2.0** <br/>
+Q1 2015 <br/>
+By **Elaine Pofeldt** <br/>
+> Companies of all sizes face challenges such as heightened competition in a more digital and increasingly global marketplace, shorter product lifespans, rapidly evolving technology, and changes in the nature of work that bring more freelance and other flexible talent to their teams, according to Bruce Bachenheimer, a clinical professor of management at Pace University and executive director of its Entrepreneurship Lab.
+>
+>“You’re seeing much more need for entrepreneurial, faster-moving teams,” says Bachenheimer. “Companies have to be much more agile now.”
 
-February 16, 2015
-
-By Andrew Osterland
-
-[Original Link](http://www.crainsnewyork.com/article/20150217/FINANCE/302159998)
-
-“The recovery of M&A is important to the city. It’s usually accompanied by a rising stock market and improving economy,” said Bruce Bachenheimer, a professor of management with the Lubin School of Business at Pace University. “When the bankers make this kind of money, a lot of it gets recycled into the New York City economy.”
-
-“The 2008 crisis was not just another downturn,” said Mr. Bachenheimer. “We need to further diversify the economy.”
-
-[![](image14571.jpg)](http://www.westchestermagazine.com/914-INC/Q1-2015/Why-And-How-You-Can-Make-Vital-Team-Building-Actually-Work/)
-
-Team Building 2.0
-
-Q1 2015
-
-By Elaine Pofeldt
-
-[Original Link](http://www.westchestermagazine.com/914-INC/Q1-2015/Why-And-How-You-Can-Make-Vital-Team-Building-Actually-Work/)
-
-Companies of all sizes face challenges such as heightened competition in a more digital and increasingly global marketplace, shorter product lifespans, rapidly evolving technology, and changes in the nature of work that bring more freelance and other flexible talent to their teams, according to Bruce Bachenheimer, a clinical professor of management at Pace University and executive director of its Entrepreneurship Lab.
-
-“You’re seeing much more need for entrepreneurial, faster-moving teams,” says Bachenheimer. “Companies have to be much more agile now.”
-
-[![](image14631.jpg)](http://hiring.monster.com/hr/hr-best-practices/small-business/conducting-an-interview/your-next-hire.aspx)
-
-Conduct your Next Interview as if it were the First
-
-February 2015
-
-By John Rossheim
-
+[![Monster](images/monster.jpg)](http://hiring.monster.com/hr/hr-best-practices/small-business/conducting-an-interview/your-next-hire.aspx) <br/>
 [Original Link](http://hiring.monster.com/hr/hr-best-practices/small-business/conducting-an-interview/your-next-hire.aspx)
+**Conduct your Next Interview as if it were the First** <br/>
+February 2015 <br/>
+By **John Rossheim** <br/>
+> Devote sufficient time to conduct -- and prepare for -- interviews. You know from experience (perhaps both positive and negative) that hiring decisions are among the most significant that you make. So allocate proportionate time to the process, especially for interviewing.
+>
+> "It’s important to slow down," says [Bruce Bachenheimer](http://webpage.pace.edu/bbachenheimer/), professor of management at Pace University. "Small business owners are typically dealing with a myriad of critical issues and many are in a rush to hire." Consider using an [interview guide](http://hiring.monster.com/hr/hr-best-practices/recruiting-hiring-advice/interviewing-candidates/hiring-interview.aspx) for better hiring.
+>
+> Observe their communication style. You may have seen it happen: An otherwise competent hire starts work at a small business and a wave of misunderstandings begets a tsunami of mishaps. Now's your chance to try to head off such trouble.
+>
+> "Have the candidate join a staff discussion, react to a difficult test situation, engage in a discussion on an issue important to the team over a casual lunch," says Bachenheimer. "Carefully observe [body language](http://hiring.monster.com/hr/hr-best-practices/recruiting-hiring-advice/interviewing-candidates/interview-body-language.aspx), temper, congeniality and other traits -- not just oral communications."
 
-Devote sufficient time to conduct -- and prepare for -- interviews. You know from experience (perhaps both positive and negative) that hiring decisions are among the most significant that you make. So allocate proportionate time to the process, especially for interviewing.
-
-"It’s important to slow down," says [Bruce Bachenheimer](http://webpage.pace.edu/bbachenheimer/), professor of management at Pace University. "Small business owners are typically dealing with a myriad of critical issues and many are in a rush to hire." Consider using an [interview guide](http://hiring.monster.com/hr/hr-best-practices/recruiting-hiring-advice/interviewing-candidates/hiring-interview.aspx) for better hiring.
-
-Observe their communication style. You may have seen it happen: An otherwise competent hire starts work at a small business and a wave of misunderstandings begets a tsunami of mishaps. Now's your chance to try to head off such trouble.
-
-"Have the candidate join a staff discussion, react to a difficult test situation, engage in a discussion on an issue important to the team over a casual lunch," says Bachenheimer. "Carefully observe [body language](http://hiring.monster.com/hr/hr-best-practices/recruiting-hiring-advice/interviewing-candidates/interview-body-language.aspx), temper, congeniality and other traits -- not just oral communications."
-
-[![](image14451.jpg)](http://www.fa-mag.com/news/new-journeys-20570.html)
-
-New Journeys
-
-January 27, 2015
-
-By Caren Chesler
-
-[Original Link](http://www.fa-mag.com/news/new-journeys-20570.html)
-
-In his book, Walden, Henry David Thoreau wrote, “I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.”
-
-Bruce Bachenheimer, a former derivatives trader for Westpac Banking Corp., said the book and that quote resonated with him, so much so that years after reading it, he felt compelled to leave a well-paying job on Wall Street to go sailing for two years—about the same amount of time Thoreau spent in the woods surrounding Walden Pond.
-
-“That quote stuck in my mind. I knew that whatever I was doing, I wanted to do it deliberately,” Bachenheimer says.
-
-Bachenheimer sailed from New England, through the Caribbean, to South America for two years on a 36-foot Pearson Cutter sailboat that he named “Deliberate.”  He then lived on the boat for another three years, though he kept it docked in Annapolis, Md., where he had found a job training companies how to use a new firearms fingerprinting system.
-
-Bachenheimer says it wasn’t that he was unhappy at Westpac, or even at the Bank of Tokyo, where he had worked previously. He liked trading, he found the process interesting and he was making good money.
-
-“I was an officer at the bank, right on Broadway between Wall Street and Pine Street. It was the 1980s. It was an exciting time to be working on Wall Street,” Bachenheimer says.
-
-But something was missing. He didn’t feel like he was living his life to the fullest. His mother had died of cancer a few years earlier, an event he says only reminded him of the fragility of life.
-
-“In hindsight, my mother’s death may have had more of an effect on me than I thought at the time,” he says. “But that poem had always had an impact on me. Living deliberately. It hit home the way 9/11 made people pursue things they were passionate about.”
-
-Now a management professor at Pace University and director of their entrepreneurship program, Bachenheimer is among those who decided to forgo a large Wall Street salary to pursue a passion—though in Bachenheimer’s case, his passion was to live life more fully, more consciously. For others, that passion was a career or hobby, like art or woodworking.
+[![Private Wealth](images/privatewealth.jpg)](http://www.fa-mag.com/news/new-journeys-20570.html) <br/>
+[Original Link](http://www.fa-mag.com/news/new-journeys-20570.html) <br/>
+**New Journeys** <br/>
+January 27, 2015 <br/>
+By **Caren Chesler** <br/>
+> In his book, Walden, Henry David Thoreau wrote, “I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.”
+>
+> Bruce Bachenheimer, a former derivatives trader for Westpac Banking Corp., said the book and that quote resonated with him, so much so that years after reading it, he felt compelled to leave a well-paying job on Wall Street to go sailing for two years—about the same amount of time Thoreau spent in the woods surrounding Walden Pond.
+>
+> “That quote stuck in my mind. I knew that whatever I was doing, I wanted to do it deliberately,” Bachenheimer says.
+>
+> Bachenheimer sailed from New England, through the Caribbean, to South America for two years on a 36-foot Pearson Cutter sailboat that he named “Deliberate.”  He then lived on the boat for another three years, though he kept it docked in Annapolis, Md., where he had found a job training companies how to use a new firearms fingerprinting system.
+>
+> Bachenheimer says it wasn’t that he was unhappy at Westpac, or even at the Bank of Tokyo, where he had worked previously. He liked trading, he found the process interesting and he was making good money.
+>
+> “I was an officer at the bank, right on Broadway between Wall Street and Pine Street. It was the 1980s. It was an exciting time to be working on Wall Street,” Bachenheimer says.
+>
+> But something was missing. He didn’t feel like he was living his life to the fullest. His mother had died of cancer a few years earlier, an event he says only reminded him of the fragility of life.
+>
+> “In hindsight, my mother’s death may have had more of an effect on me than I thought at the time,” he says. “But that poem had always had an impact on me. Living deliberately. It hit home the way 9/11 made people pursue things they were passionate about.”
+>
+> Now a management professor at Pace University and director of their entrepreneurship program, Bachenheimer is among those who decided to forgo a large Wall Street salary to pursue a passion—though in Bachenheimer’s case, his passion was to live life more fully, more consciously. For others, that passion was a career or hobby, like art or woodworking.
 
 [![](image14691.jpg)](http://ny.americanentrepreneurship.com/press-releases/pace-university-s-entrepreneurship-lab-awarded-three-grants-supporting-students-veterans-and-israeli-start-ups.html)Pace University’s Entrepreneurship Lab Awarded Three Grants Supporting Students, Veterans and Israeli Start-Ups
 
