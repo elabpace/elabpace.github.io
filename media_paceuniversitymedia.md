@@ -5,7 +5,7 @@
 **Pace Professors on How COVID-19 Changed Everything** <br/>
 Winter 2021 <br/>
 By **Lance Pauker** <br/>
-> [Bruce Bachenheimer](images/image4031.jpg)
+> ![Bruce Bachenheimer](images/image4031.jpg)
 > **Entrepreneurship During Times of Crisis** <br/>
 > Bruce Bachenheimer <br/>
 > Clinical Professor of Management and Executive Director, Entrepreneurship Lab <br/>
