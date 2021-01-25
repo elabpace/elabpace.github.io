@@ -1,10 +1,10 @@
 # Print and Internet 2013-2015
 
-[![Inc.](images/Inc.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)<br/>
-[Original Link](https://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html)<br/>
-**Walmart to Vendors: Give Us a Discount**<br/>
-September 28, 2015<br/>
-By **Jeremy Quittner**
+[![Inc.](images/Inc.png)](http://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html) <br/>
+[Original Link](https://www.inc.com/jeremy-quittner/how-to-protect-yourself-from-big-box-supplier-cost-demands.html) <br/>
+**Walmart to Vendors: Give Us a Discount** <br/>
+September 28, 2015 <br/>
+By **Jeremy Quittner** <br/>
 >“To do business with a company like Walmart, vendors are really pushed to the maximum of what they can do,” says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
 >
 >**1. Consider a currency hedging strategy.**
@@ -144,7 +144,7 @@ By **Bruce Bachenheimer**
 April 20, 2015<br/>
 By **Francesca Di Meglio** 
 >
->1.**Entrepreneurship/Entrepreneurial Studies**
+>1. **Entrepreneurship/Entrepreneurial Studies**
 >
 >People assume that studying entrepreneurship automatically means you're planning to go into business for yourself. In fact, early on, many questioned whether business schools could even teach entrepreneurship or if the required talents were innate. But today, many employers look favorably at the study of entrepreneurship. After all, companies need people who know how to grow a business.
 >
