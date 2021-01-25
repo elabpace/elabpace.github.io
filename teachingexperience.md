@@ -1,6 +1,6 @@
 # Teaching Experience
 
-###Spring 2021 Courses
+### Spring 2021 Courses
 - MGT 216 – Venture Initiation & Entrepreneurship
 - MGT 416 – Business Plan Development
 - MGT 490 – Business Strategy
