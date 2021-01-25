@@ -1,5 +1,11 @@
 # Teaching Experience
 
+###Spring 2021 Courses
+- MGT 216 – Venture Initiation & Entrepreneurship
+- MGT 416 – Business Plan Development
+- MGT 490 – Business Strategy
+- MBA 818 – Global Business, Ethics, & Social Responsibility
+
 ### Fall 2020 Courses
 - MGT 216 - Venture Initiation & Entrepreneurship 
 - MGT 490 - Business Strategy (3 sections)
