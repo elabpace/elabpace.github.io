@@ -102,7 +102,7 @@ By **Elizabeth Weise**
 >
 >"Everyone looks to Silicon Valley as a mecca of innovation and entrepreneurship," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York City. "They have to be here."
 
-[![](image1526.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
+[![Wall Street Journal](images/thewallstreetjournal.jpg)](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
 [Original Link](http://www.wsj.com/articles/how-to-survive-being-an-overnight-success-1432318577)<br/>
 **How to Survive Being an Overnight Success**<br/>
 June 19, 2015<br/>
