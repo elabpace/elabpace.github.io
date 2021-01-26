@@ -265,90 +265,74 @@ By **Caren Chesler** <br/>
 >
 > Now a management professor at Pace University and director of their entrepreneurship program, Bachenheimer is among those who decided to forgo a large Wall Street salary to pursue a passion—though in Bachenheimer’s case, his passion was to live life more fully, more consciously. For others, that passion was a career or hobby, like art or woodworking.
 
-[![](image14691.jpg)](http://ny.americanentrepreneurship.com/press-releases/pace-university-s-entrepreneurship-lab-awarded-three-grants-supporting-students-veterans-and-israeli-start-ups.html)Pace University’s Entrepreneurship Lab Awarded Three Grants Supporting Students, Veterans and Israeli Start-Ups
+[![American Entrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://ny.americanentrepreneurship.com/press-releases/pace-university-s-entrepreneurship-lab-awarded-three-grants-supporting-students-veterans-and-israeli-start-ups.html) <br/>
+[Original Link](http://ny.americanentrepreneurship.com/press-releases/pace-university-s-entrepreneurship-lab-awarded-three-grants-supporting-students-veterans-and-israeli-start-ups.html) <br/>
+**Pace University’s Entrepreneurship Lab Awarded Three Grants Supporting Students, Veterans and Israeli Start-Ups** <br/>
+November 18, 2014 <br/>
+> “These generous donations will not only positively impact Pace students and military veterans, but will provide benefits to many others through job creation, exciting new product innovations, and innovative service offerings,” said Professor Bruce Bachenheimer, Executive Director of the Entrepreneurship Lab and Administrator of the three grants. “Through the generosity of our donors, we strive to create new opportunities that provide a social benefit and lead to successful and fulfilling careers.”
 
-November 18 , 2014 [![](image1471.jpg)](http://ny.americanentrepreneurship.com/press-releases/pace-university-s-entrepreneurship-lab-awarded-three-grants-supporting-students-veterans-and-israeli-start-ups.html)
+[![American Entrepreneurship Today](images/AmericanEntrepreneurship.jpg)](http://ny.americanentrepreneurship.com/featured-articles/disruptive-technologists-panel-discussed-future-of-nyc-tech-startup-community.html) <br/>
+[Original Link](http://ny.americanentrepreneurship.com/featured-articles/disruptive-technologists-panel-discussed-future-of-nyc-tech-startup-community.html) <br/>
+**Disruptive Technologists’ Panel Discussed Future of NYC Tech Startup Community** <br/>
+November 17, 2014 <br/>
+By **Jeanne Gray** <br/>
+> ![Panel](images/image1611.jpg)
+>
+> The panel consisted of angel investor and serial entrepreneur **David Rose**, **Chaz Mee**, a brand innovation strategist and entrepreneur, and **Bruce Bachenheimer**, a Professor and Director at the **Pace University Entrepreneurship Lab**.
+>
+> Bachenheimer began the evening with a slide presentation of the notable inflection points that have occurred in New York City’s history. He included the 1929 Crash, the City’s virtual bankruptcy in the 1970’s, and the financial crash in 2008. The financial crash directly and adversely impacted the City’s economy which led to changes initiated by the Bloomberg administration.  A new course was set to make the City less dependent on the financial industry which the panel felt contributed to the accelerated growth of the City’s tech startup community.
+>
+> “After the financial crisis, there has been a greater emphasis on non-financial businesses in the City. Also, technology which was previously limited in scope to technology businesses, now runs across almost all business sectors at one time,” said Bachenheimer. As a result technology is being disruptive on a much wider scale in the New York City economy and fostering broader startup formation.
+>
+> “Additionally, large companies on the east coast are mimmicking the small work environments of the west coast,” noted Bachenheimer.   Entrepreneur Mee agreed that a shift to a more entrepreneurial culture in large businesses is another indicator that the City’s tech ecosystem is becoming more similar to Silicon Valley.
+>
+> Bachenheimer’s slide presentation listed the important elements necessary to spawn high growth ventures. The top three listed were a trained workforce, formal and informal diverse networks, and education in entrepreneurship.  All areas that the panel felt New York City has shown depth.
 
-“These generous donations will not only positively impact Pace students and military veterans, but will provide benefits to many others through job creation, exciting new product innovations, and innovative service offerings,” said Professor Bruce Bachenheimer, Executive Director of the Entrepreneurship Lab and Administrator of the three grants. “Through the generosity of our donors, we strive to create new opportunities that provide a social benefit and lead to successful and fulfilling careers.”
+[![Mashable](images/mashable.jpg)](http://mashable.com/2014/11/09/girl-scouts-leadership/) <br/>
+[Original Link](http://mashable.com/2014/11/09/girl-scouts-leadership/) <br/>
+**The Girl Scout troop teaching girls to be CEOs** <br/>
+November 9, 2014 <br/>
+By **Iris Mansour** <br/>
+> “These kids can seem more energetic and willing to take a risk than college students,” says troop parent Bruce Bachenheimer, who teaches entrepreneurship at Pace University. He was surprised by their capacity for reflection, as well as their ability to iterate when they hit roadblocks.
 
-[![](image14691.jpg)](http://ny.americanentrepreneurship.com/featured-articles/disruptive-technologists-panel-discussed-future-of-nyc-tech-startup-community.html)Disruptive Technologists’ Panel Discussed Future of NYC Tech Startup Community
+[![New York Post](images/newyorkpost.png)](http://bit.ly/NYPost_Vets) <br/>
+[Original Link](http://bit.ly/NYPost_Vets) <br/>
+**The Right Stuff** <br/>
+November 7, 2014 <br/>
+By **Erika Prafder** <br/>
+> ![Photo](images/image1613.jpg)
+>
+> At Pace University, through a grant from the Blackstone Charitable Foundation, the school recently launched a Veterans Entrepreneurship Boot Camp. The intensive seven-week program meets regularly at Pace’s Entrepreneurship Lab, a newly launched facility.
+>
+> The series covers business and entrepreneurship instruction, technical skills and hands-on lab work, says Bruce Bachenheimer, executive director of the Entrepreneurship Lab. Held at Pace’s Manhattan campus, the boot camps are offered to Pace student vets and vets throughout the Tri-State area.
 
-November 17 , 2014
+[![The Pace Press](image14801.jpg)](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html) <br/>
+[Original Link](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html) <br/>
+**Entrepreneurship takes the University by storm** <br/>
+October 29, 2014 <br/>
+By **Arize Lee** <br/>
+> Undoubtedly, the eLab founded in 2004 (sic), provides students and others with valuable knowledge and capital to pursue entrepreneurial aspirations, but eLab director Bruce Bachenheimer pointed out “It’s not about being an entrepreneurship major.”
+>
+> “I’m here to bring University students in a collaborative work setting,” Bachenheimer explained. “What I would say to anyone interested, is come to the entrepreneurship lab, look around, ask some questions and apply.”
+>
+> Through the application, “we understand what students are looking for and match them up with other students interested in doing something similar,” said Bachenheimer.
+>
+> In addition to the video studio and private meeting room, the eLab has “a 3-D printer, poster printers and Alienware high-speed computers that are great for 3-D modeling and video editing,” Bachenheimer added.
+>
+> Bachenheimer describes the facility as an ideal environment for anyone to conceptualize, test and launch a business concept. “There’s the space, there’s the equipment and there’s the people,” he said, identifying graduates in the engineering, finance and computing fields that work within the lab.
+>
+> Bachenheimer warns that “this idea of going to look for a job is a problem. It’s no more, like a generation ago, that you just get hired. Almost all net new jobs are being created by small companies, less than 4 years old with under 100 employees.”
+>
+> No matter what your occupation, “it’s about recognizing opportunity and creating value,” Bachenheimer stressed. “Pace University’s motto is Opportunitas and nothing is more synonymous with opportunity than entrepreneurship.”
 
-By Jeanne Gray [Original Link](http://ny.americanentrepreneurship.com/featured-articles/disruptive-technologists-panel-discussed-future-of-nyc-tech-startup-community.html)
-
-![](image1611.jpg)The panel consisted of angel investor and serial entrepreneur David Rose, Chaz Mee, a brand innovation strategist and entrepreneur, and Bruce Bachenheimer, a Professor and Director at the Pace University Entrepreneurship Lab.
-
-Bachenheimer began the evening with a slide presentation of the notable inflection points that have occurred in New York City’s history. He included the 1929 Crash, the City’s virtual bankruptcy in the 1970’s, and the financial crash in 2008. The financial crash directly and adversely impacted the City’s economy which led to changes initiated by the Bloomberg administration.  A new course was set to make the City less dependent on the financial industry which the panel felt contributed to the accelerated growth of the City’s tech startup community.
-
-“After the financial crisis, there has been a greater emphasis on non-financial businesses in the City. Also, technology which was previously limited in scope to technology businesses, now runs across almost all business sectors at one time,” said Bachenheimer. As a result technology is being disruptive on a much wider scale in the New York City economy and fostering broader startup formation.
-
-“Additionally, large companies on the east coast are mimmicking the small work environments of the west coast,” noted Bachenheimer.   Entrepreneur Mee agreed that a shift to a more entrepreneurial culture in large businesses is another indicator that the City’s tech ecosystem is becoming more similar to Silicon Valley.
-
-Bachenheimer’s slide presentation listed the important elements necessary to spawn high growth ventures. The top three listed were a trained workforce, formal and informal diverse networks, and education in entrepreneurship.  All areas that the panel felt New York City has shown depth.
-
-[![](image14361.jpg)](http://mashable.com/2014/11/09/girl-scouts-leadership/)
-
-The Girl Scout troop teaching girls to be CEOs
-
-November 9, 2014
-
-By Iris Mansour
-
-[![](image1434.jpg)](http://mashable.com/2014/11/09/girl-scouts-leadership/)
-
-“These kids can seem more energetic and willing to take a risk than college students,” says troop parent Bruce Bachenheimer, who teaches entrepreneurship at Pace University. He was surprised by their capacity for reflection, as well as their ability to iterate when they hit roadblocks.
-
-[![](image14421.png)](http://bit.ly/NYPost_Vets)
-
-The Right Stuff
-
-November 7, 2014
-
-By Erika Prafder
-
-[![](image1440.jpg)](http://bit.ly/NYPost_Vets)
-
-![picture](image1613.jpg)At Pace University, through a grant from the Blackstone Charitable Foundation, the school recently launched a Veterans Entrepreneurship Boot Camp. The intensive seven-week program meets regularly at Pace’s Entrepreneurship Lab, a newly launched facility.
-
-The series covers business and entrepreneurship instruction, technical skills and hands-on lab work, says Bruce Bachenheimer, executive director of the Entrepreneurship Lab. Held at Pace’s Manhattan campus, the boot camps are offered to Pace student vets and vets throughout the Tri-State area.
-
-![logo](image14801.jpg)
-
-Entrepreneurship takes the University by storm
-
-October 29, 2014
-
-By Arize Lee
-
-[![](image1484.jpg)](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html)
-
-Undoubtedly, the eLab founded in 2004 (sic), provides students and others with valuable knowledge and capital to pursue entrepreneurial aspirations, but eLab director Bruce Bachenheimer pointed out “It’s not about being an entrepreneurship major.”
-
-“I’m here to bring University students in a collaborative work setting,” Bachenheimer explained. “What I would say to anyone interested, is come to the entrepreneurship lab, look around, ask some questions and apply.”
-
-Through the application, “we understand what students are looking for and match them up with other students interested in doing something similar,” said Bachenheimer.
-
-In addition to the video studio and private meeting room, the eLab has “a 3-D printer, poster printers and Alienware high-speed computers that are great for 3-D modeling and video editing,” Bachenheimer added.
-
-Bachenheimer describes the facility as an ideal environment for anyone to conceptualize, test and launch a business concept. “There’s the space, there’s the equipment and there’s the people,” he said, identifying graduates in the engineering, finance and computing fields that work within the lab.
-
-Bachenheimer warns that “this idea of going to look for a job is a problem. It’s no more, like a generation ago, that you just get hired. Almost all net new jobs are being created by small companies, less than 4 years old with under 100 employees.”
-
-No matter what your occupation, “it’s about recognizing opportunity and creating value,” Bachenheimer stressed. “Pace University’s motto is Opportunitas and nothing is more synonymous with opportunity than entrepreneurship.”
-
-![logo](image14261.jpg)
-
-NYC Social Infrastructure & Tech Ecosystem: Are We At An Inflection Point?
-
-October 27, 2014<br/>
-By Danielle Brody
-
-[![](image1430.jpg)](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html)
-
-![Disruptive Technologists1](image1614.jpg)
-
-Gone are the days when smart professionals dreamt of being Wall Street bankers, said moderator Bruce Bachenheimer, Director of Pace’s Entrepreneurship Lab. Hustling to start your own company is the new “sexy.” People want The Social Network\-type success rather than Bonfire of the Vanities excess.
+[![Office Lease Center](images/OfficeLease.jpg)](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html) <br/>
+[Original Link](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html) <br/>
+**NYC Social Infrastructure & Tech Ecosystem: Are We At An Inflection Point?** <br/>
+October 27, 2014 <br/>
+By **Danielle Brody** <br/>
+> ![Disruptive Technologists](images/image1614.jpg)
+>
+> Gone are the days when smart professionals dreamt of being Wall Street bankers, said moderator Bruce Bachenheimer, Director of Pace’s Entrepreneurship Lab. Hustling to start your own company is the new “sexy.” People want The Social Network\-type success rather than Bonfire of the Vanities excess.
 
 ![](image14221.jpg)
 
