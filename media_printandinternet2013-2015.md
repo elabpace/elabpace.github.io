@@ -156,17 +156,18 @@ By **Francesca Di Meglio**
 April 10, 2015 
 >
 >![VeteransEntrepreneurship](images/VeteransEntrepreneurship.jpg)
->With hundreds of military veterans enrolled, Pace University places considerable importance on being responsive to veteran needs.  The Entrepreneurship Lab or eLab run by Bruce Bachenheimer is a case in point. 
 >
->Thanks to a $50,000 grant they received from the Blackstone Charitable Foundation for veteran entrepreneurial initiatives, the eLab runs boot camps to provide veterans with the critical skills they need to pursue entrepreneurship. Pace was one of only six organizations nationwide to receive such a grant out of 200 plus applicants. Needless to say, they feel quite honored by their selection and have a special commitment to the programs they are running for veterans.
+> With hundreds of military veterans enrolled, Pace University places considerable importance on being responsive to veteran needs.  The Entrepreneurship Lab or eLab run by Bruce Bachenheimer is a case in point. 
 >
->“Blackstone is obviously a very prestigious name and they’re doing some important work,” Director of the Pace University Entrepreneurial Lab Bruce Bachenheimer said in an interview. “It’s great to have been selected by them in a competitive process.”
+> Thanks to a $50,000 grant they received from the Blackstone Charitable Foundation for veteran entrepreneurial initiatives, the eLab runs boot camps to provide veterans with the critical skills they need to pursue entrepreneurship. Pace was one of only six organizations nationwide to receive such a grant out of 200 plus applicants. Needless to say, they feel quite honored by their selection and have a special commitment to the programs they are running for veterans.
 >
->“We don’t just want to take their skills and transition them into the workforce; we want to get them thinking and acting entrepreneurially,” Bachenheimer said. “It’s about unleashing the entrepreneurial mindset, discovering it, and harnessing it.”
+> “Blackstone is obviously a very prestigious name and they’re doing some important work,” Director of the Pace University Entrepreneurial Lab Bruce Bachenheimer said in an interview. “It’s great to have been selected by them in a competitive process.”
 >
->Bachenheimer, along with Associate Director Nikhil Kalyankar, teach the courses. Bachenheimer focuses on fundamentals such as marketing, strategy, and entrepreneurship while Kalyankar teaches technical hands-on courses that ground veterans in the current technology that they can apply to their specific business venture.
+> “We don’t just want to take their skills and transition them into the workforce; we want to get them thinking and acting entrepreneurially,” Bachenheimer said. “It’s about unleashing the entrepreneurial mindset, discovering it, and harnessing it.”
 >
->“For me personally, when I saw the opportunity to provide a service to those who served, it was really rewarding,” Bachenheimer said.
+> Bachenheimer, along with Associate Director Nikhil Kalyankar, teach the courses. Bachenheimer focuses on fundamentals such as marketing, strategy, and entrepreneurship while Kalyankar teaches technical hands-on courses that ground veterans in the current technology that they can apply to their specific business venture.
+>
+> “For me personally, when I saw the opportunity to provide a service to those who served, it was really rewarding,” Bachenheimer said.
 
 [![Forbes.com](images/Forbes.jpg)](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)<br/>
 [Original Link](http://www.forbes.com/sites/mikemontgomery/2015/04/08/after-the-sharing-economy-companies-that-connect-people-in-real-life/)<br/>
@@ -306,7 +307,7 @@ By **Erika Prafder** <br/>
 >
 > The series covers business and entrepreneurship instruction, technical skills and hands-on lab work, says Bruce Bachenheimer, executive director of the Entrepreneurship Lab. Held at Pace’s Manhattan campus, the boot camps are offered to Pace student vets and vets throughout the Tri-State area.
 
-[![The Pace Press](image14801.jpg)](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html) <br/>
+[![The Pace Press](images/thepacepress.jpg)](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html) <br/>
 [Original Link](http://www.officeleasecenter.com/articles/october-27th-2014-nyc-social-infrastructure-andamp-tech-ecosystem-are-we-at-an-inflection-point.html) <br/>
 **Entrepreneurship takes the University by storm** <br/>
 October 29, 2014 <br/>
