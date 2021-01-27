@@ -335,165 +335,114 @@ By **Danielle Brody** <br/>
 >
 > Gone are the days when smart professionals dreamt of being Wall Street bankers, said moderator Bruce Bachenheimer, Director of Pace’s Entrepreneurship Lab. Hustling to start your own company is the new “sexy.” People want The Social Network\-type success rather than Bonfire of the Vanities excess.
 
-![](image14221.jpg)
-
-The Online MBA in Entrepreneurship Explained
-
-October 1, 2014
-
-[![](image1420.jpg)](http://www.mbaprograms.org/mbaprograms/entrepreneurship)
-
-Even though some people argue that entrepreneurship cannot be taught, business schools are giving it their best shot with programs aimed at helping students launch startups. Actually, while most of the coursework is targeting those who want to be their own boss, some programs are also offering general management training and introduction to an entrepreneurial mindset, which can be applied to traditional jobs.
-
-"These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today's hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work," says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University.
-
-[![The New Entrepreneurz: Changing the Way You Play Life (1118837606) cover image](image14121.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118837606.html)
-
-The New Entrepreneurz: Changing the way you play life
-
-© 2014
-
-By Ronen Gafni and Simcha Gluck
-
-[![](image1416.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118837606.html)
-
-Pace University Professor Bruce Bachenheimer was profiled in The New Entrepreneurz, a book written by Ronen Gafni and Simcha Gluck, which was published by Wiley in 2014. The profile appears on pages 32 to 35. The following is an excerpt (the profile may be found at [http://bit.ly/TheNewEntrepreneurz](http://bit.ly/TheNewEntrepreneurz)):
-
-Here's a story of a Life Hacker, someone who plays many games in life and is an awesome human being as well. We met Professor Bruce Bachenheimer when we prelaunched the FreshBiz workshops in New York City and one of our partners had set up a morning meeting for us.
-
-Bruce started out as a successful Wall Street trader. He remembers the first time he did a trade for a billion dollars in one clip. Everyone viewed him as hugely successful. The sensible thing for him to do would have been to continue making money on Wall Street and live the American Dream. But Bruce, an entrepreneurial thinker, had other plans. Reading Walden; or, Life in the Woods by Henry David Thoreau led him to realize how uninspired he was. He felt that doing more of the same for money and prestige lacked purpose and pleasure. He left his job, bought a boat, learned to sail, and spent the next seven years sailing. He even named his 36-foot yacht Deliberate from a passage in Thoreau's book. It was his reminder always to live life deliberately, with choice, power, and conviction.
-
-He explained to us how much he loves living the type of life where anything could happen next. This is exactly what we mean by New Entrepreneurz, Life Hackers, and Gamers who play multiple games. We'd love to see more professors like Bruce inspiring students and entrepreneurs through their real-life know-how and not just through classroom knowledge.
-
-[![](image1410.jpg)](http://www.crainsnewyork.com/article/20140610/SMALLBIZ/306089995/owners-get-squeezed)
-
-Owners get squeezed
-
-June 9, 2014
-
-By Anne Field
-
-[![](image1408.jpg)](http://www.crainsnewyork.com/article/20140610/SMALLBIZ/306089995/owners-get-squeezed)
-
-Meanwhile, as in the nation as a whole, median household income in the New York area has declined recently. As a result, these consumers are watching their pennies—and the companies serving them are feeling it. “The middle-class income squeeze is definitely hurting small businesses,” said Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University.
-
-The situation is particularly acute in New York. “Because of the high cost of living in general in New York, you see these pressures on the middle class even more,” said Mr. Bachenheimer.
-
-[![E-CommerceTimesLogo](image14021.jpg)](http://www.ecommercetimes.com/story/Facebook-Seeks-Better-Fit-With-Small-Biz-80413.html)
-
-Facebook Seeks Better Fit With Small Biz
-
-May 7, 2014
-
-By John P. Mello Jr.
-
-[![](image1400.jpg)](http://www.ecommercetimes.com/story/Facebook-Seeks-Better-Fit-With-Small-Biz-80413.html)
-
-Facebook is reaching out to small businesses with a series of summer boot camps designed to load them with expert advice on how to become successful. Of course, part of that advice includes "advertise on Facebook." This "could really pay off, both in terms of additional revenue and driving interaction between small businesses and their customers on Facebook," said business prof Bruce Bachenheimer.
-
-The Facebook Fit boot camps can bring home to small business owners how easy it is to reach an audience for their products and services, noted Bruce Bachenheimer, a management professor at Pace University's Lubin School of Business.
-
-"A big bulk of small businesses are people who don't use Facebook or only use it casually, so they wouldn't know how to use it to promote a business," he told the E-Commerce Times.
-
-"They are a potentially huge, untapped market, and by investing a small amount of money in educating people and training them how to use it -- hand-holding them on how to use it -- it could really pay off, both in terms of additional revenue and driving interaction between small businesses and their customers on Facebook," Bachenheimer explained.
-
-"This a bright strategy that could increase small business advertising on Facebook through word of mouth," he added.
-
-[![](image1870.jpg)](https://wallethub.com/edu/best-cities-for-wallet-wellness/2862/)
-
-BizAsk The Experts: Wallet Wellness Tips
-
-April 3, 2014
-
-By John S. Kiernan
-
-[![](image1866.jpg)](https://wallethub.com/edu/best-cities-for-wallet-wellness/2862/)
-
-10\. Find Your Passion: We’ve all heard others described as never having worked a day their lives -- figuratively, of course. Why can’t that be us? The work week doesn’t have to be drudgery; it can actually be fun. You just have to find something you love and leave the less important stuff – exorbitant riches, perhaps – behind. Ultimately, passion is what will help us make it through the tough times that inevitably wait ahead. “If you haven’t found your passion, keep looking, don’t try to force something on yourself or settle for what might be of interest,” Bachenheimer says. “Keep looking for new opportunities and experiences, expand your network, keep your radar on, and don’t settle!”
-
-[![](image13941.jpg)](http://www.crainsnewyork.com/article/20140318/PROFESSIONAL_SERVICES/303169996/biz-school-courses-focus-on-giving-back)
-
-Biz-school courses focus on giving back
-
-March 17, 2014<br/>
-By Anne Field
-
-[![](image1392.jpg)](http://www.crainsnewyork.com/article/20140318/PROFESSIONAL_SERVICES/303169996/biz-school-courses-focus-on-giving-back)
-
-Today's M.B.A.s are well aware that big corporations now expect executives to be conversant in matters related to a company's broader impact, such as its carbon footprint and practices in vetting its supply chain for human-rights violations—and expect to have access to courses that help them learn this area of business. "This is coming from the bottom up," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University.
-
-[![](image13861.jpg)](http://www.computerworld.com/s/article/9246907/White_House_urges_geeks_to_get_healthcare_coverage_launch_start_ups)
-
-White House urges ‘geeks’ to get healthcare coverage, launch startups
-
-March 12, 2014
-
-By Patrick Thibodeau
-
-[![](image1375.jpg)](http://www.computerworld.com/s/article/9246907/White_House_urges_geeks_to_get_healthcare_coverage_launch_start_ups)
-
-Bruce Bachenheimer, a professor of management at Pace University and director of its Entrepreneurship Lab, said the White House effort "is a not so thinly veiled attempt to get younger and healthier Americans to register for Obamacare."
-
-Bachenheimer said this latest effort is in the same vein as President Obama's recent appearance on Between Two Ferns, a Web-based video show with Zach Galifianakis, on the FunnyOrDie website.
-
-Bachenheimer said the term geeks "may still be perceived with a somewhat negative connotation and not broadly associated with entrepreneurs in general. Meaning an entrepreneur would be the business leader that makes the decision to get coverage, while the geek may be the employee that expects to have coverage at the start-up he or she works for.
-
-"I really believe Marshall McLuhan was right when he said 'the medium is the message.' "A canned infomercial on WhiteHouse.gov is not the right medium -- think viral," Bachenheimer said.
-
-[![](image13841.jpg)](http://workreimagined.aarp.org/explore-your-options/ace-grad-school-decades-after-your-ba)
-
-Ace Grad School, Decades After Your BA
-
-March 6, 2014
-
-By Elaine Pofeldt
-
-[![](image1382.jpg)](http://workreimagined.aarp.org/explore-your-options/ace-grad-school-decades-after-your-ba)
-
-Motivated by a desire to get ahead in their careers or pivot into new ones, they bring tremendous drive to their studies, say professors who work with them. “People of typical college age might be going through the motions. Adult students are determined,” says Bruce Bachenheimer, 53, who runs the Entrepreneurship Lab at Pace University in New York (and went back to school for an MBA just before he turned 40).
-
-Embrace Being a Novice Work experience can be a powerful advantage, especially if you’ve road tested what you are studying, notes Bachenheimer. Nonetheless, you’re there to learn—not prove your expertise as you would at work. Giving yourself permission to not know the course material before you walk in the door can help you relax and keep pace with younger students who, without feeling the need to prove their authority, just dive in.
-
-Socialize Your Own Way Joining study groups with fellow students or showing up for career networking activities can help you get more out of any academic program, but it can be tricky for midlife students to navigate other opportunities to socialize.
-
-[![logo](image13691.jpg)](http://www.officeleasecenter.com/articles/january-27th-2014-disruptive-technologists-in-nyc.html)
-
-January 27th, 2014 Disruptive Technologists in NYC
-
-February 4, 2014<br/>
-By Stephanie Lowe
-
-[![](image1367.jpg)](http://www.officeleasecenter.com/articles/january-27th-2014-disruptive-technologists-in-nyc.html)
-
-![http://www.officeleasecenter.com/uploads/images/Entrepreneurship%20Lab.jpg](image16161.jpg)Bruce Bachenheimer, Professor and Director of Entrepreneurship Lab at Pace University, discussed social media uses and growing trends on topics of anonymity and authenticity on the internet. Questions raised by the audience include the role privacy plays to which Bachenheimer emphasized the “importance in developing a means for authentic anonymity” to thrive online. To learn about the Pace University Entrepreneurship Lab, visit their [website](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab).
-
-[![](image6561.png)](http://www.inc.com/magazine/201402/elaine-pofeldt/starting-a-company-without-a-partner.html)
-
-The Perils of Starting a Business On Your Own
-
-January 16, 2014<br/>
-By Elaine Pofeldt
-
-[![](image1352.jpg)](http://www.inc.com/magazine/201402/elaine-pofeldt/starting-a-company-without-a-partner.html)
-
-Myopia is another hazard. Without constant reality checks from a co-founder, it's easy to fall in love with your own plans and waste resources on bad ideas. Setting up an active advisory board of startup veterans can help you avoid that trap, says Bruce Bachenheimer, a management professor who runs the Entrepreneurship Lab at Pace University. He's talking about the kind of people who will ask in-your-face questions that you--and, later, your employees--might be afraid to pose, such as: "Why are you putting all your time into this?" "How come we're not going after a different client?" "Shouldn't we be raising our prices and investing in infrastructure?
-
-[![](image6363.png)](http://www.cnbc.com/id/101313179/page/6)
-
-Also featured in:
-
-[![](image1360.png)](http://www.usatoday.com/story/money/business/2014/01/12/10-tips-for-making-the-perfect-pitch-cnbc/4396281/)[![](image13611.png)](http://www.entrepreneur.com/slideshow/230715#5)
-
-Ten tips for making the perfect pitch
-
-January 4, 2014<br/>
-By Daniel Bukszpan
-
-[![](image1344.jpg)](http://www.cnbc.com/id/101313179/page/6)
-
-“You must effectively communicate genuine passion and real expertise," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University. "Investors know that even truly great business ideas are incredibly hard to successfully execute, so you better convince them you are committed and know what you're doing if you want their money."
-
-
+[![MBA Programs](images/mbaprograms.jpg)](http://www.mbaprograms.org/mbaprograms/entrepreneurship) <br/>
+[Original Link](http://www.mbaprograms.org/mbaprograms/entrepreneurship) <br/>
+**The Online MBA in Entrepreneurship Explained** <br/>
+October 1, 2014 <br/>
+> Even though some people argue that entrepreneurship cannot be taught, business schools are giving it their best shot with programs aimed at helping students launch startups. Actually, while most of the coursework is targeting those who want to be their own boss, some programs are also offering general management training and introduction to an entrepreneurial mindset, which can be applied to traditional jobs.
+>
+>"These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today's hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work," says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University.
+
+[![The New Entrepreneurz: Changing the Way You Play Life](images/thenewentrepreneurz.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118837606.html) <br/>
+[![](image1416.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118837606.html) <br/>
+**The New Entrepreneurz: Changing the way you play life** <br/>
+© 2014 <br/>
+By **Ronen Gafni** and **Simcha Gluck** <br/>
+> Pace University Professor Bruce Bachenheimer was profiled in The New Entrepreneurz, a book written by Ronen Gafni and Simcha Gluck, which was published by Wiley in 2014. The profile appears on pages 32 to 35. The following is an excerpt (the profile may be found at [http://bit.ly/TheNewEntrepreneurz](http://bit.ly/TheNewEntrepreneurz)):
+>
+> Here's a story of a Life Hacker, someone who plays many games in life and is an awesome human being as well. We met Professor Bruce Bachenheimer when we prelaunched the FreshBiz workshops in New York City and one of our partners had set up a morning meeting for us.
+>
+> Bruce started out as a successful Wall Street trader. He remembers the first time he did a trade for a billion dollars in one clip. Everyone viewed him as hugely successful. The sensible thing for him to do would have been to continue making money on Wall Street and live the American Dream. But Bruce, an entrepreneurial thinker, had other plans. Reading Walden; or, Life in the Woods by Henry David Thoreau led him to realize how uninspired he was. He felt that doing more of the same for money and prestige lacked purpose and pleasure. He left his job, bought a boat, learned to sail, and spent the next seven years sailing. He even named his 36-foot yacht Deliberate from a passage in Thoreau's book. It was his reminder always to live life deliberately, with choice, power, and conviction.
+>
+> He explained to us how much he loves living the type of life where anything could happen next. This is exactly what we mean by New Entrepreneurz, Life Hackers, and Gamers who play multiple games. We'd love to see more professors like Bruce inspiring students and entrepreneurs through their real-life know-how and not just through classroom knowledge.
+
+[![Crains New York](images/crains.jpg)](http://www.crainsnewyork.com/article/20140610/SMALLBIZ/306089995/owners-get-squeezed) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20140610/SMALLBIZ/306089995/owners-get-squeezed) <br/>
+**Owners get squeezed** <br/>
+June 9, 2014 <br/>
+By Anne Field <br/>
+> Meanwhile, as in the nation as a whole, median household income in the New York area has declined recently. As a result, these consumers are watching their pennies—and the companies serving them are feeling it. “The middle-class income squeeze is definitely hurting small businesses,” said Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University.
+>
+> The situation is particularly acute in New York. “Because of the high cost of living in general in New York, you see these pressures on the middle class even more,” said Mr. Bachenheimer.
+
+[![ECommerceTimes](images/ecommercetimes.jpg)](http://www.ecommercetimes.com/story/Facebook-Seeks-Better-Fit-With-Small-Biz-80413.html) <br/>
+[Original Link](http://www.ecommercetimes.com/story/Facebook-Seeks-Better-Fit-With-Small-Biz-80413.html) <br/>
+**Facebook Seeks Better Fit With Small Biz** <br/>
+May 7, 2014 <br/>
+By **John P. Mello Jr.** <br/>
+> Facebook is reaching out to small businesses with a series of summer boot camps designed to load them with expert advice on how to become successful. Of course, part of that advice includes "advertise on Facebook." This "could really pay off, both in terms of additional revenue and driving interaction between small businesses and their customers on Facebook," said business prof Bruce Bachenheimer.
+>
+> The Facebook Fit boot camps can bring home to small business owners how easy it is to reach an audience for their products and services, noted Bruce Bachenheimer, a management professor at Pace University's Lubin School of Business.
+>
+> "A big bulk of small businesses are people who don't use Facebook or only use it casually, so they wouldn't know how to use it to promote a business," he told the E-Commerce Times.
+>
+> "They are a potentially huge, untapped market, and by investing a small amount of money in educating people and training them how to use it -- hand-holding them on how to use it -- it could really pay off, both in terms of additional revenue and driving interaction between small businesses and their customers on Facebook," Bachenheimer explained.
+>
+>"This a bright strategy that could increase small business advertising on Facebook through word of mouth," he added.
+
+[![Wallet Hub](images/wallethub.jpg)](https://wallethub.com/edu/best-cities-for-wallet-wellness/2862/) <br/>
+[Original Link](https://wallethub.com/edu/best-cities-for-wallet-wellness/2862/) <br/>
+**BizAsk The Experts: Wallet Wellness Tips** <br/>
+April 3, 2014 <br/>
+By **John S. Kiernan** <br/>
+> 10\. Find Your Passion: We’ve all heard others described as never having worked a day their lives -- figuratively, of course. Why can’t that be us? The work week doesn’t have to be drudgery; it can actually be fun. You just have to find something you love and leave the less important stuff – exorbitant riches, perhaps – behind. Ultimately, passion is what will help us make it through the tough times that inevitably wait ahead. “If you haven’t found your passion, keep looking, don’t try to force something on yourself or settle for what might be of interest,” Bachenheimer says. “Keep looking for new opportunities and experiences, expand your network, keep your radar on, and don’t settle!”
+
+[![Crains](images/crains.jpg)](http://www.crainsnewyork.com/article/20140318/PROFESSIONAL_SERVICES/303169996/biz-school-courses-focus-on-giving-back) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20140318/PROFESSIONAL_SERVICES/303169996/biz-school-courses-focus-on-giving-back) <br/>
+**Biz-school courses focus on giving back** <br/>
+March 17, 2014 <br/>
+By **Anne Field** <br/>
+> Today's M.B.A.s are well aware that big corporations now expect executives to be conversant in matters related to a company's broader impact, such as its carbon footprint and practices in vetting its supply chain for human-rights violations—and expect to have access to courses that help them learn this area of business. "This is coming from the bottom up," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University.
+
+[![Computer World](images/computerworld.jpg)](http://www.computerworld.com/s/article/9246907/White_House_urges_geeks_to_get_healthcare_coverage_launch_start_ups) <br/>
+[![](image1375.jpg)](http://www.computerworld.com/s/article/9246907/White_House_urges_geeks_to_get_healthcare_coverage_launch_start_ups) <br/>
+**White House urges ‘geeks’ to get healthcare coverage, launch startups** <br/>
+March 12, 2014 <br/>
+By **Patrick Thibodeau** <br/>
+> Bruce Bachenheimer, a professor of management at Pace University and director of its Entrepreneurship Lab, said the White House effort "is a not so thinly veiled attempt to get younger and healthier Americans to register for Obamacare."
+>
+> Bachenheimer said this latest effort is in the same vein as President Obama's recent appearance on Between Two Ferns, a Web-based video show with Zach Galifianakis, on the FunnyOrDie website.
+> 
+> Bachenheimer said the term geeks "may still be perceived with a somewhat negative connotation and not broadly associated with entrepreneurs in general. Meaning an entrepreneur would be the business leader that makes the decision to get coverage, while the geek may be the employee that expects to have coverage at the start-up he or she works for.
+>
+> "I really believe Marshall McLuhan was right when he said 'the medium is the message.' "A canned infomercial on WhiteHouse.gov is not the right medium -- think viral," Bachenheimer said.
+
+[![AARP](images/aarp.jpg)](http://workreimagined.aarp.org/explore-your-options/ace-grad-school-decades-after-your-ba) <br/>
+[![](image1382.jpg)](http://workreimagined.aarp.org/explore-your-options/ace-grad-school-decades-after-your-ba) <br/>
+**Ace Grad School, Decades After Your BA** <br/>
+March 6, 2014 <br/>
+By **Elaine Pofeldt** <br/>
+> Motivated by a desire to get ahead in their careers or pivot into new ones, they bring tremendous drive to their studies, say professors who work with them. “People of typical college age might be going through the motions. Adult students are determined,” says Bruce Bachenheimer, 53, who runs the Entrepreneurship Lab at Pace University in New York (and went back to school for an MBA just before he turned 40).
+>
+> Embrace Being a Novice Work experience can be a powerful advantage, especially if you’ve road tested what you are studying, notes Bachenheimer. Nonetheless, you’re there to learn—not prove your expertise as you would at work. Giving yourself permission to not know the course material before you walk in the door can help you relax and keep pace with younger students who, without feeling the need to prove their authority, just dive in.
+> 
+> Socialize Your Own Way Joining study groups with fellow students or showing up for career networking activities can help you get more out of any academic program, but it can be tricky for midlife students to navigate other opportunities to socialize.
+
+[![Office Lease Center](images/OfficeLease.jpg)](http://www.officeleasecenter.com/articles/january-27th-2014-disruptive-technologists-in-nyc.html) <br/>
+[Original Link](http://www.officeleasecenter.com/articles/january-27th-2014-disruptive-technologists-in-nyc.html) <br/>
+**January 27th, 2014 Disruptive Technologists in NYC**
+February 4, 2014 <br/>
+By **Stephanie Lowe** <br/>
+> ![http://www.officeleasecenter.com/uploads/images/Entrepreneurship%20Lab.jpg](images/image16161.jpg)
+>
+> Bruce Bachenheimer, Professor and Director of Entrepreneurship Lab at Pace University, discussed social media uses and growing trends on topics of anonymity and authenticity on the internet. Questions raised by the audience include the role privacy plays to which Bachenheimer emphasized the “importance in developing a means for authentic anonymity” to thrive online. To learn about the Pace University Entrepreneurship Lab, visit their [website](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab).
+
+[![Inc](images/Inc.png)](http://www.inc.com/magazine/201402/elaine-pofeldt/starting-a-company-without-a-partner.html) <br/>
+[![](image1352.jpg)](http://www.inc.com/magazine/201402/elaine-pofeldt/starting-a-company-without-a-partner.html) <br/>
+**The Perils of Starting a Business On Your Own** <br/>
+January 16, 2014 <br/>
+By **Elaine Pofeldt** <br/>
+> Myopia is another hazard. Without constant reality checks from a co-founder, it's easy to fall in love with your own plans and waste resources on bad ideas. Setting up an active advisory board of startup veterans can help you avoid that trap, says Bruce Bachenheimer, a management professor who runs the Entrepreneurship Lab at Pace University. He's talking about the kind of people who will ask in-your-face questions that you--and, later, your employees--might be afraid to pose, such as: "Why are you putting all your time into this?" "How come we're not going after a different client?" "Shouldn't we be raising our prices and investing in infrastructure?
+
+[![CNBC](images/cnbc.png)](http://www.cnbc.com/id/101313179/page/6) <br/>
+[Original Link](http://www.cnbc.com/id/101313179/page/6) <br/>
+Also featured in: <br/>
+[![USA Today](iamges/UsaToday.png)](http://www.usatoday.com/story/money/business/2014/01/12/10-tips-for-making-the-perfect-pitch-cnbc/4396281/) <br/>
+[![Entrepreneur](images/entrepreneur.jpg)](http://www.entrepreneur.com/slideshow/230715#5) <br/>
+**Ten tips for making the perfect pitch** <br/>
+January 4, 2014 <br/>
+By **Daniel Bukszpan**
+> “You must effectively communicate genuine passion and real expertise," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University. "Investors know that even truly great business ideas are incredibly hard to successfully execute, so you better convince them you are committed and know what you're doing if you want their money."
 
 [![](image8888.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)[![](image5555.jpg)](../press/Newsday_12-1-13.pdf)
 
