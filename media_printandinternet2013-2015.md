@@ -395,7 +395,7 @@ By **Anne Field** <br/>
 > Today's M.B.A.s are well aware that big corporations now expect executives to be conversant in matters related to a company's broader impact, such as its carbon footprint and practices in vetting its supply chain for human-rights violations—and expect to have access to courses that help them learn this area of business. "This is coming from the bottom up," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University.
 
 [![Computer World](images/computerworld.jpg)](http://www.computerworld.com/s/article/9246907/White_House_urges_geeks_to_get_healthcare_coverage_launch_start_ups) <br/>
-[![](image1375.jpg)](http://www.computerworld.com/s/article/9246907/White_House_urges_geeks_to_get_healthcare_coverage_launch_start_ups) <br/>
+[Original Link](http://www.computerworld.com/s/article/9246907/White_House_urges_geeks_to_get_healthcare_coverage_launch_start_ups) <br/>
 **White House urges ‘geeks’ to get healthcare coverage, launch startups** <br/>
 March 12, 2014 <br/>
 By **Patrick Thibodeau** <br/>
@@ -408,7 +408,7 @@ By **Patrick Thibodeau** <br/>
 > "I really believe Marshall McLuhan was right when he said 'the medium is the message.' "A canned infomercial on WhiteHouse.gov is not the right medium -- think viral," Bachenheimer said.
 
 [![AARP](images/aarp.jpg)](http://workreimagined.aarp.org/explore-your-options/ace-grad-school-decades-after-your-ba) <br/>
-[![](image1382.jpg)](http://workreimagined.aarp.org/explore-your-options/ace-grad-school-decades-after-your-ba) <br/>
+[Original Link](http://workreimagined.aarp.org/explore-your-options/ace-grad-school-decades-after-your-ba) <br/>
 **Ace Grad School, Decades After Your BA** <br/>
 March 6, 2014 <br/>
 By **Elaine Pofeldt** <br/>
@@ -420,7 +420,7 @@ By **Elaine Pofeldt** <br/>
 
 [![Office Lease Center](images/OfficeLease.jpg)](http://www.officeleasecenter.com/articles/january-27th-2014-disruptive-technologists-in-nyc.html) <br/>
 [Original Link](http://www.officeleasecenter.com/articles/january-27th-2014-disruptive-technologists-in-nyc.html) <br/>
-**January 27th, 2014 Disruptive Technologists in NYC**
+**January 27th, 2014 Disruptive Technologists in NYC** <br/>
 February 4, 2014 <br/>
 By **Stephanie Lowe** <br/>
 > ![http://www.officeleasecenter.com/uploads/images/Entrepreneurship%20Lab.jpg](images/image16161.jpg)
@@ -428,7 +428,7 @@ By **Stephanie Lowe** <br/>
 > Bruce Bachenheimer, Professor and Director of Entrepreneurship Lab at Pace University, discussed social media uses and growing trends on topics of anonymity and authenticity on the internet. Questions raised by the audience include the role privacy plays to which Bachenheimer emphasized the “importance in developing a means for authentic anonymity” to thrive online. To learn about the Pace University Entrepreneurship Lab, visit their [website](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab).
 
 [![Inc](images/Inc.png)](http://www.inc.com/magazine/201402/elaine-pofeldt/starting-a-company-without-a-partner.html) <br/>
-[![](image1352.jpg)](http://www.inc.com/magazine/201402/elaine-pofeldt/starting-a-company-without-a-partner.html) <br/>
+[Original Link](http://www.inc.com/magazine/201402/elaine-pofeldt/starting-a-company-without-a-partner.html) <br/>
 **The Perils of Starting a Business On Your Own** <br/>
 January 16, 2014 <br/>
 By **Elaine Pofeldt** <br/>
@@ -437,7 +437,7 @@ By **Elaine Pofeldt** <br/>
 [![CNBC](images/cnbc.png)](http://www.cnbc.com/id/101313179/page/6) <br/>
 [Original Link](http://www.cnbc.com/id/101313179/page/6) <br/>
 Also featured in: <br/>
-[![USA Today](iamges/UsaToday.png)](http://www.usatoday.com/story/money/business/2014/01/12/10-tips-for-making-the-perfect-pitch-cnbc/4396281/) <br/>
+[![USA Today](images/UsaToday.png)](http://www.usatoday.com/story/money/business/2014/01/12/10-tips-for-making-the-perfect-pitch-cnbc/4396281/) <br/>
 [![Entrepreneur](images/entrepreneur.jpg)](http://www.entrepreneur.com/slideshow/230715#5) <br/>
 **Ten tips for making the perfect pitch** <br/>
 January 4, 2014 <br/>
