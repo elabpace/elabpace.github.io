@@ -17,7 +17,6 @@
 ## Online
 - LinkedIn: [www.linkedin.com/in/brucebach](http://www.linkedin.com/in/brucebach)
 - Twitter:  [www.twitter.com/brucebach](http://twitter.com/brucebach) @brucebach
-- Google+:  [www.google.com/+BruceBachenheimer](http://www.google.com/+BruceBachenheimer)
 - Skype:    bruce.bachenheimer
 
 ---
