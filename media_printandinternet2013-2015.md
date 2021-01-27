@@ -444,19 +444,14 @@ January 4, 2014 <br/>
 By **Daniel Bukszpan**
 > “You must effectively communicate genuine passion and real expertise," said Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University. "Investors know that even truly great business ideas are incredibly hard to successfully execute, so you better convince them you are committed and know what you're doing if you want their money."
 
-[![](image8888.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)[![](image5555.jpg)](../press/Newsday_12-1-13.pdf)
-
-Crowdfunding for investors
-
-December 1, 2013
-
-By Sheryl Nance-Nash
-
-[![](image7975.jpg)](../press/Entrepreneurship-SampleChapter.pdf)[![](image5557.jpg)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386)
-
-These start-ups represent a new asset class for individual investors, allowing them to diversify and participate in a potentially lucrative sector of the market, says Bruce Bachenheimer, director of the Entrepreneurship Lab and professor at Pace University in New York.
-
-"You could lose your entire investment quickly," warns Bachenheimer.
+[![Newsday](images/newsday.png)](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386) <br/>
+[Original Link](http://www.newsday.com/news/money-fix-crowdfunding-for-investors-1.6496386) | [PDF Version](files/Newsday_12-1-13.pdf) <br/>
+**Crowdfunding for investors** <br/>
+December 1, 2013 <br/>
+By **Sheryl Nance-Nash** <br/>
+> These start-ups represent a new asset class for individual investors, allowing them to diversify and participate in a potentially lucrative sector of the market, says Bruce Bachenheimer, director of the Entrepreneurship Lab and professor at Pace University in New York.
+>
+> "You could lose your entire investment quickly," warns Bachenheimer.
 
 [![](image55751.png)](http://myinternationaladventure.com/11/young-american-entrepreneurs-abroad/)[![](image5571.jpg)](../press/MyInternationalAdventure_11-25-13.pdf)
 
