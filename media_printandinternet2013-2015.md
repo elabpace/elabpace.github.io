@@ -496,19 +496,16 @@ By **Tricia Bisoux** <br/>
 > **What Makes a Great Center?**<br/>
 > Listen to users. “There’s an old saying, ‘Why give customers what they want when we know what they need?’” jokes Bruce Bachenheimer of Pace University. But he emphasizes that entrepreneurship centers must let users help direct their design. Pace’s eLab is equipped with the latest computer equipment, but it turns out most students “just need big tables, power outlets, fast wi-fi , and a refrigerator.”
 
-[![](image5989.jpg)](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html)[![](image5994.jpg)](../press/E-CommerceTimes_10-23-13.pdf)
-
-SEC Opens the Door to Crowdfunding<br/>
-October, 23 2013<br/>
-By Erika Morphy
-
-[![](image5987.jpg)](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html)
-
-'Field of Dreams'
-
-Even with the SEC's cautious approach, however, crowd funding's appeal will likely translate into, at the very least, dashed hopes on the part of both investors and businesses, Bruce Bachenheimer, a professor of management at Pace University, told the E-Commerce Times.
-
-"While there are many exciting possibilities that could come from the act, I'm afraid it will result in an amateur 'field of dreams,'" he said -- "early startups dreaming of easy funding and nascent individual investors dreaming of big returns."
+[![eCommerce Times](images/ecommercetimes.jpg)](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html) <br/>
+[Original Link](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html) | [PDF Version](files/E-CommerceTimes_10-23-13.pdf) <br/>
+**SEC Opens the Door to Crowdfunding** <br/>
+October, 23 2013 <br/>
+By **Erika Morphy** <br/>
+> **'Field of Dreams'**
+>
+> Even with the SEC's cautious approach, however, crowd funding's appeal will likely translate into, at the very least, dashed hopes on the part of both investors and businesses, Bruce Bachenheimer, a professor of management at Pace University, told the E-Commerce Times.
+>
+> "While there are many exciting possibilities that could come from the act, I'm afraid it will result in an amateur 'field of dreams,'" he said -- "early startups dreaming of easy funding and nascent individual investors dreaming of big returns."
 
 [![](image58741.png)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html)
 
@@ -516,34 +513,44 @@ Also featured in:
 
 [Dodge Globe](http://business-news.thestreet.com/dodgeglobe/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Finanzen.ch](http://www.finanzen.ch/Nachrichten/Entertaining-Clients-Save-Your-Money-2704218), [Fowler Tribune](http://business-news.thestreet.com/fowlertribune/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Galva News](http://business-news.thestreet.com/galvanews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Geneseo Republic](http://business-news.thestreet.com/geneseorepublic/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Hamburg Reporter](http://business-news.thestreet.com/hamburgreporter/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Journal Star](http://business-news.thestreet.com/pjstar/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Nevada County Picayune](http://business-news.thestreet.com/picayune-times/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Oak Ridger](http://business-news.thestreet.com/oakridger/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Philly.com](http://business-news.thestreet.com/philly/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [SC Sun Times](http://business-news.thestreet.com/scsuntimes/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Sussex Countian](http://business-news.thestreet.com/sussexcountian/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), and [The Daily Republican](http://business-news.thestreet.com/dailyrepublicannews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1)
 
-[![](image5879.jpg)](../press/TheStreet_10-9-13.pdf)
-
-Entertaining Clients? Save Your Money
-
-October 9, 2013<br/>
-By Kathryn Tuggle
-
-[![](image5872.jpg)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html)
-
-"In the 1980s, you couldn't spend enough money," says Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York. "But today clients are saying, 'Forget the hunting trip, forget the lavish treatment -- just give me a better price."
-
-Client spending -- and the perception of what "acceptable" client spending is -- has evolved over the past decade, Bachenheimer says. The dot-com crash in 2000 inspired companies to re-examine their investment priorities, and after 9/11 companies saw more urgency in preparing for the inevitable "rainy day." The "final straw" occurred most recently in 2008, when businesses were forced to pare down to their most essential operating costs -- and extravagant client treatment just didn't make the cut.
-
-"Nowadays there's just a level of uncomfortability for the giver and the receiver," Bachenheimer says. "If you're rolling out the red carpet for a customer, they're going to assume you have incredibly high margins to do all that spending. They're going to think, 'Oh, he's overcharging everyone -- including me -- in order to afford all this."
-
-Some of them may even start to wonder, "Did I sign this contract because I was effectively bribed?" Bachenheimer says.
-
-With that said, a company's business is much easier to buy than it was just a few years ago, Bachenheimer says.
-
-"American firms spend roughly 10% of their revenue on marketing. That's not a lot, and gifts and entertainment can eat up a lot of that," he says. "But when you start looking at how cheap digital marketing is -- more importantly, how effective it is -- suddenly, spending big money to wine and dine doesn't seem very cost effective, and companies have realized this."
-
-But there are always a few exceptions to the rule, Bachenheimer says.
-
-"Companies need to examine the cost of new customer acquisition and the lifetime value of a customer. If you're forced to compete with a slew of other companies for someone's business, but that relationship will be lifelong, then it's worth the extra expense," he says. "Also, if you're in an industry where your clients are very high net worth individuals, you're not going to get their business by going by their home in Greenwich and sticking a flier under the windshield wiper of their Rolls-Royce."
-
-Another interesting exception is if your client is potentially sitting on the "next big thing," in business, Bachenheimer says.
-
-"Say there's a hot new social media company. It could be just a bunch of kids, but if everyone believes it will be the next Instagram or Twitter, then it's worth getting them on your side," he says.
+[![The Street](images/thestreet.png)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html) <br/>
+[Original Link](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html) | [PDF Version](files/TheStreet_10-9-13.pdf) <br/>
+Also featured in: <br/>
+[Dodge Globe](http://business-news.thestreet.com/dodgeglobe/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Finanzen.ch](http://www.finanzen.ch/Nachrichten/Entertaining-Clients-Save-Your-Money-2704218), <br/>
+[Fowler Tribune](http://business-news.thestreet.com/fowlertribune/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Galva News](http://business-news.thestreet.com/galvanews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Geneseo Republic](http://business-news.thestreet.com/geneseorepublic/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Hamburg Reporter](http://business-news.thestreet.com/hamburgreporter/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Journal Star](http://business-news.thestreet.com/pjstar/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Nevada County Picayune](http://business-news.thestreet.com/picayune-times/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Oak Ridger](http://business-news.thestreet.com/oakridger/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Philly.com](http://business-news.thestreet.com/philly/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[SC Sun Times](http://business-news.thestreet.com/scsuntimes/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
+[Sussex Countian](http://business-news.thestreet.com/sussexcountian/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1) <br/>
+The Daily Republican](http://business-news.thestreet.com/dailyrepublicannews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1) <br/>
+**Entertaining Clients? Save Your Money** <br/>
+October 9, 2013 <br/>
+By **Kathryn Tuggle** <br/>
+> "In the 1980s, you couldn't spend enough money," says Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University in New York. "But today clients are saying, 'Forget the hunting trip, forget the lavish treatment -- just give me a better price."
+>
+> Client spending -- and the perception of what "acceptable" client spending is -- has evolved over the past decade, Bachenheimer says. The dot-com crash in 2000 inspired companies to re-examine their investment priorities, and after 9/11 companies saw more urgency in preparing for the inevitable "rainy day." The "final straw" occurred most recently in 2008, when businesses were forced to pare down to their most essential operating costs -- and extravagant client treatment just didn't make the cut.
+>
+> "Nowadays there's just a level of uncomfortability for the giver and the receiver," Bachenheimer says. "If you're rolling out the red carpet for a customer, they're going to assume you have incredibly high margins to do all that spending. They're going to think, 'Oh, he's overcharging everyone -- including me -- in order to afford all this."
+>
+> Some of them may even start to wonder, "Did I sign this contract because I was effectively bribed?" Bachenheimer says.
+>
+> With that said, a company's business is much easier to buy than it was just a few years ago, Bachenheimer says.
+>
+> "American firms spend roughly 10% of their revenue on marketing. That's not a lot, and gifts and entertainment can eat up a lot of that," he says. "But when you start looking at how cheap digital marketing is -- more importantly, how effective it is -- suddenly, spending big money to wine and dine doesn't seem very cost effective, and companies have realized this."
+>
+> But there are always a few exceptions to the rule, Bachenheimer says.
+>
+> "Companies need to examine the cost of new customer acquisition and the lifetime value of a customer. If you're forced to compete with a slew of other companies for someone's business, but that relationship will be lifelong, then it's worth the extra expense," he says. "Also, if you're in an industry where your clients are very high net worth individuals, you're not going to get their business by going by their home in Greenwich and sticking a flier under the windshield wiper of their Rolls-Royce."
+>
+> Another interesting exception is if your client is potentially sitting on the "next big thing," in business, Bachenheimer says.
+>
+> "Say there's a hot new social media company. It could be just a bunch of kids, but if everyone believes it will be the next Instagram or Twitter, then it's worth getting them on your side," he says.
 
 [![](image58441.jpg)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups)
 
