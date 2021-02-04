@@ -471,32 +471,30 @@ November 25, 2013 <br/>
 >
 > How can young American entrepreneurs improve their chance of start-up success? “I would highly recommend that they do their homework,” Bachenheimer says. “What are the country’s immigration laws as they pertain to working and starting a business? What are the employment rules? What are the tax rules? Do your due diligence thoroughly.”
 
-[![](image55351.jpg)](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem/)[![](image55311.jpg)](../press/NYCMediaLab_11-8-13.pdf)
+[![NYC Media Lab](images/nycmedialab.jpg)](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem) <br/>
+[Original Link](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem) | [PDF Version](files/NYCMediaLab_11-8-13.pdf) <br/>
+**Panel Convenes to Spotlight Universities’ Role in NYC’s Entrepreneurial Ecosystem** <br/>
+November 8, 2013 <br/>
+> [![](images/image5533.jpg)](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem/) On Thursday, November 7, Pace University’s [Entrepreneurship Lab](http://www.pace.edu/elab) and the [MIT Enterprise Forum of NYC](http://www.mitef-nyc.org) hosted a forum to discuss the significance of universities in today’s rapidly changing ecosystem. Bruce Bachenheimer, Clinical Professor of Management and Director of the Entrepreneurship Lab at Pace University, moderated a panel stacked with those who can speak best to the potential of university collaborations: panelists included NYC Media Lab Oversight Board members Eric Gertler, Executive Vice President for [the New York City Economic Development Corporation](http://www.nycedc.com) and Managing Director for the Center for Economic Transformation and Orin Herskowitz, VP of Intellectual Property and [Tech Transfer at Columbia University](http://www.techventures.columbia.edu); as well as Debera Johnson, Executive Director, [Center for Sustainable Design Studies and Research](http://csds.pratt.edu) at Pratt and Geoffrey W. Smith, Director,[Center for Technology, Innovation, and Entrepreneurship](http://icahn.mssm.edu/research/centers/center-for-technology-innovation-and-entrepreneurship) at the Icahn School of Medicine at Mount Sinai Hospital.
 
-Panel Convenes to Spotlight Universities’ Role in NYC’s Entrepreneurial Ecosystem November 8, 2013<br/>
+[![Metro MBA](images/metromba.jpg)](http://www.metromba.com/2013/11/entrepreneurship-centers-reaching-students) <br/>
+[Original Link](http://www.metromba.com/2013/11/entrepreneurship-centers-reaching-students) | [PDF Version](files/MetroMBA_11-5-13.pdf) <br/>
+**MBA Entrepreneurship Centers Reaching Out To More Students** <br/>
+November 5, 2013 <br/>
+> The [Entrepreneurship Lab (eLab)](http://www.pace.edu/elab) at [Pace University’s Lubin School of Business](http://www.pace.edu/lubin) in New York City also has been pursuing interdisciplinary relationships. The center was opened in 2012, and it intends to support the school’s entrepreneurship classes by offering services and events, and to bring together Pace’s schools of arts and sciences, education computer science, business, and health. When speaking to BizEd, the director of the eLab, Bruce Bachenheimer, observed that the eLab has worked with students who wanted to develop new educational technologies to teach STEM subjects to high school students, and nursing students who want to develop mobile apps.
 
-[![](image5533.jpg)](http://www.nycmedialab.org/blog/2013/11/panel-convenes-to-spotlight-universities-role-in-nycs-entrepreneurial-ecosystem/) On Thursday, November 7, Pace University’s [Entrepreneurship Lab](http://www.pace.edu/elab) and the [MIT Enterprise Forum of NYC](http://www.mitef-nyc.org) hosted a forum to discuss the significance of universities in today’s rapidly changing ecosystem. Bruce Bachenheimer, Clinical Professor of Management and Director of the Entrepreneurship Lab at Pace University, moderated a panel stacked with those who can speak best to the potential of university collaborations: panelists included NYC Media Lab Oversight Board members Eric Gertler, Executive Vice President for [the New York City Economic Development Corporation](http://www.nycedc.com) and Managing Director for the Center for Economic Transformation and Orin Herskowitz, VP of Intellectual Property and [Tech Transfer at Columbia University](http://www.techventures.columbia.edu); as well as Debera Johnson, Executive Director, [Center for Sustainable Design Studies and Research](http://csds.pratt.edu) at Pratt and Geoffrey W. Smith, Director,[Center for Technology, Innovation, and Entrepreneurship](http://icahn.mssm.edu/research/centers/center-for-technology-innovation-and-entrepreneurship) at the Icahn School of Medicine at Mount Sinai Hospital.![](image1946.jpg)[![](image5579.jpg)](../press/MetroMBA_11-5-13.pdf)[![](image55811.jpg)](http://www.metromba.com/2013/11/entrepreneurship-centers-reaching-students/)
-
-MBA Entrepreneurship Centers Reaching Out To More Students November 5, 2013<br/>
-
-[![](image5583.jpg)](http://www.metromba.com/2013/11/entrepreneurship-centers-reaching-students/)
-
-The [Entrepreneurship Lab (eLab)](http://www.pace.edu/elab) at [Pace University’s Lubin School of Business](http://www.pace.edu/lubin) in New York City also has been pursuing interdisciplinary relationships. The center was opened in 2012, and it intends to support the school’s entrepreneurship classes by offering services and events, and to bring together Pace’s schools of arts and sciences, education computer science, business, and health. When speaking to BizEd, the director of the eLab, Bruce Bachenheimer, observed that the eLab has worked with students who wanted to develop new educational technologies to teach STEM subjects to high school students, and nursing students who want to develop mobile apps.
-
-[![](image4456.jpg)](http://www.bizedmagazine.com/features/articles/idea-central.asp)![](image5992.jpg)
-
-Bright Ideas: B-schools spark entrepreneurial thinking across g campus<br/>
-November/December 2013 (cover story)By Tricia Bisoux
-
-[![](image5984.jpg)](http://www.bizedmagazine.com/features/articles/idea-central.asp)
-
-Building Excitement<br/>
-Embracing an interdisciplinary purpose brings a sense of excitement to a business school and its entrepreneurial center, says Bruce Bachenheimer, who directs the Entrepreneurship Lab (eLab) at Pace University’s Lubin School of Business. Opened in February 2012 in a building near New York City Hall, eLab’s purpose is not only to augment the school’s entrepreneurship curriculum with events and services, but also to bring together the schools of business, arts and sciences, health professions, education, and computer science and information systems in cross disciplinary problem solving.
-
-“I recently met with education students who want to develop new educational technologies to teach STEM subjects to New York City high school students—they call themselves ‘edupreneurs,’” says Bachenheimer. “We’re working with nursing students to help them collaborate with computer science students to develop mobile apps for the field of gerontology. Bringing together students from different colleges has been exciting.” 
-
-WHAT MAKES A GREAT CENTER?<br/>
-Listen to users. “There’s an old saying, ‘Why give customers what they want when we know what they need?’” jokes Bruce Bachenheimer of Pace University. But he emphasizes that entrepreneurship centers must let users help direct their design. Pace’s eLab is equipped with the latest computer equipment, but it turns out most students “just need big tables, power outlets, fast wi-fi , and a refrigerator.”
+[![Biz Ed Magazine](images/bized.jpg)](http://www.bizedmagazine.com/features/articles/idea-central.asp) <br/>
+[Original Link](http://www.bizedmagazine.com/features/articles/idea-central.asp) <br/>
+**Bright Ideas: B-schools spark entrepreneurial thinking across campus** <br/>
+November/December 2013 <br/>
+By **Tricia Bisoux** <br/>
+> **Building Excitement**<br/>
+> Embracing an interdisciplinary purpose brings a sense of excitement to a business school and its entrepreneurial center, says Bruce Bachenheimer, who directs the Entrepreneurship Lab (eLab) at Pace University’s Lubin School of Business. Opened in February 2012 in a building near New York City Hall, eLab’s purpose is not only to augment the school’s entrepreneurship curriculum with events and services, but also to bring together the schools of business, arts and sciences, health professions, education, and computer science and information systems in cross disciplinary problem solving.
+>
+> “I recently met with education students who want to develop new educational technologies to teach STEM subjects to New York City high school students—they call themselves ‘edupreneurs,’” says Bachenheimer. “We’re working with nursing students to help them collaborate with computer science students to develop mobile apps for the field of gerontology. Bringing together students from different colleges has been exciting.” 
+>
+> **What Makes a Great Center?**<br/>
+> Listen to users. “There’s an old saying, ‘Why give customers what they want when we know what they need?’” jokes Bruce Bachenheimer of Pace University. But he emphasizes that entrepreneurship centers must let users help direct their design. Pace’s eLab is equipped with the latest computer equipment, but it turns out most students “just need big tables, power outlets, fast wi-fi , and a refrigerator.”
 
 [![](image5989.jpg)](http://www.ecommercetimes.com/story/SEC-Opens-the-Door-to-Crowdfunding-79267.html)[![](image5994.jpg)](../press/E-CommerceTimes_10-23-13.pdf)
 
