@@ -516,19 +516,7 @@ Also featured in:
 [![The Street](images/thestreet.png)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html) <br/>
 [Original Link](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html) | [PDF Version](files/TheStreet_10-9-13.pdf) <br/>
 Also featured in: <br/>
-[Dodge Globe](http://business-news.thestreet.com/dodgeglobe/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Finanzen.ch](http://www.finanzen.ch/Nachrichten/Entertaining-Clients-Save-Your-Money-2704218), <br/>
-[Fowler Tribune](http://business-news.thestreet.com/fowlertribune/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Galva News](http://business-news.thestreet.com/galvanews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Geneseo Republic](http://business-news.thestreet.com/geneseorepublic/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Hamburg Reporter](http://business-news.thestreet.com/hamburgreporter/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Journal Star](http://business-news.thestreet.com/pjstar/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Nevada County Picayune](http://business-news.thestreet.com/picayune-times/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Oak Ridger](http://business-news.thestreet.com/oakridger/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Philly.com](http://business-news.thestreet.com/philly/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[SC Sun Times](http://business-news.thestreet.com/scsuntimes/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), <br/>
-[Sussex Countian](http://business-news.thestreet.com/sussexcountian/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1) <br/>
-The Daily Republican](http://business-news.thestreet.com/dailyrepublicannews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1) <br/>
+[Dodge Globe](http://business-news.thestreet.com/dodgeglobe/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Finanzen.ch](http://www.finanzen.ch/Nachrichten/Entertaining-Clients-Save-Your-Money-2704218), [Fowler Tribune](http://business-news.thestreet.com/fowlertribune/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Galva News](http://business-news.thestreet.com/galvanews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Geneseo Republic](http://business-news.thestreet.com/geneseorepublic/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Hamburg Reporter](http://business-news.thestreet.com/hamburgreporter/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Journal Star](http://business-news.thestreet.com/pjstar/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Nevada County Picayune](http://business-news.thestreet.com/picayune-times/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Oak Ridger](http://business-news.thestreet.com/oakridger/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Philly.com](http://business-news.thestreet.com/philly/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [SC Sun Times](http://business-news.thestreet.com/scsuntimes/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Sussex Countian](http://business-news.thestreet.com/sussexcountian/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1) [The Daily Republican](http://business-news.thestreet.com/dailyrepublicannews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1) <br/>
 **Entertaining Clients? Save Your Money** <br/>
 October 9, 2013 <br/>
 By **Kathryn Tuggle** <br/>
