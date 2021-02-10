@@ -674,7 +674,7 @@ By **Anne Field** <br/>
 >
 > Last spring and fall, about 700 students attended sessions at seven schools run by representatives of more than 40 startups. "This is a way to take a lot of small companies and leverage them, so you're recruiting for a collection of cool startups," said Mr. Bachenheimer. "It's an economies-of-scale thing."
 
-[![Sydney Morning Herald](images/syndeymorningherald.jpg)](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
+[![Sydney Morning Herald](images/thesydneymorningherald.jpg)](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
 [Original Link](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) | [PDF Version](files/SMH_1-28-13.pdf) <br/>
 Also featured in: <br/>
 [![](images/theage.png)](http://www.theage.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
@@ -697,7 +697,7 @@ By **Matthew Hall** <br/>
 **Leading the Epic Revolution: How CIOs Drive Innovation and Create Value Across the Enterprise** <br/>
 © 2013 <br/>
 By **Hunter Muller** <br/>
-> [![](images/image5971.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) Pace University Professor Bruce Bachenheimer was profiled in Leading the Epic Revolution, a book written by Hunter Muller, which was published by Wiley in 2013. The profile appears on pages 55 to 57 and 221 - 223. The following is an excerpt (the profile may be found at [http://bit.ly/ProfessorOfInnovation](http://bit.ly/ProfessorOfInnovation)):
+> [![](images/image5971.png)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) Pace University Professor Bruce Bachenheimer was profiled in Leading the Epic Revolution, a book written by Hunter Muller, which was published by Wiley in 2013. The profile appears on pages 55 to 57 and 221 - 223. The following is an excerpt (the profile may be found at [http://bit.ly/ProfessorOfInnovation](http://bit.ly/ProfessorOfInnovation)):
 >
 > **Professor of Innovation**
 >
