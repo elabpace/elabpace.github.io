@@ -534,14 +534,14 @@ By **Kathryn Tuggle** <br/>
 >
 > "Say there's a hot new social media company. It could be just a bunch of kids, but if everyone believes it will be the next Instagram or Twitter, then it's worth getting them on your side," he says.
 
-[![The Daily Voice](images/pleasantvilledailyvoice.png)](http://pleasantville.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) <br/>
-[Original Link](http://pleasantville.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) | [PDF Version](files/DailyVoice_10-4-13.pdf) <br/>
+[![The Briarcliff Daily Voice](images/briarcliffdailyvoice.jpg)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) <br/>
+[Original Link](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) | [PDF Version](files/DailyVoice_10-4-13.pdf) <br/>
 Also featured in: <br/>
-[![The Daily Voice](images/briarcliffdailyvoice.png)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) <br/>
+[![The Pleasantville Daily Voice](images/pleasantvilledailyvoice.jpg)](http://pleasantville.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) <br/>
 **Pace Professor Discusses Obamacare’s Impact On Tech Startups** <br/>
 October 4, 2013 <br/>
 By **Joe Jenkins** <br/>
-> ![](images/image5997.png)
+> ![Bruce](images/image5997.png)
 >
 > Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University told computerworld.com that Obamacare could have a positive impact on tech startups.
 >
