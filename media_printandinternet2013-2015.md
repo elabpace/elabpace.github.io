@@ -600,7 +600,7 @@ By **Patrick Thibodeau** <br/>
 >
 > While Obamacare may lead to an increase in start-ups, there's another side to the coin. Once a start-up nears 50 full-time employees -- the threshold for taking on insurance coverage responsibilities under the law -- it might prompt the company to shift people to part-time work and rely more on outsourced contractors, said Bachenheimer.
 
-[![US News](images/usnews.jpg)](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba) <br/>
+[![US News](images/usnews.png)](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba) <br/>
 [Original Link](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba) | [PDF Version](files/USNews_9-3-13.pdf) <br/>
 **3 Smart Ways to Earn Business Credentials Without an MBA** <br/>
 September 3, 2013 <br/>
@@ -630,110 +630,91 @@ By **Lauren Keyson** <br/>
 >
 > “Sometimes that one passion can last a lifetime. For me, some things run their course after a couple of years.”
 
-[![Forbes-logo](image58111.jpg)](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2/)[![](image58951.jpg)](../press/Forbes_4-17-13.pdf)
+[![Forbes](images/forbes.jpg)](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2) <br/>
+[Original Link](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2) | [PDF Version](files/Forbes_4-17-13.pdf) <br/>
+**The Apprentices: Learn-By-Doing Entrepreneurship At Enstitute** <br/>
+April 17, 2013 (May 6, 2013 print issue) <br/>
+By **Meghan Casserly** <br/>
+> Twice a week the housemates cook dinner for a guest speaker. Among them: fashion designer Marc Ecko and Scott Belsky of Behance. Tonight they’re hosting Bruce Bachenheimer, head of Pace University’s entrepreneurship lab. Turns out he quit as a Wall Street trader to sail for several years, then started a teak lumber import company, taught himself boatbuilding, then latched on to high-tech forensics, got an M.B.A., launched a financial website and learned Japanese.
+>
+> A good entrepreneurial lesson in his story: If you can, exploit every unexpected twist in life.
+>
+> **Life At Enstitute: A Photo Essay**
+>
+> [![](images/image6000.jpg)](http://www.forbes.com/pictures/lml45eeimg/family-dinner/) [![](image6002.jpg)](http://www.forbes.com/pictures/lml45eeimg/bruce-bachenheimer-man-of-mystery/)
+>
+> **Family Dinner**
+>
+> Twice a month Enstitute hosts speakers--and treats them to a home-cooked meal. Bruce Bachenheimer is the head of Pace University's entrepreneurship lab.
+>
+> **Bruce Bachenheimer, Man of Mystery**
+>
+> Bachenheimer, who is working on an autobiography, has stories for days. From his official bio: "Bachenheimer began his career as a Wall Street trader then had the courage to take a step back from the rat race and go sailing … for several years. After sailing through the Caribbean to South America, he headed to Annapolis, Maryland, where he launched a business importing teak lumber and taught himself yacht joinery. Bachenheimer then transitioned to a career in high-tech forensic science, where he served as the International Product Manager for an entrepreneurial venture, conducting business in over 20 countries." Trust he makes for an amazing dinner guest.
 
-The Apprentices: Learn-By-Doing Entrepreneurship At Enstitute<br/>
-April 17, 2013 (May 6, 2013 print issue)<br/>
-By Meghan Casserly
+[![Crains](images/crains.jpg)](http://www.crainsnewyork.com/article/20130414/SMALLBIZ/304149990) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20130414/SMALLBIZ/304149990) | [PDF Version](files/Crains_4-14-13.pdf) <br/>
+**Delivering the perfect pitch** <br/>
+April 14, 2013 <br/>
+By **Lori Ioannou** <br/>
+> "In this era of the lean startup, when entrepreneurs must continuously refine their business models in a fast-moving marketplace, these competitions are like rocket fuel," said professor Bruce Bachenheimer, director of entrepreneurship at Pace University's Lubin School of Business, which hosts its own business-plan competition.
 
-[![](image5803.jpg)](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2/)
+[![Open Forum](images/openforum.jpg)](https://admin.openforum.com/articles/6-lessons-sbos-can-learn-from-shark-tank) <br/>
+[Original Link](https://admin.openforum.com/articles/6-lessons-sbos-can-learn-from-shark-tank) | [PDF Version](files/amex_4-8-13.pdf) <br/>
+**“Shark Tank” Lessons for Entrepreneurs** <br/>
+April 8, 2013 <br/>
+By **Angela Stringfellow** <br/>
+> **1\. Shift your focus to attracting other owners.** Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University, says too many entrepreneurs pitch their business with the mindset of getting investors to help them. But investors want to know what’s in it for them, not what’s in it for you. Your focus should be on attracting other owners “by demonstrating real value creation and an acceptable level of risk and return.”
 
-Twice a week the housemates cook dinner for a guest speaker. Among them: fashion designer Marc Ecko and Scott Belsky of Behance. Tonight they’re hosting Bruce Bachenheimer, head of Pace University’s entrepreneurship lab. Turns out he quit as a Wall Street trader to sail for several years, then started a teak lumber import company, taught himself boatbuilding, then latched on to high-tech forensics, got an M.B.A., launched a financial website and learned Japanese.
+[![Crains](images/crains.jpg)](http://www.crainsnewyork.com/article/20130220/TECHNOLOGY/130219895) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20130220/TECHNOLOGY/130219895) | [PDF Version](files/Crains_2-20-13.pdf) <br/>
+**6 ways to solve tech talent crunch** <br/>
+February 20, 2013 <br/>
+By **Anne Field** <br/>
+> "We don't have a jobs crisis," said Bruce Bachenheimer, clinical professor of management at Pace University. "We have a skills crisis."
+>
+> Last spring and fall, about 700 students attended sessions at seven schools run by representatives of more than 40 startups. "This is a way to take a lot of small companies and leverage them, so you're recruiting for a collection of cool startups," said Mr. Bachenheimer. "It's an economies-of-scale thing."
 
-A good entrepreneurial lesson in his story: If you can, exploit every unexpected twist in life.
+[![Sydney Morning Herald](images/syndeymorningherald.jpg)](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
+[Original Link](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) | [PDF Version](files/SMH_1-28-13.pdf) <br/>
+Also featured in: <br/>
+[![](images/theage.png)](http://www.theage.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
+[![](images/brisbanetimes.png)](http://www.brisbanetimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
+[![](canberratimes.jpg)](http://www.canberratimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
+[![](watoday.png)](http://www.watoday.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
+**Lose the tickets on yourself to make it in the States** <br/>
+January 28, 2013 <br/>
+By **Matthew Hall** <br/>
+> Lode adds the US is not the super-efficient and best-practice paradise it is sometimes perceived to be, a point that Bruce Bachenheimer, professor of management at Pace University in New York and a board member of MIT Enterprise Forum, believes is dependent on what sector you do business in.
+>
+> “It's really about the entrepreneurial ecosystem in regions of the US,” said Bachenheimer, an American who has studied and worked in Australia. “Silicon Valley, Boston and Cambridge, New York City, the Research Triangle in North Carolina, and Austin Texas. Learn how to plug yourself into that.”
+>
+> Bachenheimer said there's a difference in American perception between doing business with a company in Australia and doing business with an Australian in the US.
+>
+> “We see an Australian in America pretty much the way we would view anyone else,” he said. “All kinds of successful businessmen, entrepreneurs, professors, and doctors are from overseas. If they had the wherewithal to make it to the US and are successful, good on them.”
 
-Life At Enstitute: A Photo Essay
-
- [![](image6000.jpg)](http://www.forbes.com/pictures/lml45eeimg/family-dinner/) [![](image6002.jpg)](http://www.forbes.com/pictures/lml45eeimg/bruce-bachenheimer-man-of-mystery/)
-
-Family Dinner
-
-Twice a month Enstitute hosts speakers--and treats them to a home-cooked meal. Bruce Bachenheimer is the head of Pace University's entrepreneurship lab.
-
-Bruce Bachenheimer, Man of Mystery
-
-Bachenheimer, who is working on an autobiography, has stories for days. From his official bio: "Bachenheimer began his career as a Wall Street trader then had the courage to take a step back from the rat race and go sailing … for several years. After sailing through the Caribbean to South America, he headed to Annapolis, Maryland, where he launched a business importing teak lumber and taught himself yacht joinery. Bachenheimer then transitioned to a career in high-tech forensic science, where he served as the International Product Manager for an entrepreneurial venture, conducting business in over 20 countries." Trust he makes for an amazing dinner guest.
-
-[![](image71591.jpg)](http://www.crainsnewyork.com/article/20130414/SMALLBIZ/304149990)[![](image5978.jpg)](../press/Crains_4-14-13.pdf)
-
-Delivering the perfect pitch
-
-April 14, 2013<br/>
-By Lori Ioannou
-
-[![](image5974.jpg)](http://www.crainsnewyork.com/article/20130414/SMALLBIZ/304149990)
-
-"In this era of the lean startup, when entrepreneurs must continuously refine their business models in a fast-moving marketplace, these competitions are like rocket fuel," said professor Bruce Bachenheimer, director of entrepreneurship at Pace University's Lubin School of Business, which hosts its own business-plan competition.
-
-[![](image58091.jpg)](https://admin.openforum.com/articles/6-lessons-sbos-can-learn-from-shark-tank/)[![](image5897.jpg)](../press/amex_4-8-13.pdf)
-
-“Shark Tank” Lessons for Entrepreneurs
-
-April 8, 2013<br/>
-By Angela Stringfellow
-
-[![](image5807.jpg)](https://admin.openforum.com/articles/6-lessons-sbos-can-learn-from-shark-tank/)
-
-1\. Shift your focus to attracting other owners. Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University, says too many entrepreneurs pitch their business with the mindset of getting investors to help them. But investors want to know what’s in it for them, not what’s in it for you. Your focus should be on attracting other owners “by demonstrating real value creation and an acceptable level of risk and return.”
-
-[![](image7161.jpg)](http://www.crainsnewyork.com/article/20130220/TECHNOLOGY/130219895)[![](image5899.jpg)](../press/Crains_2-20-13.pdf)
-
-6 ways to solve tech talent crunch
-
-February 20, 2013<br/>
-By Anne Field
-
-[![](image5797.jpg)](http://www.crainsnewyork.com/article/20130220/TECHNOLOGY/130219895)
-
-"We don't have a jobs crisis," said Bruce Bachenheimer, clinical professor of management at Pace University. "We have a skills crisis."
-
-Last spring and fall, about 700 students attended sessions at seven schools run by representatives of more than 40 startups. "This is a way to take a lot of small companies and leverage them, so you're recruiting for a collection of cool startups," said Mr. Bachenheimer. "It's an economies-of-scale thing."
-
-[![](image5788.jpg)](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)
-
-Also featured in:
-
-[![](image5793.png)](http://www.theage.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)[![](image5792.png)](http://www.brisbanetimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)[![](image5791.jpg)](http://www.canberratimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)[![](image5790.png)](http://www.watoday.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)[![](image5901.jpg)](../press/SMH_1-28-13.pdf)
-
-Lose the tickets on yourself        to make it in the States
-
-January 28, 2013<br/>
-By Mathew Hall
-
-[![](image5786.jpg)](http://www.smh.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html)
-
-Lode adds the US is not the super-efficient and best-practice paradise it is sometimes perceived to be, a point that Bruce Bachenheimer, professor of management at Pace University in New York and a board member of MIT Enterprise Forum, believes is dependent on what sector you do business in.
-
-“It's really about the entrepreneurial ecosystem in regions of the US,” said Bachenheimer, an American who has studied and worked in Australia. “Silicon Valley, Boston and Cambridge, New York City, the Research Triangle in North Carolina, and Austin Texas. Learn how to plug yourself into that.”
-
-Bachenheimer said there's a difference in American perception between doing business with a company in Australia and doing business with an Australian in the US.
-
-“We see an Australian in America pretty much the way we would view anyone else,” he said. “All kinds of successful businessmen, entrepreneurs, professors, and doctors are from overseas. If they had the wherewithal to make it to the US and are successful, good on them.”
-
-[![Cover](image84071.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html)
-
-Leading the Epic Revolution: How CIOs Drive Innovation and Create Value Across the Enterprise
-
-© 2013By Hunter Muller
-
-[![](image5780.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) Pace University Professor Bruce Bachenheimer was profiled in Leading the Epic Revolution, a book written by Hunter Muller, which was published by Wiley in 2013. The profile appears on pages 55 to 57 and 221 - 223. The following is an excerpt (the profile may be found at [http://bit.ly/ProfessorOfInnovation](http://bit.ly/ProfessorOfInnovation)):
-
-Professor of Innovation
-
-I was recently introduced to Bruce Bachenheimer, Clinical Professor of Management at Pace University’s Lubin School of Business and Director of the University’s Entrepreneurship Lab. I think it’s fair to say that Bruce lives and breathes innovation and entrepreneurship. A serial entrepreneur himself, Bruce is an expert on the important role that innovation plays in business growth.
-
-In a lengthy interview, Bruce outlined some of the reasons he’s passionate about innovation and entrepreneurship. Here’s a brief summary of what he said in the interview:
-
-“As Thomas Friedman says, the world is flat. Countries compete on a much more equal basis that in the past. On a national level, the only sustainable competitive advantages come from innovation.
-
-“Competing on the basis of low labor costs is a temporary strategy. It’s a race to the bottom and it won’t keep you competitive in the long run. Nations with high standards of living, low unemployment, trade surpluses and general prosperity tend to compete on innovation.
-
-“For a while, it seemed like Japan’s strategy of competing on the basis that manufacturing efficiency was a winning strategy, but the gains they achieved disappeared as competition drove down prices, which benefited consumers, not manufacturers. It was a temporary victory, and now they’ve been in a recession for nearly two decades.
-
-“If you look at countries that are leaders in innovation – the U.S., Australia, New Zealand, Israel, and the countries in northern Europe – you see high levels of education and high levels of entrepreneurship. In Japan, for example, the culture and regulatory system make it very difficult for entrepreneurs to succeed. If you are an entrepreneur in Japan, you face a lot of barriers. As a society, Japan is very intolerant of failure. That fear of failure stops people from taking risks, and you need to take risks to succeed as an entrepreneur.
-
-“On the other hand, countries like the U.S. and Israel are much more tolerant of failure – especially when you fail on someone else’s dime. Failure isn’t exactly a badge of honor, but it’s not the end of the world either. In the U.S., when someone’s business fails, people are likely to say, “That guy really learned a lesson. He sure won’t make that mistake again.” People in entrepreneurial cultures tend to see failure as a learning experience.
-
-“Company cultures have a similar impact on innovation. Companies that encourage innovation and tolerate a certain amount of failure are more likely to be the serial innovators.”
-
-I love how Bruce puts innovation and entrepreneurship into context, and shows us the impact of innovation on multiple levels.  Bruce also advises his students to think like innovative entrepreneurs when envisioning their career paths.  In today’s rapidly evolving and ever-changing economy, I think that’s excellent advice for all of us.
+[![Leading the Epic Revolution (Cover)](images/leadingtheepicrevolution.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) <br/>
+[Original Link](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) <br/>
+**Leading the Epic Revolution: How CIOs Drive Innovation and Create Value Across the Enterprise** <br/>
+© 2013 <br/>
+By **Hunter Muller** <br/>
+> [![](images/image5780.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) Pace University Professor Bruce Bachenheimer was profiled in Leading the Epic Revolution, a book written by Hunter Muller, which was published by Wiley in 2013. The profile appears on pages 55 to 57 and 221 - 223. The following is an excerpt (the profile may be found at [http://bit.ly/ProfessorOfInnovation](http://bit.ly/ProfessorOfInnovation)):
+>
+> **Professor of Innovation**
+>
+> I was recently introduced to Bruce Bachenheimer, Clinical Professor of Management at Pace University’s Lubin School of Business and Director of the University’s Entrepreneurship Lab. I think it’s fair to say that Bruce lives and breathes innovation and entrepreneurship. A serial entrepreneur himself, Bruce is an expert on the important role that innovation plays in business growth.
+>
+> In a lengthy interview, Bruce outlined some of the reasons he’s passionate about innovation and entrepreneurship. Here’s a brief summary of what he said in the interview:
+>
+> “As Thomas Friedman says, the world is flat. Countries compete on a much more equal basis that in the past. On a national level, the only sustainable competitive advantages come from innovation.
+>
+> “Competing on the basis of low labor costs is a temporary strategy. It’s a race to the bottom and it won’t keep you competitive in the long run. Nations with high standards of living, low unemployment, trade surpluses and general prosperity tend to compete on innovation.
+>
+> “For a while, it seemed like Japan’s strategy of competing on the basis that manufacturing efficiency was a winning strategy, but the gains they achieved disappeared as competition drove down prices, which benefited consumers, not manufacturers. It was a temporary victory, and now they’ve been in a recession for nearly two decades.
+>
+> “If you look at countries that are leaders in innovation – the U.S., Australia, New Zealand, Israel, and the countries in northern Europe – you see high levels of education and high levels of entrepreneurship. In Japan, for example, the culture and regulatory system make it very difficult for entrepreneurs to succeed. If you are an entrepreneur in Japan, you face a lot of barriers. As a society, Japan is very intolerant of failure. That fear of failure stops people from taking risks, and you need to take risks to succeed as an entrepreneur.
+>
+> “On the other hand, countries like the U.S. and Israel are much more tolerant of failure – especially when you fail on someone else’s dime. Failure isn’t exactly a badge of honor, but it’s not the end of the world either. In the U.S., when someone’s business fails, people are likely to say, “That guy really learned a lesson. He sure won’t make that mistake again.” People in entrepreneurial cultures tend to see failure as a learning experience.
+>
+> “Company cultures have a similar impact on innovation. Companies that encourage innovation and tolerate a certain amount of failure are more likely to be the serial innovators.”
+>
+> I love how Bruce puts innovation and entrepreneurship into context, and shows us the impact of innovation on multiple levels.  Bruce also advises his students to think like innovative entrepreneurs when envisioning their career paths.  In today’s rapidly evolving and ever-changing economy, I think that’s excellent advice for all of us.
