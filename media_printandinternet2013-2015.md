@@ -641,7 +641,7 @@ By **Meghan Casserly** <br/>
 >
 > **Life At Enstitute: A Photo Essay**
 >
-> [![](images/image6000.jpg)](http://www.forbes.com/pictures/lml45eeimg/family-dinner/) [![](image6002.jpg)](http://www.forbes.com/pictures/lml45eeimg/bruce-bachenheimer-man-of-mystery/)
+> [![](images/image6000.jpg)](http://www.forbes.com/pictures/lml45eeimg/family-dinner/) [![](images/image6002.jpg)](http://www.forbes.com/pictures/lml45eeimg/bruce-bachenheimer-man-of-mystery/)
 >
 > **Family Dinner**
 >
@@ -679,8 +679,8 @@ By **Anne Field** <br/>
 Also featured in: <br/>
 [![](images/theage.png)](http://www.theage.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
 [![](images/brisbanetimes.png)](http://www.brisbanetimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
-[![](canberratimes.jpg)](http://www.canberratimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
-[![](watoday.png)](http://www.watoday.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
+[![](images/canberratimes.jpg)](http://www.canberratimes.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
+[![](images/watoday.png)](http://www.watoday.com.au/it-pro/business-it/lose-the-tickets-on-yourself-to-make-it-in-the-states-20130122-2d3t9.html) <br/>
 **Lose the tickets on yourself to make it in the States** <br/>
 January 28, 2013 <br/>
 By **Matthew Hall** <br/>
@@ -697,7 +697,7 @@ By **Matthew Hall** <br/>
 **Leading the Epic Revolution: How CIOs Drive Innovation and Create Value Across the Enterprise** <br/>
 © 2013 <br/>
 By **Hunter Muller** <br/>
-> [![](images/image5780.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) Pace University Professor Bruce Bachenheimer was profiled in Leading the Epic Revolution, a book written by Hunter Muller, which was published by Wiley in 2013. The profile appears on pages 55 to 57 and 221 - 223. The following is an excerpt (the profile may be found at [http://bit.ly/ProfessorOfInnovation](http://bit.ly/ProfessorOfInnovation)):
+> [![](images/image5971.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118340477.html) Pace University Professor Bruce Bachenheimer was profiled in Leading the Epic Revolution, a book written by Hunter Muller, which was published by Wiley in 2013. The profile appears on pages 55 to 57 and 221 - 223. The following is an excerpt (the profile may be found at [http://bit.ly/ProfessorOfInnovation](http://bit.ly/ProfessorOfInnovation)):
 >
 > **Professor of Innovation**
 >
