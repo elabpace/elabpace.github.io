@@ -551,46 +551,35 @@ By **Joe Jenkins** <br/>
 >
 > Bachenheimer went on to say that most people that create tech startups are in their late 30s and not in their 20s. People in that age range are willing to take risks on a business idea, but not necessarily on their health. Since a serious illness or a car accident can't be controlled, some entrepreneurs view the unmanageable risk as too great.
 
-[![](image58461.jpg)](http://www.metromba.com/2013/10/pace-featured-article-campus-resources-entrepreneurs/)[![](image5883.jpg)](../press/MetroMBA_10-3-13.pdf)[![](image5838.jpg)](http://www.metromba.com/2013/10/pace-featured-article-campus-resources-entrepreneurs/)
+[![Metro MBA](images/metromba.jpg)](http://www.metromba.com/2013/10/pace-featured-article-campus-resources-entrepreneurs) <br/>
+[Original Link](http://www.metromba.com/2013/10/pace-featured-article-campus-resources-entrepreneurs) | [PDF Version](files/MetroMBA_10-3-13.pdf) <br/>
+**Pace Featured In Articles About Campus Resources For Entrepreneurs** <br/>
+October 3, 2013 <br/>
+> A [new article in Entrepreneur](http://www.entrepreneur.com/article/228625) discusses the resources at business schools that can help MBA students on the path to starting and developing their own business, and the article features [Pace University’s Lubin School of Business](http://www.metromba.com/school/lubin-school-of-business-pace-university/) as an example
+>
+> The article says that business schools can benefit student entrepreneurs by providing them with free or reduced cost technology. To illustrate this point, Entrepreneur talked to Bruce Bachenheimer, the director of Pace’s entrepreneurship program, about the Entrepreneurship Lab. The lab is intended to be a space for students to produce innovative ideas and work with others. The lab provides students with an array of technological devices, including a wide selection of computers (desktop, laptop, and tablet), a 3D printer, advanced software programs, a professional-level video studio, and a surface computer.
 
-Pace Featured In Articles About Campus Resources For Entrepreneurs
+[![WSJ](images/wsj.jpg)](http://online.wsj.com/news/articles/SB10001424127887323623304579054622258666900) <br/>
+[Original Link](http://online.wsj.com/news/articles/SB10001424127887323623304579054622258666900) | [PDF Version](files/WSJ_9-30-13.pdf) <br/>
+Also featured in: <br/>
+[![Barrons](images/barrons.jpg)](http://online.barrons.com/article/SB10001424127887323623304579054622258666900.html) <br/>
+**You Have a Great Idea. Now What Do You Do?** <br/>
+September 30, 2013 *(featured on page A1, appears on pages R1-2)* <br/>
+By **Neil Parmar** <br/>
+> ***Signing On for Steady Income***
+>
+> Most of the caveats about outright sales apply here, too, and there's something else to bear in mind: Some companies include a "best efforts" clause in their licensing agreements, noting that they'll try to sell as many products as possible. But some companies may interpret that very loosely—if not ignore it altogether. Bruce Bachenheimer, a clinical professor of management and director of the Entrepreneurship Lab at Pace University, gives an example from the gem industry. A conglomerate, he says, may seem keen to license a device that can transform carbon into diamonds—and agree to pay $1,000 for every carat produced. Yet they may take the agreement, "file that in a drawer and never produce a single carat," he says. "They want to control supply."
 
-October 3, 2013
-
-A [new article in Entrepreneur](http://www.entrepreneur.com/article/228625) discusses the resources at business schools that can help MBA students on the path to starting and developing their own business, and the article features [Pace University’s Lubin School of Business](http://www.metromba.com/school/lubin-school-of-business-pace-university/) as an example
-
-The article says that business schools can benefit student entrepreneurs by providing them with free or reduced cost technology. To illustrate this point, Entrepreneur talked to Bruce Bachenheimer, the director of Pace’s entrepreneurship program, about the Entrepreneurship Lab. The lab is intended to be a space for students to produce innovative ideas and work with others. The lab provides students with an array of technological devices, including a wide selection of computers (desktop, laptop, and tablet), a 3D printer, advanced software programs, a professional-level video studio, and a surface computer.
-
-[![](image5828.jpg)](http://online.wsj.com/news/articles/SB10001424127887323623304579054622258666900)
-
-Also featured in:
-
-[![](image58641.jpg)](http://online.barrons.com/article/SB10001424127887323623304579054622258666900.html)[![](image5885.jpg)](../press/WSJ_9-30-13.pdf)
-
-You Have a Great Idea. Now What Do You Do?
-
-September 30, 2013 (featured on page A1, appears on pages R1-2)By Neil Parmar
-
-[![](image5826.jpg)](http://online.wsj.com/article/SB10001424127887323623304579054622258666900.html)
-
-Signing On for Steady Income
-
-Most of the caveats about outright sales apply here, too, and there's something else to bear in mind: Some companies include a "best efforts" clause in their licensing agreements, noting that they'll try to sell as many products as possible. But some companies may interpret that very loosely—if not ignore it altogether. Bruce Bachenheimer, a clinical professor of management and director of the Entrepreneurship Lab at Pace University, gives an example from the gem industry. A conglomerate, he says, may seem keen to license a device that can transform carbon into diamonds—and agree to pay $1,000 for every carat produced. Yet they may take the agreement, "file that in a drawer and never produce a single carat," he says. "They want to control supply."
-
-[![Entrepreneur: Start & Grow Your Business](image58521.png)](http://www.entrepreneur.com/article/228625)
-
-Also featured in:
-
-[![](image58581.jpg)](http://www.nbcnews.com/id/53175084/#.UlGaMIbkvh4)[![](image58601.png)](http://www.reuters.com/article/2013/09/30/idUS93736035720130930)[![](image58621.jpg)](http://smallbusiness.yahoo.com/advisor/top-campus-based-resources-aspiring-college-entrepreneurs-213000087.html)[![](image5887.jpg)](../press/Entrepreneur_9-30-13.pdf)
-
-Top Campus-Based Resources for Aspiring College Entrepreneurs
-
-September 30, 2013<br/>
-By Laura Schaefer
-
-[![](image5850.jpg)](http://www.entrepreneur.com/article/228625)
-
-Free or reduced cost technology, software and apps: Access to valuable equipment is a major bonus of being an entrepreneur still enrolled in school. Bruce Bachenheimer, clinical professor of management at Pace University as well as director of its entrepreneurship program, explains one aspect of why his school's program is so valuable to student startups: “The Entrepreneurship Lab has assembled an impressive collection of technology resources, including high-performance computers, sophisticated software, a professional video studio, a surface computer, and a 3D printer; as well as a wide variety of desktop, laptop and tablet computers.”
+[![Entrepreneur](images/Entrepreneur.png)](http://www.entrepreneur.com/article/228625) <br/>
+[Original Link](http://www.entrepreneur.com/article/228625) | [PDF Version](files/Entrepreneur_9-30-13.pdf) <br/>
+Also featured in: <br/>
+[![NBC](images/nbcnews.jpg)](http://www.nbcnews.com/id/53175084/#.UlGaMIbkvh4) <br/>
+[![Reuters](images/reuters.png)](http://www.reuters.com/article/2013/09/30/idUS93736035720130930) <br/>
+[![Yahoo Small Business](images/yahoosmallbusiness.jpg)](http://smallbusiness.yahoo.com/advisor/top-campus-based-resources-aspiring-college-entrepreneurs-213000087.html) <br/>
+**Top Campus-Based Resources for Aspiring College Entrepreneurs** <br/>
+September 30, 2013 <br/>
+By **Laura Schaefer** <br/>
+> Free or reduced cost technology, software and apps: Access to valuable equipment is a major bonus of being an entrepreneur still enrolled in school. Bruce Bachenheimer, clinical professor of management at Pace University as well as director of its entrepreneurship program, explains one aspect of why his school's program is so valuable to student startups: “The Entrepreneurship Lab has assembled an impressive collection of technology resources, including high-performance computers, sophisticated software, a professional video studio, a surface computer, and a 3D printer; as well as a wide variety of desktop, laptop and tablet computers.”
 
 [![](image58341.jpg)](http://www.computerworld.com/s/article/9242833/Obamacare_could_help_fuel_a_tech_start_up_boom)
 
