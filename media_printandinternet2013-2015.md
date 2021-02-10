@@ -507,16 +507,10 @@ By **Erika Morphy** <br/>
 >
 > "While there are many exciting possibilities that could come from the act, I'm afraid it will result in an amateur 'field of dreams,'" he said -- "early startups dreaming of easy funding and nascent individual investors dreaming of big returns."
 
-[![](image58741.png)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html)
-
-Also featured in:
-
-[Dodge Globe](http://business-news.thestreet.com/dodgeglobe/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Finanzen.ch](http://www.finanzen.ch/Nachrichten/Entertaining-Clients-Save-Your-Money-2704218), [Fowler Tribune](http://business-news.thestreet.com/fowlertribune/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Galva News](http://business-news.thestreet.com/galvanews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Geneseo Republic](http://business-news.thestreet.com/geneseorepublic/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Hamburg Reporter](http://business-news.thestreet.com/hamburgreporter/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Journal Star](http://business-news.thestreet.com/pjstar/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Nevada County Picayune](http://business-news.thestreet.com/picayune-times/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Oak Ridger](http://business-news.thestreet.com/oakridger/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Philly.com](http://business-news.thestreet.com/philly/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [SC Sun Times](http://business-news.thestreet.com/scsuntimes/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Sussex Countian](http://business-news.thestreet.com/sussexcountian/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), and [The Daily Republican](http://business-news.thestreet.com/dailyrepublicannews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1)
-
 [![The Street](images/thestreet.png)](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html) <br/>
 [Original Link](http://www.thestreet.com/story/12061484/1/entertaining-clients-save-your-money.html) | [PDF Version](files/TheStreet_10-9-13.pdf) <br/>
 Also featured in: <br/>
-[Dodge Globe](http://business-news.thestreet.com/dodgeglobe/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Finanzen.ch](http://www.finanzen.ch/Nachrichten/Entertaining-Clients-Save-Your-Money-2704218), [Fowler Tribune](http://business-news.thestreet.com/fowlertribune/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Galva News](http://business-news.thestreet.com/galvanews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Geneseo Republic](http://business-news.thestreet.com/geneseorepublic/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Hamburg Reporter](http://business-news.thestreet.com/hamburgreporter/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Journal Star](http://business-news.thestreet.com/pjstar/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Nevada County Picayune](http://business-news.thestreet.com/picayune-times/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Oak Ridger](http://business-news.thestreet.com/oakridger/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Philly.com](http://business-news.thestreet.com/philly/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [SC Sun Times](http://business-news.thestreet.com/scsuntimes/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Sussex Countian](http://business-news.thestreet.com/sussexcountian/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [The Daily Republican](http://business-news.thestreet.com/dailyrepublicannews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1) <br/>
+[Dodge Globe](http://business-news.thestreet.com/dodgeglobe/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Finanzen.ch](http://www.finanzen.ch/Nachrichten/Entertaining-Clients-Save-Your-Money-2704218), [Fowler Tribune](http://business-news.thestreet.com/fowlertribune/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Galva News](http://business-news.thestreet.com/galvanews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Geneseo Republic](http://business-news.thestreet.com/geneseorepublic/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Hamburg Reporter](http://business-news.thestreet.com/hamburgreporter/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Journal Star](http://business-news.thestreet.com/pjstar/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Nevada County Picayune](http://business-news.thestreet.com/picayune-times/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Oak Ridger](http://business-news.thestreet.com/oakridger/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Philly.com](http://business-news.thestreet.com/philly/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [SC Sun Times](http://business-news.thestreet.com/scsuntimes/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), [Sussex Countian](http://business-news.thestreet.com/sussexcountian/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1), and [The Daily Republican](http://business-news.thestreet.com/dailyrepublicannews/story/how-much-should-you-spend-top-clients-lot-less-you-may-think/1) <br/>
 **Entertaining Clients? Save Your Money** <br/>
 October 9, 2013 <br/>
 By **Kathryn Tuggle** <br/>
@@ -540,28 +534,22 @@ By **Kathryn Tuggle** <br/>
 >
 > "Say there's a hot new social media company. It could be just a bunch of kids, but if everyone believes it will be the next Instagram or Twitter, then it's worth getting them on your side," he says.
 
-[![](image58441.jpg)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups)
-
-Also featured in:
-
-[![](image58661.jpg)](http://pleasantville.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups)[![](image5881.jpg)](../press/DailyVoice_10-4-13.pdf)
-
-Pace Professor Discusses Obamacare’s Impact On Tech Startups
-
-October 4, 2013<br/>
-By Joe Jenkins
-
-[![](image5842.jpg)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups)
-
-![](image5997.png)
-
-Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University told computerworld.com that Obamacare could have a positive impact on tech startups.
-
-The director of Pace University's Entrepreneurship Lab in Pleasantville recently discussed the positive impact that Obamacare could have on tech startups with computerworld.com.
-
-Bruce Bachenheimer stated in the article that people often take jobs that they don't want just to obtain health insurance. If the Affordable Healthcare Act lowers insurance premiums, it would make health insurance more accessible and therefore make a tech start up less of a financial risk, according to Bachenheimer.
-
-Bachenheimer went on to say that most people that create tech startups are in their late 30s and not in their 20s. People in that age range are willing to take risks on a business idea, but not necessarily on their health. Since a serious illness or a car accident can't be controlled, some entrepreneurs view the unmanageable risk as too great.
+[![The Daily Voice](images/pleasantvilledailyvoice.png)](http://pleasantville.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) <br/>
+[Original Link](http://pleasantville.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) | [PDF Version](files/DailyVoice_10-4-13.pdf) <br/>
+Also featured in: <br/>
+[![The Daily Voice](images/briarcliffdailyvoice.png)](http://briarcliff.dailyvoice.com/news/pace-professor-discusses-obamacares-impact-tech-startups) <br/>
+**Pace Professor Discusses Obamacare’s Impact On Tech Startups** <br/>
+October 4, 2013 <br/>
+By **Joe Jenkins** <br/>
+> ![](images/image5997.png)
+>
+> Bruce Bachenheimer, director of the Entrepreneurship Lab at Pace University told computerworld.com that Obamacare could have a positive impact on tech startups.
+>
+> The director of Pace University's Entrepreneurship Lab in Pleasantville recently discussed the positive impact that Obamacare could have on tech startups with computerworld.com.
+>
+> Bruce Bachenheimer stated in the article that people often take jobs that they don't want just to obtain health insurance. If the Affordable Healthcare Act lowers insurance premiums, it would make health insurance more accessible and therefore make a tech start up less of a financial risk, according to Bachenheimer.
+>
+> Bachenheimer went on to say that most people that create tech startups are in their late 30s and not in their 20s. People in that age range are willing to take risks on a business idea, but not necessarily on their health. Since a serious illness or a car accident can't be controlled, some entrepreneurs view the unmanageable risk as too great.
 
 [![](image58461.jpg)](http://www.metromba.com/2013/10/pace-featured-article-campus-resources-entrepreneurs/)[![](image5883.jpg)](../press/MetroMBA_10-3-13.pdf)[![](image5838.jpg)](http://www.metromba.com/2013/10/pace-featured-article-campus-resources-entrepreneurs/)
 
