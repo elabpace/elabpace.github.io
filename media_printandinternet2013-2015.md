@@ -575,74 +575,60 @@ By **Neil Parmar** <br/>
 Also featured in: <br/>
 [![NBC](images/nbcnews.jpg)](http://www.nbcnews.com/id/53175084/#.UlGaMIbkvh4) <br/>
 [![Reuters](images/reuters.png)](http://www.reuters.com/article/2013/09/30/idUS93736035720130930) <br/>
-[![Yahoo Small Business](images/yahoosmallbusiness.jpg)](http://smallbusiness.yahoo.com/advisor/top-campus-based-resources-aspiring-college-entrepreneurs-213000087.html) <br/>
+[![Yahoo Small Business](images/yahoosmallbusinessadvisor.jpg)](http://smallbusiness.yahoo.com/advisor/top-campus-based-resources-aspiring-college-entrepreneurs-213000087.html) <br/>
 **Top Campus-Based Resources for Aspiring College Entrepreneurs** <br/>
 September 30, 2013 <br/>
 By **Laura Schaefer** <br/>
 > Free or reduced cost technology, software and apps: Access to valuable equipment is a major bonus of being an entrepreneur still enrolled in school. Bruce Bachenheimer, clinical professor of management at Pace University as well as director of its entrepreneurship program, explains one aspect of why his school's program is so valuable to student startups: “The Entrepreneurship Lab has assembled an impressive collection of technology resources, including high-performance computers, sophisticated software, a professional video studio, a surface computer, and a 3D printer; as well as a wide variety of desktop, laptop and tablet computers.”
 
-[![](image58341.jpg)](http://www.computerworld.com/s/article/9242833/Obamacare_could_help_fuel_a_tech_start_up_boom)
+[![Computer World](images/computerworld.jpg)](http://www.computerworld.com/s/article/9242833/Obamacare_could_help_fuel_a_tech_start_up_boom) <br/>
+[Original Link](http://www.computerworld.com/s/article/9242833/Obamacare_could_help_fuel_a_tech_start_up_boom) | [PDF Version](files/Computerworld_9-30-13.pdf) <br/>
+Also featured in: <br/>
+[![CIO](images/cio.jpg)](http://www.cio.com/article/740669/Obamacare_Could_Help_Fuel_a_Tech_Startup_Boom) <br/>
+**Obamacare could help fuel a tech start-up boom** <br/>
+September 30, 2013 <br/>
+By **Patrick Thibodeau** <br/>
+> "A relatively short stay in a hospital can bankrupt someone," said Bruce Bachenheimer, a professor of management at Pace University and director of its Entrepreneurship Lab. He said that, anecdotally, he's seen many people who will take a job they don't even care about just to get health coverage. "It's become such an important factor," he said.
+>
+> The average age of people who create a tech start-up is 39, and not 20-something," said Bachenheimer, despite the famous examples created by people such as Steve Jobs and Bill Gates. On top of that, there are twice as many tech start-up founders who are over the age of 50 as those who are younger than 25, he said.
+>
+> Entrepreneurs are willing to take on risks, but health care is not a manageable risk, said Bachenheimer.
+>
+> "There is a big difference between mortgaging your house on something you can control, and risking going bankrupt by an illness because of something you can't control," said Bachenheimer. No one can predict a car accident or a serious illness, he said.
+>
+> "Entrepreneurs actually don't see starting a business as risky as many people think, because they are so confident in their abilities and their idea," said Bachenheimer. "But they would see going around without health insurance as a risk."
+>
+> While Obamacare may lead to an increase in start-ups, there's another side to the coin. Once a start-up nears 50 full-time employees -- the threshold for taking on insurance coverage responsibilities under the law -- it might prompt the company to shift people to part-time work and rely more on outsourced contractors, said Bachenheimer.
 
-Also featured in:
+[![US News](images/usnews.jpg)](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba) <br/>
+[Original Link](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba) | [PDF Version](files/USNews_9-3-13.pdf) <br/>
+**3 Smart Ways to Earn Business Credentials Without an MBA** <br/>
+September 3, 2013 <br/>
+By **Ben Weiss** <br/>
+> 1\. **Raise your hand.**. As Professor Bruce Bachenheimer, the program director for entrepreneurship at Pace University's Lubin School of Business, explains, "While experiential learning should be part of a traditional MBA program, it is imperative to those seeking to gain critical business skills independently."
+>
+> 2\. **Volunteer outside your organization:** Perhaps your current career keeps you so boxed in that you can't find internal volunteer opportunities to refine important skills. As such, you're considering investing in an MBA to facilitate a career change.
+>
+> Should you decide you don't have the time, finances or direction to do so, Bachenheimer suggests developing meaningful business skills outside your firm with nonprofits or the countless other organizations that would welcome free help.
+>
+> 3\. **Develop a business (no matter the magnitude):** Many professionals are attracted to an MBA to become qualified as a manager or strategic director. However, Bachenheimer explains there is likely no better way to illustrate managerial, leadership and business operations credentials than jumping in the fire and starting your own business.
 
-[![](image5854.jpg)](http://www.cio.com/article/740669/Obamacare_Could_Help_Fuel_a_Tech_Startup_Boom)[![](image5889.jpg)](../press/Computerworld_9-30-13.pdf)
-
-Obamacare could help fuel a tech start-up boom
-
-September 30, 2013<br/>
-By Patrick Thibodeau
-
-[![](image5832.jpg)](http://www.computerworld.com/s/article/9242833/Obamacare_could_help_fuel_a_tech_start_up_boom)
-
-"A relatively short stay in a hospital can bankrupt someone," said Bruce Bachenheimer, a professor of management at Pace University and director of its Entrepreneurship Lab. He said that, anecdotally, he's seen many people who will take a job they don't even care about just to get health coverage. "It's become such an important factor," he said.
-
-The average age of people who create a tech start-up is 39, and not 20-something," said Bachenheimer, despite the famous examples created by people such as Steve Jobs and Bill Gates. On top of that, there are twice as many tech start-up founders who are over the age of 50 as those who are younger than 25, he said.
-
-Entrepreneurs are willing to take on risks, but health care is not a manageable risk, said Bachenheimer.
-
-"There is a big difference between mortgaging your house on something you can control, and risking going bankrupt by an illness because of something you can't control," said Bachenheimer. No one can predict a car accident or a serious illness, he said.
-
-"Entrepreneurs actually don't see starting a business as risky as many people think, because they are so confident in their abilities and their idea," said Bachenheimer. "But they would see going around without health insurance as a risk."
-
-While Obamacare may lead to an increase in start-ups, there's another side to the coin. Once a start-up nears 50 full-time employees -- the threshold for taking on insurance coverage responsibilities under the law -- it might prompt the company to shift people to part-time work and rely more on outsourced contractors, said Bachenheimer.
-
-[![](image5765.png)](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba)[![](image5891.jpg)](../press/USNews_9-3-13.pdf)
-
-3 Smart Ways to Earn Business Credentials Without an MBA
-
-September 3, 2013<br/>
-By Ben Weiss
-
-[![](image5821.jpg)](http://money.usnews.com/money/blogs/outside-voices-careers/2013/09/03/3-smart-ways-to-earn-business-credentials-without-an-mba)
-
-1\. Raise your hand. As Professor Bruce Bachenheimer, the program director for entrepreneurship at Pace University's Lubin School of Business, explains, "While experiential learning should be part of a traditional MBA program, it is imperative to those seeking to gain critical business skills independently."
-
-2\. Volunteer outside your organization: Perhaps your current career keeps you so boxed in that you can't find internal volunteer opportunities to refine important skills. As such, you're considering investing in an MBA to facilitate a career change.
-
-Should you decide you don't have the time, finances or direction to do so, Bachenheimer suggests developing meaningful business skills outside your firm with nonprofits or the countless other organizations that would welcome free help.
-
-3\. Develop a business (no matter the magnitude): Many professionals are attracted to an MBA to become qualified as a manager or strategic director. However, Bachenheimer explains there is likely no better way to illustrate managerial, leadership and business operations credentials than jumping in the fire and starting your own business.
-
-[![DTLogo](image58171.jpg)](http://disruptivetechnologists.com/2013/06/21/the-accidental-entrepreneur/)[![](image5893.jpg)](../press/DisruptiveTechnologists_6-21-13.pdf)
-
-The Accidental Entrepreneur
-
-June 21, 2013<br/>
-By Lauren Keyson
-
-[![](image5815.jpg)](http://disruptivetechnologists.com/2013/06/21/the-accidental-entrepreneur/)
-
-![](image59981.jpg)
-
-Bruce Bachenheimer, the accidental entrepreneur, is a clinical professor of management and the director of [Pace University’s Entrepreneurship Lab](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab/). He tells his students that passion is a must for entrepreneurs and that if they don’t yet know what that passion is, they should keep looking. Sometimes it can happen when it’s least expected – and he is a great example of this.
-
-“Passion is very important. When I found a passion for something, whether it was an entrepreneurial venture or something else, it was very important that I pursue it. Where is that passion going to come from? It can come from almost anywhere and at any time. Early on I discovered a passion for Japanese. I found an exchange program and went to college there for a semester. Later, inspired by Thoreau’s Walden, I decided to leave a career on Wall Street and go sailing. And just as Thoreau decided to leave the woods after his path from the cabin to the pond became too worn in, it was time for me to find something else.
-
-“Just over a decade ago I found a passion for teaching and I did what it took to get a teaching position without a typical academic background. Examples of my entrepreneurial passion include having started an online financial services company in Australia and a woodworking business in Maryland. With passion it is very easy to focus all your time and energy and accomplish something.
-
-“When I talk to my students and they don’t know what their passion is, I tell them it’s fine – wait and keep looking, don’t just settle. I lost the desire for my job as a Wall Street trader and was basically just going through the motions. It was exciting and paid a lot of money, but I knew I wanted to do something else, just not what at the time. When you don’t have it, you can’t force a passion on yourself. I think it’s a mistake. But keep that radar open and try a lot of different things because you never know where that passion will come from.”
-
-“Sometimes that one passion can last a lifetime. For me, some things run their course after a couple of years.”
+[![DTLogo](images/disruptivetechnologists.jpg)](http://disruptivetechnologists.com/2013/06/21/the-accidental-entrepreneur) <br/>
+[Original Link](http://disruptivetechnologists.com/2013/06/21/the-accidental-entrepreneur) | [PDF Version](files/DisruptiveTechnologists_6-21-13.pdf) <br/>
+**The Accidental Entrepreneur** <br/>
+June 21, 2013 <br/>
+By **Lauren Keyson** <br/>
+> ![](images/image59981.jpg)
+>
+> Bruce Bachenheimer, the accidental entrepreneur, is a clinical professor of management and the director of [Pace University’s Entrepreneurship Lab](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab/). He tells his students that passion is a must for entrepreneurs and that if they don’t yet know what that passion is, they should keep looking. Sometimes it can happen when it’s least expected – and he is a great example of this.
+> 
+> “Passion is very important. When I found a passion for something, whether it was an entrepreneurial venture or something else, it was very important that I pursue it. Where is that passion going to come from? It can come from almost anywhere and at any time. Early on I discovered a passion for Japanese. I found an exchange program and went to college there for a semester. Later, inspired by Thoreau’s Walden, I decided to leave a career on Wall Street and go sailing. And just as Thoreau decided to leave the woods after his path from the cabin to the pond became too worn in, it was time for me to find something else.
+> 
+> “Just over a decade ago I found a passion for teaching and I did what it took to get a teaching position without a typical academic background. Examples of my entrepreneurial passion include having started an online financial services company in Australia and a woodworking business in Maryland. With passion it is very easy to focus all your time and energy and accomplish something.
+>
+> “When I talk to my students and they don’t know what their passion is, I tell them it’s fine – wait and keep looking, don’t just settle. I lost the desire for my job as a Wall Street trader and was basically just going through the motions. It was exciting and paid a lot of money, but I knew I wanted to do something else, just not what at the time. When you don’t have it, you can’t force a passion on yourself. I think it’s a mistake. But keep that radar open and try a lot of different things because you never know where that passion will come from.”
+>
+> “Sometimes that one passion can last a lifetime. For me, some things run their course after a couple of years.”
 
 [![Forbes-logo](image58111.jpg)](http://www.forbes.com/sites/meghancasserly/2013/04/17/the-apprentices-learn-by-doing-entrepreneurship-at-enstitute-2/)[![](image58951.jpg)](../press/Forbes_4-17-13.pdf)
 
