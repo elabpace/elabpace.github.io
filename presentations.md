@@ -23,7 +23,7 @@
 - Women and Entrepreneurship (25 delegates from 23 countries) – [United States Department of State International Visitors Leadership Program](http://eca.state.gov/ivlp) (March 16, 2016)  
 - [Third Annual Entrepreneurs Roundtable](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/entrepreneurship-lab/events/entrepreneurs-roundtable) (Moderator) – [Pace University](http://www.pace.edu/) (February 25, 2016)  
 - Contemporary Trends, Thinking & Tools in Entrepreneurship - [NYCEDC’s Entrepreneurship Lab Bio and Health Tech NYC](http://elabnyc.com/) (February 18, 2016)  
-- [Structure and Design Issues in Entrepreneurship Centers: A Workshop](http://gcec2015.com/schedule.asp) (Facilitator) – [Global Consortium of Entrepreneurship Centers Annual Conference](http://www.globalentrepreneurshipconsortium.org/)  
+- [Structure and Design Issues in Entrepreneurship Centers: A Workshop](http://gcec2015.com/schedule.asp) (Facilitator) – [Global Consortium of Entrepreneurship Centers Annual Conference](http://www.globalentrepreneurshipconsortium.org/) (October 30, 2015)
 - [Virtual Reality in the Business Market: On the Periphery of the Next Tech Boom](http://www.onedayimmersion.com/annual-conference/2015-program-schedule.html) (Panelist) – [One Day Immersion](http://www.onedayimmersion.com/) (October 23, 2015)  
 - The Future of Entrepreneurship Education – [Phoenix Publishing & Media Group](http://www.ppmg.cn/htm/eng/) (October 22, 2015)  
 - [The 10 Commandments of Startup Profits](http://www.meetup.com/Disruptive-Technologists-in-NYC/events/222991644/) (Panelist) – [Disruptive Technologists of NYC](http://disruptivetechnologists.com/) (October 6, 2015)  
