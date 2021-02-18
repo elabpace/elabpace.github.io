@@ -1,32 +1,23 @@
 # Print and Internet 2016-2018
 
-
-
-[http://www.money.com](http://www.money.com) (Sep2018, Vol. 47, Issue 7, Page 17 print edition)
-
-[![](image74741.jpg)](http://www.money.com/)
-
-Want to Diversify? Start Here
-
-September 2018
-
-By Elizabeth O'Brien
-
-[![](image6406.jpg)](http://www.money.com/)
-
-"It's important for you to think of yourself as CEO of \[Your Name Here\]," says Bruce Bachenheimer, professor of management at Pace University in Manhattan. No matter what your field, you can put an entrepreneurial mindset to your advantage. Here's what to do:
-
-\> THINK LIKE A DISRUPTER.
-
-This attitude is essential, no matter where you work. Think about your industry and how you can help your employer respond to change. Bring those solutions to your bosses and peers.
-
-\> ADOPT A SIDE HUSTLE.
-
-Driving for Uber or selling on Etsy are legitimate ways to earn extra cash. (Just don't forget to report that income to the IRS.) You'll want to make sure that your side gig doesn't infringe on your main gig, Bachenheimer says.
-
-\> MAKE IT OFFICIAL.
-
-If you have an outside gig that takes off, you'll want to start treating it more like a business and less like a hobby, Bachenheimer says. Also, think about opening a dedicated bank account and setting up the ability to accept credit card payments. If you take your business seriously, your customers and clients will too.
+[![Money](images/money.jpg)](http://www.money.com) <br/>
+[Original Link](http://www.money.com) <br/>
+**Want to Diversify? Start Here** <br/>
+September 2018 (Vol. 47, Issue 7, Page 17 print edition) <br/>
+By **Elizabeth O'Brien** <br/>
+> "It's important for you to think of yourself as CEO of \[Your Name Here\]," says Bruce Bachenheimer, professor of management at Pace University in Manhattan. No matter what your field, you can put an entrepreneurial mindset to your advantage. Here's what to do:
+>
+> **\> THINK LIKE A DISRUPTER.**
+>
+> This attitude is essential, no matter where you work. Think about your industry and how you can help your employer respond to change. Bring those solutions to your bosses and peers.
+>
+> **\> ADOPT A SIDE HUSTLE.**
+>
+> Driving for Uber or selling on Etsy are legitimate ways to earn extra cash. (Just don't forget to report that income to the IRS.) You'll want to make sure that your side gig doesn't infringe on your main gig, Bachenheimer says.
+>
+> **\> MAKE IT OFFICIAL.**
+>
+> If you have an outside gig that takes off, you'll want to start treating it more like a business and less like a hobby, Bachenheimer says. Also, think about opening a dedicated bank account and setting up the ability to accept credit card payments. If you take your business seriously, your customers and clients will too.
 
 [![](image6400.jpg)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html)
 
