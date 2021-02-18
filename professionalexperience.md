@@ -13,5 +13,5 @@ Other activities include having sailed his 36' boat from New England, through th
 ## Academic Training
 
 - [Lean LaunchPad Educators Seminar](http://venturewell.org/lean-launchpad/) (November 2–4, 2015)
-- [National Science Foundation Innovation Corps (NSF I-Corps) Program](http://nycrin.org/nycrin/i-corps.html) (Summer, 2015)
+- [National Science Foundation Innovation Corps (NSF I-Corps) Program](http://nycrin.org/sites/i-corps/) (Summer, 2015)
 - [Price-Babson Symposium for Entrepreneurship Educators](http://www.babson.edu/executive-education/education-educators/Pages/home.aspx) (May 27-31, 2013) 
