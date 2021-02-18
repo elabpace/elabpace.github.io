@@ -19,7 +19,7 @@ By **Elizabeth O'Brien** <br/>
 >
 > If you have an outside gig that takes off, you'll want to start treating it more like a business and less like a hobby, Bachenheimer says. Also, think about opening a dedicated bank account and setting up the ability to accept credit card payments. If you take your business seriously, your customers and clients will too.
 
-[![New York Business Journal](images/newyorkbusinesjournal.jpg)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
+[![New York Business Journal](images/newyorkbusinessjournal.jpg)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
 [Original Link](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
 **Jowell helps track down minority talent** <br/>
 April 30, 2018 <br/>
@@ -34,7 +34,7 @@ By **Gary M. Stern** <br/>
 >
 > “Companies have to look for talented employees from a variety of sources — not just traditional listings and referrals,” he said.
 
-[![The Origins of Disruptive Technologists](images/theoriginsofdisruptivetechnologists.jpg)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
+[![The Origins of Disruptive Technologists](images/theoriginsofdisruptivetechnologists.png)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
 [Original Link](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
 **The Origins of Disruptive Technologists®….and their Entrepreneurial Culture in New York City (book)** <br/>
 Copyright April 26, 2018 <br/>
