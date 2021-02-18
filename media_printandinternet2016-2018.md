@@ -19,57 +19,44 @@ By **Elizabeth O'Brien** <br/>
 >
 > If you have an outside gig that takes off, you'll want to start treating it more like a business and less like a hobby, Bachenheimer says. Also, think about opening a dedicated bank account and setting up the ability to accept credit card payments. If you take your business seriously, your customers and clients will too.
 
-[![](image6400.jpg)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html)
+[![New York Business Journal](images/newyorkbusinesjournal.jpg)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
+[Original Link](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
+**Jowell helps track down minority talent** <br/>
+April 30, 2018 <br/>
+By **Gary M. Stern** <br/>
+> Bruce Bachenheimer, executive director of the Entrepreneurship Lab at Pace University in New York, said companies are paying increasing attention to hiring minorities with good reason.
+> 
+> “There is a growing body of research demonstrating that diversity leads to better decisions, performance and profitability,” Bachenheimer said. 
+>
+> Hiring a diverse staff helps companies boost revenue because it helps companies better reach multicultural consumers, he added.
+>
+> Bachenheimer suggested that Jopwell can likely carve out a niche in diversity hiring. 
+>
+> “Companies have to look for talented employees from a variety of sources — not just traditional listings and referrals,” he said.
 
-Jowell helps track down minority talent
+[![The Origins of Disruptive Technologists](images/theoriginsofdisruptivetechnologists.jpg)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
+[Original Link](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html) <br/>
+**The Origins of Disruptive Technologists®….and their Entrepreneurial Culture in New York City (book)** <br/>
+Copyright April 26, 2018 <br/>
+By **Lauren Keyson** <br/>
+> **The Accidental Entrepreneur**
+>
+> Bruce Bachenheimer, the accidental entrepreneur, is a clinical professor of management and the director of Pace University’s Entrepreneurship Lab. He tells his students that passion is a must for entrepreneurs and that if they don’t yet know what that passion is, they should keep looking. Sometimes it can happen when it’s least expected –and he is a great example of this.
+>
+> “Passion is very important. When I found a passion for something, whether it was an entrepreneurial venture or something else, it was very important that I pursue it. Where is that passion going to come from? It can come from almost anywhere and at any time. Early on I discovered a passion for Japanese. I found an exchange program and went to college there for a semester. Later, inspired by Thoreau’s Walden, I decided to leave a career on Wall Street and go sailing. And just as Thoreau decided to leave the woods after his path from the cabin to the pond became too worn in, it was time for me to find something else.
+>
+> “Just over a decade ago I found a passion for teaching and I did whatever it took to get a teaching position without a typical academic background. Examples of my entrepreneurial passion include having started an online financial services company in Australia and a woodworking business in Maryland. With passion it’s very easy to focus all your time and energy and accomplish something.
+>
+> “When I talk to my students and they don’t know what their passion is, I tell them it’s fine –wait and keep looking, don’t just settle. I lost the desire for my job as a Wall Street trader and was basically just going through the motions. It was exciting and paid a lot of money, but I knew I wanted to do something else, I just didn’t know what at the time. When you don’t have passion, you can’t force it on yourself. I think it’s a mistake. But keep that radar open and try a lot of different things because you never know where your passion will come from. Sometimes that passion can last a lifetime. For me, some things run their course after a couple of years.”[![]
 
-April 30, 2018
-
-By Gary M. Stern
-
-[![](image6406.jpg)](https://www.bizjournals.com/newyork/news/2018/05/08/jopwell-helps-track-down-minority-talent.html)
-
-Bruce Bachenheimer, executive director of the Entrepreneurship Lab at Pace University in New York, said companies are paying increasing attention to hiring minorities with good reason.
-
-“There is a growing body of research demonstrating that diversity leads to better decisions, performance and profitability,” Bachenheimer said. 
-
-Hiring a diverse staff helps companies boost revenue because it helps companies better reach multicultural consumers, he added.
-
-Bachenheimer suggested that Jopwell can likely carve out a niche in diversity hiring. 
-
-“Companies have to look for talented employees from a variety of sources — not just traditional listings and referrals,” he said.
-
-[![](image6969.png)](http://bit.ly/DT-NYC)
-
-The Origins of Disruptive Technologists®….and their Entrepreneurial Culture in New
-
-York City (book)
-
-Copyright April 26, 2018
-
-By Lauren Keyson
-
-[![](image6975.jpg)](http://bit.ly/DT-NYC) The Accidental Entrepreneur
-
-Bruce Bachenheimer, the accidental entrepreneur, is a clinical professor of management and the director of Pace University’s Entrepreneurship Lab. He tells his students that passion is a must for entrepreneurs and that if they don’t yet know what that passion is, they should keep looking. Sometimes it can happen when it’s least expected –and he is a great example of this.
-
-“Passion is very important. When I found a passion for something, whether it was an entrepreneurial venture or something else, it was very important that I pursue it. Where is that passion going to come from? It can come from almost anywhere and at any time. Early on I discovered a passion for Japanese. I found an exchange program and went to college there for a semester. Later, inspired by Thoreau’s Walden, I decided to leave a career on Wall Street and go sailing. And just as Thoreau decided to leave the woods after his path from the cabin to the pond became too worn in, it was time for me to find something else.
-
-“Just over a decade ago I found a passion for teaching and I did whatever it took to get a teaching position without a typical academic background. Examples of my entrepreneurial passion include having started an online financial services company in Australia and a woodworking business in Maryland. With passion it’s very easy to focus all your time and energy and accomplish something.
-
-“When I talk to my students and they don’t know what their passion is, I tell them it’s fine –wait and keep looking, don’t just settle. I lost the desire for my job as a Wall Street trader and was basically just going through the motions. It was exciting and paid a lot of money, but I knew I wanted to do something else, I just didn’t know what at the time. When you don’t have passion, you can’t force it on yourself. I think it’s a mistake. But keep that radar open and try a lot of different things because you never know where your passion will come from. Sometimes that passion can last a lifetime. For me, some things run their course after a couple of years.”[![](image6408.png)](https://www.businessnewsdaily.com/7275-entrepreneurship-defined.html)
-
-Entrepreneurship Defined: What It Means to Be an Entrepreneur
-
-February 19, 2018
-
-By Paula Fernandes
-
-[![](image6414.jpg)](https://www.businessnewsdaily.com/7275-entrepreneurship-defined.html)
-
-3\. "At its core, \[entrepreneurship\] is a mindset – a way of thinking and acting. It is about imagining new ways to solve problems and create value. Fundamentally, entrepreneurship is about ... the ability to recognize \[and\] methodically analyze \[an\] opportunity, and ultimately, to capture \[its\] value."
-
-– Bruce Bachenheimer, clinical professor of management and executive director of the [Entrepreneurship Lab](http://www.elab.nyc/) at Pace University
+[![Business News Daily](images/businessnewsdaily.jpg)](https://www.businessnewsdaily.com/7275-entrepreneurship-defined.html) <br/>
+[Original Link](https://www.businessnewsdaily.com/7275-entrepreneurship-defined.html) <br/>
+**Entrepreneurship Defined: What It Means to Be an Entrepreneur** <br/>
+February 19, 2018 <br/>
+By **By Paula Fernandes** <br/>
+> 3\. "At its core, \[entrepreneurship\] is a mindset – a way of thinking and acting. It is about **imagining new ways to solve problems and create value**. Fundamentally, entrepreneurship is about ... the ability to recognize \[and\] methodically analyze \[an\] opportunity, and ultimately, to capture \[its\] value."
+>
+> – Bruce Bachenheimer, clinical professor of management and executive director of the [Entrepreneurship Lab](http://www.elab.nyc/) at Pace University
 
 [![](image3599.jpg)](https://www.bizjournals.com/newyork/news/2018/01/23/inside-pymetrics-new-york-office.html)
 
