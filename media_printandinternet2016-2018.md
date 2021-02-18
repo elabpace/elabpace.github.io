@@ -53,78 +53,58 @@ By **Lauren Keyson** <br/>
 [Original Link](https://www.businessnewsdaily.com/7275-entrepreneurship-defined.html) <br/>
 **Entrepreneurship Defined: What It Means to Be an Entrepreneur** <br/>
 February 19, 2018 <br/>
-By **By Paula Fernandes** <br/>
+By **Paula Fernandes** <br/>
 > 3\. "At its core, \[entrepreneurship\] is a mindset – a way of thinking and acting. It is about **imagining new ways to solve problems and create value**. Fundamentally, entrepreneurship is about ... the ability to recognize \[and\] methodically analyze \[an\] opportunity, and ultimately, to capture \[its\] value."
 >
 > – Bruce Bachenheimer, clinical professor of management and executive director of the [Entrepreneurship Lab](http://www.elab.nyc/) at Pace University
 
-[![](image3599.jpg)](https://www.bizjournals.com/newyork/news/2018/01/23/inside-pymetrics-new-york-office.html)
+[![New York Business Journal](images/newyorkbusinessjournal.jpg)](https://www.bizjournals.com/newyork/news/2018/01/23/inside-pymetrics-new-york-office.html) <br/>
+[Original Link](https://www.bizjournals.com/newyork/news/2018/01/23/inside-pymetrics-new-york-office.html) <br/>
+**Inside Pymetrics' New York office: Can it make hiring more objective?** <br/>
+January 23, 2018 <br/>
+By **By Gary M. Stern** <br/>
+> **The importance of the right hire**
+>
+> Bruce Bachenheimer, the executive director of the Entrepreneurship Lab at [Pace University](http://companies.bizjournals.com/profile/pace-university/148181/) in New York, underscores the critical role that hiring the right staff plays in a company’s success.
+>
+> “In this highly-competitive globalized economy, with rapid technological innovation, firms can no longer view HR as ‘finding square pegs for square holes’ based on a standardized job description and qualifications document,” he says.
+>
+> Moreover, Bachenheimer notes that many companies make quick judgments about resumes, often overlooking appealing candidates who may have graduated from community colleges or lack Ivy League credentials.
+>
+> “A holistic assessment based on a broad range of cognitive and emotional traits could offer a much more reliable indicator, but would be very difficult, if not impossible, to administer without AI,” he notes.
+>
+> Nonetheless, Bachenheimer notes that even hiring by AI has its limitations. “AI is not magic,” he says. “It’s computer programming based on algorithms and training sets input by people. Companies creating and using AI must rigorously test results for accuracy and reliability.”
 
-Inside Pymetrics' New York office: Can it make hiring more objective?
+[![US News and World Report](images/usnews.jpg)](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-lubin-01309) <br/>
+[Original Link](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-lubin-01309) <br/>
+**Inside Pymetrics' New York office: Can it make hiring more objective?** <br/>
+January 5, 2018 <br/>
+By **Ilana Kowarski** <br/>
+> **Attending a school with accomplished classmates is valuable**. Experts say it's especially helpful if your classmates have leadership experience in diverse industries.
+>
+> "While the school’s reputation, ranking and accreditation are obviously extremely important, applicants frequently do not consider just about how vital their peers will be in preparing them for a career in corporate strategy," Bruce Bachenheimer, a clinical professor of management at Pace University's [Lubin School of Business](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-lubin-01309), where he teaches both undergraduate and MBA strategy courses, said via email.
+>
+> Bachenheimer says discussing business strategy case studies with classmates who have a significant amount of work experience can yield insights beyond those given by a strategy professor in a lecture, so strategy MBA applicants should target schools with a seasoned student body, where the average student has several years of work experience.
 
-January 23, 2018
+[![New York Business Journal](images/newyorkbusinessjournal.jpg)](https://www.bizjournals.com/newyork/news/2017/11/28/the-army-navy-store-in-greenwich-village-still.html) <br/>
+[Original Link](https://www.bizjournals.com/newyork/news/2017/11/28/the-army-navy-store-in-greenwich-village-still.html) <br/>
+**The Army/Navy Store in Greenwich Village: Still surviving** <br/>
+November 28, 2017 <br/>
+By **By Gary M. Stern** <br/>
+> [Bruce Bachenheimer](https://www.bizjournals.com/newyork/search/results?q=Bruce%20Bachenheimer), executive director of the Entrepreneurship Lab at [Pace University](http://companies.bizjournals.com/profile/pace-university/148181/) in New York, says several factors contributed to the demise of Army and Navy stores. “The U.S. simply hasn’t been creating the amount of surplus it once did,” he says.
+>
+> While 10 million soldiers fought in the Vietnam War and 16 million in World War II, only 2.5 million served in Afghanistan. And the United States runs online public auctions, which cuts into Army and Navy store sales.
+> 
+> “The 1950s and 1960s were the heydays of these stores, when they were largely seen as a great place to buy inexpensive camping and hunting gear,” Bachenheimer notes.
+>
+> Uncle Sam’s has survived for several reasons, Bachenheimer says, including doing a better job of sourcing supplies, becoming a local institution with a loyal following, and via economies of scale with its multiple stores.
 
-By Gary M. Stern
-
-[![](image5326.jpg)](https://www.bizjournals.com/newyork/news/2018/01/23/inside-pymetrics-new-york-office.html)
-
-The importance of the right hire
-
-Bruce Bachenheimer, the executive director of the Entrepreneurship Lab at [Pace University](http://companies.bizjournals.com/profile/pace-university/148181/) in New York, underscores the critical role that hiring the right staff plays in a company’s success.
-
-“In this highly-competitive globalized economy, with rapid technological innovation, firms can no longer view HR as ‘finding square pegs for square holes’ based on a standardized job description and qualifications document,” he says.
-
-Moreover, Bachenheimer notes that many companies make quick judgments about resumes, often overlooking appealing candidates who may have graduated from community colleges or lack Ivy League credentials.
-
-“A holistic assessment based on a broad range of cognitive and emotional traits could offer a much more reliable indicator, but would be very difficult, if not impossible, to administer without AI,” he notes.
-
-Nonetheless, Bachenheimer notes that even hiring by AI has its limitations. “AI is not magic,” he says. “It’s computer programming based on algorithms and training sets input by people. Companies creating and using AI must rigorously test results for accuracy and reliability.”
-
-[![](image53211.jpg)](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-lubin-01309)
-
-6 Things to Know About a Strategy MBA
-
-January 5, 2018
-
-By Ilana Kowarski
-
-[![](image6155.jpg)](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-lubin-01309)
-
-Attending a school with accomplished classmates is valuable. Experts say it's especially helpful if your classmates have leadership experience in diverse industries.
-
-"While the school’s reputation, ranking and accreditation are obviously extremely important, applicants frequently do not consider just about how vital their peers will be in preparing them for a career in corporate strategy," Bruce Bachenheimer, a clinical professor of management at Pace University's [Lubin School of Business](https://www.usnews.com/best-graduate-schools/top-business-schools/pace-university-lubin-01309), where he teaches both undergraduate and MBA strategy courses, said via email.
-
-Bachenheimer says discussing business strategy case studies with classmates who have a significant amount of work experience can yield insights beyond those given by a strategy professor in a lecture, so strategy MBA applicants should target schools with a seasoned student body, where the average student has several years of work experience.
-
-[![](image3599.jpg)](https://www.bizjournals.com/newyork/news/2017/11/28/the-army-navy-store-in-greenwich-village-still.html)
-
-The Army/Navy Store in Greenwich Village: Still surviving
-
-November 28, 2017
-
-By Gary M. Stern
-
-[![](image5182.jpg)](https://www.bizjournals.com/newyork/news/2017/11/28/the-army-navy-store-in-greenwich-village-still.html)
-
-[Bruce Bachenheimer](https://www.bizjournals.com/newyork/search/results?q=Bruce%20Bachenheimer), executive director of the Entrepreneurship Lab at [Pace University](http://companies.bizjournals.com/profile/pace-university/148181/) in New York, says several factors contributed to the demise of Army and Navy stores. “The U.S. simply hasn’t been creating the amount of surplus it once did,” he says.
-
-While 10 million soldiers fought in the Vietnam War and 16 million in World War II, only 2.5 million served in Afghanistan. And the United States runs online public auctions, which cuts into Army and Navy store sales.
-
-“The 1950s and 1960s were the heydays of these stores, when they were largely seen as a great place to buy inexpensive camping and hunting gear,” Bachenheimer notes.
-
-Uncle Sam’s has survived for several reasons, Bachenheimer says, including doing a better job of sourcing supplies, becoming a local institution with a loyal following, and via economies of scale with its multiple stores.
-
-[![](image4205.png)](http://www.expandtheconvo.com/the-book/)
-
-Expanding the Conversation
-
-© 2017
-
-By Jaime B. Hansen
-
-[![](image4213.jpg)](http://www.expandtheconvo.com/the-book/)
-
-At a basic level, entrepreneurship comes down to ventures that turn an idea into a profit. But even that feels like it’s missing something. Entrepreneurship is an umbrella word; it covers so much at one time. In my opinion, Bruce Bachenheimer, a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University, defines it best. He said, “Entrepreneurship is much broader than the creation of a new business venture. At its core, it’s a mindset, a way of thinking and acting.”
+[![Expanding the Conversation](images/expandingtheconversation.png)](http://www.expandtheconvo.com/the-book) <br/>
+[Original Link](http://www.expandtheconvo.com/the-book) <br/>
+**Expanding the Conversation** <br/>
+© 2017 <br/>
+By **Jaime B. Hansen** <br/>
+> At a basic level, entrepreneurship comes down to ventures that turn an idea into a profit. But even that feels like it’s missing something. Entrepreneurship is an umbrella word; it covers so much at one time. In my opinion, Bruce Bachenheimer, a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University, defines it best. He said, “Entrepreneurship is much broader than the creation of a new business venture. At its core, it’s a mindset, a way of thinking and acting.”
 
 [![](image3599.jpg)](http://www.bizjournals.com/newyork/news/2017/02/13/this-indian-restaurateur-owns-5-eateries-including.html)
 
