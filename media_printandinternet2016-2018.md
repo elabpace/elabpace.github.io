@@ -106,67 +106,51 @@ By **By Gary M. Stern** <br/>
 By **Jaime B. Hansen** <br/>
 > At a basic level, entrepreneurship comes down to ventures that turn an idea into a profit. But even that feels like it’s missing something. Entrepreneurship is an umbrella word; it covers so much at one time. In my opinion, Bruce Bachenheimer, a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University, defines it best. He said, “Entrepreneurship is much broader than the creation of a new business venture. At its core, it’s a mindset, a way of thinking and acting.”
 
-[![](image3599.jpg)](http://www.bizjournals.com/newyork/news/2017/02/13/this-indian-restaurateur-owns-5-eateries-including.html)
+[![New York Business Journal](images/newyorkbusinessjournal.jpg)](http://www.bizjournals.com/newyork/news/2017/05/30/shoptiques-growth.html) <br/>
+[Original Link](http://www.bizjournals.com/newyork/news/2017/05/30/shoptiques-growth.html) <br/>
+**Shoptiques: Can the websites for independent boutiques keep growing?** <br/>
+May 30, 2017 <br/>
+By **Gary M. Stern** <br/>
+> **Thinking like a partner**
+> 
+> Once a boutique joins the network, Vidisheva expects it to operate and think like a “partner.” While boutiques are permitted to maintain their own site, most don’t.
+> 
+> Bruce Bachenheimer, executive director of the Entrepreneurship Lab at Pace University in New York, said Shoptiques’ rapid growth suggests that it “must be offering the boutiques it serves a real value proposition.” Moreover, exclusivity with Shoptiques provides an “ability to participate in the network, which should provide additional revenue,” he noted.
+> 
+> However, its growth has its pitfalls. If shoppers sense that by entering Shoptiques it’s “just being directed through a conglomerated chain of stores rather than discovering a special boutique,” it could lose its charm and pizzazz.
+> 
+> Hence Bachenheimer concluded, “If they can successfully consolidate this fragmented market segment, they will likely build a profitable and scalable business.” But in order to sustain their dominant position, Shoptiques must “develop a distinct and trusted brand that is widely recognized by boutiques and shoppers,” he said.
 
-Shoptiques: Can the websites for independent boutiques keep growing?
+[![Herald Tribune](images/heraldtribune.jpg)](http://www.heraldtribune.com/news/20170327/do-you-have-what-it-takes-to-be-successful-leader) <br/>
+[Original Link](http://www.heraldtribune.com/news/20170327/do-you-have-what-it-takes-to-be-successful-leader) <br/>
+**Do you have what it takes to be a successful leader?** <br/>
+March 27, 2017 <br/>
+By **Dennis Zink** <br/>
+> Being a good leader will have a lot to do with your success. But how do you measure it?
+> 
+> As Bruce Bachenheimer of Pace University says, "A definition of a leader is someone with followers. The top quality of a leader is the ability to attract top-quality followers."
 
-May 30, 2017
+[![New York Business Journal](images/newyorkbusinessjournal.jpg)](http://www.bizjournals.com/newyork/news/2017/02/13/this-indian-restaurateur-owns-5-eateries-including.html) <br/>
+[Original Link](http://www.bizjournals.com/newyork/news/2017/02/13/this-indian-restaurateur-owns-5-eateries-including.html) <br/>
+**This Indian restaurateur owns 5 eateries, including 3 in Curry Hill** <br/>
+February 13, 2017 <br/>
+By **Gary M. Stern** <br/>
+> **Expansion challenges**
+>
+> Many independent retail stores including Chinese restaurants, barber shops and nail salons haven’t “effectively developed a business model to consolidate these fragmented industries,” explained Bruce Bachenheimer, executive director of the Entrepreneurial Lab at Pace University in New York. “The most common reason behind consolidation is economies of scale,” he said.
+>
+> Moreover, he noted the restaurant business is challenging for individual entrepreneurs to expand. “The restaurant business is extremely competitive and subject to numerous trends and fads. It’s hard enough to manage one, much more complex to keep five thriving,” pointed out Bachenheimer.
+>
+> Sustaining a loyal staff is another hurdle. “Aside from external factors such as competition and changing trends, high employee turnover is a challenge, attracting, retaining and motivating staff is difficult,” he asserted.
+>
+> Having several eateries in one location is a way to attract, not discourage, more patrons. “Think about Chinatown or Little Italy,” Bachenheimer pointed out. “Larger numbers of people are interested in going there than would otherwise go to multiple diverse locations,” he said.
 
-By Gary M. Stern
-
-[![](image3835.jpg)](http://www.bizjournals.com/newyork/news/2017/05/30/shoptiques-growth.html)
-
-Thinking like a partner
-
-Once a boutique joins the network, Vidisheva expects it to operate and think like a “partner.” While boutiques are permitted to maintain their own site, most don’t.
-
-Bruce Bachenheimer, executive director of the Entrepreneurship Lab at Pace University in New York, said Shoptiques’ rapid growth suggests that it “must be offering the boutiques it serves a real value proposition.” Moreover, exclusivity with Shoptiques provides an “ability to participate in the network, which should provide additional revenue,” he noted.
-
-However, its growth has its pitfalls. If shoppers sense that by entering Shoptiques it’s “just being directed through a conglomerated chain of stores rather than discovering a special boutique,” it could lose its charm and pizzazz.
-
-Hence Bachenheimer concluded, “If they can successfully consolidate this fragmented market segment, they will likely build a profitable and scalable business.” But in order to sustain their dominant position, Shoptiques must “develop a distinct and trusted brand that is widely recognized by boutiques and shoppers,” he said.
-
-[![](image3656.jpg)](http://www.heraldtribune.com/news/20170327/do-you-have-what-it-takes-to-be-successful-leader)
-
-Do you have what it takes to be a successful leader?
-
-March 27, 2017
-
-By Dennis Zink
-
-[![](image3651.jpg)](http://www.heraldtribune.com/news/20170327/do-you-have-what-it-takes-to-be-successful-leader)
-
-Being a good leader will have a lot to do with your success. But how do you measure it?
-
-As Bruce Bachenheimer of Pace University says, "A definition of a leader is someone with followers. The top quality of a leader is the ability to attract top-quality followers."
-
-[![](image3599.jpg)](http://www.bizjournals.com/newyork/news/2017/02/13/this-indian-restaurateur-owns-5-eateries-including.html)
-
-This Indian restaurateur owns 5 eateries, including 3 in Curry Hill
-
-February 13, 2017
-
-By Gary M. Stern
-
-[![](image3594.jpg)](http://www.bizjournals.com/newyork/news/2017/02/13/this-indian-restaurateur-owns-5-eateries-including.html)
-
-Expansion challenges
-
-Many independent retail stores including Chinese restaurants, barber shops and nail salons haven’t “effectively developed a business model to consolidate these fragmented industries,” explained Bruce Bachenheimer, executive director of the Entrepreneurial Lab at Pace University in New York. “The most common reason behind consolidation is economies of scale,” he said.
-
-Moreover, he noted the restaurant business is challenging for individual entrepreneurs to expand. “The restaurant business is extremely competitive and subject to numerous trends and fads. It’s hard enough to manage one, much more complex to keep five thriving,” pointed out Bachenheimer.
-
-Sustaining a loyal staff is another hurdle. “Aside from external factors such as competition and changing trends, high employee turnover is a challenge, attracting, retaining and motivating staff is difficult,” he asserted.
-
-Having several eateries in one location is a way to attract, not discourage, more patrons. “Think about Chinatown or Little Italy,” Bachenheimer pointed out. “Larger numbers of people are interested in going there than would otherwise go to multiple diverse locations,” he said.
-
-[![](image3504.jpg)](http://www.computerworld.com/article/3158797/it-careers/obamacare-repeal-could-hurt-the-gig-economy.html)Obamacare repeal could hurt the gig economy
-
-January 18, 2017
-
-By Patrick Thibodeau [![](image3499.jpg)](http://www.computerworld.com/article/3158797/it-careers/obamacare-repeal-could-hurt-the-gig-economy.html)
-
-Older workers, said Bruce Bachenheimer, a professor of management and executive director of the Entrepreneurship Lab at Pace University, need health insurance. These are workers with the industry experience, contacts and ability to start a business. But access to health insurance, especially if they or a family member could be turned down because of a pre-existing condition, can play a major role in whether or not to start a business.
+[![Computer World](images/computerworld.jpg)](http://www.computerworld.com/article/3158797/it-careers/obamacare-repeal-could-hurt-the-gig-economy.html) <br/>
+[Original Link](http://www.computerworld.com/article/3158797/it-careers/obamacare-repeal-could-hurt-the-gig-economy.html) <br/>
+**Obamacare repeal could hurt the gig economy** <br/>
+January 18, 2017 <br/>
+By **Patrick Thibodeau** <br/>
+> Older workers, said Bruce Bachenheimer, a professor of management and executive director of the Entrepreneurship Lab at Pace University, need health insurance. These are workers with the industry experience, contacts and ability to start a business. But access to health insurance, especially if they or a family member could be turned down because of a pre-existing condition, can play a major role in whether or not to start a business.
 
 [![](image2863.png)](http://fortune.com/2016/12/20/amazons-echo-snag-entrepreneurs/)
 
