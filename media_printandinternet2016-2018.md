@@ -152,173 +152,120 @@ January 18, 2017 <br/>
 By **Patrick Thibodeau** <br/>
 > Older workers, said Bruce Bachenheimer, a professor of management and executive director of the Entrepreneurship Lab at Pace University, need health insurance. These are workers with the industry experience, contacts and ability to start a business. But access to health insurance, especially if they or a family member could be turned down because of a pre-existing condition, can play a major role in whether or not to start a business.
 
-[![](image2863.png)](http://fortune.com/2016/12/20/amazons-echo-snag-entrepreneurs/)
-
-What Amazon’s Echo Snag Can Teach Entrepreneurs
-
-December 20, 2016
-
-By Jeremy Quittner
-
-[![](image3409.jpg)](http://fortune.com/2016/12/20/amazons-echo-snag-entrepreneurs/)
-
-There’s a lesson here for businesses much smaller than Amazon: You need to be diligent about your supply chain, particularly during the holidays.
-
-“This is why it is so important for small-business owners to stay close to their customers, maintain strong relationships with suppliers, follow market trends, and really know their industry,” says Bruce Bachenheimer, a clinical professor of management at Pace University in New York. “They cannot simply rely on the recommendations of a sales rep and act as stock keepers or inventory managers.”
-
-[![](image2863.png)](http://fortune.com/2016/09/30/small-chain-chipotle/)
-
-What It Will Take for This Fast-Growing Chain to Become the Next Chipotle 
-
-September 30, 2016
-
-By Jeremy Quittner
-
-[![](image2858.jpg)](http://fortune.com/2016/09/30/small-chain-chipotle/)
-
-But expanding any restaurant beyond its home turf comes with challenges. For one, the U.S. is an enormous market, and what has worked well in Texas may not succeed as well in other regions.
-
-“They will need really qualified people who know logistics and strategy and how to run a restaurant in the New York region,” says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University.
-
-[![](image2853.jpg)](http://enterprisectr.org/steps-starting-successful-business/)
-
-Steps to Starting a Successful Business
-
-September 13, 2016
-
-By Mike Sperling
-
-[![](image2848.jpg)](http://enterprisectr.org/steps-starting-successful-business/)
-
-Plan, Plan, Plan – “Planning carefully before launching a new business is not limited to preparing a business plan”, says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University in New York City. While writing a business plan is certainly helpful, the real value is not in having the finished product in hand, but rather in the process of researching and thinking about your business in a systematic way.
-
-[![](image2833.jpg)](http://www.bizjournals.com/newyork/news/2016/09/02/how-this-entrepreneur-took-a-two-wheeled-problem.html)
-
-How this entrepreneur took a two-wheeled problem and created a fashion business
-
-September 2, 2016
-
-By Gary M. Stern
-
-[![](image2830.jpg)](http://www.bizjournals.com/newyork/news/2016/09/02/how-this-entrepreneur-took-a-two-wheeled-problem.html)
-
-Targeting a niche audience is one way for start-ups to make a dent in the marketplace, explains Bruce Bachenheimer, the executive director of the Entrepreneurship Lab at Pace University in New York. “Understanding who your customer is, what their unmet needs are, and whether your products actually meet those needs requires a great deal of customer contact, testing and product iteration,” he says.
-
-Bachenheimer says Tandem NY could employ several strategies to grow but best bets are “increasing their online sales, which likely provides the best margins, and expanding the number and size of retailers.”
-
-[![](image2817.jpg)](http://thriveorjustsurvive.com/stand-out-with-an-entrepreneurial-mindset/)
-
-Stand Out with an Entrepreneurial Mindset
-
-August 5, 2016
-
-By Neal Spencer
-
-[![](image2814.jpg)](http://thriveorjustsurvive.com/stand-out-with-an-entrepreneurial-mindset/)
-
-What Is an Entrepreneur, Anyway?
-
-Is it the Silicon Valley tech genius? The Wall Street hotshot? That neighbor who owns the gift shop down the block?
-
-Being an entrepreneur is about much more than starting a business, or even whether you’re “the boss.” Bruce Bachenheimer, who leads the Entrepreneurship Lab at Pace University, defines entrepreneurship as a mindset. It’s about imagining new ways to solve problems and create value.
-
-[![](image2976.png)](http://tedxhyderabad.com/on-your-own-entrepreneur/)
-
-On Your Own ‘Entrepreneur’ 
-
-July 28, 2016
-
-By Kavya Krishna
-
-[![](image2970.jpg)](http://tedxhyderabad.com/on-your-own-entrepreneur/)
-
-The word ‘Entrepreneur’ is derived from the French word ‘Entrependre’ which means ‘the one who undertakes’ i.e. the individuals who take the risk of starting a new enterprise/startup/business.
-
-Bruce Bachenheimer, a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University explains, — “Entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mind-set — a way of thinking and acting. It is about imagining new ways to solve problems and create value.”
-
-[![](image28231.jpg)](http://www.post-gazette.com/in-the-lead/itl-2016-companies/2016/05/27/Commentary-Len-Boselovic-Companies-make-up-then-break-up/stories/201605270027)
-
-Companies make up, then break up
-
-May 27, 2016
-
-By Len Boselovic
-
-[![](image2820.jpg)](http://www.post-gazette.com/in-the-lead/itl-2016-companies/2016/05/27/Commentary-Len-Boselovic-Companies-make-up-then-break-up/stories/201605270027)
-
-After spending billions on acquisitions that stoked its downstream business of making parts for the aerospace, automotive and other markets, Alcoa will spin the unit off into a new company, Arconic, later this year. The thinking: investors are not putting a high enough price tag on Arconic’s fast-growing downstream operations because they perceive Alcoa to be a commodity aluminum producer plagued by global overcapacity and depressed metals prices.
-
-“It’s hard for investors to get excited about that, particularly when commodities prices are falling,” said Bruce Bachenheimer, executive director of Pace University’s Entrepreneurship Lab.
-
-Those challenges notwithstanding, Mr. Bachenheimer believes corporate divorces are generally more productive than marriages. He said that too often companies pursue a merger or acquisition for the wrong reason: to grow just for the sake of growing.
-
-“Spinoffs are generally done for the right reason and do work,” he said.
-
-[![](image3026.jpg)](http://www.inc.com/jeremy-quittner/krispy-kreme-goes-private-to-rebuild-brand-cachet.html)
-
-Why Some Companies--No Matter How Successful--Should Stay Private
-
-May 9, 2016
-
-By Jeremy Quittner
-
-[![](image2820.jpg)](http://www.inc.com/jeremy-quittner/krispy-kreme-goes-private-to-rebuild-brand-cachet.html)
-
-Freed from the demands of public market investors who tend to focus on short-term returns, some companies may find renewed life that harks back to when they were small and privately held, business experts say. They can strengthen their brands, double down in the communities in which they operate, and get back to their roots as innovators.
-
-"\[Krispy Kreme\] could take an approach to the business that is more family-friendly and more small-business friendly when you don't have the pressure of quarterly returns," says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
-
-It's not inconceivable that Krispy Kreme would go public again, Bachenheimer says, as time off the public market can increase the company's cachet and value.
-
-"For the employees and for the primary stakeholders, the distributors and retailers they are associated with, it could be taking a smaller business, longer-term approach" that could help increase the brand's value, Bachenheimer says.
-
-[![](image6561.png)](http://www.inc.com/jeremy-quittner/olive-garden-battle-over-breadsticks-a-big-lesson-on-managing-small-stuff.html)
-
-What You Can Learn From Olive Garden's Breadstick Battle 
-
-April 6, 2016
-
-By Jeremy Quittner
-
-[![](image2801.jpg)](http://www.inc.com/jeremy-quittner/olive-garden-battle-over-breadsticks-a-big-lesson-on-managing-small-stuff.html)
-
-While Olive Garden is a giant chain, its lessons could be instructive to small business owners. Namely, you should indeed sweat the small stuff, because even minor details akin to a free bread policy can make a big difference to your bottom line.
-
-"When you talk about a company or an industry with very thin margins, tiny changes can have an enormous impact," says Bruce Bachenheimer, a clinical professor of management at Pace University.
-
-The history of business is filled with second chances stemming from minor changes. Many years ago, the company that produces Angostura bitters doubled its sales by widening the size of its bottle opening, which caused consumers to pour more into their drinks. Bachenheimer says. Similarly, some gyms have gotten a revenue boost in recent years simply by adding kettlebells, which tend to appeal to a wider spectrum of gym-goers than traditional dumbbells.
-
-Test changes to products and price points with a limited set of customers, for example, and for a limited amount of time to see how it goes, experts say.
-
-"Call it A/B testing," Bachenheimer says. "It's a nice way to try things on an experimental basis and to measure the results, but not suffer huge consequences if it's not successful."
-
-[![](image2798.png)](http://www.businessnewsdaily.com/2642-entrepreneurship.html)
-
-What is Entrepreneurship?  
-March 21, 2016  
-By Paula Fernandes
-
-[![](image2795.jpg)](http://www.businessnewsdaily.com/2642-entrepreneurship.html)
-
-"Entrepreneurship is much broader than the creation of a new business venture," added Bruce Bachenheimer, a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University. "At its core, it is a mind-set — a way of thinking and acting. It is about imagining new ways to solve problems and create value."
-
-Be passionate. Successful entrepreneurs are driven primarily by a need for achievement and the desire to make a meaningful difference, Bachenheimer said. "The most important traits are passion and persistence, but these must not be confused with arrogance and stubbornness," he said.
-
-[![](image6561.png)](http://www.inc.com/jeremy-quittner/four-important-traits-the-fastest-growing-startups-all-share.html)
-
-4 Moves You Must Make to Create a Billion-Dollar Company
-
-March 7, 2016
-
-By Jeremy Quittner
-
-[![](image2790.jpg)](http://www.inc.com/jeremy-quittner/four-important-traits-the-fastest-growing-startups-all-share.html)
-
-Still, some of the findings may be cause for skepticism. [Bruce Bachenheimer](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create), a clinical professor of management at Pace University, disagrees with the point about shorter, non-local names, calling it a red herring. One example of a company that grew from startup phase to gargantuan proportions is Sun Microsystems, whose name, he points out, originally stood for Stanford University Network. And, he says, filing for a patent early on could work against a company because it can be expensive to file for one, or costly to defend against infringement claims.
-
-Bachenheimer agrees with the researchers that the [economic environment](http://www.inc.com/jeremy-quittner/milstein-commission-and-salvaging-the-american-dream.html) has changed dramatically for entrepreneurs, making it much more difficult for young companies to form and grow. One key reason is the decimation of savings and home ownership rates, which both provided much-needed financing to startups in prior decades.
-
-"\[The declining rate of entrepreneurship\] has to do with the financial crisis, wage stagnation, and housing price declines since 2008, and it has to do with the erosion of the middle class," Bachenheimer says.
+[![Fortune](images/fortune.png)](http://fortune.com/2016/12/20/amazons-echo-snag-entrepreneurs) <br/>
+[Original Link](http://fortune.com/2016/12/20/amazons-echo-snag-entrepreneurs) <br/>
+**What Amazon’s Echo Snag Can Teach Entrepreneurs** <br/>
+December 20, 2016 <br/>
+By **Jeremy Quittner** <br/>
+> There’s a lesson here for businesses much smaller than Amazon: You need to be diligent about your supply chain, particularly during the holidays.
+>
+> “This is why it is so important for small-business owners to stay close to their customers, maintain strong relationships with suppliers, follow market trends, and really know their industry,” says Bruce Bachenheimer, a clinical professor of management at Pace University in New York. “They cannot simply rely on the recommendations of a sales rep and act as stock keepers or inventory managers.”
+
+[![Fortune](images/fortune.jpg)](http://fortune.com/2016/09/30/small-chain-chipotle) <br/>
+[Original Link](http://fortune.com/2016/09/30/small-chain-chipotle) <br/>
+**What It Will Take for This Fast-Growing Chain to Become the Next Chipotle** <br/>
+September 30, 2016 <br/>
+By **Jeremy Quittner** <br/>
+> But expanding any restaurant beyond its home turf comes with challenges. For one, the U.S. is an enormous market, and what has worked well in Texas may not succeed as well in other regions.
+>
+> “They will need really qualified people who know logistics and strategy and how to run a restaurant in the New York region,” says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University.
+
+[![Enterprise Center](images/enterprisectr.jpg)](http://enterprisectr.org/steps-starting-successful-business) <br/>
+[Original Link](http://enterprisectr.org/steps-starting-successful-business) <br/>
+**Steps to Starting a Successful Business** <br/>
+September 13, 2016 <br/>
+By **Mike Sperling** <br/>
+> *Plan, Plan, Plan* – “Planning carefully before launching a new business is not limited to preparing a business plan”, says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University in New York City. While writing a business plan is certainly helpful, the real value is not in having the finished product in hand, but rather in the process of researching and thinking about your business in a systematic way.
+
+[![New York Business Journal](images/newyorkbusinessjournal.jpg)](http://www.bizjournals.com/newyork/news/2016/09/02/how-this-entrepreneur-took-a-two-wheeled-problem.html) <br/>
+[Original Link](http://www.bizjournals.com/newyork/news/2016/09/02/how-this-entrepreneur-took-a-two-wheeled-problem.html) <br/>
+**How this entrepreneur took a two-wheeled problem and created a fashion business** <br/>
+September 2, 2016 <br/>
+By **Gary M. Stern** <br/>
+> Targeting a niche audience is one way for start-ups to make a dent in the marketplace, explains Bruce Bachenheimer, the executive director of the Entrepreneurship Lab at Pace University in New York. “Understanding who your customer is, what their unmet needs are, and whether your products actually meet those needs requires a great deal of customer contact, testing and product iteration,” he says.
+>
+> Bachenheimer says Tandem NY could employ several strategies to grow but best bets are “increasing their online sales, which likely provides the best margins, and expanding the number and size of retailers.”
+
+[![Thrive or Just Survive](images/thriveorjustsurvive.jpg)](http://thriveorjustsurvive.com/stand-out-with-an-entrepreneurial-mindset) <br/>
+[Original Link](http://thriveorjustsurvive.com/stand-out-with-an-entrepreneurial-mindset) <br/>
+**Stand Out with an Entrepreneurial Mindset** <br/>
+August 5, 2016 <br/>
+By **Neal Spencer** <br/>
+> **What Is an Entrepreneur, Anyway?**
+>
+> Is it the Silicon Valley tech genius? The Wall Street hotshot? That neighbor who owns the gift shop down the block?
+>
+> Being an entrepreneur is about much more than starting a business, or even whether you’re “the boss.” Bruce Bachenheimer, who leads the Entrepreneurship Lab at Pace University, defines entrepreneurship as a **mindset**. It’s about **imagining new ways to solve problems and create value**.
+
+[![TEDx Hyderabad](images/tedxhyderabad.png)](http://tedxhyderabad.com/on-your-own-entrepreneur) <br/>
+[Original Link](http://tedxhyderabad.com/on-your-own-entrepreneur) <br/>
+**On Your Own ‘Entrepreneur’** <br/>
+July 28, 2016 <br/>
+By **Kavya Krishna** <br/>
+> The word ‘**Entrepreneur**’ is derived from the French word ‘**Entrependre**’ which means ‘**the one who undertakes**’ i.e. the individuals who take the risk of starting a new enterprise/startup/business.
+>
+> Bruce Bachenheimer, a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University explains, — *“Entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mind-set — a way of thinking and acting. It is about imagining new ways to solve problems and create value.”*
+
+[![Pittsburgh Post-Gazette](images/post-gazette.png)](http://www.post-gazette.com/in-the-lead/itl-2016-companies/2016/05/27/Commentary-Len-Boselovic-Companies-make-up-then-break-up/stories/201605270027) <br/>
+[Original Link](http://www.post-gazette.com/in-the-lead/itl-2016-companies/2016/05/27/Commentary-Len-Boselovic-Companies-make-up-then-break-up/stories/201605270027) <br/>
+**Companies make up, then break up** <br/>
+May 27, 2016 <br/>
+By **Len Boselovic** <br/>
+> After spending billions on acquisitions that stoked its downstream business of making parts for the aerospace, automotive and other markets, Alcoa will spin the unit off into a new company, Arconic, later this year. The thinking: investors are not putting a high enough price tag on Arconic’s fast-growing downstream operations because they perceive Alcoa to be a commodity aluminum producer plagued by global overcapacity and depressed metals prices.
+>
+> “It’s hard for investors to get excited about that, particularly when commodities prices are falling,” said Bruce Bachenheimer, executive director of Pace University’s Entrepreneurship Lab.
+>
+> Those challenges notwithstanding, Mr. Bachenheimer believes corporate divorces are generally more productive than marriages. He said that too often companies pursue a merger or acquisition for the wrong reason: to grow just for the sake of growing.
+>
+> “Spinoffs are generally done for the right reason and do work,” he said.
+
+[![Inc](images/inc.jpg)](http://www.inc.com/jeremy-quittner/krispy-kreme-goes-private-to-rebuild-brand-cachet.html) <br/>
+[Original Link](http://www.inc.com/jeremy-quittner/krispy-kreme-goes-private-to-rebuild-brand-cachet.html) <br/>
+**Why Some Companies--No Matter How Successful--Should Stay Private** <br/>
+May 9, 2016 <br/>
+By **Jeremy Quittner** <br/>
+> Freed from the demands of public market investors who tend to focus on short-term returns, some companies may find renewed life that harks back to when they were small and privately held, business experts say. They can strengthen their brands, double down in the communities in which they operate, and get back to their roots as innovators.
+>
+> "\[Krispy Kreme\] could take an approach to the business that is more family-friendly and more small-business friendly when you don't have the pressure of quarterly returns," says Bruce Bachenheimer, a clinical professor of management at Pace University in New York.
+>
+> It's not inconceivable that Krispy Kreme would go public again, Bachenheimer says, as time off the public market can increase the company's cachet and value.
+>
+> "For the employees and for the primary stakeholders, the distributors and retailers they are associated with, it could be taking a smaller business, longer-term approach" that could help increase the brand's value, Bachenheimer says.
+
+[![Inc](images/inc.jpg)](http://www.inc.com/jeremy-quittner/olive-garden-battle-over-breadsticks-a-big-lesson-on-managing-small-stuff.html) <br/>
+[Original Link](http://www.inc.com/jeremy-quittner/olive-garden-battle-over-breadsticks-a-big-lesson-on-managing-small-stuff.html) <br/>
+**Why Some Companies--No Matter How Successful--Should Stay Private** <br/>
+April 6, 2016 <br/>
+By **Jeremy Quittner** <br/>
+> While Olive Garden is a giant chain, its lessons could be instructive to small business owners. Namely, you should indeed sweat the small stuff, because even minor details akin to a free bread policy can make a big difference to your bottom line.
+>
+> "When you talk about a company or an industry with very thin margins, tiny changes can have an enormous impact," says Bruce Bachenheimer, a clinical professor of management at Pace University.
+>
+> The history of business is filled with second chances stemming from minor changes. Many years ago, the company that produces Angostura bitters doubled its sales by widening the size of its bottle opening, which caused consumers to pour more into their drinks. Bachenheimer says. Similarly, some gyms have gotten a revenue boost in recent years simply by adding kettlebells, which tend to appeal to a wider spectrum of gym-goers than traditional dumbbells.
+>
+> Test changes to products and price points with a limited set of customers, for example, and for a limited amount of time to see how it goes, experts say.
+>
+> "Call it A/B testing," Bachenheimer says. "It's a nice way to try things on an experimental basis and to measure the results, but not suffer huge consequences if it's not successful."
+
+[![Business News Daily](images/businessnewsdaily.png)](http://www.businessnewsdaily.com/2642-entrepreneurship.html) <br/>
+[Original Link](http://www.businessnewsdaily.com/2642-entrepreneurship.html) <br/>
+**What is Entrepreneurship?** <br/>
+March 21, 2016 <br/>
+By **Paula Fernandes** <br/>
+> "Entrepreneurship is much broader than the creation of a new business venture," added Bruce Bachenheimer, a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University. "At its core, it is a mind-set — a way of thinking and acting. It is about imagining new ways to solve problems and create value."
+>
+> **Be passionate.** Successful entrepreneurs are driven primarily by a need for achievement and the desire to make a meaningful difference, Bachenheimer said. "The most important traits are passion and persistence, but these must not be confused with arrogance and stubbornness," he said.
+
+[![Inc](images/inc.jpg)](http://www.inc.com/jeremy-quittner/four-important-traits-the-fastest-growing-startups-all-share.html) <br/>
+[Original Link](http://www.inc.com/jeremy-quittner/four-important-traits-the-fastest-growing-startups-all-share.html) <br/>
+**4 Moves You Must Make to Create a Billion-Dollar Company** <br/>
+March 7, 2016 <br/>
+By **Jeremy Quittner** <br/>
+> Still, some of the findings may be cause for skepticism. [Bruce Bachenheimer](http://thehill.com/blogs/congress-blog/economy-budget/242132-us-must-support-new-entrepreneurial-ventures-to-create), a clinical professor of management at Pace University, disagrees with the point about shorter, non-local names, calling it a red herring. One example of a company that grew from startup phase to gargantuan proportions is Sun Microsystems, whose name, he points out, originally stood for Stanford University Network. And, he says, filing for a patent early on could work against a company because it can be expensive to file for one, or costly to defend against infringement claims.
+>
+> Bachenheimer agrees with the researchers that the [economic environment](http://www.inc.com/jeremy-quittner/milstein-commission-and-salvaging-the-american-dream.html) has changed dramatically for entrepreneurs, making it much more difficult for young companies to form and grow. One key reason is the decimation of savings and home ownership rates, which both provided much-needed financing to startups in prior decades.
+>
+> "\[The declining rate of entrepreneurship\] has to do with the financial crisis, wage stagnation, and housing price declines since 2008, and it has to do with the erosion of the middle class," Bachenheimer says.
 
 [![](image2781.jpg)](http://westfaironline.com/77871/age-old-profession-of-accounting-changing-with-the-economy/)[![](image2783.jpg)](http://westfaironline.com/77871/age-old-profession-of-accounting-changing-with-the-economy/)
 
