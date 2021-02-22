@@ -152,7 +152,7 @@ January 18, 2017 <br/>
 By **Patrick Thibodeau** <br/>
 > Older workers, said Bruce Bachenheimer, a professor of management and executive director of the Entrepreneurship Lab at Pace University, need health insurance. These are workers with the industry experience, contacts and ability to start a business. But access to health insurance, especially if they or a family member could be turned down because of a pre-existing condition, can play a major role in whether or not to start a business.
 
-[![Fortune](images/fortune.png)](http://fortune.com/2016/12/20/amazons-echo-snag-entrepreneurs) <br/>
+[![Fortune](images/fortune.jpg)](http://fortune.com/2016/12/20/amazons-echo-snag-entrepreneurs) <br/>
 [Original Link](http://fortune.com/2016/12/20/amazons-echo-snag-entrepreneurs) <br/>
 **What Amazon’s Echo Snag Can Teach Entrepreneurs** <br/>
 December 20, 2016 <br/>
@@ -206,7 +206,7 @@ By **Kavya Krishna** <br/>
 >
 > Bruce Bachenheimer, a clinical professor of management and executive director of the Entrepreneurship Lab at Pace University explains, — *“Entrepreneurship is much broader than the creation of a new business venture. At its core, it is a mind-set — a way of thinking and acting. It is about imagining new ways to solve problems and create value.”*
 
-[![Pittsburgh Post-Gazette](images/post-gazette.png)](http://www.post-gazette.com/in-the-lead/itl-2016-companies/2016/05/27/Commentary-Len-Boselovic-Companies-make-up-then-break-up/stories/201605270027) <br/>
+[![Pittsburgh Post-Gazette](images/post-gazette.jpg)](http://www.post-gazette.com/in-the-lead/itl-2016-companies/2016/05/27/Commentary-Len-Boselovic-Companies-make-up-then-break-up/stories/201605270027) <br/>
 [Original Link](http://www.post-gazette.com/in-the-lead/itl-2016-companies/2016/05/27/Commentary-Len-Boselovic-Companies-make-up-then-break-up/stories/201605270027) <br/>
 **Companies make up, then break up** <br/>
 May 27, 2016 <br/>
@@ -267,90 +267,75 @@ By **Jeremy Quittner** <br/>
 >
 > "\[The declining rate of entrepreneurship\] has to do with the financial crisis, wage stagnation, and housing price declines since 2008, and it has to do with the erosion of the middle class," Bachenheimer says.
 
-[![](image2781.jpg)](http://westfaironline.com/77871/age-old-profession-of-accounting-changing-with-the-economy/)[![](image2783.jpg)](http://westfaironline.com/77871/age-old-profession-of-accounting-changing-with-the-economy/)
+[![Westchester County Business Journal](images/westchestercountybusinessjournal.jpg)![Fairfield County Business Journal](images/fairfieldcountybusinessjournal.jpg)](http://westfaironline.com/77871/age-old-profession-of-accounting-changing-with-the-economy/) <br/>
+[Original Link](http://westfaironline.com/77871/age-old-profession-of-accounting-changing-with-the-economy/) <br/>
+**Age-old profession of accounting changing with the economy** <br/>
+March 4, 2016 <br/>
+By **Reece Alvarez** <br/>
+> The perception of desirability and loyalty to the old-guard of corporations is waning and being replaced with the innovative spirit of the entrepreneur, said Bruce Bachenheimer, clinical professor of management at Pace University and executive director of the school’s entrepreneurship lab.
+>
+> “A very large percentage of students say they are interested in starting their own company or working at a startup as opposed to the previous generation before, where the goal was to get a job with a big name company,” he said. “Partially that is because of all the changes we have seen in the economy, but also these students have seen their parents laid-off and unemployed and looking for other work, so I think there has been a shift in the mentality.”
+>
+> In the world of entrepreneurs, the role of accounting has moved beyond bookkeeping to one of critical importance as a strategic role in a company’s positioning for future growth, he said.
+>
+> Startups looking to raise outside funds from angel and venture investors or who have their eyes on going public or being acquired must manage their books in a tactical way from the get-go, he said.
+>
+> “The last thing you want to do when you are looking to raise angel money, venture capital money and then ultimately to be acquired or to do an IPO is to have backwards books where you really didn’t know what you were doing and kept a bunch of receipts in a shoebox,” he said.
 
-Age-old profession of accounting changing with the economy
+[![Daily Voice](images/dailyvoice.jpg)](http://pleasantville.dailyvoice.com/schools/pace-people-this-week-bachenheimer-featured-on-south-korean-tv/624833) <br/>
+[Original Link](http://pleasantville.dailyvoice.com/schools/pace-people-this-week-bachenheimer-featured-on-south-korean-tv/624833) <br/>
+**Pace People This Week: Bachenheimer Featured On South Korean TV** <br/>
+February 17, 2016 <br/>
+By **John Haffey** <br/>
+> ![Bruce Bachenheimer](images/image2811.jpg) Bruce Bachenheimer was featured on South Korea's national public television station to discuss New York's growing 'Silicon Alley'. Photo Credit: *Pace*
+>
+> Pace Clinical Professor of Management and Executive Director of the schools' Entrepreneurship Lab, **Bruce Bachenheimer**, was interviewed about NYC's burgeoning 'Silicon Alley' on KBS Channel 1, South Korea's national public television station. Click [here](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html) to watch his interview. The 'Silicon Alley' segment starts at 19:50 and Bachenheimer appears at 22:58.
 
-March 4, 2016
+[![Inc](images/inc.png)](http://www.inc.com/jeremy-quittner/small-health-care-cooperatives-could-follow-large-company-coalition.html) <br/>
+[Original Link](http://www.inc.com/jeremy-quittner/small-health-care-cooperatives-could-follow-large-company-coalition.html) <br/>
+**Here's How Health Care Could Get Cheaper in 2016** <br/>
+February 5, 2016 <br/>
+By **Jeremy Quittner** <br/>
+> Small companies currently have access to a federal exchange, called SHOP, that leverages their combined purchasing heft to buy plans. But the large company model could percolate down to create an additional option for entrepreneurs.
+>
+> "What's interesting for small businesses is that similar pools could come from trade unions and trade guilds and business associations," says Bruce Bachenheimer, a professor of clinical management at Pace University. In addition to small companies banding together, Bachenheimer adds that other types of pools also could form, for example within the growing ranks of the self-employed in the so-called gig economy, represented by Uber and TaskRabbit. Even startups that bring together entrepreneurs, such as WeWork, could also present large pooling opportunities.
+>
+> There are concerns about the sensitivity of data that companies exchange and how they use it, Bachenheimer says, as well as whether these pools will really provide cost savings, as the WSJ suggests. Further, regional nonprofit co-ops that have relied on more limited networks of health care providers have struggled to remain solvent over the years, in large part because they have attracted a preponderance of older workers who need more care.
+>
+> Yet cooperative networks that service startups would tend to have younger workers, and could have a better chance.
+>
+> "It will never make economic sense until younger, healthier employees join in," says Bachenheimer. "These plans could be catered to young, tech workers."
 
-By Reece Alvarez
-
-[![](image2787.jpg)](http://westfaironline.com/77871/age-old-profession-of-accounting-changing-with-the-economy/)
-
-The perception of desirability and loyalty to the old-guard of corporations is waning and being replaced with the innovative spirit of the entrepreneur, said Bruce Bachenheimer, clinical professor of management at Pace University and executive director of the school’s entrepreneurship lab.
-
-“A very large percentage of students say they are interested in starting their own company or working at a startup as opposed to the previous generation before, where the goal was to get a job with a big name company,” he said. “Partially that is because of all the changes we have seen in the economy, but also these students have seen their parents laid-off and unemployed and looking for other work, so I think there has been a shift in the mentality.”
-
-In the world of entrepreneurs, the role of accounting has moved beyond bookkeeping to one of critical importance as a strategic role in a company’s positioning for future growth, he said.
-
-Startups looking to raise outside funds from angel and venture investors or who have their eyes on going public or being acquired must manage their books in a tactical way from the get-go, he said.
-
-“The last thing you want to do when you are looking to raise angel money, venture capital money and then ultimately to be acquired or to do an IPO is to have backwards books where you really didn’t know what you were doing and kept a bunch of receipts in a shoebox,” he said.
-
-[![](image2809.jpg)](http://pleasantville.dailyvoice.com/schools/pace-people-this-week-bachenheimer-featured-on-south-korean-tv/624833/)
-
-Pace People This Week: Bachenheimer Featured On South Korean TV
-
-February 17, 2016
-
-By John Haffey
-
-[![](image2806.jpg)](http://pleasantville.dailyvoice.com/schools/pace-people-this-week-bachenheimer-featured-on-south-korean-tv/624833/)![](image2811.jpg) Bruce Bachenheimer was featured on South Korea's national public television station to discuss New York's growing 'Silicon Alley'. Photo Credit: Pace 
-
-Pace Clinical Professor of Management and Executive Director of the schools' Entrepreneurship Lab, Bruce Bachenheimer, was interviewed about NYC's burgeoning 'Silicon Alley' on KBS Channel 1, South Korea's national public television station. Click [here](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html) to watch his interview. The 'Silicon Alley' segment starts at 19:50 and Bachenheimer appears at 22:58.[![](image6561.png)](http://www.inc.com/jeremy-quittner/small-health-care-cooperatives-could-follow-large-company-coalition.html)
-
-Here's How Health Care Could Get Cheaper in 2016
-
-February 5, 2016
-
-By Jeremy Quittner
-
-[![](image2771.jpg)](http://www.inc.com/jeremy-quittner/small-health-care-cooperatives-could-follow-large-company-coalition.html)
-
-Small companies currently have access to a federal exchange, called SHOP, that leverages their combined purchasing heft to buy plans. But the large company model could percolate down to create an additional option for entrepreneurs.
-
-"What's interesting for small businesses is that similar pools could come from trade unions and trade guilds and business associations," says Bruce Bachenheimer, a professor of clinical management at Pace University. In addition to small companies banding together, Bachenheimer adds that other types of pools also could form, for example within the growing ranks of the self-employed in the so-called gig economy, represented by Uber and TaskRabbit. Even startups that bring together entrepreneurs, such as WeWork, could also present large pooling opportunities.
-
-There are concerns about the sensitivity of data that companies exchange and how they use it, Bachenheimer says, as well as whether these pools will really provide cost savings, as the WSJ suggests. Further, regional nonprofit co-ops that have relied on more limited networks of health care providers have struggled to remain solvent over the years, in large part because they have attracted a preponderance of older workers who need more care.
-
-Yet cooperative networks that service startups would tend to have younger workers, and could have a better chance.
-
-"It will never make economic sense until younger, healthier employees join in," says Bachenheimer. "These plans could be catered to young, tech workers."
-
-[![](image27741.jpg)](http://creativeroom4talk.com/interview-bruce-bachenheimer/)
-
-Interview: Bruce Bachenheimer
-
-January 28, 2016
-
-[![](image2771.jpg)](http://creativeroom4talk.com/interview-bruce-bachenheimer/)
-
-![](image2835.jpg)
-
-Professor Bruce Bachenheimer was interviewed in the February 2016 issue of Creativeroom4talk, an international magazine for communications & creativity. The digital magazine (Issue 10) is available at:[http://bit.ly/InterviewBB](http://bit.ly/InterviewBB).
-
-An excerpt of the interview:
-
-A recommendation for those who think about starting and running a creative business?
-
-Determine what is really important to you. Not what others would define as important or something that would make you successful, but what you are truly passionate about.
-
-What is the most important thing in a workplace/studio for you?
-
-Independence. I will work towards institutional goals and within organizational boundaries, but want the freedom and flexibility to pursue a creative path autonomously.
-
-What is the nicest compliment you’ve received for your creative work, and from whom?
-
-A former professor of mine wrote: “In Hindu tradition, the greatest guru (teacher) is one whose shishya (student) surpasses the guru. By that criterion, I am the greatest guru, and very proud of you!”
-
-Who is your professional role model/inspiration?
-
-Professors that come to mind include Randy Pausch (Carnegie Mellon University) and Walter Lewin (MIT).
-
-How would you describe your work style (academic field or fashion style, or both, or something entirely different)?
-
-I like to teach by revealing a path to discovery. I try to be empathetic and engaging, but have little patience for apathetic dolts.
-
-What inspires you?
-
-That continuous learning is a job requirement and inspiring others to learn is the most important aspect of my job.
+[![creative room 4 talk](images/creativeroom4talk.jpg)](http://creativeroom4talk.com/interview-bruce-bachenheimer) <br/>
+[Original Link](http://creativeroom4talk.com/interview-bruce-bachenheimer) <br/>
+**Interview: Bruce Bachenheimer** <br/>
+January 28, 2016 <br/>
+> ![](image2835.jpg)
+>
+> Professor Bruce Bachenheimer was interviewed in the February 2016 issue of Creativeroom4talk, an international magazine for communications & creativity. The digital magazine (Issue 10) is available at:[http://bit.ly/InterviewBB](http://bit.ly/InterviewBB).
+>
+> *An excerpt of the interview:*
+> 
+> **A recommendation for those who think about starting and running a creative business?**
+> 
+> Determine what is really important to you. Not what others would define as important or something that would make you successful, but what you are truly passionate about.
+>
+> **What is the most important thing in a workplace/studio for you?**
+>
+> Independence. I will work towards institutional goals and within organizational boundaries, but want the freedom and flexibility to pursue a creative path autonomously.
+> 
+> **What is the nicest compliment you’ve received for your creative work, and from whom?**
+> 
+> A former professor of mine wrote: “In Hindu tradition, the greatest guru (teacher) is one whose shishya (student) surpasses the guru. By that criterion, I am the greatest guru, and very proud of you!”
+> 
+> **Who is your professional role model/inspiration?**
+> 
+> Professors that come to mind include Randy Pausch (Carnegie Mellon University) and Walter Lewin (MIT).
+> 
+> **How would you describe your work style (academic field or fashion style, or both, or something entirely different)?**
+> 
+> I like to teach by revealing a path to discovery. I try to be empathetic and engaging, but have little patience for apathetic dolts.
+> 
+> **What inspires you?**
+> 
+> That continuous learning is a job requirement and inspiring others to learn is the most important aspect of my job.
