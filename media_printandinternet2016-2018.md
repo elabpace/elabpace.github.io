@@ -291,7 +291,7 @@ By **John Haffey** <br/>
 >
 > Pace Clinical Professor of Management and Executive Director of the schools' Entrepreneurship Lab, **Bruce Bachenheimer**, was interviewed about NYC's burgeoning 'Silicon Alley' on KBS Channel 1, South Korea's national public television station. Click [here](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html) to watch his interview. The 'Silicon Alley' segment starts at 19:50 and Bachenheimer appears at 22:58.
 
-[![Inc](images/inc.png)](http://www.inc.com/jeremy-quittner/small-health-care-cooperatives-could-follow-large-company-coalition.html) <br/>
+[![Inc](images/inc.jpg)](http://www.inc.com/jeremy-quittner/small-health-care-cooperatives-could-follow-large-company-coalition.html) <br/>
 [Original Link](http://www.inc.com/jeremy-quittner/small-health-care-cooperatives-could-follow-large-company-coalition.html) <br/>
 **Here's How Health Care Could Get Cheaper in 2016** <br/>
 February 5, 2016 <br/>
@@ -310,7 +310,7 @@ By **Jeremy Quittner** <br/>
 [Original Link](http://creativeroom4talk.com/interview-bruce-bachenheimer) <br/>
 **Interview: Bruce Bachenheimer** <br/>
 January 28, 2016 <br/>
-> ![](image2835.jpg)
+> ![Bruce Bachenheimer](images/image2835.jpg)
 >
 > Professor Bruce Bachenheimer was interviewed in the February 2016 issue of Creativeroom4talk, an international magazine for communications & creativity. The digital magazine (Issue 10) is available at:[http://bit.ly/InterviewBB](http://bit.ly/InterviewBB).
 >
