@@ -32,7 +32,7 @@ November 11, 2016 <br/>
 January 23, 2016 <br/>
 > *Pace University Professor Bruce Bachenheimer was interviewed on* **Global Talk Show Cosmopolitan**, *which aired on* **Korean Broadcasting System Channel 1** *January 23, 2016. The program examined New York City’s Silicon Alley. A video clip of the program is available at:* [http://bit.ly/KBS-BB](http://bit.ly/KBS-BB) *(the Silicon Alley segment starts at 19:50 and Professor Bachenheimer appears at 22:58).*
 >
-> ![Photo](images/press/tv_radio_web/image1084.png)
+> ![Photo](images/image1084.png)
 
 [![PBS](images/pbs.jpg)](http://scitechnow.org/videos/from-soldier-to-entrepreneur/) <br/>
 [Original Link](http://scitechnow.org/videos/from-soldier-to-entrepreneur/) <br/>
@@ -164,7 +164,7 @@ Hosted by **JJ Ramberg** <br/>
 October 24, 2010 <br/>
 Hosted by **JJ Ramberg** <br/>
 > *Pace University Professor Bruce Bachenheimer* was a panelist on **MSNBC’s YOUR BUSINESS** program, which aired on October 24, 2010 from 7:30 am to 8:00 am. A segment of that broadcast is available at: [http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services)
-> ![Photo](images/press/tv_radio_web/image4615.png)
+> ![Photo](images/image4615.png)
 
 [![AM1490WGCH](images/am1490wgch.jpg)](http://www.wgch.com/) <br/>
 [Original Link](http://www.wgch.com/) <br/>
