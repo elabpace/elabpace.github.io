@@ -203,4 +203,4 @@ By **Andrea Murad** <br/>
 >
 > Areas with universities that have programs in AI, robotics and machine learning, for example, attract forward-looking companies.
 >
-> lent serves many roles though. Today, the basis for a competitive advantage is innovation in all forms, and the only source of innovation is human talent, said Bruce: “These days with globalization, hyper competition and shorter lifecycles, the only way to survive is with innovation.”
+> Talent serves many roles though. Today, the basis for a competitive advantage is innovation in all forms, and the only source of innovation is human talent, said Bruce: “These days with globalization, hyper competition and shorter lifecycles, the only way to survive is with innovation.”
