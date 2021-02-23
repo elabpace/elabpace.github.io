@@ -1,5 +1,23 @@
 # Print and Internet 2019-Present
 
+[![Sunday Mail](images/sundaymail.png)](https://www.sundaymail.co.zw/entrepreneurship-is-a-mindset) <br/>
+[Original Link](https://www.sundaymail.co.zw/entrepreneurship-is-a-mindset) <br/>
+**Entrepreneurship is a mindset** <br/>
+February 21, 2021 <br/>
+By **Dr Kudzanai Vere** <br/>
+> Bruce Bachenheimer, clinical professor of management and executive director of the entrepreneurship laboratory at Pace University, defined entrepreneurship as imagining new ways to solve problems and create value. It is about the ability to recognise and methodically analyse an opportunity and, ultimately capture its value.
+>
+> I picked five dimensions of an entrepreneurship mindset in Professor Bachenheimer’s sentiments that I will explore.
+
+[![The Ladders](images/theladders.jpg)](https://www.theladders.com/career-advice/is-the-mba-dead-experts-weigh-in) <br/>
+[Original Link](https://www.theladders.com/career-advice/is-the-mba-dead-experts-weigh-in) <br/>
+**Is the MBA dead? Experts weigh in** <br/>
+February 19, 2021 <br/>
+By **Ryan Luke** <br/>
+> Bruce Bachenheimer, a professor of management at the Lubin School of Business, told USNews, “project-based learning activities in MBA courses allow students to practice solving real business problems. Ultimately, this can help students become more creative thinkers, and this type of education tends to have a lasting impact.”
+>
+> Bachenheimer continued, “An MBA can be much more than the knowledge and skills acquired through coursework; it can truly expand you and your world.” It’s apparent by the significant increase in MBA enrollment that students believe the MBA program is still alive and relevant.
+
 [![US News and World Report](images/usnews.png)](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/what-to-know-about-getting-an-mba-during-the-coronavirus-pandemic) <br/>
 [Original Link](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/what-to-know-about-getting-an-mba-during-the-coronavirus-pandemic) <br/>
 **Should You Pursue an MBA Amid Coronavirus?** <br/>
