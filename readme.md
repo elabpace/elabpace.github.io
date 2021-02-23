@@ -5,6 +5,7 @@ https://domchristie.github.io/turndown  -- helper, converts html to markdown
 https://www.httrack.com                 -- use to pull entire site to zip and send to BB for upload to Pace
 Using <br/> as line breaks              -- markdown accepts 2 spaces "  " but you can't see these; new users will be confused
 https://bachenheimer.com                -- The original site
+https://elabpace.github.io              -- Where this repo renders
 ```
 
 ## Welcome to GitHub Pages
