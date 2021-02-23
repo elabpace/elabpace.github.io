@@ -1269,3 +1269,1600 @@ By **Hunter Muller** <br/>
 >
 > I love how Bruce puts innovation and entrepreneurship into context, and shows us the impact of innovation on multiple levels.  Bruce also advises his students to think like innovative entrepreneurs when envisioning their career paths.  In today’s rapidly evolving and ever-changing economy, I think that’s excellent advice for all of us.
 
+# Print and Internet 2010-2012
+
+[![IndustryWeek](images/industryweek.jpg)](http://www.industryweek.com/leadership/creating-entrepreneurial-company) <br/>
+[Original Link](http://www.industryweek.com/leadership/creating-entrepreneurial-company) | [PDF Version](files/IndustryWeek_12-10-12.pdf) <br/>
+**Creating the Entrepreneurial Company** <br/>
+December  10, 2012 <br/>
+By **Steve Minter** <br/>
+>
+>"It is incredibly important in today's hypercompetitive environment where technology and the macro-economy are changing so quickly that companies think much more entrepreneurially," says Bruce Bachenheimer, clinical professor of management at Pace University.
+>
+> **Hearing a Different Drum**
+>
+> Companies that want to encourage innovation and entrepreneurship, or intrapreneurship, in their ranks must ensure that they provide the right incentives to employees. Too often, Bachenheimer says, companies say they want innovative, entrepreneurial employees but "what they really want is disciplined employees that are polite, respectful, come in well-dressed and are not insubordinate." That isn't necessarily the profile of a creative, strong-willed employee who wants to march to a different drum.
+>
+> The first thing companies should consider is how they will handle risk and reward. "If you have some really bright, innovative employees, if they take the risk to do something and it doesn't work, is their career derailed?" posits Bachenheimer. "On the other hand, what happens if it is wildly successful, if it saves or makes the company millions and millions of dollars? What kind of reward do those employees get?" The reward doesn't have to be as lavish as a large grant of stock options, he says, but it should be "more than some kind of nominal $1,000 bonus."
+
+[![NY Convergence](images/nyconvergence.jpg)](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) <br/>
+[Original Link](http://nyconvergence.com/2012/12/mitef-clear-concise-and-convincing.html) | [PDF Version](files/NYConvergence_12-5-12.pdf) <br/>
+**#MITEF: Clear, Concise and Convincing** <br/>
+December  5, 2012 <br/>
+By **Lauren Keyson** <br/>
+>
+> **Bruce Bachenheimer, Pace University** director of entrepreneurism and board member, attended with his graduate business development class. He wanted them to see what he called “actual” companies presenting their business plans. “When you do it in the classroom, there is an academic part of doing research and looking at databases,” he said.  “I hope they see what a “real” presenter would look like – someone who has done a lot of pitching, probably has received a seed round or doing an A round now, have polished their pitch and have actual technology.”
+
+[![AARP Work Reimagined](images/workreimagined.jpg)](http://workreimagined.aarp.org/manage-your-career/how-to-shatter-the-glass-ceiling-go-outside/) <br/>
+[Original Link](http://workreimagined.aarp.org/2012/11/how-to-shatter-the-glass-ceiling-go-outside/) | [PDF Version](files/WorkReimagined_11-27-12.pdf) <br/>
+**How to Shatter the Glass Ceiling: Go Outside** <br/>
+November 27, 2012 <br/>
+By **Elaine Pofeldt** <br/>
+>
+> **Have you struggled to get credit for your accomplishments?**
+>
+> A common frustration for women is that when they’ve done the heavy lifting on executing projects at work, the men on their team seem to score more points with the boss. “Men tend to be much more self-promoting, which helps in corporate America in terms of who is getting ahead and getting attention,” says Bruce Bachenheimer, a professor of management at Pace University.
+>
+> Starting your own business can be a way to reap more rewards from your hard work, as Leigh discovered. If you keep customers happy, you’re the one who will see your revenues rise. However, to get clients to pay you what you’re worth, you may have to get better at tooting your own horn to clients, as you would to a boss. “In small business and growing ventures, you have to be out there and say how great you are,” says Bachenheimer.
+> 
+> **Have you been penalized for needing flexibility?**
+>
+> The downside to limiting your hours in a small business: If you’re not available when customers need you, you may find there are limits to your success. “At some point, if you decide that your objective is to maximize revenues, then you won’t turn down calls and meetings,” says Bachenheimer.
+
+[![US News and World Report](images/usnews.png)](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students) <br/>
+[Original Link](http://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/2012/11/12/10-work-life-balance-tips-for-mba-students) | [PDF Version](files/US_News_and_World_Report_11-12-12.pdf) <br/>
+**10 Work-Life Balance Tips for MBA Students** <br/>
+November 12, 2012 <br/>
+By **Menachem Wecker** <br/> 
+>
+> **10. Limit TV watching**: If you insist on having a television, store it in a closet and only bring it out for must-see programs, says Lubin management professor Bruce Bachenheimer. But that doesn't mean have no fun.
+>
+> "Eat, drink, and be merry without feeling guilty," he says. "Work hard for that time to relax and savor it."
+
+[![l'Usine Nouvelle](images/usinenouvelle.png)](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314) <br/>
+[Original Link](http://www.usinenouvelle.com/article/numerique-new-york-construit-sa-valley.N182314) | [PDF Version](files/LUsineNouvelle_9-20-12.pdf) <br/>
+**Digital: New York built its Valley** <br/>
+September 20, 2012 <br/>
+By **Frederic Autran** <br/>
+>
+> ![Photo of Bruce with caption](images/image6004.png)
+>
+> Surprisingly, the 2008 financial crisis has been a catalyst for the technological scene in New York. "Many programmers, engineers and analysts have landed in Silicon Alley after losing or leaving their jobs on Wall Street” says Bruce Bachenheimer, director of the Entrepreneurship Laboratory at Pace University in New York. “And it has become sexier to say that you work in a start-up rather than on Wall Street. It is a situation that the mayor understood."
+
+[![Finanz und Wirtschaft](images/fuw.jpg)](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/) <br/>
+[Original Link](http://www.fuw.ch/article/aufbruchstimmung-an-der-silicon-alley/) | [PDF Version](files/Finanz_und_Wirtschaft_9-10-12.pdf) <br/>
+**Optimism in Silicon Alley** <br/>
+September 10, 2012 <br/>
+By **Christopher Gisiger** <br/>
+>
+> "As far as the number of deals, this year New York came in second behind Silicon Valley, overtaking Boston" says Bruce Bachenheimer, Professor of Business at Pace University.
+
+[![21st Century Business Herald](images/21cbh.jpg)](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm) <br/>
+[Original Link](http://epaper.21cbh.com/html/2012-09/10/content_33318.htm) | [PDF Version](files/21stCenturyBusinessHerald_9-10-12.pdf) <br/>
+**The Fed’s QE fork: who benefits and who pays the bill** <br/>
+September 10, 2012 <br/>
+By **Ye Hui Jue** <br/>
+>
+> For the private sector of the economy, QE may not have an entirely a positive effect. Mr. Bachenheimer, who has long been engaged in entrepreneurial studies, stated that as the market stabilizes, it is likely that equities will improve, bond prices will decline slightly, gold will become less attractive, the dollar will strengthen, and start-up enterprises will find it easier to secure debt and raise capital.
+
+[![Crain's New York](images/crainsnewyork.jpg)](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20120909/SMALLBIZ/309099992) | [PDF Version](files/Crains_9-9-12.pdf) <br/>
+**Woman Entrepreneurs smash an old barrier** <br/>
+September 9, 2012 <br/>
+By **Elizabeth MacBride** <br/>
+>
+> "Men have always seen themselves as breadwinners: 'If I'm working day and night, I'm supporting my family,' " said Bruce Bachenheimer, clinical professor and director of entrepreneurship at Pace University. "Women [working that hard] saw themselves as not doing a good job for their families. That is starting to change."
+>
+> "[These networks] are not a vague thing in the background," said Mr. Bachenheimer. "It's whom do you pick up the phone and call ... when you need talent?"
+
+[![Sydney Morning Herald](images/smh.jpg)](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) <br/>
+[Original Link](http://www.smh.com.au/it-pro/its-the-technology-stupid-20120824-24rc8.html) | [PDF Version](files/SMH_8-24-12.pdf) <br/>
+***Also featured in***:  
+[![The Age](images/theage.png)](http://www.theage.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html) <br/>
+[![Brisbane Times](images/brisbanetimes.png)](http://www.brisbanetimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html) <br/>
+[![Canberra Times](images/canberratimes.jpg)](http://www.canberratimes.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html) <br/>
+[![WA Today](images/watoday.png)](http://www.watoday.com.au/it-pro/business-it/its-the-technology-stupid-20120824-24rc8.html) <br/>
+**It’s the technology, stupid** <br/>
+August 24, 2012 <br/>
+By **Mathew Hall** <br/>
+>
+> The impact of tech cannot be underestimated. “The city recognised this and knew it needed to do something,” explained Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University, New York. Money isn't the only answer, however. “You need a strategy,” Bachenheimer said.
+>
+> Knowing what the private sector needs is also a key. “In the '90s, people were chasing money,” Bachenheimer said. “The saying was that if you could say dot-com you got money. Now people want revenue and profits. If you look at what New York is excelling at, it is not creating some technology, it is taking existing technology and applying it where there is real need.”
+
+[![21st Century Business Herald](images/21cbh.jpg)](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm) <br/>
+[Original Link](http://epaper.21cbh.com/html/2012-08/13/content_31152.htm) | [PDF Version](files/21stCenturyBusinessHerald_8-13-12.pdf) <br/>
+**“IPO blowout Week” Dashed** <br/>
+August 13, 2012 <br/>
+By **Ye Hui Jue** <br/>
+>
+>In sharp contrast with this, the private equity market remains active. Pace University Professor Bruce Bachenheimer told reporters that an increasing number of businesses are opting for private investments and trade sales. Compared to the strictly regulated IPO market, private equity and M & A can be a more attractive choice.
+
+[![El Punt Avui](images/elpuntavui.jpg)](http://www.elpuntavui.cat/noticia/article/4-economia/18-economia/565539-el-cinturo-de-silici.html) <br/>
+[Original Link](http://www.elpuntavui.cat/noticia/article/4-economia/18-economia/565539-el-cinturo-de-silici.html) | [PDF Version](files/ElPuntAvui_8-5-12.pdf) <br/>
+**Silicon Alley** <br/>
+August 5, 2012 <br/>
+By **Dani Triadó** <br/>
+>
+> "The bursting of the tech bubble collapsed the original Silicon Alley, established between 1996 and 2001", explained Bruce Bachenheimer, Director of Entrepreneurship at the Lubin School of Business, Pace University. "Ironically, the crisis of 2008 is responsible for the birth of the new group of technology firms. Dozens of engineers working on Wall Street lost their jobs and saw an opportunity in new technologies", he adds.
+> 
+> "Silicon Valley is based on technology; in New York, however, technology companies have been able to exploit their relationship with the financial industries, design, art, advertising and health", concludes Professor Bachenheimer.
+>
+> **Alternative to Silicon Valley**
+> 
+> "Silicon Valley is based on the technology; in New York, however, technology companies have been able to exploit their relationship with the finance, design, art, advertising and health '," says Bruce Bachenheimer, Director Entrepreneurship Program at the Lubin School of Business, Pace University.
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20120729/SUB/307299993) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20120729/SUB/307299993) | [PDF Version](files/Crains_7-29-12.pdf) <br/>
+**Funding draws on crowd** <br/>
+July 29, 2012 <br/>
+By **Steve Garmhausen** <br/>
+>
+> **A THREAT TO VCS**
+>
+> They also question crowd funding's viability, predicting, for example, that communicating with hundreds of mom-and-pop investors—and being second-guessed by them—will turn off many entrepreneurs, not to mention VCs, when the entrepreneurs attempt to attract later rounds of traditional funding. Unsophisticated investors are more likely to buy shares based on exaggerated valuations, the argument goes. To invest in a later round, more savvy angels or venture capitalists would insist on lowering the valuation—which would incur the wrath of the original shareholders. They argue, too, that entrepreneurs who work with amateur investors will miss out on the advice, networking opportunities and tough love provided by VCs and angels, not to mention the stamp of approval a venture investment confers.
+>
+> "They give you a huge amount of help finding top talent," said Bruce Bachenheimer, director of the entrepreneurship program at Pace University's Lubin School of Business. "[With crowd funders] if anything, you'll spend all day on the phone with Aunt Jenny."
+
+[![New Jersey Jewish Standard](images/newjerseyjewishstandard.jpg)](http://www.jstandard.com/content/item/how_to_succeed_in_business_play_games/) <br/>
+[Original Link](http://www.jstandard.com/content/item/how_to_succeed_in_business_play_games/) | [PDF Version](files/NJJewishStandard_7-27-12.pdf) <br/>
+**How to succeed in business – play games** <br/> 
+July 27, 2012 <br/>
+By **Abigail Klein Leichman** <br/>
+>
+> Bruce Bachenheimer, clinical professor of management at Pace University, told the Jewish Standard that he took his MBA students to play FreshBiz last March at Hive at 55, a co-working space in Lower Manhattan.
+>
+> “We all enjoyed the experience and found it quite insightful,” he said. “While the board game itself is quite well thought out, I believe the real value of the game lies in the facilitators — those coaching players during the game and, more importantly, conducting the debriefing afterward. The game itself is a very good tool, but not in and of itself — the ‘brilliance’ lies in the abilities of those conducting the exercise.”
+
+[![21st Century Business Herald](images/21cbh.jpg)](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html) <br/>
+[Original Link](http://www.21cbh.com/HTML/2012-7-26/3NNjUxXzQ4MzM3NQ.html) | [PDF Version](files/21stCenturyBusinessHerald_7-26-12.pdf) <br/>
+**Looking forward to the "negative": the possibility of significant increase of the EFSF rating downgrades** <br/>
+July 26, 2012 <br/>
+By **Ye Hui Jue** <br/>
+>
+> “Market behavior is usually difficult to predict, but it is nothing more than two kinds of emotional control - fear and greed." Pace University, USA Lubin Business School Professor Bruce Bachenheimer pointed out to reporters.
+
+[![La Presse](images/lapresse.jpg)](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php) <br/>
+[Original Link](http://affaires.lapresse.ca/economie/technologie/201207/23/01-4558004-des-entreprises-technos-par-milliers-a-new-york.php) | [PDF Version](files/LaPresse_7-23-12.pdf) <br/>
+**Technology businesses by the thousands in New York** <br/>
+July 23, 2012 <br/>
+By **Richard Hetu** <br/>  
+>
+> **A beneficial crisis**
+>
+> Paradoxically, the financial crisis of 2008 contributed to the technology boom in New York, according to Bruce Bachenheimer, management professor and director of an entrepreneurship program at Pace University in New York.
+>
+> "A lot of programmers, engineers and quantitative analysis of cracks met at Silicon Alley after losing their jobs on Wall Street" he said during a meeting. "Wall Street has suddenly ceased to monopolize all the talent. It must be said also that it has become sexier to say that working in Silicon Alley rather than Wall Street. This is something that the mayor understands."
+>
+> **"It is not enough to say dot-com"**
+>
+> "It is not enough to say dot-com to raise money," says Bruce Bachenheimer, a professor at Pace University. "The" venture capitalists "watch the revenues and profits. And what startups are doing well in New York is using existing technology and apply it where it can respond to real needs."
+
+[![21st Century Business Herald](images/21cbh.jpg)](http://epaper.21cbh.com/html/2012-07/23/content_29455.htm) <br/>
+[Original Link](http://epaper.21cbh.com/html/2012-07/23/content_29455.htm) | [PDF Version](files/21stCenturyBusinessHerald_7-21-12.pdf) <br/>
+**The four major banks sigh: America's financial industry fears layoffs** <br/>
+July 23, 2012 <br/>
+By **Ye Hui Jue** <br/>
+>
+> Analysts believe that the more stringent financial regulation led to many companies to be discouraged by the public market. Pace University Lubin Business School Professor Bruce Bachenheimer said to this reporter: "Due to a series of financial regulatory requirements in the Sarbanes-Oxley Act and other strict rules for operating in the public market, many enterprises do not want to do an IPO at this time, choosing instead a more private and conservative trade sale."
+
+[![Young Entrepreneur](images/youngentrepreneur.png)](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/) <br/>
+[Original Link](http://www.youngentrepreneur.com/blog/must-read-books-to-fuel-your-summer-and-your-startup/) | [PDF Version](files/YoungEntrepreneur_7-13-12.pdf) <br/>
+**Must Read Books to Fuel Your Summer — And Your Startup** <br/>
+July 13, 2012 <br/>
+By **Lauren Cannon** <br/> 
+>
+> **Bruce Bachenheimer  
+> Director of Entrepreneurship, Pace University’s Lubin School of Business  
+> New York, NY**  
+>
+> *[The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](http://www.amazon.com/dp/1591840562/)*
+> **by Guy Kawasaki**
+>
+> It’s a really fun, easy read — and a very broad book for entrepreneurs starting everything.
+
+[![NY Convergence](images/nyconvergence.jpg)](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html) <br/>
+[Original Link](http://nyconvergence.com/2012/06/mitfnytech-failure-is-liberating-wild-success-is-exhilarating-nytc.html) | [PDF Version](files/NYConvergence_6-20-12.pdf) <br/>
+**MITEF/NYTECH Digital Discussion: Failure Is Liberating, Wild Success Is Exhilarating** <br/>
+June 20, 2012 <br/>
+By **Lauren Keyson** <br/>
+>
+> “NYC digital tech entrepreneurship has had such an impact in NYC on job creation,” said Bruce Bachenheimer, board member for the Enterprise Forum and entrepreneurship director for Pace University.  “In fact NYC is now in the number two spot for VC and angel investment, according to National Venture Capital Association PricewaterhouseCoopers Money Tree survey. While the whole economy is stagnating, NYC companies have received millions in funding.  While we have lagged the nation out of recoveries in the past, we are now ahead — this shows the impact of digital media has had.”
+>
+> He says that one way to be successful is to be part of the NY entrepreneurial ecosystem. “Get engaged, involved, and look for support because there are a lot of resources and other companies that want to help. Build straight in the eco-system so that we can make sure this isn’t a bubble, but that it’s something that can last.”
+
+[![Entrepreneurs Startups](images/entrepreneursstartups.png)](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28) <br/>
+[Original Link](http://mobileservices.texterity.com/entrepreneursstartups/summer2012/?lm=1338884732000&pg=28#pg28) | [PDF Version](files/EntrepreneursStartups_Summer-2012.pdf) <br/>
+***Also featured in:*** <br/>
+[![NBC News](images/nbcnews.jpg)](http://www.nbcnews.com/id/47995175/ns/business-small_business/t/steps-successful-business-launch/) <br/>
+**6 Steps to a Successful Start** <br/>
+Summer 2012 <br/>
+By **Nancy Mann Jackson** <br/>
+>
+> **GO BEYOND THE BUSINESS PLAN.**
+>
+> Planning carefully before launching a new business is not limited to preparing a business plan, says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University in New York City. “While preparing a business plan is generally a valuable exercise, there are other ways to plan carefully,” he says. Bachenheimer recommends three planning methods.
+>
+> • The Apprentice Model: gaining direct industry experience, as the founders of Tender Greens did.
+>
+> • The Hired-Gun Approach: partnering with experts who have in-depth knowledge and experience.
+>
+> • The Ultra-Lean School of Hard Knocks Tactic: figuring out a way to rapidly test and refine your model at a very reasonable cost.
+>
+> If you don't commit to in-depth preparation, launching a new business can be a very expensive lesson in the value of planning. Bachenheimer asks: “Would you enter a high-stakes poker tournament without knowing the game, assuming that you'll figure it out as you go?”
+>
+> **KNOW THE MARKET.**
+>
+> Ask questions, conduct research or gain experience to help you learn your market inside and out, including the key suppliers, distributors, competitors and customers, Bachenheimer says. “You also have to really understand the critical metrics of your market, whether it's as simple as sales per square foot and inventory turnover, or an esoteric measure in a highly specialized niche market,” he says.
+>
+> **ESTABLISH CASH RESOURCES.**
+>
+> To determine how much cash you'll need, develop a cash-flow statement that estimates your expenses and income. Be sure to include appropriate expense levels by researching actual business costs rather than estimating based on your personal experience as a retail consumer. “For instance, you can host your personal website with unlimited bandwidth for $9.95 a month, but operating a commercial website may cost hundreds or thousands of dollars a month,” Pace University's Bachenheimer says.
+
+[![Young Entrepreneur](images/youngentrepreneur.png)](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/) <br/> 
+[Original Link](http://www.youngentrepreneur.com/blog/at-college-pitch-contests-giant-companies-are-listening/) | [PDF Version](files/YoungEntrepreneur_5-22-12.pdf) <br/> 
+**At College Pitch Contests, Giant Companies Are Listening** <br/> 
+May 22, 2012 <br/> 
+>
+> Is the private incubator model right for your startup? They both have their pros and cons, but incubators backed by major companies may aid your development into a seasoned entrepreneur at a faster rate, says Bruce Bachenheimer, director of entrepreneurship at Pace University’s Lubin School of Business. "They all bring something unique and different and there certainly are a lot of benefits to the different approaches," he adds. "One thing that the Foundry does that’s special is creating the mindset of an entrepreneur primarily as opposed to just counting the number of startup companies they create."
+
+[![MSN Careers](images/msncareers.png)](http://msn.careerbuilder.com/Article/MSN-3008-College-Internships-First-Jobs-Should-you-work-between-undergrad-and-grad-school/) <br/> 
+[Original Link](http://msn.careerbuilder.com/Article/MSN-3008-College-Internships-First-Jobs-Should-you-work-between-undergrad-and-grad-school/) | [PDF Version](files/MSN_5-9-12.pdf) <br/>
+**Should you work between undergrad and grad school?** <br/> 
+May 9, 2012 <br/> 
+By **Debra Auerbach** <br/>  
+>
+> **4. Does the experience add value?**
+>
+> While working between undergraduate and graduate school certainly has its benefits, make sure you're not working just to work and that you're gaining experience that will add value to your education. "As far as the type of work a potential applicant should look for, the bottom line is how well that experience will enable you to add value to the classroom experience and contribute to group assignments," says Bruce Bachenheimer, clinical professor of management at Pace University's Lubin School of Business in New York.
+
+[![BizEd](images/bized.png)](http://theexchange.aacsb.edu/bized/home/) <br/> 
+[Original Link](http://theexchange.aacsb.edu/bized/home/) | [PDF Version](files/BizEd_May-June2012.pdf) <br/>
+**News** <br/> 
+May/June 2012 <br/> 
+>
+> **Pace University** has simultaneously opened two Entrepreneurship Labs (E-Labs) on its campuses in Lower Manhattan and Pleasantville, New York. E-Lab’s first director will be Bruce Bachenheimer of Pace’s Lubin School of Business.
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20120422/SMALLBIZ/304229998) <br/> 
+[Original Link](http://www.crainsnewyork.com/article/20120422/SMALLBIZ/304229998) | [PDF Version](files/Crains_4-22-12.pdf) <br/>
+**Colleges become startup factories** <br/> 
+April 22, 2012 <br/>
+>
+> One of the latest manifestations of the trend: the February launch, by Pace University’s Lubin School of Business, of an entrepreneurship lab that aims to facilitate collaborations between students in schools as diverse as nursing and business.
+>
+> “The idea is that it will involve all Pace students and faculty from all the schools,” said Bruce Bachenheimer, director of the lab and of the Lubin’s entrepreneurship program. “We’re stressing an interdisciplinary, hands-on experience to find new ways to solve difficult problems.”
+>
+> When it comes to harder stuff, such as the ability to recognize opportunities, Pace and other schools use case studies, brainstorming lessons and other exercises to nurture that skill.
+> 
+> “It’s kind of like teaching music or painting,” explained Mr. Bachenheimer.
+>
+> Pitch Contests have also proved to be a great way to network and meet investors. The most recent contest at Pace drew an audience of 400, including venture capitalists, angel investors and bankers, said Mr. Bachenheimer.
+> 
+> And by one definition, entrepreneurship training doesn’t have to result in a business launch to be successful. If a person is trained to size up opportunities and take initiatives, and he and his employer have an edge, said Mr. Bachenheimer.
+>
+> “The nature of the work is changing dramatically,” he said. “There’s no more ‘Give me a job and tell me what to do.’”
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20120401/SUB/304019993) <br/> 
+[Original Link](http://www.crainsnewyork.com/article/20120401/SUB/304019993) | [PDF Version](files/Crains_4-2-12.pdf) <br/>
+**Executive Moves** <br/>
+April 1, 2012 <br/> 
+>
+> **Pace University:**
+>
+> *Bruce Bachenheimer*, 50, was promoted to director of the university’s entrepreneurship lab. He will continue as clinical professor of management. He was previously program director of entrepreneurship at the Lubin School of Business.
+
+[![Military Advanced Education](images/militaryadvancededucation.jpg)](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html) <br/> 
+[Original Link](http://www.military-advanced-education.com/military-advanced-education/393-mae-volume-7-issue-3-april-2012.html) | [PDF Version](files/MAE_April2012.pdf) <br/> 
+**Pace to Encourage Entrepreneurship** <br/> 
+April 2012 (Volume 7, Issue 3, Page 15) <br/> 
+>
+> “Professor Bruce Bachenheimer is ideally suited to lead the E-Labs and grow the program,” continued Braun. “Bruce’s relationships throughout the New York City venture community and beyond will be an important building block as we seek to further enhance our standing and access to professionals in the field.”
+>
+> Bachenheimer is a member of the board of directors and past chairman of the MIT Enterprise Forum of New York City and has served on the organization’s Global Board. Bachenheimer also serves on the board of directors and advisors of LeadAmerica and has served as a consultant to the NYC Department of Small Services and the New York City Economic Development Corp. He founded Annapolis Maritime Corp. and co-founded StockCentral Australia. “The Entrepreneurship Lab aims to foster an entrepreneurial mindset– a way of thinking and acting that focuses on developing new ways to solve problems and create value,” said Bachenheimer, who rdafted the initial proposal of the E-Lab. “These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today’s hyper– competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.”
+
+[![NY Convergence](images/nyconvergence.jpg)](http://nyconvergence.com/2012/03/fintech-innovation-lab-makes-wall-street-sexy-again.html) <br/> 
+[Original Link](http://nyconvergence.com/2012/03/fintech-innovation-lab-makes-wall-street-sexy-again.html) | [PDF Version](files/NYConvergence_3-19-12.pdf) <br/>
+**FinTech Innovation Lab Makes Wall Street Sexy Again** <br/> 
+March 19, 2012 <br/> 
+>
+> Since Wall Street's profits and prestige have slumped, the best and the brightest are looking elsewhere for jobs, making it harder to lure promising recruits. Bruce Bachenheimer, director of entrepreneurship at Pace University, told Technology Review that in the 1990s it was "exciting and sexy to say you were working on Wall Street."  But that's changed. Those formerly positive perceptions have flipped 180 degrees.  
+
+[![MIT Technology Review](images/technologyreview.png)](http://www.technologyreview.com/business/39826/) <br/> 
+[Original Link](http://www.technologyreview.com/business/39826/) | [PDF Version](files/TechnologyReview_3-16-12.pdf) <br/> 
+**Wall Street's Search for Innovation** <br/>
+March 16, 2012 <br/> 
+By **Erik Sherman** <br/> 
+>
+> After banking deregulation took off in the 1990s, it became "exciting and sexy to say you were working on Wall Street," says Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University. Money and prestige helped lure top academic talent, including mathematicians and computer scientists, to hedge funds.
+> 
+> But that has changed, beginning with 2008 and the financial meltdown. "The perception of working on Wall Street went from positive to negative," Bachenheimer says. Wall Street reached its latest low this week when a Goldman Sachs executive resigned and publicly excoriated the company's ethics in a New York Times op-ed.
+>
+> Meanwhile, places like Silicon Valley, Boston, and other hotbeds of high tech suddenly look like the most attractive places to be. With the recent spate of Web-company IPOs, technology startups are also potentially a faster ticket to wealth than Wall Street, where bonuses fell 14 percent last year, continuing a multi-year slide.
+>
+> "Perceptions of desirability are very important in entrepreneurship. \[Technologists\] want to go where the action is and want to be doing cool stuff," says Bachenheimer.
+
+[![M. O. What's Yours](images/mowhatsyours.jpg)](http://www.mo.com/Bruce-Bachenheimer-Pace-University) <br/> 
+[Original Link](http://www.mo.com/Bruce-Bachenheimer-Pace-University) | [PDF Version](files/MO_3-9-12.pdf) <br/> 
+**“Live Deliberately”** <br/> 
+March 9, 2012 <br/> 
+By **MO** <br/> 
+>
+> ***MO.com interviews entrepreneurs from all walks, across all industries, and from around the world. Below are seven questions MO asked Pace Professor Bruce Bachenheimer; a brief bio and his responses and available at*** **[http://www.mo.com/Bruce-Bachenheimer-Pace-University](http://www.mo.com/Bruce-Bachenheimer-Pace-University).**
+> 
+> **MO**: Where does your passion for entrepreneurship come from? Who or what were your early influences or inspirations?
+> 
+> **MO**: How do you foster creativity and innovation in your students? Is creativity something that we’re born with or can it be taught and developed?
+>
+> **MO**: Have you had any mentors during the course of your career?
+>
+> **MO**: Why do you think that the field social entrepreneurship has recently exploded? Why are people looking for more meaningful ways to carve out a career and how will this trend impact the start-up landscape?
+>
+> **MO**: You’re in constant contact with bright, young innovators. What aspects of teaching and mentoring are most inspiring for you? On the flip side, are there any aspects of your job that you find specifically challenging?
+>
+> **MO**: What is the most important piece of advice you have for those looking to start a business?
+
+[![Westchester County Business Journal](images/westchestercountybusinessjournal.jpg)](http://westfaironline.com/2012/19480-westchester-county-business-news-in-brief-2/) <br/> 
+[Original Link](http://westfaironline.com/2012/19480-westchester-county-business-news-in-brief-2/) | [PDF Version](files/WCBJ_2-27-12.pdf) <br/> 
+**Bachenheimer now runs E-Lab** <br/> 
+February 24, 2012 <br/>
+By **Editorial Staff** <br/> 
+>
+> Pace University’s new Entrepreneurship Lab, known as the E-Lab, now has a CEO –  it’s professor Bruce Bachenheimer of Chappaqua. A clinical professor of management at Pace, Bachenheimer is now also the director of the E-Lab. It is available to all Pace students, in New York City and in Pleasantville.
+>
+> Bachenheimer will advise all aspiring student entrepreneurs, in everything from accounting and computer science to law and the performing arts.
+>
+> He came up with the idea for the annual Pace Pitch Contest and Business Plan Competition, which he introduced in 2004, just after joining the Lubin School of Business faculty.
+>
+> “The Entrepreneurship Lab aims to foster an entrepreneurial mindset – a way of thinking and acting that focuses on developing new ways to solve problems and create value,” said Bachenheimer. “These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today’s hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.”
+>
+> Bachenheimer began his career as a Wall Street trader, and then took several years off to sail through the Caribbean to South America. After that, he launched an importing business and then moved into high-tech forensic science before joining Pace.
+
+[![In The Empire](images/intheempire.png)](http://intheempire.com/post/17788083605/pace-universitys-entrepreneurship-lab-will-train) <br/>
+[Original Link](http://intheempire.com/post/17788083605/pace-universitys-entrepreneurship-lab-will-train) <br/>
+**Pace University’s Entrepreneurship Lab Will Train People To Think Differently** <br/> 
+February 17, 2012 <br/> 
+By **Will Wei** <br/> 
+>
+> Pace University officially opened the doors to its Entrepreneurship Lab (aka, E-Lab) last night, and there to cut the ribbon was Professor Bruce Bachenheimer, who was named the lab’s first director.
+>
+> “It takes innovation and entrepreneurship to develop things that are meaningful,” Bachenheimer tells us over the phone.
+>
+> “We don’t measure our metrics by how many students launch businesses,” Bachenheimer says. “It’s the ability to come up with new and creative solutions to problems, and the ability to add value in a unique and innovative way.”
+>
+> To spur innovation, Bachenheimer and his E-Lab will provide students with workspace for creative thinking, in addition to access to workshops, guest speakers, roundtable discussions, and networking events involving members of the entrepreneurial community.
+>
+> “If you’re looking at very good innovators, they have to be young enough so that their minds are not so rigid in the way things are and the way things should be,” says Bachenheimer. “But they also need to have enough knowledge, skills, and abilities to find and solve problems.”
+>
+> To mold a mind into innovative shape, college students need an “experiential education.”
+>
+> “You need to train people to think differently, and if there are specific skills they don’t have, let them know how to get those resources,” Bachenheimer says. “Hopefully, the Entrepreneurship Lab is one of them.”
+
+[![Inc Wire](images/incwire.png)](http://wire.inc.com/2012/02/17/new-york-gets-new-start-up-lab/) <br/> 
+[Original Link](http://wire.inc.com/2012/02/17/new-york-gets-new-start-up-lab/) | [PDF Version](files/InTheEmpire_2-17-12.pdf) <br/>
+**New York Gets New Start-up Lab** <br/> 
+February 17, 2012 <br/> 
+By **Christine Lagorio** <br/>
+>
+> The lab’s director, Bruce Bachenheimer, who also organizes the Pace Business Plan Competition and Pitch Contest, said he’d gotten a call from a nursing students asking if she could apply for the lab, hopefully to find a collaborator for a piece of health-care software or an app.
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935) <br/> 
+[Original Link](http://www.crainsnewyork.com/article/20120215/SMALLBIZ/120219935) | [PDF Version](files/Crains_2-15-12.pdf) <br/> 
+**Pace University launches entrepreneur lab** <br/> 
+February 15, 2012 <br/> 
+By **Emily Laermer** <br/> 
+>
+> The lab will include space for students to conference with investors, a studio for them to work and a large meeting room for speakers. Bruce Bachenheimer, the director of the lab and a professor at Lubin, says he plans to reach out to some of the thousand-plus Pace-area alums who self identify as entrepreneurs to be potential guests.
+>
+> “This will be very student focused,” Mr. Bachenheimer said. “It's important for me to see how the students are using the lab and what is providing them with the most value.”
+>
+> In fact, Mr. Bachenheimer says he has seen an increase in student interest in entrepreneurship in recent years. He blames this on the economy and the high unemployment rate. Students see creating their own companies as a safer route.
+>
+> “They also want to make something meaningful and create something,” he said.
+
+![Daily News](images/dailynews.png) <br/>
+[PDF Version](files/DailyNews_2-6-12.pdf) <br/> 
+**Bouncing back: Laid-off NYers get fresh start with home businesses** <br/> 
+February 6, 2012 <br/> 
+By **Fran Golden** <br/>
+>
+> But before would-be self-employed moguls get started, they need to look realistically at what they’re hoping to accomplish, said Bruce Bachenheimer, a professor of management and Director of Entrepreneurship at Pace University.
+>
+> “Do you have a real strategy?  A lot of people in this bad economy see home-based as a way to be employed, fill a gap on the resume or whatever,” he said. “But it’s not as easy as it appears.”
+>
+> EXPERT ADVICE To start a home-based business:
+> 
+> SET REALISTIC GOALS “To launch a business does take capital, time and money, and always twice as much as you think,” says Pace University’s Bruce Bachenheimer
+>
+> FIND A MENTOR Talk to people who have started home-based businesses, join entrepreneur and small business groups, and get feedback about start-ups. “Smart entrepreneurs surround themselves with even smarter experts,” said Bachenheimer.
+>
+> THINK SALES A lot of people have a romantic vision that working at home means making your own hours and making money.  But the reality is, no matter what you’re offering , you need someone to buy it.  “Entrepreneurs are optimistic by nature, but don’t confuse passion and stubbornness.  You need someone to actually open up their wallet and want,” said Bachenheimer.
+>
+> BE HONEST WITH YOURSELF Not everyone is cut out to be an entrepreneur. “The best are risk-takers confident in themselves and their ideas,” Bachenheimer says.
+
+[![Teen Business Forum](images/teenbusinessforum.png)](http://www.teenbusinessforum.com/entrepreneurship/why-entrepreneurs-should-celebrate-global-entrepreneurship-week-gew) <br/>
+[Original Link](http://www.teenbusinessforum.com/entrepreneurship/why-entrepreneurs-should-celebrate-global-entrepreneurship-week-gew) |
+[PDF Version](files/TeenBusinessForum_11-14-11.pdf) <br/>
+**Why Entrepreneurs should celebrate the Global Entrepreneurship Week #GEW** <br/>
+November 14, 2011 <br/>
+By **Jack Liu** <br/>
+>
+> **7. To Celebrate The Entrepreneurial Mindset**
+> 
+> Because entrepreneurship is a mindset — a way of thinking and acting, not simply about starting a business. It is about imagining new ways to solve problems and create value. These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of careers given today’s hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work.
+> 
+> Bruce Bachenheimer, [Clinical Professor and Director of Entrepreneurship, Pace University](http://webpage.pace.edu/bbachenheimer/)
+
+[![Kiplingers Retirement Report](images/kiplingersretirementreport.jpg)](http://www.kiplinger.com/members/krr) <br/>
+[Original Link](http://www.kiplinger.com/members/krr) | [PDF Version](files/KRR_Nov2011.pdf) <br/>
+**Help Your Child Launch a Business** <br/>
+November, 2011 <br/>
+By **Meghan Streit** <br/>
+>
+> ■ **Crunch the numbers.**
+>
+> Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University in New York City, suggests telling the budding entrepreneur you will invest your $50,000 after he or she finds outside investors willing to put up the other $100,000.
+>
+>These investors “are going to know what a business plan should look like, what the valuation of the business should be and what the privileges of the investors are,” says Bachenheimer.
+>
+> ■ **Write up the terms.**
+>
+> It’s critical to document in writing the terms of your loan or equity investment. At a minimum, your document should spell out the amount being invested, how the funds are to be used and how the parent investor will be repaid. Bachenheimer says you can find sample loan documents on the Internet or seek advice from experts at a small business development center.
+>
+> “Parents usually have a very valuable amount of social capital,” Bachenheimer says. Your accountant, lawyer, banker, business associates or golf buddies could be potential customers, advisers or investors.
+
+
+[![Chatam Courier](images/ChathamCourier.jpg)](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt)<br/>
+[Original Link](http://www.registerstar.com/articles/2011/10/06/chatham_courier/news/doc4e8b8ce42e473471298832.txt) | [PDF Version](files/ChathamCourier_10-5-11.pdf) <br/>
+**Women’s drive helps canning company thrive**<br/>
+October 5, 2011<br/>
+By **Lisa D. Connell**<br/>
+>
+>Finding the right people and retaining them can actually be much more of a challenge than the idea for the business itself.
+>
+>“It’s hard to identify them and even if you do, how do you recruit them?” asked Bruce Bachenheimer, clinical professor of management at New York’s Pace University.
+>  
+>Attracting, recruiting, training, retraining and delegating — all of these factors are key to an entrepreneurial venture, Bachenheimer said during a telephone interview.  
+>  
+>“It’s about people and innovation and truly growing the business,” he said.
+
+[![BizPlanCompetions.com](images/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/)<br/>
+[Original Link](http://www.bizplancompetitions.com/2011/09/pitch-contests-gain-popularity/) | [PDF Version](files/BPC_9-28-11.pdf)<br/>
+**Pitch contests gain popularity**<br/>
+September 28, 2011<br/>
+By **Amy Buttell**<br/>
+>
+>The advantage of a pitch competition is that it’s much easier to enter, organize, participate and judge than a typical
+>
+>business plan competition, which typically encompasses an entire academic year, according to Bruce Bachenheimer, a
+>
+>professor of management who runs both the Pace University Pitch and Business Plan Competitions.
+>
+>“Basically, competitors have three minutes in front of a panel of judges to sell their idea,” he says. “There’s an audience
+>
+>for our competition, who can suggest questions, and who also get an education in entrepreneurship.” Last year, Pace
+>
+>gave $50,000 in prizes to the competition winners, he says. The pitch competition has become very popular among
+>
+>business students.
+>
+>Pitch contests require different skills than business plan competitions. In a pitch contest, you don’t necessarily need to
+>
+>have the fully-fleshed out idea that you need to succeed in a business plan competition. Instead, as Bachenheimer puts it, competitors need to “have excellent >presentation skills, be quick on their feet, be able to provide a quick summary and be responsive to the very pointed questions of a panel of very >distinguished judges.”
+>
+>He’s very pleased with the way the pitch competition, which is now in it’s eighth year, has evolved. “In the beginning,
+some of the ideas were kind of crazy, but it’s gotten very serious,” he continues. “It’s very educational and very entertaining for the presenters and the audience. It’s a fast-paced, fun learning opportunity for everyone, including the
+audience.”
+>
+>One big advantage of pitch contests is that they are relatively painless to enter. Instead of writing up a complicated, indepth business plan that participants may have to revise numerous times over the months, a simple 500 word or so entry form, a brief biography and a 10-question form are the sole requirements for the Pace Pitch Contest. Not only is it simpler for the contestants, it is also much easier for the judges and organizers, he says.
+>
+>And that makes it a good selling point for judges, who have to make a big time commitment to judge a business plan competition. Those can take months and judges must read multiple business plans, evaluate them at various stages and mentor competitions. With the pitch competition, it’s a one-day commitment. It’s also much easier on organizers, which is why it’s easier to start and run a pitch competition than a full business plan competition, he continues.
+
+[![Crains New York Business](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110927/SMALLBIZ/110929906) | [PDF Version](files/Crains_9-27-11.pdf)<br/>
+**New York exports its entrepreneurial expertise**<br/>
+September 27, 2011<br/>
+By **Eilene Zimmerman**<br/>
+>
+>![BrucePicture](images/BrucePicture.png)
+>
+>“Although the new semester had barely begun this year at Pace University's Lubin School of Business, Director of Entrepreneurship Bruce Bachenheimer already had teaching requests from groups and institutions in India, China, Norway and Israel.
+>
+>Mr. Bachenheimer returned from India in early September, spoke to a Chinese delegation at Pace immediately afterward and then taught a course on writing a business plan for students visiting from the BI Norwegian Business School. He will travel to Israel in early January.
+>
+>Colleges and universities abroad, especially those located in developing nations, are increasingly trying to establish the kinds of entrepreneurship programs that exist here in the U.S.
+>
+>Generations of immigrants may have fueled American entrepreneurialism, but, according to Mr. Bachenheimer, entrepreneurship education on the college level is primarily an American export. And local professors are seeing the demand for their expertise grow beyond the occasional request to teach overseas while they're on a school break or a sabbatical. Foreign universities are more and more willing to pay a premium for the know-how of professors from entrepreneurship centers such as Silicon Valley, New York City and Cambridge, Mass., the Lubin professor says.
+>
+>Reflecting the growing international interest in entrepreneurship education, the Bloomington, Ind.-based Global Consortium of Entrepreneurship Centers, whose members are university-based, switched to its current name three years ago, notes Mr. Bachenheimer. Founded in 1996 as a national consortium, the organization made the change in response to interest from international institutions.
+>
+>Although students obviously can't absorb everything about running a business while in a classroom setting, the fastest way to get started and learn to manage risk is often with the guidance and assistance available through universities and colleges. (Other kinds of structured support can be invaluable as well: Research from the National Business Incubation Association and the U.S. Small Business Administration show that businesses coming out of incubators have a much lower failure rate than that for startups overall, says Mr. Bachenheimer.)
+
+[![BizPlanCompetition](images/BizPlanCompetitions.png)](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/)<br/>
+[Original Link](http://www.bizplancompetitions.com/2011/09/is-a-bigger-jackpot-better-in-business-plan-competitions/) | [PDF Version](files/BPC_9-22-11.pdf)<br/>
+**Is a bigger jackpot better in business plan competitions?**<br/>
+September 22, 2011<br/>
+By **Amy Buttell**<br/>
+>
+>Promoting entrepreneurship is also a goal of the [Pace University Business Plan and Pitch Competitions](http://www.pace.edu/lubin/departments-and-research-centers/entrepreneurship-lubin/pace-business-plan-competition), says Bruce Bachenheimer, clinical professor of Management, who runs both of the competitions. “One of our goals is to encourage an entrepreneurial mindset, which is important in today’s hyper competitive global economy, whether you work in an established business or not.”
+>
+>The brevity of the university’s Pitch Competition is one reason it attracts a 400 person audience and a substantial number of actual competitors. That’s impossible to accomplish in a business plan competition because of the nature of business plans and the sheer length of the competition.
+>
+>“The participatory nature of the pitch competition means that it’s benefitting the audience as well as the competitors,” he says. “Everyone gets to hear about the ideas and follow the give and take between competitors and the judges as questions are asked and answered.”   
+
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110812/SMALLBIZ/110819966) | [PDF Version](files/Crains_8-12-11.pdf)<br/>
+**How to handle, and profit from, last-minute jobs**<br/>
+August 12, 2011<br/>
+By **Elaine Pofeldt**<br/>
+>
+>“With all of the uncertainty, tight purse strings and risk-aversion, people are waiting until the last minute” to make purchases, said Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University. Increasing globalization has intensified competition in many fields and destroyed traditional business hours.
+>
+>“You may have to work on Sunday at 2 a.m. to fill an order going outside of the U.S.” Mr. Bachenheimer said.
+
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110807/SMALLBIZ/308079990) | [PDF Version](files/Crains_8-8-11.pdf)<br/>
+**Number of startups led by women rising**<br/>
+August 8, 2011<br/>
+By **Anne Field**<br/>
+>
+>The increased startup activity in New York state most likely is because of an increase in women-owned startups in New York City,” said Bruce Bachenheimer, director of entrepreneurship and clinical professor of management at Pace University.
+
+[![Consumer Reports Money Advisor](images/MoneyAdvisor.png)](http://pressroom.consumerreports.org/pressroom/money-adviser/)<br/>
+[Original Link](http://pressroom.consumerreports.org/pressroom/money-adviser/) | [PDF Version](files/ConsumerReportsMoneyAdviser_June2011.pdf)<br/>
+**Want to be your own boss?**<br/>
+June 2011, Volume 8 Issue 6, pages 12-13<br/>
+>
+>**Be honest with yourself.** Not everyone is cut out to be an entrepreneur. “The best are risk takers confident in themselves and their ideas,” says Bruce Bachenheimer, a professor of management at Pace University in New York.
+>
+>Take time to consider what you’re giving up or getting into. Do you need a structured environment? A steady paycheck? “Are you fleeing a boss only to find all customers will be your boss?” Bachenheimer asks. “Are you dumping a time clock but investing 100 hours a week?”
+>
+>Buying an existing business can be a good route. “Sometimes owners run out of capital or enthusiasm,” Bachenheimer says. “You can get a lot of assets, inventory, and a client base.” Still, he warns buyers to perform due diligence to prevent getting stuck with someone else’s bad debts.
+>
+>Smart entrepreneurs surround themselves with even smarter experts. Find a financial consultant or lawyer for advice, but choose advisers carefully. “Don’t pay hucksters to do things that are free – like obtaining an employer identification number,” Bachenheimer says. “Anyone can sell themselves as an expert, so get references and proposals.
+>
+>Once your business has some cash flow, you might find it easier to get a small-business loan, Bachenheimer says.
+
+[![College Preview](images/CollegePreview.jpg)](http://www.cpgpublications.com/cp_may2011.pdf)<br/>
+[Original Link](http://www.cpgpublications.com/cp_may2011.pdf) | [PDF Version](files/CollegePreview_May-June2011.pdf)<br/>
+**LEADERS WANTED How to become the leader employers will want**<br/>
+May/June 2011<br/>
+By **Jacqueline Bodnar**<br/>
+>
+>**Putting Leadership Skills into Action**
+>“To position themselves for a valuable career, college students need to demonstrate how they can add value to a prospective employer,” says Bruce Bachenheimer, clinical professor of management and director of entrepreneurship at Pace University.
+>
+>“They need to be able to solve problems creatively and to effectively implement solutions in a rapidly changing environment. To accomplish this, they will need to think entrepreneurially and take on a leadership role early in their career.”
+>
+>**“The role of a leader is to take people to a new place, to inspire them to do something they otherwise would not have done or even thought they could do,” adds Bachenheimer. “Think about how you can inspire fellow students and motivate them to take action!”**
+
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110508/SMALLBIZ/305089995) | [PDF Version](files/Crains_5-8-11.pdf)<br/>
+**Tips for tricky task of raising prices**<br/>
+May 8, 2011<br/>
+By **Elaine Pofeldt**<br/>
+>
+>**2\. Do a small-scale test.**
+>A pilot hike will help you gauge customer reactions and mitigate risks, according to Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University.
+>
+>For example, if you have two stores, raise prices on select items or at just one location, Mr. Bachenheimer says.
+
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20110501/SMALLBIZ/305019989) | [PDF Version](files/Crains_5-1-11.pdf)<br/>
+**'Mompreneurs' lead the way in infant-goods market**<br/>
+May 1, 2011<br/>
+By **Cara Trager**<br/>
+>
+>That's not necessarily a disadvantage for new entrants, including men, who “aren't \[stuck\] in the way things are typically done,” said Bruce Bachenheimer, professor of management and director of entrepreneurship at Pace University's Lubin School of Business. “They may have the ability to recognize and capture an opportunity others don't see.”
+
+[![The Star Ledger](images/TheStarLedger.png)](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html)<br/>
+[Original Link](http://www.nj.com/business/index.ssf/2011/01/mentors_offer_unique_career_su.html) | [PDF Version](files/Star-Ledger_1-30-10.pdf)<br/>
+**Mentors offer unique career support**<br/>
+January 30, 2011<br/>
+By **Lee Miller**<br/>
+>
+>Professor Bruce Bachenheimer, director of entrepreneurship at Pace University, offers the following guidance on managing the mentor relationship:
+>
+>“Do some research before seeking a mentor — to help find an appropriate candidate and to be able to ask that person to serve as a mentor in a meaningful way.
+>
+>“Once you have a mentor, be sure to demonstrate that you value the relationship and are taking affirmative action (i.e. not just saying “thanks” regularly, but really letting the mentor know the efforts are worthwhile).
+>
+>“Always try to find ways to reciprocate — to demonstrate your gratitude and commitment. Little things that may be of assistance to the mentor can go a long way.”
+
+[![Advertising Specialty Institute](images/AdvertisingInstitute.jpg)](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/)<br/>
+[Original Link](http://asicentralblog.com/blog/2010/11/15/tip-of-the-day-4-tips-to-increase-your-profits-in-2011/) | [PDF Version](files/ASI_11-15-10.pdf)<br/>
+**Tip of the Day - 4 Tips to Increase Your Profits in 2011**<br/>
+November 15, 2010<br/>
+By **Betsy Cummings**<br/>
+
+*Also featured in*<br/> 
+[![Counselor](images/Counselor.jpg)](http://counselor-digital.com/publication/?i=53068&p=76)<br/>
+**Profit Builders: Six ways to improve your company’s profitability in 2011**
+December 2010 (page 67)
+>
+>**Step 3: Outwit Bad Buyers**<br/>
+>Sure, the 80/20 rule – where 80% of your revenue comes from 20% of your clients – applies to almost any distributor, but firing bad customers indiscriminately is a dangerous move, says Bruce Bachenheimer, clinical professor of management at Pace University in New York. For years, experts have suggested small-business owners dump the deadweight. Instead, Bachenheimer says, keep the marginal clients – you never know when a small order or difficult customer might pay off handsomely down the road – but make them turn their drain on your company into a potential profit center.
+>
+>For example, Bachenheimer says, when electronics retailer Best Buy noticed certain types of shoppers would buy a TV to watch the Super Bowl and return it the next day, the money it cost to service the returns and restock those items was a drain on its profits. So it started charging a restocking fee to discourage customers who had no intention of keeping the products they bought. Distributors might consider imposing fees, for example, for clients that repeatedly demand multiple samples, art proofs, shipping returns and other profit-reducing services.
+
+[![Crains](images/Crains.jpg)](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20101114/SMALLBIZ/311149986) | [PDF Version](files/Crains_11-14-10.pdf)<br/>
+**Social-media needs spur student hires**<br/>
+November 14, 2010<br/>
+By **Anne Field**<br/>
+
+>**Help wanted**<br/>
+>“Five years ago, I might have gotten one call every four or five weeks,” says Bruce Bachenheimer, program director of entrepreneurship at Pace University's Lubin School of Business. “Now, it's more like one a week, at a minimum.”
+
+[![Business News Daily](images/BusinessNews.jpg)](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/)<br/>
+[Original Link](http://www.businessnewsdaily.com/foreign-business-startups-american-investors-0642/) | [PDF Version](files/New_Firm_Connects_Overseas_Entrepreneurs_with_US-Based_Partners.pdf)<br/>
+**New Firm Connects Overseas Entrepreneurs with U.S.-Based Partners**<br/>
+October 22, 2010<br/>
+By **Brian Anthony Hernandez**<br/>
+>
+>Bruce Bachenheimer, a professor of management at Pace University in New York who teaches about international entrepreneurship, believes foreign startups’ local domestic markets are not big enough to sustain the ventures they’re trying to accomplish.
+>
+>“They have to be born global from the beginning,” said Bachenheimer, who has taken his students to Tanzania and will take more to Israel in 2011.
+>
+>“They know they have to sell to several markets and have to look at the whole globe as a market. The domestic market is just too small.”
+
+[![Business On Main](images/BusinessOnMain.png)](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521)<br/>
+[Original Link](http://businessonmain.msn.com/browseresources/articles/startupfunding.aspx?cp-documentid=25950521) | [PDF Version](files/Win_Over_Investors_in_3_Minutes_or_Less.pdf)<br/>
+**Win over Investors in 3 minutes or Less**<br/>
+October 18, 2010<br/>
+By **Joanna Krotz**<br/>
+
+*Also featured on Fox Small Business on December 8, 2010* 
+[![Fox Business](images/FoxBusiness.jpg)](http://smallbusiness.foxbusiness.com/biz-on-main/2010/12/08/win-over-investors-in-3-minutes-or-less/)<br/>
+*Also featured on Entrepreneur.com on January 14, 2011*
+[![Entrepreneur: Start & Grow Your Business](images/Entrepreneur.png)](http://www.entrepreneur.com/article/217844)
+>“In today’s busy world, with 140-character Twitter \[posts\] and one-paragraph Zagat reviews, everything has to be shorter and persuasive,” says Bruce Bachenheimer, competition founder and director of entrepreneurship at Pace.
+>
+>Your pitch must also convince investors that you won’t burn through money. “This is the era of the lean startup,” says Bachenheimer. “If the idea costs $1 million, you need to show $100,000 milestones, a working model of how you will get and grow customers to make investors more comfortable.”
+>
+>And the winners are …
+>
+>The critical requirement, sums up Bachenheimer, is “venture capitalists need to be convinced not only that it’s a good idea, but that you can make it happen. It’s always better to bet on the jockey rather than the horse.”
+
+[![Forbes](images/Forbes.jpg)](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html)<br/>
+[Original Link](http://www.forbes.com/2010/09/20/how-to-raise-young-mogul-entrepreneurs-human-resources-serial-startups-10.html) | [PDF Version](http://webpage.pace.edu/bbachenheimer/press/Forbes_9-20-10.pdf)<br/>
+**15 Tips For Raising A Young Mogul**<br/>
+September 20, 2010<br/>
+By **Dale Buss and Melanie Lindner**<br/>
+>
+>**Trigger their imaginations.** "Expose them to possibilities through travel, talking about the environment, talking about the news and things that impact the world, and opportunities that may exist for business from all of that," says Bruce Bachenheimer, director of entrepreneurship at Pace University. Drawing their attention to a few magazine profiles of interesting entrepreneurs wouldn't hurt, either.
+
+[![New York Post](images/newyorkpost.png)](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0)<br/>
+[Original Link](http://www.nypost.com/p/news/business/jobs/the_book_of_blunders_WLar9v8W7vUAwTNHGa8YuN/0) | [PDF Version](files/NYPost_8-30-10.pdf)<br/>
+**The book of blunders -The most common mistakes entrepreneurs make**<br/>
+August 30, 2010<br/>
+By **Brian Moore**<br/>
+>
+>Many entrepreneurs have trouble “mixing up stubbornness and arrogance with passion and persistence,” says Pace University professor of management Bruce Bachenheimer. You can’t throw in the towel every time things don’t go your way, but you also can’t ignore circumstances that call for a change in your business plan, no matter how ingenious you may think it is.
+>
+>Entrepreneurs “just overestimate everything,” says Bachenheimer, citing customer appeal and investor enthusiasm as two areas new business owners typically exaggerate. “They can’t put themselves in other people’s shoes and separate themselves from their own optimism.”
+>
+>“People underestimate virtually every expense associated with starting and running the business,” says Bachenheimer. He adds that this is particularly true of Web entrepreneurs, who often think a new site can be started with nothing more than a laptop and a $20 domain registration. Actual expenses are exponentially larger. 
+
+[![New York Post](images/newyorkpost.png)](http://www.nypost.com/p/news/business/jobs/app_stars_uLmOkrqT8K72zY8xD5YLoK) <br/>
+[Original Link](http://www.nypost.com/p/news/business/jobs/app_stars_uLmOkrqT8K72zY8xD5YLoK) |
+[PDF Version](files/NYPost_8-16-10.pdf) <br/>
+**App stars—The best smartphone programs for taking care of business** <br/>
+August 16, 2010 <br/>
+By **Linley Taber** <br/>
+> **FlightTrack Pro**<br/>
+> This business-traveler favorite provides up-to-the-second information on flights’ statuses, gates, cancellations and area weather. It often posts info “before airline personnel appear to have it,” notes devotee Bruce Bachenheimer, a Pace University professor. For Android, iPad, iPhone and iPod Touch; $9.99.
+
+[![US News and World Report](images/usnews.png)](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html) <br/>
+[Original Link](http://www.usnews.com/articles/education/best-business-schools/2010/07/21/schools-add-new-entrepreneur-programs-for-mba-students.html) |
+[PDF Version](files/USNews_7-21-10.pdf) <br/>
+**Schools add new entrepreneur programs for M.B.A. Students** <br/>
+July 21, 2010 <br/>
+By **Katy Hopkins** <br/>
+> At [Pace University Lubin School of Business](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-business-schools/items/01309), opportunity for inspiration sometimes comes from outside the classroom—even outside the country. In "Special Topics in International Entrepreneurship: Technology, Innovation and Entrepreneurship in Israel," Professor Bruce Bachenheimer will take students to abroad in spring 2011 for a week to study opportunities in the young country's advanced technology infrastructure.
+> 
+> Bachenheimer has taken entrepreneur students to Tanzania and India in years past. These international opportunities often lend a life-changing perspective of business opportunities in other countries, he says. For Pace graduate Melissa Lopez, this revelation came when she saw Tanzanian women selling handmade clothing to tourists at Mount Kilamanjaro.
+>
+>"It made it pure to see entrepreneurship at a very small level, but \[to see\] how big people's ideas are," Lopez says. "Prior to taking the course, I had never thought I would have any interest in entrepreneurship. I had always thought I'd be working for a large company.
+>
+> "After that course, I wanted to see if I could do something for myself."
+>
+> Classes in entrepreneurship are becoming more universally attractive, Bachenheimer says. About 15 percent of students in his entrepreneur classes are M.B.A. students. The rest are students from different academic disciplines who are considering what an entrepreneurial focus could do for their careers, he says.
+>
+>"They're all [saying], 'I want to be more entrepreneurial. I don't want to just work in an office or count on a job, especially when the economy is bad," Bachenheimer says. "[They say], 'I want to have more control of my destiny."
+
+[![Entrepreneur: Start & Grow Your Business](images/entrepreneur.jpg)](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) <br/>
+[Original Link](http://www.entrepreneur.com/startingabusiness/businessplans/article207400.html) |
+[PDF Version](files/Entrepreneur_7-14-10.pdf) <br/>
+**Becoming an Entrepreneurial Expat** <br/>
+July 14, 2010 <br/>
+By **Michelle Goodman** <br/>
+>Even if a region does welcome foreign entrepreneurs, the local infrastructure may not live up to U.S. standards, especially in developing nations.
+>
+>"Here, we take it for granted that if our business is broken into, we can call the police," says Bruce Bachenheimer, clinical professor of management and program director of [Pace University's entrepreneurship program](http://www.pace.edu/pace/lubin/departments-and-research-centers/entrepreneurship-lubin/). "But in other countries, the rule of law may not be what we expect."
+>
+>Likewise, Bachenheimer adds, in some locales, the roads, electricity, phone service, internet service, shipping companies and court system may be sorely lacking.
+
+[![Newsday](images/newsday.png)](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) <br/>
+[Original Link](http://www.newsday.com/classifieds/jobs/unemployed-liers-embracing-entrepreneurship-1.2080635) |
+[PDF Version](files/Newsday_7-5-10.pdf) <br/>
+**Reinventing yourself after a job loss** <br/>
+July 5, 2010 <br/>
+By **Carrie Mason-Draffen** <br/>
+> Entrepreneurial activity in 2009 was at a 14-year high nationwide, with the highest growth coming among 34- to 44-year-olds, according to the Kauffman Foundation, of Kansas City, Mo., which promotes entrepreneurship.
+>
+> That's the demographic - with many well-educated, high-wage, middle managers - who were hard hit during the recession, said Bruce Bachenheimer, director of entrepreneurship at Pace University in Manhattan. "They are not the people you generally think of as entrepreneurs," he said.
+
+[![Investors](images/investors.png)](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) <br/>
+[Original Link](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527894&Ntt) |
+[PDF Version](files/InvestorsBusinessDaily_3-19-10.pdf) <br/>
+**New York's Magnolia Bakery Offers Lessons On Small-Business Success** <br/>
+March 19, 2010 <br/>
+By **Gary M. Stern** <br/>
+> Some small businesses grow too fast, which can trigger their downfall, says Bruce Bachenheimer, director of entrepreneurship at Pace University's Lubin School of Business. In order to expand, these businesses must establish a solid "infrastructure including accounting, inventory and payroll systems and a system of checks and balances," he said.
+
+# Print and Internet 2004-2009
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993)<br/>
+[Original Link](http://www.crainsnewyork.com/article/20091218/SMALLBIZ/912189993) | [PDF Version](files/BetterLateThanNever.pdf) <br/>
+**Better late than never** <br/>
+December 18, 2009 <br/>
+By **Elaine Pofeldt**
+> To be sure, starting a business in midlife and beyond is different than doing so right out of college. There's the endurance factor, for starters.
+>
+> "Entrepreneurs in their 20s can work 20 hours a day and have all sorts of energy," said Bruce Bachenheimer, clinical professor of management and director of the entrepreneurship program at Pace University.
+>
+> But the financial responsibilities of a startup can still mean that late bloomers must live in a state of sleep deprivation—at an age when that's tougher.
+> 
+> But there's at least one big advantage that midlife entrepreneurs bring to the table: "Connections," Mr. Bachenheimer said.
+
+[![MSN Business](images/msnbusiness.png)](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR) <br/>
+[Original Link](http://businessonmain.msn.com/browseresources/articles/governanceandpartnerships.aspx?cp-documentid=25253671#fbid=obdPg8DPFjR) | [PDF Version](files/msn.pdf) <br/>
+**LLCs? S Corps? How Do You Decide?** <br/>
+October 8, 2009 <br/>
+By **Eve Tahmincioglu** <br/>
+>It's easier and cheaper than ever to do so, thanks to the emergence of so many online sites — LLC.com and LegalZoom.com, for example — offering cut-rate legal services, says Bruce Bachenheimer, director of entrepreneurial studies at Pace University.
+>
+> The pros and cons of business structures for an individual business have to be determined on a case-by-case basis, says Pace's Bachenheimer. "The choice of ownership structure is not a 'business strategy' type issue," he maintains. "It is purely a legal/tax issue and has very specific, detailed implications and consequences."
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20090710/SMALLBIZ/907109980) <br/>
+[Original Link](http://www.crainsnewyork.com/article/20090710/SMALLBIZ/907109980) | [PDF Version](files/Crains_7-10-09.pdf) <br/>
+**Dress designer commits to weddings** <br/>
+July 10, 2009 <br/>
+By **Steve Garmhausen** <br/>
+> The dressmaker is a good example of how to balance two important entrepreneurial qualities: creative passion and a sensible inclination to follow the market’s lead, says Bruce Bachenheimer, management professor and director of entrepreneurship at Pace University.
+>
+> "Entrepreneurs are close to the customer and in touch with what the market needs and wants—they have to be, in order to survive,” he says. “On the other hand, they need their passion and commitment to keep going and be successful."
+
+[![Crain's](images/crains.jpg)](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986) <br/> 
+[Original Link](http://www.crainsnewyork.com/article/20090412/SMALLBIZ/304129986) | 
+[PDF Version](files/Crains_4-12-09.pdf) <br/>
+**Using an incubator to hatch a business** <br/>
+April 12, 2009 <br/>
+By **Elaine Pofeldt** <br/>
+> "What really makes for great incubators is the mix of the companies and the synergies they can create, the energy and buzz that surround them," says Bruce Bachenheimer, management professor and director of entrepreneurship at Pace University.
+
+[![Examiner](images/examiner.jpg)](http://www.examiner.com/x-828-Entry-Level-Careers-Examiner~y2008m12d30-Getting-attention-and-cash-from-VCs-and-angel-investors) <br/>
+[Original Link](http://www.examiner.com/x-828-Entry-Level-Careers-Examiner~y2008m12d30-Getting-attention-and-cash-from-VCs-and-angel-investors) | [PDF Version](files/Examiner.pdf) <br/>
+**Getting attention (and cash) from VCs and angel investors** <br/>
+December 30, 2008 <br/>
+By **Heather Huhman** <br/>
+> Bruce Bachenheimer, program director of entrepreneurial studies at The Lubin School at Pace University, adds, "Build a real board of advisors, not just people who agree to let you use their name as 'window dressing' for a business plan or investor pitch – rather, experienced entrepreneurs and seasoned professionals who will dedicate the necessary time to understand your business and formulate meaningful advice. The young entrepreneur should not only assemble such a board, but must understand what is required to keep the advisors engaged and committed."
+
+[![SmartMoney.com](images/smartmoney.jpg)](http://www.smsmallbiz.com/) <br/>
+[Original Link](http://www.smsmallbiz.com/) | [PDF Version](files/Made_in_USA.pdf) <br/>
+**Starting Up: 'Made in the USA' Is Back in Style for Businesses** <br/>
+September 8, 2008 <br/>
+By **Diana Ransom** <br/>
+> Meanwhile, skilled workers in traditionally low-wage developing countries, such as India and China, are beginning to demand higher pay and benefits — moves that will take yet another bite out of businesses’ profits, says Bruce Bachenheimer, a clinical professor of management and director of the entrepreneurship program at Pace University’s Lubin School of Business in New York. "Some firms might opt to stay domestic as the profit margins resulting from hiring overseas workers narrows."
+
+[![SmartMoney.com](images/smartmoney.jpg)](http://www.smsmallbiz.com/)<br/>
+[Original Link](http://www.smsmallbiz.com/) | [PDF Version](files/SM_Small_Biz-How_to_Market_a_For-Profit_Social_Venture.pdf) <br/>
+**How to Market a For-Profit Social Venture** <br/>
+July 1, 2008 <br/>
+By **Rachel Solomon** <br/>
+> The majority of 2,007 customers polled said they were more likely to buy from companies that make energy-efficient products, promote health and safety, and support fair labor practices. That sentiment, however, should not influence your marketing game plan, warns Bruce Bachenheimer, a professor of management and director of the entrepreneurial program at Pace University's Lubin School of Business in New York City. "A lot of people say, 'Yes, I want to buy things that are socially conscious,'" he explains. But "the bottom line — no matter what we consumers say we'd like to do — is that it has to be similar \[to competitors\] in terms of price and ease to purchase."
+>
+> **Building Your Brand** <br/>
+> When it comes to branding, a social enterprise should wear its heart on its sleeve, Bachenheimer says. Your associations with your values become just as important as those with your goods or services. You can inherently brand your values by forming relationships with socially-conscious retailers (think Whole Foods, the natural-foods grocer) who are known for vetting their vendors. A social enterprise's "emotional" branding can also be bolstered by labeling from various certification agencies, such as Fair Trade's FLO International, says Bachenheimer.
+>
+> **Communicating the Mission** <br/>
+> Educating consumers about your social impact is perhaps one of the biggest and most delicate challenges of marketing the enterprise. "When people understand it, they might be willing to go a little bit out of their way and pay a little more money," says Bachenheimer.
+
+[![PFNlive](images/pfnlive.jpg)](http://www.pfnlive.com/) <br/>
+[Original Link](http://www.pfnlive.com/) | [PDF Version](files/MBA_Pursuit_Opens_New_Doors_for_Physicians-PFN.pdf) <br/>
+**MBA Pursuit Opens New Doors, Opportunities for Physicians** <br/>
+June 6, 2008 <br/>
+By **Ed Rabinowitz** <br/>
+> **Business is booming** <br/>
+> Young medical school students aren’t the only ones recognizing the importance of an MBA in today’s changing healthcare environment. Professor Bruce Bachenheimer, director of entrepreneurship at New York’s Pace University, says quite a few established physicians are returning part-time at night for their MBA.
+>
+> “The doctors coming in recognize that insurance and medical billing are making it much more difficult to be a doctor,” Bachenheimer explains. “They’re part of a cog of a much larger wheel, and \[healthcare\] is much more of a business. That has prompted some doctors to say, ‘Let me understand the business so I can play this game better.’”
+>
+> Some of the physicians Bachenheimer has spoken with don’t want to work directly in medicine, but instead want to use medical training and an MBA to help launch new medical start-ups. Others are interested in wireless medical technology, so they need to be aware of the business side of the equation. And some simply want to take over an existing practice and need to better understand the business aspects that are involved.
+>
+> “Other doctors are just tired of medicine,” Bachenheimer admits. “I had one family doctor say to me that when patients walk in, he can tell in two minutes what their problem is, and it almost gets mundane. He just wants to do something else.”
+
+[![SmartMoney.com](images/smartmoney.jpg)](http://www.smsmallbiz.com/) <br/>
+[Original Link](http://www.smsmallbiz.com/) | [PDF Version](files/SmartMoney.pdf) <br/>
+**Time to Test Foreign Waters** <br/>
+May 16, 2008 <br/>
+By **Rachel Solomon** <br/>
+> In addition to Uncle Sam's resources, Bruce Bachenheimer, a professor of management and director of the entrepreneurial program at Pace University's Lubin School of Business, recommends contacting like-minded programs from the foreign markets you aim to enter. "Just as the U.S. has all these services to help exporters, virtually every foreign country in the world \[has\] some kind of trade development office," he says.
+>
+> An international partner can make or break your global endeavor. And finding the right one is not always obvious. "It doesn't mean finding the biggest and the best in the country," Bachenheimer explains. "It's \[about\] finding someone whose interests are most closely aligned with yours."
+>
+> A database of trade events searchable by country, state, industry and date is available at [export.gov](http://export.gov/). No matter how you find a partner, though, conduct due diligence, Bachenheimer says. "Ask who their customers are, how long they've been in business and seek out their references.”
+
+[![The Journal News](images/thejournalnews.jpg)](http://www.thejournalnews.com/) <br/>
+[Original Link](http://www.thejournalnews.com/) | [PDF Version](files/CollegeStudentsGiveBackOnSpringBreak_TJN_4-3-08.pdf) <br/>
+**College students give back on spring break** <br/>
+April 3, 2008 <br/>
+By **Ben Rubin** <br/>
+> “The focus was social entrepreneurship, how to use entrepreneurship to alleviate poverty in some of the poorest countries in the world,” said Professor Bruce Bachenheimer, who led the trip.
+
+[![Black MBA](images/blackmba.png)](http://www.blackmbaonline.com/) <br/>
+[Original Link](http://www.blackmbaonline.com/) | [PDF Version)](files/BlackMBA.pdf) <br/>
+**The Business Plan – Where Vision Meets the Nuts and Bolts of Success** <br/>
+Winter 2007/2008 <br/>
+By **Nathaniel Sheppard Jr.** <br/>
+> “A lot of people do a plan because it is a requirement to get money,” said Bruce Bachenheimer, clinical professor of management at Pace University in New York. “The key, though, is to step back and not think of it as something you have to do to get a loan, but something to teach you what you don’t know, something you can use to prove and demonstrate that there is alignment of a business with opportunity and resources.”
+>
+> Central to a workable plan, Bachenheimer said, are these five steps:
+> 1\. Determine what you don’t know, what assumptions need to be tested and what research needs to be conducted;
+> 2\. Put it all down on paper in a coherent, complete and convincing style;
+> 3\. Focus the plan on the customers’ needs and any critical market conditions, industry dynamics or macro-environmental factors;
+> 4\. Demonstrate an alignment of the opportunity, entrepreneur and resources that coincides with current market conditions, including appropriate levels of risk and return;
+> 5\. Provide meaningful milestones and realistic means of achieving them, explaining how you will actually achieve sales.
+>
+> “In many cases, the real value of writing a business plan is the process of actually creating it,” Bachenheimer said. “Don’t do it because someone needs it; do it as if your business depends on it.”
+
+[![Nielsen](images/nielsen.png)](http://www.nielsen.com/) <br/>
+[Original Link](http://www.nielsen.com/) | [PDF Version](files/EightSmartStart-UpIdeasfor2008.pdf) <br/>
+**Eight Smart Start-Up Ideas for 2008** <br/>
+December 20, 2007 <br/>
+By **Matt Alderton** <br/>
+> On Dec. 6, Pace University’s Lubin School of Business held its fourth annual [Pace Pitch Contest](http://www.pace.edu/pitch) in New York. Open to full- or part-time college students, recent college graduates and first-time entrepreneurs, the contest is one of many like it nationwide that’s based on the popular “elevator pitch” concept.
+>
+> “Basically, imagine you’re in the lobby of a building where there happens to be a bunch of venture capitalists,” explains the contest’s director, Bruce Bachenheimer, clinical professor of management at Pace. “You get in the elevator and notice a partner at a big VC firm who’s riding up with you to the 40th or 50th floor. You have three minutes of captive time with this venture capitalist; can you tell him or her about your idea in a very concise, convincing, complete way?”
+>
+> Not many people can, according to Bachenheimer. The contestants in his pitch contest, however, are notable exceptions. They’ve mastered the art of entrepreneurial persuasion. It doesn’t matter what they’re presenting, Bachenheimer insists; they can sell it.
+>
+> “It’s not about the idea itself,” he says. “It’s the way of thinking and the process of doing it that’s important.”
+>
+> Still, the ideas are pretty great. Take this year’s winners, for instance. In the “Social Venture” category, MBA student Sarah Lipkin proposed a nationwide art program for mentally disabled individuals. In the “New Business” category, meanwhile, entrepreneur Joe DiPasquale presented his online start-up, CollegeWikis.com, which provides user-generated information about schools across the country.
+>
+> Both ideas are indicative of promising start-up trends—social entrepreneurship and Web 2.0—that are poised for continued growth in 2008.
+
+[![TimeOut New York](images/timeoutnewyork.gif)](http://www.timeout.com/newyork/) <br/>
+[Original Link](http://www.timeout.com/newyork/) | [PDF Version](files/TimeOutNewYork.pdf) <br/>
+**Schools are preparing students to make a difference in the world**
+Issue CE07: Aug 17–23, 2007
+> “In the area of social entrepreneurship, the impetus for starting a company is to further or advance a cause or purpose,” says Bruce Bachenheimer, clinical professor and program director at Pace’s Lubin School of Business. “It’s about a mission to address any number of ills, from AIDS to world hunger or environmental issues. And it’s about having a sustainable type of business. It’s something larger than just making money,” he continues. “It’s using entrepreneurship—the same skills and concepts you would apply to a commercial business—to solve important problems.”
+>
+> Sherri Muth, who earned a social entrepreneurship certificate at Pace, said she picked up important business skills through the program, which she applies to her work as the director for a nonprofit rehabilitation center that develops and finds jobs for people with disabilities. “One of the assignments was to write a business plan,” she recalls. “It made me realize that we need to run nonprofits just like any other kind of business. I took courses in law, strategic planning, business planning, budgeting, IT.”
+
+[![The Journal News](images/thejournalnews.jpg)](http://www.thejournalnews.com/newsroom/110904/d01w09entrepreneurtraits) <br/>
+[Original Link](http://www.thejournalnews.com/newsroom/110904/d01w09entrepreneurtraits) | [PDF Version](files/the_journal_news.pdf) <br/>
+**Can you be an entrepreneur?** <br/>
+November 9, 2004 <br/>
+By **Abigail Klingbeil** <br/>
+> ![Sailing photo](images/image5087.png)
+>
+> Bruce Bachenheimer teaches entrepreneurship. He's also a student of it.
+>
+> After years on Wall Street, he bought a 36-foot sailboat and set off for the Caribbean and South America. Upon his return in 1993, he began a teak-importing and specialty woodworking company in Annapolis, Md. Later, in Australia for graduate school, he started an online financial company.
+>
+> Now, the 43-year-old Dobbs Ferry resident teaches entrepreneurship at Pace University. He cites three traits, commonly recognized in academia and exemplified by his own endeavors, necessary to becoming a successful entrepreneur:
+> \- A need for achievement,
+> \- Self-direction,
+> \- Comfort with taking risks.
+>
+> Bachenheimer said that entrepreneur traits can be taught.
+> 
+> Nearly four out of five new businesses fail in five years, but the rate decreases dramatically for businesses started in "business incubators" where the owners are given resources and mentoring, he said.
+> 
+> "That's a good demonstration that entrepreneurship not only can be taught, but you can take something prone to high failure rates and closure rates and really make it successful."
+
+# Television, Radio and Web Broadcasts
+
+[![Super Cities](images/supercities.jpg)](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5) <br/>
+[Original Link](https://anchor.fm/supercities/episodes/Super-Cities-with-Bruce-Bachenheimer-Pace-University-e3ffh5) <br/>
+**Super Cities with Bruce Bachenheimer (Pace University)** <br/>
+March 15, 2019 <br/>
+By **Brendan Hart** <br/>
+> On this episode of Super Cities, we do a deep dive with **Bruce Bachenheimer, Director of Entrepreneurship at Pace University** in New York City.
+> 
+> We cover the growth of NYC’s startup ecosystem, trends in education, and the role universities play in innovation.
+> 
+> This is a fun conversation. Let's hear from Bruce.
+
+[![1010 WINS](images/1010wins.gif)](http://bit.ly/SBGC_12-11-18) <br/>
+[Original Link](http://bit.ly/SBGC_12-11-18) <br/>
+**The Small Business 10K Challenge** <br/>
+Streamed live on Dec 11, 2018 <br/>
+> ***Bruce Bachenheimer** Clinical Professor, Management & Executive Director, Entrepreneurship Lab, Pace University* served as a Judge for the 1010 WINS Small Business Grant Challenge, which was streamed live from the Radio.com Theatre in Manhattan. [https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2](https://eventsplus.cbsradio.com/newyork/wins/e/small-business-grant-challenge-2) <br/>
+> ![](images/image8695.jpg) <br/>
+
+[![1010 WINS](images/1010wins.gif)](https://embed.radio.com/clip/61197413) <br/>
+[Original Link](https://embed.radio.com/clip/61197413) <br/>
+**The Bottom Line For Small Business** <br/>
+November 11, 2016 <br/>
+> In a Veterans Day feature, CBS New York radio 1010WINS mentioned the Pace University Veterans Entrepreneurship Boot Camp and professor Bruce Bachenheimer on ‘The Bottom Line For Small Business’ (0:21 – 0:34):
+> 
+> “At Pace University, professor Bruce Bachenheimer is doing his part with the Veterans Entrepreneurship Boot Camp. It’s a seven-week program that provides practical skills and tools for veterans launching their own startup businesses.” <br/>
+
+[![KBS](images/kbs.jpg)](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html) <br/>
+[Original Link](http://www.ondemandkorea.com/global-talk-show-cosmopolitan-e40.html) <br/>
+**Global Talk Show Cosmopolitan** <br/>
+January 23, 2016 <br/>
+> *Pace University Professor Bruce Bachenheimer was interviewed on* **Global Talk Show Cosmopolitan**, *which aired on* **Korean Broadcasting System Channel 1** *January 23, 2016. The program examined New York City’s Silicon Alley. A video clip of the program is available at:* [http://bit.ly/KBS-BB](http://bit.ly/KBS-BB) *(the Silicon Alley segment starts at 19:50 and Professor Bachenheimer appears at 22:58).*
+>
+> ![Photo](images/image1084.png)
+
+[![PBS](images/pbs.jpg)](http://scitechnow.org/videos/from-soldier-to-entrepreneur/) <br/>
+[Original Link](http://scitechnow.org/videos/from-soldier-to-entrepreneur/) <br/>
+**SciTech Now** <br/>
+April 29, 2015 <br/>
+Hosted by **Hari Sreenivasan** <br/>
+> *Pace University Professor Bruce Bachenheimer appeared on* **SciTech Now**, *which premiered on WLIW Channel 21 April 29, 2015 from 7:00 –7:30 PM. The program also aired on* **WNET Thirteen** *and other* **PBS** *stations nationally. A video clip of this segment is available at*: [http://bit.ly/SciTech\_Now](http://bit.ly/SciTech_Now)
+>
+> ![Photo](images/image25541.jpg)
+
+[![ABC7](images/abc7.jpg)](http://hiringamerica.net/episode-48/) <br/>
+[Original Link](http://hiringamerica.net/episode-48/) <br/>
+**Hiring America** <br/>
+April 25, 2015 <br/>
+Hosted by **Gigi Stone Woods** <br/>
+> *Pace University Professor Bruce Bachenheimer appeared on* **Hiring America**, *which aired on* **WABC-TV Channel 7** *April 25, 2015 from 1:30 –2:00 PM. The program was also broadcast nationally in over 80 markets as well as on the* **Armed Forces Network**. *A video clip of this segment is available at*: [http://bit.ly/HA\_48](http://bit.ly/HA_48)
+>
+> ![Photo](images/image25611.jpg)
+
+[![Voice of Israel](images/voiceofisrael.png)](http://www.voiceofisrael.com/bridging-israeli-new-york-city-startup-scenes/) <br/>
+[Original Link](http://www.voiceofisrael.com/bridging-israeli-new-york-city-startup-scenes/) <br/>
+**Innovation Nation** <br/>
+January 11, 2015 <br/>
+Hosted by **Simcha Gluck** <br/>
+> *Pace University Professor Bruce Bachenheimer* appeared on the premier episode of **Innovation Nation**, which aired live on **Voice of Israel** January 11, 2015 from 2:30 –3:00 PM, in a segment titled **Bridging the Israeli and New York City Startup Scenes**.
+>
+> ![Photo](images/image6861.jpg)
+
+[![NYCTV Life](images/nyctvlife.jpg)](http://www.nyc.gov/html/media/html/tv/nyctv_life_wwr.shtml) <br/>
+[Original Link](http://www.nyc.gov/html/media/html/tv/nyctv_life_wwr.shtml) <br/>
+**Working Woman Report** <br/>
+September 1, 2014 <br/>
+Hosted by **Allison Haunss** <br/>
+> *Pace University Professor Bruce Bachenheimer* appeared on the Working Woman Report, which aired on NYC TV Channel 25 on September 1, 2014 from 8:30 – 9:00 PM. A video clip of this segment is available at: [http://bit.ly/WWR\_NYCTV](http://bit.ly/WWR_NYCTV.)
+>
+> ![Photo](images/image84171.jpg)
+
+[![Talking Alternative](images/talkingalternative.jpg)](http://www.talkingalternative.com/events/2014/07/the-womans-playbook-10) <br/>
+[Original Link](http://www.talkingalternative.com/events/2014/07/the-womans-playbook-10) <br/>
+**The Woman’s Playbook - Betting on Vets** <br/>
+July 3, 2014 <br/>
+Hosted by **Joanna Krotz** <br/>
+> *Pace University Professor Bruce Bachenheimer was mentioned in the program ‘Betting on Vets: A unique public-private program is training ex-military women to start businesses that restart their lives’ on the weekly Internet radio show* **The Woman’s Playbook**, *which aired on* **Talking Alternative Broadcasting** *from 12:00 pm – 1:00 pm on July 3, 2014. A podcast of the program is available at*: [http://bit.ly/BettingOnVets](http://bit.ly/BettingOnVets)
+> 
+> *(A Transcript from 46:09 – 47:14)*
+> 
+> “It does seem as if there’s somewhat more attention and resources being paid in the private sector to veterans. I just heard, for instance, this morning from a guest whose been on this show, Bruce Bachenheimer, who directs the Entrepreneurship Lab at Pace University, that his Entrepreneurship Lab, which is based in New York, just got a $50,000 grant from the foundation of an investment firm called Blackstone, so it’s called the Charitable Foundation of Blackstone, and they’ve actually earmarked $300,000, and so Pace was only just one of six groups that got that grant and they’re going to be underwriting a seven-week entrepreneurship boot  camp at Pace. It’s for men and a woman, so we would be interested in seeing what the percentages end up, but it’s in New York City’s Tri-State area. And interestingly, Blackstone reacting and responding to the White House initiative to hire veterans, has committed to hiring 50,000 veterans across its portfolio of companies so, over a five year period, and they’ve already done about 10,000 since they launched about a year ago.”
+
+[![TalkingAlternativeBanner](images/talkingalternative.jpg)](http://www.talkingalternative.com/events/2014/06/the-womans-playbook-6) <br/>
+[Original Link](http://www.talkingalternative.com/events/2014/06/the-womans-playbook-6) <br/>
+**The Woman’s Playbook - Leaning Out** <br/>
+June 5, 2014 <br/>
+Hosted by **Joanna Krotz** <br/>
+> *Pace University Professor Bruce Bachenheimer* was interviewed about ‘Leaning Out: Women are weary of corporate ladders to nowhere and launching businesses of their own to find success and satisfaction’  on the weekly Internet radio show The Woman’s Playbook, which aired on Talking Alternative Broadcasting from 12:00 pm – 1:00 pm on June 5, 2014. A podcast of the program is available at: [http://bit.ly/WomansPlaybook](http://bit.ly/WomansPlaybook) and on iTunes: [http://bit.ly/LeaningOut](http://bit.ly/LeaningOut)
+
+[![TOGINET](images/toginetlive.jpg)](http://toginet.com/shows/payingitforward) <br/>
+[Original Link](http://toginet.com/shows/payingitforward) <br/>
+**Paying It Forward** <br/>
+December 18, 2013 <br/>
+Hosted by **Josephine Geraci** <br/>
+> *Pace University Professor Bruce Bachenheimer was interviewed about ‘The importance of Business Plans’  on the weekly Internet radio show **Paying It Forward**, which aired on **Toginet Radio** from 10:00 am – 11:00 am  on December 18, 2013. A podcast of the program is available at*: [http://toginet.com/podcasts/payingitforward/PayingitForwardLIVE\_2013-12-18.mp3](http://toginet.com/podcasts/payingitforward/PayingitForwardLIVE_2013-12-18.mp3).
+
+[![News 12 Westchester](images/news12westchester.jpg)](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes) <br/>
+[Original Link](http://westchester.news12.com/news/residents-overwhelmed-with-obamacare-1.6181107?firstfree=yes) <br/>
+**Residents overwhelmed with ‘Obamacare’** <br/>
+October 2, 2013 <br/>
+Reported by **Grace Noone** <br/>
+> *Pace University Professor Bruce Bachenheimer was interviewed by Grace Noone for a segment on Obamacare and small business that aired on the 5:00 news.*
+>
+> ![Photo](images/image4569.jpg)
+
+[![Forbes Video Network](images/forbesvideo.jpg)](http://landing.newsinc.com/forbes/video.htmlfreewheel=91218&sitesection=forbes&VID=24742089) <br/>
+[Original Link](http://landing.newsinc.com/forbes/video.html?freewheel=91218&sitesection=forbes&VID=24742089) <br/>
+**Inside Enstitute** <br/>
+April 17, 2013 <br/>
+> *Pace University Professor Bruce Bachenheimer was included in a video feature titled* **Inside Enstitute** *on* **Forbes** [http://bit.ly/enstitute](http://bit.ly/enstitute) *The video is also available on YouTube at*: [http://youtu.be/CP893YkqNL4](http://youtu.be/CP893YkqNL4)
+> ![Photo](images/image4561.jpg)
+
+[![TOGINET](images/toginetlive.jpg)](http://togi.us/forward) <br/>
+[Original Link](http://togi.us/forward) <br/>
+**Paying It Forward** <br/>
+October 24, 2012 <br/>
+Hosted by **Josephine Geraci** <br/>
+> *Pace University Professor Bruce Bachenheimer was interviewed on the weekly Internet radio show **Paying It Forward**, which aired on ***Toginet Radio** on October 24, 2012.A podcast of the program is available on iTunes and at*: [http://bit.ly/PayingItForward\_10-24-12](http://bit.ly/PayingItForward_10-24-12)
+
+[![WPIX 11](images/wpix11.jpg)](http://bit.ly/WWR_BB) <br/>
+[Original Link](http://bit.ly/WWR_BB) <br/>
+**Working Woman Report** <br/>
+September 30, 2012 Hosted <br/>
+Hosted by **Allison Haunss** <br/>
+> *Pace University Professor Bruce Bachenheimer appeared on the premier of* **Working Woman Report**, *which aired on* **WPIX Channel 11** *on September 30, 2012. This segment was rebroadcast and is available at*: [http://bit.ly/WWR\_BB](http://bit.ly/WWR_BB)
+> ![Photo](images/image4556.png)
+
+[![Le Mouv](images/lemouv.jpg)](http://www.lemouv.fr/diffusion-new-york-la-nouvelle-silicon-valley) <br/>
+[Original Link](http://www.lemouv.fr/diffusion-new-york-la-nouvelle-silicon-valley) <br/>
+**New York: the New Silicon Valley?** <br/>
+July 26, 2012 <br/>
+Reported by **Charlotte Alix** <br/>
+> *Pace University Professor Bruce Bachenheimer was interviewed on the* **Radio France** *station* **le mouv’** *for a special feature on technology start-ups in New York City. The program aired on July 26, 2012 and a podcast, in French, is available at*: [http://bit.ly/Radio-France](http://bit.ly/Radio-France).
+
+[![Voice of America](images/voa.jpg)](http://www.voanews.com/learningenglish/home/A-Whole-New-World-in-the-Way-We-Interact-With-Electronics--112480899.html) <br/>
+[Original Link](http://www.voanews.com/learningenglish/home/A-Whole-New-World-in-the-Way-We-Interact-With-Electronics--112480899.html) <br/>
+**A Whole New World, Brought to Us by Gizmos and Gadgets** <br/>
+December 26, 2010 <br/>
+Hosted by **June Simms and Steve Ember** <br/>
+> *Pace University Professor Bruce Bachenheimer was interviewed for* **Voice of America’s Special English Technology Report**. *The complete article and audio of the broadcast is available at the above URL. The following is a partial transcript of the program*:
+> 
+> Bruce Bachenheimer is with the MIT Enterprise Forum in New York. He is also the director of entrepreneurship at Pace University. We spoke with him about what he believes are the most important developments of the twenty-first century.
+> 
+> BRUCE BACHENHEIMER: “If I were looking at technology that has really impacted us over the last ten years, I would go in order: mobile computing, the proliferation of digital media content, broadband -- mobile and at-home access -- social media platforms and user-generated content, cloud computing, digital photography and GPS. And what I mean by GPS is GPS for the masses, although global positioning systems have been around for quite a while.”
+> 
+> Mr. Bachenheimer says all of these things have worked together to revolutionize technology. And, he says the technology is constantly changing, faster than at any other time in history.
+> 
+BRUCE BACHENHEIMER: “The life cycle of these products are so much shorter. If you look at having a telephone, a home phone back in the nineteen fifties, sixties, seventies and eighties, it was exactly the same phone. Nothing changed for three or four decades.
+> 
+> "Basically you had a choice of three colors, tan, white or black. And you could either have it mounted on a wall or on a table top, whereas now you look at something like a cell phone. How many people have a cell phone that's more than a year or two old?”  
+
+[![Your Business MSNBC](images/msnbcyourbusiness.jpg)](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray) <br/>
+[Original Link](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray) <br/>
+**Better Your Business** <br/>
+December 15, 2010 <br/>
+Hosted by **JJ Ramberg** <br/>
+> *Pace University Professor Bruce Bachenheimer* appeared on the **Better Your Business** feature of **MSNBC’s YOUR BUSINESS** program, which was released on December 15, 2010. This segment is available at:[http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray](http://www.openforum.com/idea-hub/topics/technology/video/better-your-business-bruce-bachenheimer-ramon-ray)
+> ![Photo](images/image4614.png)
+
+[![Your Business MSNBC](images/msnbcyourbusiness.jpg)](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services) <br/>
+[Original Link](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services) <br/>
+**All About Apps** <br/>
+October 24, 2010 <br/>
+Hosted by **JJ Ramberg** <br/>
+> *Pace University Professor Bruce Bachenheimer* was a panelist on **MSNBC’s YOUR BUSINESS** program, which aired on October 24, 2010 from 7:30 am to 8:00 am. A segment of that broadcast is available at: [http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services](http://www.openforum.com/idea-hub/topics/technology/video/business-answers-software-development-back-up-services)
+> ![Photo](images/image4615.png)
+
+[![AM1490WGCH](images/am1490wgch.jpg)](http://www.wgch.com/) <br/>
+[Original Link](http://www.wgch.com/) <br/>
+**Greenwich Entrepreneurs** <br/>
+May 28, 2010 <br/>
+Hosted by **Gregory Skidmore and Daniel Crosby** <br/>
+> *Pace University Professor Bruce Bachenheimer was interviewed as a guest on the WGCH radio program* **Greenwich Entrepreneurs**, *which aired on May 28, 2010 from 9:30 am to 10:00 am. The broadcast is available at*: [http://bit.ly/wgchradio](http://bit.ly/wgchradio).
+> ![Photo](images/image4616.png)
+
+[![NYCTV](images/nyctv.png)](http://www.lawline.com/lawlinetv/) <br/>
+[Original Link](http://www.lawline.com/lawlinetv/) <br/>
+**The Impacts of Social Media** <br/>
+December 13, 2009 <br/>
+Hosted by **Alan Schnurman** <br/>
+(rebroadcast on 2/14/10, 5/23/10, 10/31/10, 2/20/11, 5/1/11, 7/3/11, 10/30/11 & 2/26/12) <br/>
+> *Pace University Professor Bruce Bachenheimer was a guest on the NYC TV program* **Lawline**, *which aired on December 13, 2009 from 5:30 pm to 6:00 pm. The broadcast is available at*: [http://bit.ly/Lawline](http://bit.ly/Lawline) <br/>
+> ![Photo](images/image4617.png) <br/>
+
+[![KUHF](images/kuhf.jpg)](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674) <br/>
+[Original Link](http://app1.kuhf.org/houston_public_radio-news-display.php?articles_id=1255732674) <br/>
+**Rice University recently held a consortium on the growing field of teaching entrepreneurship.** <br/>
+October 19, 2009 <br/>
+Hosted by **Ed Mayberry** <br/>
+> The following is a transcript of the WKUHF interview:
+> 
+> **Bruce Bachenheimer is director of entrepreneurship studies at Pace University's Lubin School of Business in New York City.**
+> 
+> *"Entrepreneurship is really a way of thinking and acting.  It's about being able to recognize opportunities, analyze opportunities and make them happen.  Entrepreneurs are very motivated, driven, passionate, persistent people, and I believe the only real difference between a commercial entrepreneur and a social entrepreneur is their underlying purpose.  The social entrepreneur is trying to make the world a better place, basically to enhance the capacity of society someway."* 
+> 
+> **Social entrepreneurs focus their efforts on a social issue.  That can mean setting up a business or non-profit that benefits another country, for example.**
+> 
+> *"Domestically, like early childhood education opportunities.  It could be internationally providing, you know, clean drinking water in sub-Sahara Africa, or fighting AIDS or poverty or protecting natural resources.  And the idea is just how do you harness that spirit and focus that on a pressing social issue, as opposed to simply a new business."*
+> 
+> **Bachenheimer says the field of social entrepreneurship has exploded in the past five years, and that says a lot about this generation wanting work with meaning.**
+> 
+> *A podcast of the interview is available at*: [http://bit.ly/RadioKUHF](http://bit.ly/RadioKUHF).
+
+# Pace University Media
+
+[![Pace Magazine](images/pacewinter.jpg)](https://www.pace.edu/magazine/features/pace-professors-how-covid-19-changed-everything) <br/>
+[Original Link](https://www.pace.edu/magazine/features/pace-professors-how-covid-19-changed-everything) <br/>
+**Pace Professors on How COVID-19 Changed Everything** <br/>
+Winter 2021 <br/>
+By **Lance Pauker** <br/>
+> ![Bruce Bachenheimer](images/image4031.jpg)
+> **Entrepreneurship During Times of Crisis** <br/>
+> Bruce Bachenheimer <br/>
+> Clinical Professor of Management and Executive Director, Entrepreneurship Lab <br/>
+> Lubin School of Business
+>
+> The great baseball philosopher Yogi Berra once said, "It's difficult to make predictions, especially about the future." That might sound somewhat inane, but the underlying message is astute: The future is not only unpredictable, it's unknowable.
+> 
+> Although that is especially true when it comes to human behavior and societal norms—and so many variables are changing the way we teach, learn, worship and socialize these days—we can expect that innovative business concepts will be born out of the COVID-19 crisis.
+>
+> **How do we know? Entrepreneurship is often associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more "ripe for disruption” than during a crisis.** Airbnb and Uber were founded amid the 2008 financial crisis, and probably would not have succeeded if either was launched a few years earlier or later. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who were suddenly willing to sleep in a stranger’s bed and pay for a ride in a regular car. Once these concepts proved successful, they were able to become a new normal.
+>
+> What innovative business concepts will be born out of the COVID-19 crisis? We’ll have to wait and see. But what’s important to remember is that it’s not about making predictions or coming up with an interesting idea; it’s about the passion, persistence, and perseverance to actually make it happen. Remember what Yogi Berra said: "It ain’t over ’til it’s over."
+
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/world-changing-impact-covid-19) <br/>
+[Original Link](https://www.pace.edu/mypace/world-changing-impact-covid-19) <br/>
+**PACESPECTIVES: The World-Changing Impact of COVID-19** <br/>
+April 2020 <br/>
+> **COVID-19 and Entrepreneurship** <br/>
+> Bruce Bachenheimer <br/>
+> eLab Director, Lubin School of Business <br/>
+>
+> Entrepreneurship is often associated with some form of disruption, the creation of a significant change in the market. There is perhaps no time more ‘ripe for disruption’ than during a crisis. Airbnb and Uber were founded amid the 2008 financial crisis, and probably would not have succeeded if either was launched a few years earlier or later. Why? Ordinary people would not have been willing to turn their home into a hotel or their car into a taxi absent the financial distress they were facing. Same for customers, who were suddenly willing to sleep in a stranger’s bed and pay for a ride in a regular car. Once these concepts proved successful, they were able to become a new normal.
+> 
+> What innovative business concepts will be born out of the COVID-19 crisis? We’ll have to wait and see. But what’s important to remember is that it’s not about coming up with an interesting idea; it’s about the passion, persistence, and perseverance to actually make it happen.
+
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues) <br/>
+[Original Link](https://www.pace.edu/mypace/pacespectives-operation-varsity-blues) <br/>
+**PACESPECTIVES: OPERATION VARSITY BLUES** <br/>
+April  2019 <br/>
+> Bruce Bachenheimer <br/>
+> Clinical Professor of Management <br/>
+> Executive Director, Entrepreneurship Lab <br/>
+> Lubin School of Business <br/>
+> 
+> **"Live by the sword, die by the sword"**
+> 
+> The "bulldozer parents" who seek to "clear a path" for their child to gain admission to a top ranked college, live by the rankings. Prospective students who define themselves by the numerical rank of the college they attend, live by the rankings. Colleges whose mission is simply to advance in the rankings, live by the rankings. And all may suffer tremendously because of college rankings.
+> 
+> So why live by the rankings? They offer a simplistic sorting mechanism and play on human nature. Why perpetuate them? Money. Mainly for the publishers of these rankings, but also for the institutions that rely on them as THE source for new student enrollment (i.e. tuition dollars). 
+> 
+> What’s a better alternative? Provide broad ratings around topics that could help students better select the college that’s the best FIT for them and rank colleges based on the VALUE they actually add. In other words: rank them on "outputs" (how well they prepare graduates) rather than "inputs" (high school grades, SAT scores, acceptance rates). Consider the incentives, having colleges select students based on who will help them advance in the rankings versus earning a reputation by preparing successful graduates.
+> 
+> Some colleges have successfully rejected the "games" associated with admissions and privilege. MIT does not offer athletic scholarships, have legacy admissions, include Latin honors upon graduation, or award honorary degrees. The institute is the epitome of a meritocracy. Others have excelled at adding value. Pace was ranked the best private university in the country for upward economic mobility of students. We are the embodiment of Opportunitas!
+
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-holiday-edition) <br/>
+[Original Link](https://www.pace.edu/mypace/pacespectives-holiday-edition) <br/>
+**PACESPECTIVES: HOLIDAY EDITION** <br/>
+December 2018 <br/>
+> **Is All That Shopping Giving You Business Ideas? Test Them Out!***
+> 
+> **Bruce Bachenheimer** <br/>
+> Clinical Professor of Management, Lubin School of Business <br/>
+> Executive Director, Entrepreneurship Lab <br/>
+> 
+> One of the most important things for entrepreneurs to achieve is customer validation: proof that you have targeted the correct customer segment, identified a real need, and are providing a product or service that actually solves that need. The definitive form of customer validation is getting someone to open their wallet and actually make a purchase.
+> 
+> The holidays tend to be a time that people are more inclined to try something new and spend impulsively, so get out there and take advantage of the opportunity. Whether you make a sale or not, learn as much as possible about the market and your customers.
+
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer) <br/>
+[Original Link](https://www.pace.edu/mypace/professor-in-bruce-bachenheimer) <br/>
+**THE PROFESSOR IS IN: BRUCE BACHENHEIMER** <br/>
+May 2018 <br/>
+> **Bruce Bachenheimer** <br/>
+> Clinical Professor of Management, Lubin School of Business <br/>
+> Executive Director, Entrepreneurship Lab <br/>
+> 
+> Thirty-five years ago this month, Bruce Bachenheimer (BBA ’83) graduated from Pace with a degree in international management. Today, Bachenheimer is a vocal and vital member of the Pace Community, helping shape the minds of future business leaders in management and entrepreneurship. Bachenheimer recently took some time to chat with Opportunitas about what he’s working on, what he likes about Pace, and the current dynamism of New York City.
+> 
+> You’re both a professor at Lubin and in charge of the Entrepreneurship Lab. Tell us more about those roles.
+> 
+> What’s nice about teaching and running the Entrepreneurship Lab (eLab) is that I’m able to use the eLab and its many resources for my classes. It directly supports curricular instruction—things that happen in the classroom—but also provides co-curricular and extra-curricular support. For example, the eLab runs a pitch contest and business plan competition, in class we are pitching new business concepts and developing business plans.
+> 
+> Do you see that type of blending happening more in the future?
+> The whole nature of education is changing. This idea of what’s called the “sage on the stage”—one person lecturing to a room of students lined up in rows—that worked during the industrial revolution. But now, people aren’t learning well that way and students want a lot more. Society has changed. Everyone has a short attention span, whether it's texting, Twitter, or one paragraph Yelp reviews. If students aren’t learning the way I teach, I have to change the way I teach.
+> 
+> Is there anything you’re working on that you’re particularly excited about?
+> 
+> I do research, read, and speak regularly about New York City’s entrepreneurial ecosystem. One thing I find particularly interesting is just how and why New York City transformed itself into an entrepreneurial city. We were big finance, traditional media, Madison Avenue ad agencies, iconic department stores. We had all of these major industries and Fortune 500 companies, but after the 2008 financial crisis we had to become a lot more entrepreneurial. How New York City did that is incredibly interesting. After the financial crisis, there’s so many things that have been done in a very strategic way. Everything from cutting some red tape to opening up Cornell Tech on Roosevelt Island. And now, New York City has surpassed Boston/Cambridge as the number two metro area for VC investment after Silicon Valley.
+> 
+> Do you think that entrepreneurial spirit is built into the DNA of the city?
+> 
+> There’s certainly some of that DNA—the immigrant story, Ellis Island, if I can make it here I can make it anywhere. Additionally, there are numerous entrepreneurial ecosystem models, delineating critical components of success. What is interesting about New York is a concept called the perception of desirability. An entrepreneur can locate almost anywhere, but right now New York City is a very desirable place to be. When I was growing up back in the 70s, nobody wanted to be here. That perception has changed so much, people from around the world want to live and work here, and sometimes you’re really not sure why. That perception of what’s cool and what’s desirable changes, and right now New York City has it.
+> 
+> What’s your favorite thing about working at Pace?
+> 
+> It was always a dream to teach. Without having a PhD and publishing regularly, the thought of being able to do so on a full-time basis at a major metropolitan University was something I didn’t think was possible. Pace made it possible and it’s been incredibly satisfying. I could be entering the classroom exhausted after a long day, wondering how I’m going to make it through a 3-hour night class, and within minutes, the energy from the students...I love it.
+> 
+> In regards to the eLab, the autonomy. I’m happy to work toward institutional goals, the mission and objectives of the University or my School set, but the ability to do that independently and autonomously is very empowering and motivational. Given the mission and objectives, I’ve been afforded a huge degree of freedom to figure out how to best achieve them, and the resources to do it.
+> 
+> You can have a dinner party for any four people, living or dead. Who would you invite?
+> 
+> My mother, my mother-in-law, and my daughter. My mother and mother-in-law both passed away before I was married and never knew our daughter. If it was possible for my mother and mother-in-law to meet our daughter, that would be an amazing dinner for four. 
+
+[![Opportunitas](images/opportunitas.jpg)](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017) <br/>
+[Original Link](http://www.pace.edu/mypace/pacespectives-celebrity-in-2017) <br/>
+**PROFSPECTIVES: CELEBRITY CULTURE TODAY** <br/>
+September 2017 <br/>
+> **Bruce Bachenheimer** <br/>
+> Clinical Professor of Management, Lubin School of Business <br/>
+> Executive Director, Entrepreneurship Lab <br/>
+> 
+> **Celebrity and Personal Branding**
+> 
+> What’s your personal brand? Can you state what you’d like it to be in a few sentences? How might someone you never met describe you as a brand after an online search?
+> 
+> In terms of a professional career, chances are your brand will not be based on a resume and cover letter. It will likely be shaped by a quick Google search, and your concern should go well beyond what embarrassing pictures might show up. No relevant results could be viewed as a blank resume.
+> 
+> Great companies are generally not looking for people that hope to follow instructions in return for a paycheck. They are looking for talent that can add value by solving problems and creating benefits. Instead of thinking about a firm hiring an individual employee, think about what that firm would look for in a new vendor or contractor.
+> 
+> Think of yourself as the CEO of ‘state your name here’ and figure out how to create a celebrity brand (okay, let’s start with niche micro-celebrity recognition). This is the start of an entrepreneurial mindset. Think about how you can add value and for whom. The company you want to work for should be a customer of your brand.
+> 
+> Up until recently, it was primarily entertainers and politicians that paid attention to their celebrity brand. Now the proliferation of user generated content via social media and the ease of search has created de facto personal branding and the rise of micro-celebrities (e.g. bloggers and YouTubers with a huge following).
+> 
+> So, what would you like your brand to be and how should you go about creating it?
+
+[![Opportunitas](images/opportunitas.jpg)](https://www.pace.edu/mypace/pacespectives-advice-class-2021) <br/>
+[Original Link](https://www.pace.edu/mypace/pacespectives-advice-class-2021) <br/>
+**PROFSPECTIVES: ADVICE FOR THE CLASS OF 2021** <br/>
+May 2017 <br/>
+> “Don’t just think of college as a series of courses. It’s a unique opportunity to explore and discover, experiment and evaluate, to be challenged and to grow. Some of these opportunities can be found in the classroom, many others are not. Seek them out.”
+> 
+> Bruce Bachenheimer
+> Professor and Director of the Entrepreneurship Lab
+> Lubin School of Business
+
+[![Opportunitas](images/opportunitas.jpg)](http://www.pace.edu/mypace/profspectives-gig-economy) <br/>
+[Original Link](http://www.pace.edu/mypace/profspectives-gig-economy) <br/>
+**PROFSPECTIVES: THE GIG ECONOMY** <br/>
+May 2017 <br/>
+> **Bruce Bachenheimer** <br/>
+> Clinical Professor of Management, Lubin School of Business <br/>
+> Executive Director, Entrepreneurship Lab <br/>
+> 
+> The gig economy can provide workers with flexibility and independence, removing the walls and ceiling of a traditional job. It can also remove the floor of stability and security. The technology that enables individuals to provide these services directly to customers on such a large scale has relied on data analytics to do so efficiently and effectively. The resulting analytical information and insights are incredibly valuable, but can also be somewhat Orwellian.
+> 
+> An ever-increasing number of traditional jobs are incorporating elements of those in the gig economy. Our hypercompetitive, globalized, and constantly connected economy has placed new demands on employees, tracking value delivered and measuring efficiency. As with gig economy workers, employees will have to constantly demonstrate their worth. To me, this is the essence of an entrepreneurial mindset—a way of thinking and acting that is focused on imagining new ways to solve problems and provide benefits that create value. A lesson I learned early as my career began as a Wall Street trader where the motto was “You’re only as good as your last trade!”
+> 
+> Charles Handy, a British author and management philosopher, predicted the "portfolio worker" decades ago and his advice to his own children was "look for customers, not bosses."
+
+[![Pace Magazine](images/pacemagazine.png)](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30) <br/>
+[Original Link](https://issuu.com/urmarketing/docs/pace_magazine_fall_2016/30) <br/>
+**Generation Z in the Workforce** <br/>
+Fall 2016 <br/>
+By **Arize Lee** <br/>
+> **They are creating their own career paths.*** Landing a job at a *Fortune* 500 company isn’t for everyone, but studies show that Gen Z is more interested in entrepreneurship than previous generations. Why? Professor Bruce Bachenheimer, executive director of Pace’s Entrepreneurship Lab, says they’re skeptical, having grown up during the recession. “Gen Z has seen their parents work as loyal employees for a big company, come home every day at 6:00 p.m. for dinner, and take their annual two weeks of vacation,” he says. “But then they watched as their parents were laid off, lost their dignity, and had to take two menial jobs to support themselves and the family. They questioned this loyalty to big companies and thought, ‘Do I have more control over my destiny id I go the entrepreneurial route?’”
+
+[![The Pace Press](images/thepacepress.jpg)](files/PacePress_10-29-14.pdf) <br/>
+[PDF Version](files/PacePress_10-29-14.pdf) <br/>
+**Entrepreneurship takes the University by storm** <br/>
+October 29, 2014 <br/>
+By **Arize Lee** <br/>
+> Undoubtedly, the eLab founded in 2004 (sic), provides students and others with valuable knowledge and capital to pursue entrepreneurial aspirations, but eLab director Bruce Bachenheimer pointed out “It’s not about being an entrepreneurship major.”
+> 
+> “I’m here to bring University students in a collaborative work setting,” Bachenheimer explained. “What I would say to anyone interested, is come to the entrepreneurship lab, look around, ask some questions and apply.”
+> 
+> Through the application, “we understand what students are looking for and match them up with other students interested in doing something similar,” said Bachenheimer.
+> 
+> In addition to the video studio and private meeting room, the eLab has “a 3-D printer, poster printers and Alienware high-speed computers that are great for 3-D modeling and video editing,” Bachenheimer added.
+> 
+> Bachenheimer describes the facility as an ideal environment for anyone to conceptualize, test and launch a business concept. “There’s the space, there’s the equipment and there’s the people,” he said, identifying graduates in the engineering, finance and computing fields that work within the lab.
+> 
+> Bachenheimer warns that “this idea of going to look for a job is a problem. It’s no more, like a generation ago, that you just get hired. Almost all net new jobs are being created by small companies, less than 4 years old with under 100 employees.”  
+> No matter what your occupation, “it’s about recognizing opportunity and creating value,” Bachenheimer stressed. “Pace University’s motto is Opportunitas and nothing is more synonymous with opportunity than entrepreneurship.”  
+
+[![Pace Magazine](images/pacemagazine.png)](files/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf) <br/>
+[PDF Version](files/PacesELabHelpsMakeEntrepreneurialDreamsAReality.pdf) <br/>
+**Pace’s eLab Helps Make Entrepreneurial Dreams a Reality** <br/>
+Fall 2013 <br/>
+> ![Photo](images/image67381.jpg)
+> 
+> “The Entrepreneurship Lab is a collaborative workspace designed to bring together students from Pace's six schools and colleges in order to promote crossdisciplinary problem solving, experiential learning, and the development of an entrepreneurial mindset,” says Bruce Bachenheimer (above), clinical professor of Management and director of the Entrepreneurship Lab.
+
+[![Pace Magazine](images/pacemagazine.png)](files/TheFacultyAlumniBond.pdf) <br/>
+[PDF Version](files/TheFacultyAlumniBond.pdf) <br/>
+**The Faculty Alumni Bond** <br/>
+Fall 2013 (cover story) <br/>
+By **Caitlin Kelly** <br/>
+> Sharing a passion for global entrepreneurship
+> 
+> “I’ve gotten e-mails from him at three in the morning and wondered—‘Does he ever sleep?’”
+> 
+> Students of Professor Bruce Bachenheimer, a high-energy serial entrepreneur who teaches global entrepreneurship, know that’s a fairly common experience, says Rumit Mehta '03, a former student who has remained close to his former professor, even a decade after graduation.
+> 
+> Mehta arrived at Pace in 2001 to earn an MBA, and Bachenheimer was one of his professors. Both men, who share a passion for global adventures, had taken unusual and circuitous paths into the classroom where they met.
+> 
+> Bachenheimer, a clinical professor of Management and director of entrepreneurship at the Lubin School of Business, had trod many successful paths before returning to Pace—where he received his undergraduate business degree—to share his global business expertise. Among other things, he had worked for the Bank of Tokyo and Westpac, a major Australian bank, then lived aboard his 36-foot sailboat in the Caribbean for a few years. After that he started a teak-importing company based in Annapolis, MD, catering largely to fellow sailors. He attended business school himself at 40 in Australia.
+
+[![Pace Magazine](images/pacemagazine.png)](files/LubinStudentsInTanzania.pdf) <br/>
+[PDF Version](files/LubinStudentsInTanzania.pdf) <br/>
+**Lubin Students in Tanzania** <br/>
+Summer 2008 <br/>
+> ![Photo](images/image67521.jpg)
+> 
+> Bruce Bachenheimer, clinical professor of Management and director of Entrepreneurship at the Lubin School, says Pace selected Tanzania for its African program launch because of “the country’s unique and success in implementing a free market economy.” Added Bachenheimer, “While this initial trip is only 10 days in length, it is also designed to serve as a foundation for a long-term relationship between the University of Dar es Salaam and Pace, one which will be truly meaningful and mutually beneficial.
+
+[![Pace Magazine](images/pacemagazine.png)](files/CurriculumInnovationsForTomorrow.pdf) <br/>
+[PDF Version](files/CurriculumInnovationsForTomorrow.pdf) <br/>
+**Curriculum for Tomorrow** <br/>
+Summer 2008 (Page 28) <br/>
+> ![Photo](images/image6762.jpg)
+> 
+> At the graduate level, a group of MBA students were in Africa, exploring entrepreneurship in Tanzania with Professor Bruce Bachenheimer during an intense ten day field exploration with officials from the University of Dar es Salaam and local entrepreneurs.
+
+[![](images/thepacepress.jpg)](files/pacepress_3-12-08.pdf) <br/>
+[PDF Version](files/pacepress_3-12-08.pdf) <br/>
+**MBA students travel to Tanzania for business** <br/>
+March 12, 2008 <br/>
+By **DJ Hopson** <br/>
+> Bruce Bachenheimer, Lubin School of Business’ director of entrepreneurship program, along with 15 Masters of Business Administration (MBA) will be traveling to Tanzania to study with community leaders.
+> 
+> Bachenheimer and the students will also be presenting on “The Changing Role and Increasing Importance of Entrepreneurship in the United States” and “The Recent and Dramatic Growth of Social Entrepreneurship in the United States” at the UDEC.
+
+[![The Pace Press](images/thepacepress.jpg)](files/PacePress_11-28-07.pdf) <br/>
+[PDF Version](files/PacePress_11-28-07.pdf) <br/>
+**Ambassador of Tanzania delivers speech at the University** <br/>
+November 28, 2007 <br/>
+By **Chimene Montgomery** <br/>
+> The event was presented by professor Bruce Bachenheimer, who met Mahiga this past summer during a workshop on social entrepreneurship at the Fourth Annual Youth Assembly at UN Headquarters. He met with Tanzania’s Permanent Mission to the UN immediately afterwards to discuss having Mahiga speak at the University.
+> 
+> Bachenheimer concluded by saying, “I found Mahiga’s assessment of the greatest challenges for the future of Tanzania to be extremely candid and very insightful. I believe we are quite fortunate to have the opportunity to learn about a nation’s past, present, and future directly from the Ambassador to the United Nations right here at the University.”
+
+[![The Pace Press](images/thepacepress.jpg)](files/PacePress_4-4-07.pdf) <br/>
+[PDF Version](files/PacePress_4-4-07.pdf) <br/>
+**Phelps Wins Pace Pitch Contest with Game Design** <br/>
+April 4, 2007 <br/>
+By **Julissa Lopez** <br/>
+> The Business Plan contest will be accepting applications until April 20, and will then take place on April 30. Both contests have been organized by head of entrepreneurship Bruce Bachenheimer.
+> 
+> The Pace Pitch contest was created by Bachenheimer three years ago, after having been inspired by a contest Bachenheimer participated in when he was in school.
+> 
+> Bachenheimer began the Pitch as a means for allowing students to network and contribute an idea that would mimic the real way business ventures are pitched. Moreover, he believes the contest is a positive experience allowing participants to get more involved in their community.
+> 
+> "I think it's a good way for people to get out here and do something commercially or socially that will help change the world," Bachenheimer said.
+> 
+> Additionally, according to Bachenheimer, the types of applicants has shifted, moving to include not only internal students, but faculty members, alumni and students from other universities as well.
+> 
+> Bachenheimer said, "We're trying to make these contests grow, and it's my hope that they become all inclusive. It's targeted at business students, but I'm glad to get everyone involved-nursing students, law students, and Dyson's as well."
+> 
+> "We've been lucky with growing in sponsors," Bachenheimer said.
+> 
+> Bachenheimer claims the Business Plan can be seen as an extension of the Pace Pitch. "It's a lot more involved, like the level after the Pitch contest," he said.
+
+[![Pace Magazine](images/pacemagazine.png)](files/LandingAnOpportunity.pdf) <br/>
+[PDF Version](files/LandingAnOpportunity.pdf) <br/>
+**Landing an Opportunity** <br/>
+Fall 2005 <br/>
+By **Sheila Smith Noonan** <br/>
+> The Bush administration’s current policy toward this labor segment is favorable to small business owners, including immigrants. “Small business is very important to this president,” says Bruce Bachenheimer, PhD, clinical professor of management.
+> 
+> “One of \[George W. Bush’s\] first executive orders was that government agencies should not make any regulations that place a burden on small businesses.”
+> 
+> Many immigrants that are small business owners are also potential entrepreneurs. Bachenheimer contends that entrepreneurs possess certain personal characteristics, including a need for achievement, selfdirection, and the ability to accept risks to succeed. Certainly, moving to a new country simply indicates an acceptance of risk, but the goal-oriented “model minority” immigrants are the ones who use these characteristics to their advantage. “For America to be the land of opportunity, you have to create your own opportunity,” he says.
+
+[![Pace Magazine](images/pacemagazine.png)](files/StudenHitsHomeRunatPacePitchContest.pdf) <br/>
+[PDF Version](files/StudenHitsHomeRunatPacePitchContest.pdf) <br/>
+**Student Hits Home Run at Pace Pitch Contest** <br/>
+Fall 2005 <br/>
+> Says Bruce Bachenheimer, PhD, clinical professor of management, “Pace’s motto is Opportunitas, and I don’t think there’s anything more synonymous with opportunity than entrepreneurship. And there’s nothing more important in teaching entrepreneurship than experiential learning, and this is experiential learning.”
+
+## Pace University Press Releases
+
+- [Pace University’s Entrepreneurship Lab Awarded Three Grants Supporting Students, Veterans and Israeli Start (October 29, 2014)](http://www.pace.edu/news-release/pace-universitys-entrepreneurship-lab-awarded-three-grants-supporting-students)
+
+- [Entrepreneurship NYC:  The role of universities in the NYC ecosystem (October 9, 2013)](http://pressroom.blogs.pace.edu/2013/10/09/news-advisory-entrepreneurship-nyc-the-role-of-universities-in-the-nyc-ecosystem/)
+
+- [Pace University to hold ninth annual Pace Pitch Contest, Thursday, April 18 (April 10 , 2013)](http://pressroom.blogs.pace.edu/2013/04/10/news-advisory-pace-university-to-hold-ninth-annual-pace-pitch-contest-thursday-april-18/)
+
+- “[Entrepreneurial Implementation” at Pace University (December 18, 2012)](http://pressroom.blogs.pace.edu/2012/12/12/news-advisory-entrepreneurial-implementation-at-pace-university-2/)
+
+- [Pace University Opens Entrepreneurship Lab to Foster Student Innovation, Initiative and Commitment; Bruce Bachenheimer Named Lab's First Director (February 12, 2012)](http://pressroom.blogs.pace.edu/2012/02/12/news-release-pace-university-opens-entrepreneurship-lab-to-foster-student-innovation-initiative-and-commitment-bruce-bachenheimer-named-labs-first-director/)
+
+- [In Celebration of Global Entrepreneurship Week, “Technology Innovation and Entrepreneurship in Israel - The Biopharmaceutical Industry” (November 8, 2011)](http://pressroom.blogs.pace.edu/2011/11/08/news-advisory-nov-15-at-6-pm-in-celebration-of-global-entrepreneurship-week-technology-innovation-and-entrepreneurship-in-israel-the-biopharmaceutical-industry-with-guest-speaker-fredric-d-pri/)
+
+- [“The Latest Trends in Emerging Business panel at the 12th Annual Yonkers Business Week event” (May 3, 2011)](files/2011-05-03.pdf)  
+
+- [“Win Over Investors in 3 Minutes – The Seventh Annual Pace Pitch Contest, April 11; Keynote Speaker: Stanley S. Litow, President of the IBM Foundation”(March 15, 2011)](files/2011-03-15.pdf)
+
+- [Israel: Land of Tech Promise - More Firms Listed on NASDAQ than Any Country Outside U.S. (April 5, 2010)](files/2010-04-05.pdf)
+
+- [State of the Union, State of the Stimulus - Pace Offers Case Studies January 27, 2010)](files/2010-01-27.pdf)
+
+- [Pace Announces Winners of $50,000+ Annual Pitch Contest, Among World’s Richest Pitch Competitions (December 8, 2009)](files/2009-11-13.pdf)
+
+- [Pace Pitch Contest “Top10” Finalists Named - Entrepreneurs Compete for $50,000+ on Dec 3, Join Us (November 13, 2009)](files/2009-11-13.pdf)
+
+- [Pace Pitch Contest Seeks Tomorrow’s “Start-Up” Stars - Over $50,000 Cash - New Deadline, Oct 23 (October 15, 2009)](files/2009-10-15b.pdf)
+
+- [Bruce Bachenheimer Speaks on “Social Entrepreneurship” at 2009 GCEC Conference, Houston, Oct 16 (October 15, 2009)](files/2009-10-15a.pdf)
+
+- [Pace University Hosts Fifth Annual Pitch Contest Thursday, Dec. 4 (December 3, 2008)](files/2008-12-03.pdf)
+
+- [Pace MBA Students Spend Spring Break in Tanzania (March 13, 2008)](files/2008-03-13.pdf)
+
+- [Fourth Annual Pace Pitch Contest; Keynote David Bornstein, Author of “How to Change the World” (November 30, 2007)](files/2007-11-30.pdf)
+
+- [60-Minute Entrepreneurship Tool-Building Workshop for Women Set for October 23 (October 22, 2007)](files/2007-10-22.pdf)
+
+- [Pitch Your Wagon to a Star - Pace Starts Contest for Best Business Pitches (November 30, 2004)](files/2004-11-30.pdf)
+
+# Media Before Pace University
+
+[![The Sydney Morning Herald](images/thesydneymorningherald.jpg)](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) <br/>
+[Original Link](http://newsstore.smh.com.au/apps/viewDocument.ac?docID=news000705_0335_9140) | [PDF Version](files/SMH_7-5-00.pdf ) <br/>
+**Master Plan**  
+July 5, 2000 <br/>
+By **Gerald Noonan** 
+
+> DOT-COM MYTHS
+>
+> Bruce Bachenheimer, a 30-something former Wall Street stockbroker who runs his own small company in Sydney, is completing his second year as an MBA student at AGSM.
+> 
+> Bachenheimer believes the schools have been forced to give the MBA an appropriate degree of IT orientation and market focus because they know that people undertaking the courses are highly motivated, intelligent and are doing it either to change careers, make money, or both.
+>
+> He has been impressed with the way AGSM has organised the management students to interact with students from the University of NSW's computer sciences and engineering faculty - one of the leading IT schools in Australia - as a sort of intellectual cross-fertilisation effort.
+>
+> He's also been surprised at the sophistication of an AGSM computer simulation program used to mimic the real world of stockmarket movements. "It's a real tool very similar to that with which I was trading $100 million to $1 billion a day on Wall Street," he says.
+>
+> But he, too, warns about getting too carried away with the glamour of the Internet e-commerce boom. "When you dissect the dot-com situation you still find the basics of the business model are what applies," he says.
+
+[![Financial Review](images/financialreview.png)](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M)<br/>
+[Original Link](http://www.afr.com/p/national/item_RFhiBo9s3eMKUyiAgLxf4M) | [PDF Version](files/AFR_5-18-00.pdf) <br/>
+**The model of a new-millennium worker** <br/>
+May 18, 2000 <br/>
+By **Catherine Fox**
+
+> If the predictions are right about most of us having at least three careers in our working lives, then Bruce Bachenheimer is not a bad example of the new-millennium worker.
+>
+> He spent several years as a trader on Wall Street, travelled the world promoting a high-tech product for a US company and even opened a business importing teak from the Caribbean. He also managed to fit in a couple of years sailing around the Caribbean islands.
+>
+> A sheer coincidence led him to apply for an MBA course at the Australian Graduate School of Management, where he is still studying. And it is here, with fellow student Austin Hui, that he launched one of Australia's most popular share investor sites, StockCentral.
+>
+> Fitting in all of that while still in his 30s doesn't seem such a big deal to Bachenheimer. Not that lie's brash, but the softly spoken American does admit he gets very little sleep. Maybe four hours a night, after he trades on the US markets.
+>
+> Online entrepreneurs like Bachenheimer and Hui are coming from all walks of life, with a diverse range of skills, experience and qualifications. The classic barriers of age, education and geography mutter far less in the new economy than in the old.
+>
+> "I was asked if I'd be interested in doing it as a commercially viable site, and I already have my own web page so we worked to do that and founded a company this year,” says Bachenheimer.
+>
+> Within three months of relaunching, the site was attracting 1 million hits a month. Now there are around 2 million, he says.
+>
+> “If we grow too quickly we lose the way the site operates…it's high-quality information and no ramping of stocks. Other online forums are being done but not with as high quality," says Bachenheimer.
+>
+> It all sounds a long way from living on a yacht for two years in the Caribbean, although that lifestyle inspired another career. "I didn't know what I wanted to do," Bachenheimer says. "That's when I started the wood company. I wanted to work with my hands."
+>
+> A strong desire to see the world kept Bachenheimer busy for several years and also led him to apply for the MBA. He was walking past the Australian consulate in New York and saw a sign offering information on doing an MBA in Sydney. That was enough to trigger an application.
+>
+> "Coming here was more of a life experience or an end, not a means to an end,” he says.
+> 
+> His work with StockCentral has dovetailed with his studies at the AGSM, which is refocusing to include more e-commerce emphasis. The business school this week launched an e-business incubator, with second-year MBA students running the project with help from faculty and other experts. A number of new business ideas are already in the pipeline.
+>
+> The incubator will concentrate on the development of start-ups, and although StockCentral has already grown beyond that stage, it would still benefit from some of the expertise, says Bachenheimer.
+>
+> It sounds as though he is unlikely to be getting more sleep over the next few months.
+
+[![Inside Annapolis](images/insideannapolis.png)](http://www.insideannapolis.com/covers.html)<br/>
+[Original Link](http://www.insideannapolis.com/covers.html) | [PDF Version](files/InsideAnnapolisMagazine_FebMar1995.pdf) <br/>
+**New Annapolitans** <br/>
+February/March 1995
+
+> Bruce Bachenheimer, another anchor dropper, still lives aboard his boat in Spa Creek. He has become an importer of teak lumber. Not old enough to have a mid-life crisis, Bruce has already led several lives—he was a student in Japan, a Wall Street trader, an offshore cruiser, and now an Annapolis businessman. Coming to Annapolis from Venezuela and the Caribbean, he ducked into the harbor to escape nasty weather and decided to stay. In true Annapolitan fashion, he opened his business, Annapolis Maritime Corporation, on the 4th of July 1993.
+>
+> "I stayed because I liked the colonial flavor, the seaport atmosphere, and Bay sailing. But what really surprised me is how receptive everyone has been. There's no good old boy, closed preppy network here," he says. "Everyone from old timers to newcomers have been helpful and friendly to me since I went into business."
+
+[![The Capital](images/thecapital.png)](files/TheCapital_6-5-94.pdf) <br/>
+[PDF Version](files/TheCapital_6-5-94.pdf) <br/>
+**PERSONAL PROFILE: Bruce Bachenheimer / President, Annapolis Maritime Corp.** <br/>
+June 5, 1994 <br/>
+By **Elayne Hopkins**
+
+> **Name**: Bruce Bachenheimer
+>
+> **Occupation**: President of Annapolis Maritime Corp., 1932 Lincoln Drive, Annapolis.
+>
+> **Nature of Business**: Direct importer of teak lumber for retail and wholesale customers; offers a variety of teak products for maritime, gift and home use as well as custom mill work.
+>
+> **Personal**: Born 32 years ago in Syracuse, N.Y., he grew up in Tuxedo, N.Y. A 1983 graduate of Pace University in Pleasantville, N.Y., where he received a bachelor's degree in international management, he studied in Japan for a year. From 1983 to 1986, he worked at the Bank of Tokyo Ltd. in Manhattan as an international banking officer and money market trader. From 1986 to 1991, he worked as assistant vice president and senior dealer for Westpac Banking Corp. in Manhattan. He decided to leave Wall. Street to travel. After purchasing a boat, in preparation for a sailing excursion, he came to Annapolis for a boat show, where he learned offshore sailing. For two years, he sailed, visiting the Caribbean and Venezuela, returning to Annapolis last July. He opened his business last winter. Single, he lives on his 36-foot sailboat, Deliberate.
+>
+> **First and worst job**: From 14 to 16, working in the rental department at a ski shop in Tuxedo.
+>
+> **Most recent accomplishment**: "Captained my yacht from New England through the Caribbean to South American, returning to the Chesapeake Bay — partially single-handed."
+> 
+> **Likes most about the job**: "Having to apply a wide range of skills and knowledge to succeed and grow."
+>
+> **Likes least about the job**: "Committing to regular hours."
+>
+> **Five-year goal**: "To create a well-managed profitable business, allowing me to pursue other goals and interests."
+>
+> **Business philosophy**: "To provide the product, price and service I would be pleased with as a customer.”
+>
+> **In his spare time**: He's looking forward to cruising the Chesapeake Bay.
+>
+> **If I could change one thing in my life**: "I any constantly changing many things in my life."
+
+[![Bay Weekly](images/bayweekly.png)](http://bayweekly.com/old-site/1994/94v08.html) <br/>
+[Original Link](http://bayweekly.com/old-site/1994/94v08.html) | [PDF Version](files/BayTimes_AprilMay1994.pdf) <br/> 
+**Teak Magic: Caribbean Connections** <br/>
+April 21 – May 4, 1994 (Volume II, Number 8)
+
+> You don’t have to be a boater to know that one of the wonders of the world is teak.
+>
+> In the Phillippines, pilings made of teak wood have endured 1,000 years. In Asia, they’re making boards out of teak logs that laid on the bottom of the Burma River for 100 years.
+>
+> So it comes as no surprise that when Bruce Bachenheimer was looking for something special in life, something satisfying yet saner than life as a bond trader in New York, he turned to teak.
+>
+> Bachenheimer is the founder of Annapolis Maritime Corp., which has begun importing teak to the Chesapeake Bay. From his shop on Lincoln Drive in Annapolis, Bachenheimer has begun selling his wood at a price he says is lower than what boaters usually see.
+>
+> There are stories in Bachenheimer’s arrival and his wood’s. Bachenheimer, 32, a New York native, grew up in the high-finance world of bond-trading and foreign exchange with a specialty in Japanese curency. On an average day, he might handle $2 billion in yen.
+>
+> But like many people these days, he longed for a different life. So with the economy going south, so did Bachenheimer — first on a 22-foot sailboat and then on a Pearson 36 Cutter. He stayed two years in the Caribbean and South American ports before arriving in Annapolis last July 4. Why here?
+>
+> “Annapolis seemed like a good fit, a good place in the middle,” he says.
+>
+> But how to make a living? Bachenheimer had grown enamored with teak and he had wood skills to boot. With so many boats on the Bay, his plan started taking shape.
+>
+> Getting rare teak is another story. Malaysia, Burma (now Myanmar) and traditional teak-growing lands have largely been plundered. Bachenheimer worried, too, about the notion that teak clearcutting has sped the destruction of rain forests, a hazardous reputation for a retailer to carry in these times.
+>
+> He has overcome problems by finding his sources on controlled plantations in Costa Rica and on Caribbean islands that he prefers not to name. In these latitudes, governments have learned that they can sustain a valuable commodity by regulating cuts and overseeing planting.
+>
+> Locating the wood and shipping it poses more than a few headaches but Bachenheimer’s business is up and running. Besides selling teak for boats, Bachenheimer is crafting tables from his precious raw material and promoting sales of it for the home.
+>
+> Bachenheimer, who lives on his boat at the Liberty Marina, doesn’t sound like he misses the hustle of New York.
+>
+> “I wanted to make something,” he observes. “Before, it was just working with numbers.”
+
+[![The Annapolis Business Monthly](images/theannapolisbusinessmonthly.png)](http://www.annapolisbusinessmonthly.com/)<br/>
+[Original Link](http://www.annapolisbusinessmonthly.com/) | [PDF Version](files/AnnapolisBusinessMonthly_MarApr1994.pdf) <br/>
+**Spotlight On New Business** <br/>
+March/April 1994 <br/>
+By **Sandra E. Picket**
+
+> **Bachenheimer Going For Teak**
+>
+> When the Annapolis Maritime Corporation, a direct importer of teak lumber, recently announced its opening, it brought company president Bruce Bachenheimer a long way from his former job.
+>
+> Not long ago he was an investment banker and trader on Wall Street.
+>
+> Sitting in his new office, with his storage and work rooms just behind him, and teak tables and cutting boards at his side, Bachenheimer says that Wall Street is a life that he doesn't miss at all.
+>
+> After several years of trading billions of dollars a week, Bachenheimer starting planning his escape.
+>
+> "I came to Annapolis for the boat show, and to the Naval Academy for their Safety at Sea program.
+>
+> "I'm not a lifelong sailor. For me, sailing was just a means to an end.
+>
+> "I wanted to travel and be independent and self sufficient. So I went to a boat show and bought a boat, and I went to school and learned navigation.
+>
+> "Then, a couple of years ago, I left Wall Street and took off on my sailboat. I spent two years in the Caribbean and Venezuela" going from grey pin stripe suits to bearded and tan.
+>
+> "I decided it might be fun to start a business. I looked around, and the rents were reasonable and the business climate friendly, and I decided that I would import teak and do some woodworking.
+>
+> "Having worked all that time just trading, really making nothing but money, mostly for the banks, I just wanted to make something with my hands, to create something. And I think teak is a beautiful wood to work with.
+>
+> "So I did a business plan, and it looked feasible. It looked like there was a good demand in the area, and the price that I can sell the wood at is much lower than anyone else here.
+>
+> "I'm directly importing it. Normally you would have an importer, a distributer, a wholesaler, a local distributer and a local retail shop. So you cut out four or five layers.
+>
+> "And then there's the environmental aspect. The wood that I buy is all farmed on plantations under local government supervision and exported under license, so its something that I can feel good about.
+
+[![Nautical Scene](images/theislandsnauticalscene.png)](files/TheIslandsNauticalScene_JanFeb1992.pdf)<br/>
+[PDF Version](files/TheIslandsNauticalScene_JanFeb1992.pdf) <br/>
+**When Yuppies Turn Good** <br/>
+January/February 1992 (Volume 3, Number 2) <br/>
+By **Susan Barry**
+
+> It’s 9 a.m. on a weekday and Bruce Bachenheimer, captain/owner and resident on Deliberate, is enjoying his coffee under a palm tree. He is relaxed, tanned, newly bearded and barefoot.
+> 
+> "This time last year? By 9:30 in the morning the major part of the trading day was already over," said the former Senior Trader from Westpac Banking Corporation, the oldest and largest bank in Australia.
+> 
+> "I would have been staying up to 2 or 3 a.m. getting calls from Tokyo, then awake at 4:30 or 5 to receive the calls from London and at the office on Wall Street by 7 a.m. In those days it was grey pin stripes, now going formal means carrying my shoes with me," he laughs good-naturedly.
+> 
+> Bachenheimer graduated with honors from Pace University in 1983 with a degree in business and a knowledge of and interest in Japanese language and culture. His first job after college was as a trader with the Bank of Tokyo.
+> 
+> While much of the world is sleeping the banks of the world conduct their business through the banker's bank, the Federal Reserve in New York. Money is bought, sold and borrowed, accounts squared, fortunes made and lost. And it's guys like Bachenheimer who are making the deals.
+> 
+>  “The change in trading really came about when the interest rates went through the roof in the late 70's and then the 80's boom in the market but by the late 80's, with the global recession, there was a slowdown and the boom was over. The extravagance and parties were over."
+> 
+> The former Life in the Fast Lane trader now lives aboard his 36' Pearson cutter, Deliberate, in Great Cruz Bay, St. John. Having thoroughly researched various types of sailboats the Pearson was chosen for her seaworthiness and excellent condition.
+> 
+> "On the way down here we hit two full hurricanes and some storms and she felt like she was on railroad tracks," said Bachenheimer.
+> 
+> Deliberate made the voyage from Connecticut to Norfolk, Virginia offshore. The Norfolk to Beaufort, North Carolina was on the Intercoastal Waterway. From the ICW to the Virgin Islands the computer navigation equipment died. "So I used the sextant. We sailed into Culebra thinking it was St. Thomas but - hey - it was a 1300 miles voyage and we were only off by 30 miles, so that's not so bad.
+> 
+> "But the best part of the trip is being on watch by yourself and seeing the sun come up over an endless ocean."
+
+[![Midori (green)](images/green.png)](files/BOT_Midori_May_1985.pdf)<br/>
+[PDF Version](files/BOT_Midori_May_1985.pdf)<br/>
+**The Bank of Tokyo in "The Big Apple"** <br/>
+May 1985 (No. 308) <br/>
+
+> I joined the Bank of Tokyo, Ltd. as a Money Market Trader in 1983, for the excitement and action which is generated here. Another, more personal reason, is that I can maintain my contact with the Japanese language, culture and business methods which I studied at Tsukuba National University in Japan and at Pace University in New York, where I earned my degree in International Management. I am continuing to study Japanese at New York University.
+> 
+> Although trading hundreds of millions of dollars (for one of the leading International Banks in the Financial Center of the world) is exciting, the most interesting and rewarding aspect of my work is the daily contact I have with people around the world and with other traders on Wall Street. Although I expected to be in a highly competitive environment, it was a pleasant surprise to find that the people I deal with are friendly and cooperative. The real competition is "The Market".
