@@ -209,7 +209,7 @@ Summer 2008 (Page 28) <br/>
 > 
 > At the graduate level, a group of MBA students were in Africa, exploring entrepreneurship in Tanzania with Professor Bruce Bachenheimer during an intense ten day field exploration with officials from the University of Dar es Salaam and local entrepreneurs.
 
-[![](images/press/pace_media/image4181.jpg)](files/pacepress_3-12-08.pdf) <br/>
+[![](images/thepacepress.jpg)](files/pacepress_3-12-08.pdf) <br/>
 [PDF Version](files/pacepress_3-12-08.pdf) <br/>
 **MBA students travel to Tanzania for business** <br/>
 March 12, 2008 <br/>
