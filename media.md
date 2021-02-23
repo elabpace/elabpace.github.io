@@ -8,7 +8,7 @@
   [![Print & Internet 2010-2012](images/printinternet2010-2012.png)](media_printandinternet2010-2012.html)
   [![Print & Internet 2013-2015](images/printinternet2013-2015.png)](media_printandinternet2013-2015.html)
   [![Print & Internet 2016-2018](images/printinternet2016-2018.png)](media_printandinternet2016-2018.html)
-  [![Print & Internet 2019-Present](images/printinternet2019-present.png)](media_printandinternet2019-2021.html)
+  [![Print & Internet 2019-2021](images/printinternet2019-2021.png)](media_printandinternet2019-2021.html)
 -->
 
 <div style="text-align:center;">
@@ -54,7 +54,7 @@
   </a>
   <a href='media_printandinternet2019-2021.html'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
-      <strong style="color:white;">Print & Internet 2019-Present</strong>
+      <strong style="color:white;">Print & Internet 2019-2021</strong>
     </button>
   </a>
 </div>
