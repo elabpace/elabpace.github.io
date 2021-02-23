@@ -63,7 +63,7 @@
 - Renew to Remain Relevant – MIT Enterprise Forum Chapter Leadership Conference (April 27, 2012)  
 - Start-Up Nation – Temple Beth El of Northern Westchester (April 22, 2012)  
 - [Entrepreneurship Education - Kairos Society Global Summit (February 4, 2012)](http://www.kairosglobalsummit.org/)  
-- [Technology Entrepreneurship - Tel Aviv University, Business Entrepreneurship for Engineers course (January 12, 2012)](https://raw.githubusercontent.com/elabpace/elabpace.github.io/master/images/TAU.jpg)
+- [Technology Entrepreneurship - Tel Aviv University, Business Entrepreneurship for Engineers course (January 12, 2012)](images/TAU.jpg)
 - [What They Don’t Teach You In Business School - MIT Enterprise Forum of Israel (January 11, 2012)](http://www.mit-forum.org.il/events/439-dontteach)  
 - Small Business Development and Entrepreneurship - U.S. Department of State International Visitor Leadership Program, delegation from Algeria, Bahrain, Iraq, Morocco, Oman, Palestinian Territories, Qatar, Saudi Arabia, Tunisia, & Yemen (December 1, 2011)  
 - Small Business Development in the United States - U.S. Department of State International Visitor Leadership Program, delegation from the People's Republic of China (September 6, 2011)  
