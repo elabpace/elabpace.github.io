@@ -344,7 +344,7 @@ October 1, 2014 <br/>
 >"These skills are important not only for those seeking to establish a new venture, but are increasingly critical in a wide variety of professional careers given today's hyper-competitive marketplace, where rapid technological innovation and globalization has led to corporate downsizing and a dramatic change in the very nature of work," says Bruce Bachenheimer, clinical professor of management and director of the Entrepreneurship Lab at Pace University.
 
 [![The New Entrepreneurz: Changing the Way You Play Life](images/thenewentrepreneurz.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118837606.html) <br/>
-[![](image1416.jpg)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118837606.html) <br/>
+[Original Link](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118837606.html) <br/>
 **The New Entrepreneurz: Changing the way you play life** <br/>
 © 2014 <br/>
 By **Ronen Gafni** and **Simcha Gluck** <br/>
