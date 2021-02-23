@@ -1,6 +1,6 @@
 # Media
 <!--
-  [![Complete PDF Version](images/completepdfversion.png)](files/BruceBachenheimerMediaQuotes.pdf)
+  [![Complete PDF Version](images/completepdfversion.png)](http://webpage.pace.edu/bbachenheimer/press/BruceBachenheimerMediaQuotes.pdf)
   [![TV, Radio & Web Broadcast](images/tvradio.png)](media_tvradioweb.html)
   [![Pace University Media](images/paceuniversitymedia.png)](media_paceuniversitymedia.html)
   [![Media before Pace University](images/mediabeforepaceuniversity.png)](media_beforepaceuniversity.html)
@@ -12,7 +12,7 @@
 -->
 
 <div style="text-align:center;">
-  <a href='files/BruceBachenheimerMediaQuotes.pdf'>
+  <a href='http://webpage.pace.edu/bbachenheimer/press/BruceBachenheimerMediaQuotes.pdf'>
     <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       <strong style="color:white;">Complete PDF Version</strong>
     </button>
