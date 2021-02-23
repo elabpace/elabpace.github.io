@@ -156,7 +156,7 @@ By **Sandra E. Picket**
 >
 > "And then there's the environmental aspect. The wood that I buy is all farmed on plantations under local government supervision and exported under license, so its something that I can feel good about.
 
-[![Nautical Scene](images/theislandsnauticalscene.png)](images/press/before_pace/TheIslandsNauticalScene_JanFeb1992.pdf)<br/>
+[![Nautical Scene](images/theislandsnauticalscene.png)](files/TheIslandsNauticalScene_JanFeb1992.pdf)<br/>
 [PDF Version](files/TheIslandsNauticalScene_JanFeb1992.pdf) <br/>
 **When Yuppies Turn Good** <br/>
 January/February 1992 (Volume 3, Number 2) <br/>
@@ -182,7 +182,7 @@ By **Susan Barry**
 > 
 > "But the best part of the trip is being on watch by yourself and seeing the sun come up over an endless ocean."
 
-[![Midori (green)](images/green.png)](images/press/before_pace/BOT_Midori_May_1985.pdf)<br/>
+[![Midori (green)](images/green.png)](files/BOT_Midori_May_1985.pdf)<br/>
 [PDF Version](files/BOT_Midori_May_1985.pdf)<br/>
 **The Bank of Tokyo in "The Big Apple"** <br/>
 May 1985 (No. 308) <br/>
