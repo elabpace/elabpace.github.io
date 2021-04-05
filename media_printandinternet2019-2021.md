@@ -6,9 +6,13 @@
 April 5, 2021 <br/>
 By **Ryan Deffebaugh** <br/>
 > Lean  times
+>
 > It is not uncommon for entrepreneurship to increase during lean economic times. Some of the big-time technology companies of today, such as Uber and Airbnb, were born out of the last economic crisis in 2008, noted Bruce Bachenheimer, a professor at Pace University and executive director of the school’s Entrepreneurship Lab.
+>
 > Both Bachenheimer and Bowles described the rise in new businesses as an overall positive, even if driven by negative circumstances. New, small business can help job growth as they expand. That’s despite the oft-cited statistic, from the U.S. Small Business Administration, that about half of all new businesses close within five years.
+>
 > “You may have a million startups because of the pandemic and 50% close once things pass–they go back to their regular job and don’t owe a penny to anyone,” Bachenheimer said, “It is a good sign overall that you have 50% of people still pursuing their new business.”
+>
 > Download PDF version of print issue: [https://www.crainsnewyork.com/crain-twi-download/764341/field_issue_upload](https://www.crainsnewyork.com/crain-twi-download/764341/field_issue_upload)
 
 [![Sunday Mail](images/sundaymail.png)](https://www.sundaymail.co.zw/entrepreneurship-is-a-mindset) <br/>
