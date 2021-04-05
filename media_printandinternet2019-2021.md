@@ -5,7 +5,7 @@
 **TAKING THE PLUNGE (cover story)** <br/>
 April 5, 2021 <br/>
 By **Ryan Deffebaugh** <br/>
-> Lean  times
+> **Lean  times**
 >
 > It is not uncommon for entrepreneurship to increase during lean economic times. Some of the big-time technology companies of today, such as Uber and Airbnb, were born out of the last economic crisis in 2008, noted Bruce Bachenheimer, a professor at Pace University and executive director of the school’s Entrepreneurship Lab.
 >
