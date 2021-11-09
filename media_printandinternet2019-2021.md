@@ -6,7 +6,7 @@
 September 22, 2021 <br/>
 By **Adam McCann** <br/>
 > **Bruce Bachenheimer** <br/>
-> *Clinical Professor of Management – Pace University*
+> *Clinical Professor of Management – Pace University* <br/>
 > ![Bruce Bachenheimer](images/bruce.png)
 > 
 > **What tips do you have for a person that wishes to enjoy his/hers daily “java” cup while on a budget?**
