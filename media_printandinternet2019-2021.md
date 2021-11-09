@@ -8,15 +8,15 @@ By **Edward Segal** <br/>
 > **Five Ways To Compete** 
 > [Bruce Bachenheimer](https://www.linkedin.com/in/brucebach/) is a clinical professor of management and executive director of Entrepreneurship Lab at Pace University. He said there are many ways that small businesses can compete against larger companies for workers. They include:
 >
->     •  Demonstrate that their mission/purpose is more compelling than that of a larger company
+> - Demonstrate that their mission/purpose is more compelling than that of a larger company
 >
->     •  Explain how the worker can have a much greater impact at the small business than at the larger company
+> - Explain how the worker can have a much greater impact at the small business than at the larger company
 >
->     •  Show how opportunities for advancement are much greater
+> - Show how opportunities for advancement are much greater
 >
->     •  Provide greater flexibility
+> - Provide greater flexibility
 >
->     •  Offer a better title, equity and other options
+> - Offer a better title, equity and other options
 
 [![Wallethub](images/wallethub.png)](https://wallethub.com/edu/best-cities-for-coffee-lovers/23739#expert=Bruce_Bachenheimer) <br/>
 [Original Link](https://wallethub.com/edu/best-cities-for-coffee-lovers/23739#expert=Bruce_Bachenheimer) <br/>
