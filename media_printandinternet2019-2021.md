@@ -6,6 +6,7 @@
 October 28, 2021 <br/>
 By **Edward Segal** <br/>
 > **Five Ways To Compete** 
+> 
 > [Bruce Bachenheimer](https://www.linkedin.com/in/brucebach/) is a clinical professor of management and executive director of Entrepreneurship Lab at Pace University. He said there are many ways that small businesses can compete against larger companies for workers. They include:
 >
 > - Demonstrate that their mission/purpose is more compelling than that of a larger company
