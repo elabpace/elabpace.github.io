@@ -1,5 +1,31 @@
 # Print and Internet 2019-Present
 
+[![Wallethub](images/wallethub.png)](https://wallethub.com/edu/best-cities-for-coffee-lovers/23739#expert=Bruce_Bachenheimer) <br/>
+[Original Link](https://wallethub.com/edu/best-cities-for-coffee-lovers/23739#expert=Bruce_Bachenheimer) <br/>
+**2021's Best Coffee Cities in America** <br/>
+September 22, 2021 <br/>
+By **Adam McCann** <br/>
+> **Bruce Bachenheimer**
+> *Clinical Professor of Management – Pace University*
+> [Bruce Bachenheimer](images/bruce.png)
+> **What tips do you have for a person that wishes to enjoy his/hers daily “java” cup while on a budget?**
+>
+> Consider making coffee at home, or going to an inexpensive retailer, several times a week and visiting a premium shop on the other days. Treat yourself a couple days a week and ‘make do’ the rest of the week.
+>
+> **Why are some folks willing to spend two or three times more for a comparable cup of coffee?**
+>
+> It has a lot to do with the entire experience, not just the actual coffee itself. Treating yourself to a small slice of luxury, a bit of relaxation, people watching, etc. Why do people pay five to ten times the price for a drink at a bar versus making the same thing at home?
+>
+> **In the current economic environment, is opening a coffee shop as a first business for young entrepreneurs still a good idea? Or are most markets already oversaturated?**
+>
+> It’s really about the specific location. A study found that over 90% of people buy coffee within three blocks of their office — not near their home or along their commute. Where is your target customer and what is the competition in that specific area?
+>
+> **In the past year, a great number of coffee shops across the country shifted towards contact-free business, with pick-up and delivery options. What are the prospects of coffee shops as many states have reopened?**
+>
+> Contact-free business, along with general hygiene overall, will likely become increasingly important. The importance of pick-up and delivery options depend on your customer profile. If most customers are looking for a place to relax with a great cup of coffee, those options are not very important. If many of your customers are businesses looking to treat their employees to a premium cup of coffee, those options can be quite important.
+
+
+
 [![Crains](images/crains.jpg)](https://www.crainsnewyork.com/technology/covid-seized-new-york-thousands-new-entrepreneurs-started-their-own-businesses) <br/>
 [Original Link](https://www.crainsnewyork.com/technology/covid-seized-new-york-thousands-new-entrepreneurs-started-their-own-businesses) <br/>
 **TAKING THE PLUNGE (cover story)** <br/>
