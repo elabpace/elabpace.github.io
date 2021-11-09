@@ -1,5 +1,23 @@
 # Print and Internet 2019-Present
 
+[![Forbes](images/forbescom.jpg)](https://www.forbes.com/sites/edwardsegal/2021/10/28/many-small-businesses-are-finding-it-harder-to-hire-workers-new-poll) <br/>
+[Original Link](https://www.forbes.com/sites/edwardsegal/2021/10/28/many-small-businesses-are-finding-it-harder-to-hire-workers-new-poll) <br/>
+**Many Small Businesses Are Finding It Harder To Hire Workers: New Poll** <br/>
+October 28, 2021 <br/>
+By **Edward Segal** <br/>
+> **Five Ways To Compete** 
+> [Bruce Bachenheimer](https://www.linkedin.com/in/brucebach/) is a clinical professor of management and executive director of Entrepreneurship Lab at Pace University. He said there are many ways that small businesses can compete against larger companies for workers. They include:
+>
+>     •  Demonstrate that their mission/purpose is more compelling than that of a larger company
+>
+>     •  Explain how the worker can have a much greater impact at the small business than at the larger company
+>
+>     •  Show how opportunities for advancement are much greater
+>
+>     •  Provide greater flexibility
+>
+>     •  Offer a better title, equity and other options
+
 [![Wallethub](images/wallethub.png)](https://wallethub.com/edu/best-cities-for-coffee-lovers/23739#expert=Bruce_Bachenheimer) <br/>
 [Original Link](https://wallethub.com/edu/best-cities-for-coffee-lovers/23739#expert=Bruce_Bachenheimer) <br/>
 **2021's Best Coffee Cities in America** <br/>
@@ -24,8 +42,6 @@ By **Adam McCann** <br/>
 > **In the past year, a great number of coffee shops across the country shifted towards contact-free business, with pick-up and delivery options. What are the prospects of coffee shops as many states have reopened?**
 >
 > Contact-free business, along with general hygiene overall, will likely become increasingly important. The importance of pick-up and delivery options depend on your customer profile. If most customers are looking for a place to relax with a great cup of coffee, those options are not very important. If many of your customers are businesses looking to treat their employees to a premium cup of coffee, those options can be quite important.
-
-
 
 [![Crains](images/crains.jpg)](https://www.crainsnewyork.com/technology/covid-seized-new-york-thousands-new-entrepreneurs-started-their-own-businesses) <br/>
 [Original Link](https://www.crainsnewyork.com/technology/covid-seized-new-york-thousands-new-entrepreneurs-started-their-own-businesses) <br/>
