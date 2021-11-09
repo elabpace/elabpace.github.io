@@ -5,9 +5,10 @@
 **2021's Best Coffee Cities in America** <br/>
 September 22, 2021 <br/>
 By **Adam McCann** <br/>
-> **Bruce Bachenheimer**
+> **Bruce Bachenheimer** <br/>
 > *Clinical Professor of Management – Pace University*
 > ![Bruce Bachenheimer](images/bruce.png)
+> 
 > **What tips do you have for a person that wishes to enjoy his/hers daily “java” cup while on a budget?**
 >
 > Consider making coffee at home, or going to an inexpensive retailer, several times a week and visiting a premium shop on the other days. Treat yourself a couple days a week and ‘make do’ the rest of the week.
