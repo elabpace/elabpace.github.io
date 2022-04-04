@@ -1,5 +1,6 @@
 # Presentations
 
+- Customer Discovery – [Accelerator for Biosciences in Connecticut](https://abct.co/) and [Westchester County Biosciences Accelerator](https://www.wcbaccelerator.com/) (February 15, 2022)
 - Tech Disrupts Democracy – [Disruptive Technologists of NYC](https://www.meetup.com/Disruptive-Technologists-in-NYC/events/274539342/) (January 13, 2021)
 - Why an Entrepreneurship Degree Should be Much More Than a Series of Courses – [Global Consortium of Entrepreneurship Centers](http://www.gcec2019.com/) (September 27, 2019)  
 - Technology Commercialization (webinar) – [Accelerator for Biosciences in Connecticut](http://abct.co/) (April 3, 2018)  
