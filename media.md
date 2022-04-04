@@ -9,6 +9,7 @@
   [![Print & Internet 2013-2015](images/printinternet2013-2015.png)](media_printandinternet2013-2015.html)
   [![Print & Internet 2016-2018](images/printinternet2016-2018.png)](media_printandinternet2016-2018.html)
   [![Print & Internet 2019-2021](images/printinternet2019-2021.png)](media_printandinternet2019-2021.html)
+  [![Print & Internet 2022-Present](images/printinternet2019-2021.png)](media_printandinternet2022-2025.html)
 -->
 
 <div style="text-align:center;">
