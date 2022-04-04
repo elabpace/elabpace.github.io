@@ -1,7 +1,8 @@
 # Print and Internet 2022-Present
 
 [![moneygeek](images/moneygeek.png)](https://www.moneygeek.com/credit-cards/business/#expert=bruce-bachenheimer) <br/>
-[Original Link](https://www.moneygeek.com/credit-cards/business/#expert=bruce-bachenheimer) <br/>
+[Original Link 1](https://www.moneygeek.com/credit-cards/business/#expert=bruce-bachenheimer) <br/>
+[Original Link 2](https://www.moneygeek.com/credit-cards/business/best-travel/#expert=bruce-bachenheimer) <br/>
 **TIPS FROM THE PROS: FINDING & USING THE RIGHT BUSINESS CREDIT CARD** <br/>
 February 7, 2022 <br/>
 > **Bruce Bachenheimer** 
