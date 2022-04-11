@@ -36,6 +36,15 @@ By **Andrea Marinelli** <br/>
 > [pic.twitter.com/yQRDv0YUkb](pic.twitter.com/yQRDv0YUkb) <br/>
 > — Bruce Bachenheimer (@brucebach) January 4, 2022 <br/>
 
+[![New York Times](images/nytimes.png)](https://www.nytimes.com/2022/01/15/style/richard-macksey-library.html) <br/>
+[Original Link](https://www.nytimes.com/2022/01/15/style/richard-macksey-library.html) <br/>
+**A Library the Internet Can’t Get Enough Of** <br/>
+January 15, 2022 <br/>
+By **Kate Dwyer** <br/>
+> Mr. Winslow’s post received 1,700 comments, including [one from a professor at Pace University](https://twitter.com/brucebach/status/1478386972024528908) who has been using the photo as his Zoom background.
+> 
+> ![Tweeted image](images/nytimes_15jan22.png)
+
 
 
 
