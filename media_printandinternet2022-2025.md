@@ -29,11 +29,11 @@ By **Andrea Marinelli** <br/>
 > L’ultimo, all’inizio dell’anno, è stato lo scrittore Don Winslow. «Spero vediate anche voi la bellezza che vedo io», ha scritto Winslow su Twitter, dove è molto attivo politicamente, ottenendo in cambio **32 mila cuoricini e 1.700 commenti**, fra cui quello di un professore della Pace University, Bruce Bachenheimer, che ha raccontato di usare quell’immagine come sfondo su Zoom.
 >
 > I hope you see the beauty in this that I do. <br/>
-> [pic.twitter.com/xAWLaF0Bhj](pic.twitter.com/xAWLaF0Bhj) <br/>
+> [pic.twitter.com/xAWLaF0Bhj](https://pic.twitter.com/xAWLaF0Bhj) <br/>
 > — Don Winslow (@donwinslow) January 4, 2022  <br/>
 > 
 > Yes, I have - it's been the Zoom background for my online classroom for the past year :-) <br/>
-> [pic.twitter.com/yQRDv0YUkb](pic.twitter.com/yQRDv0YUkb) <br/>
+> [pic.twitter.com/yQRDv0YUkb](https://pic.twitter.com/yQRDv0YUkb) <br/>
 > — Bruce Bachenheimer (@brucebach) January 4, 2022 <br/>
 
 [![New York Times](images/nytimes.png)](https://www.nytimes.com/2022/01/15/style/richard-macksey-library.html) <br/>
