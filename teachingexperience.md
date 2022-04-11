@@ -4,12 +4,12 @@
 - MGT 216 – Venture Initiation & Entrepreneurship
 - MGT 490 – Business Strategy
 - MBA 818 – Global Business, Ethics, & Social Responsibility (2 sections)
-- CGBP - Entrepreneurship ([EDHEC Business School](https://www.edhec.edu/fr))
+- CGBP – Entrepreneurship ([EDHEC Business School](https://www.edhec.edu/fr))
 
 ### Fall 2021 Courses
-- MGT 216 - Venture Initiation & Entrepreneurship
-- MGT 319 - International Entrepreneurship
-- MGT 490 - Business Strategy (2 sections)
+- MGT 216 – Venture Initiation & Entrepreneurship
+- MGT 319 – International Entrepreneurship
+- MGT 490 – Business Strategy (2 sections)
 
 ### Spring 2021 Courses
 - MGT 216 – Venture Initiation & Entrepreneurship
@@ -18,28 +18,28 @@
 - MBA 818 – Global Business, Ethics, & Social Responsibility
 
 ### Fall 2020 Courses
-- MGT 216 - Venture Initiation & Entrepreneurship 
-- MGT 490 - Business Strategy (3 sections)
+- MGT 216 – Venture Initiation & Entrepreneurship 
+- MGT 490 – Business Strategy (3 sections)
 
 ### Spring 2020 Courses
-- MGT 150 - Managerial and Organizational Concepts
-- MGT 216 - Venture Initiation & Entrepreneurship 
-- MGT 315 - Small Business Management 
+- MGT 150 – Managerial and Organizational Concepts
+- MGT 216 – Venture Initiation & Entrepreneurship 
+- MGT 315 – Small Business Management 
 - MGT 495 – Business Honors Program Senior Honors Thesis
-- MGT 634 - Entrepreneurship Capstone (Tutorial)
+- MGT 634 – Entrepreneurship Capstone (Tutorial)
 - CGBP - Entrepreneurship ([EDHEC Business School](https://www.edhec.edu/fr) - Ecole des Hautes Etudes Commerciales du Nord)
 
 ### Fall 2019 Courses
-- MGT 150 - Managerial and Organizational Concepts
-- MGT 216 - Venture Initiation & Entrepreneurship 
-- MGT 315 - Small Business Management 
-- MGT 416 - Business Plan Development (Tutorial)
-- CGBP - Entrepreneurship ([École de Management de Normandie](http://www.ecole-management-normandie.fr/)) 
+- MGT 150 – Managerial and Organizational Concepts
+- MGT 216 – Venture Initiation & Entrepreneurship 
+- MGT 315 – Small Business Management 
+- MGT 416 – Business Plan Development (Tutorial)
+- CGBP – Entrepreneurship ([École de Management de Normandie](http://www.ecole-management-normandie.fr/)) 
 
 ### Spring 2019 Courses
-- MGT 150 - Managerial and Organizational Concepts
-- MGT 240 - International Management
-- MGT 416 - Business Plan Development
+- MGT 150 – Managerial and Organizational Concepts
+- MGT 240 – International Management
+- MGT 416 – Business Plan Development
 - MGT 495 – Business Honors Program Senior Honors Thesis
 - CGBP – Entrepreneurship ([EDHEC Business School](https://www.edhec.edu/fr) - Ecole des Hautes Etudes Commerciales du Nord)
 
