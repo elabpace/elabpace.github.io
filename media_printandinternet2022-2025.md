@@ -21,7 +21,7 @@ February 7, 2022 <br/>
 > **Then does it make sense to get a travel business credit card with a steep annual fee?** <br/>
 > A steep annual fee on a travel business credit card may be justified for a variety of reasons depending on the business. For businesses with high credit card spending, the value of the associated bonus points may simply exceed the higher annual fee. The value of other benefits, such as airport lounge access, may either exceed the cost of the annual fee or simply be deemed as an advantage worth paying for.
 
-[![Corriere Della Sera](images/corrieredellasera.png)](https://www.corriere.it/esteri/22_gennaio_16/storia-breve-biblioteca-piu-amata-internet-c00c7bde-76bf-11ec-a0d8-6b985098cc00.shtml) <br/>
+[![Corriere Della Sera](images/corrieredellasera.jpg)](https://www.corriere.it/esteri/22_gennaio_16/storia-breve-biblioteca-piu-amata-internet-c00c7bde-76bf-11ec-a0d8-6b985098cc00.shtml) <br/>
 [Original Link](https://www.corriere.it/esteri/22_gennaio_16/storia-breve-biblioteca-piu-amata-internet-c00c7bde-76bf-11ec-a0d8-6b985098cc00.shtml) <br/>
 **Storia breve della biblioteca più amata da internet** <br/>
 January 16, 2022 <br/>
