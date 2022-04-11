@@ -1,5 +1,16 @@
 # Teaching Experience
 
+### Spring 2022 Courses
+- MGT 216 – Venture Initiation & Entrepreneurship
+- MGT 490 – Business Strategy
+- MBA 818 – Global Business, Ethics, & Social Responsibility (2 sections)
+- CGBP - Entrepreneurship ([EDHEC Business School](https://www.edhec.edu/fr))
+
+### Fall 2021 Courses
+- MGT 216 - Venture Initiation & Entrepreneurship
+- MGT 319 - International Entrepreneurship
+- MGT 490 - Business Strategy (2 sections)
+
 ### Spring 2021 Courses
 - MGT 216 – Venture Initiation & Entrepreneurship
 - MGT 416 – Business Plan Development
