@@ -21,5 +21,21 @@ February 7, 2022 <br/>
 > **Then does it make sense to get a travel business credit card with a steep annual fee?** <br/>
 > A steep annual fee on a travel business credit card may be justified for a variety of reasons depending on the business. For businesses with high credit card spending, the value of the associated bonus points may simply exceed the higher annual fee. The value of other benefits, such as airport lounge access, may either exceed the cost of the annual fee or simply be deemed as an advantage worth paying for.
 
+[![Corriere Della Sera](images/corrieredellasera.png)](https://www.corriere.it/esteri/22_gennaio_16/storia-breve-biblioteca-piu-amata-internet-c00c7bde-76bf-11ec-a0d8-6b985098cc00.shtml) <br/>
+[Original Link](https://www.corriere.it/esteri/22_gennaio_16/storia-breve-biblioteca-piu-amata-internet-c00c7bde-76bf-11ec-a0d8-6b985098cc00.shtml) <br/>
+**Storia breve della biblioteca più amata da internet** <br/>
+January 16, 2022 <br/>
+By **Andrea Marinelli** <br/>
+> L’ultimo, all’inizio dell’anno, è stato lo scrittore Don Winslow. «Spero vediate anche voi la bellezza che vedo io», ha scritto Winslow su Twitter, dove è molto attivo politicamente, ottenendo in cambio **32 mila cuoricini e 1.700 commenti**, fra cui quello di un professore della Pace University, Bruce Bachenheimer, che ha raccontato di usare quell’immagine come sfondo su Zoom.
+>
+> I hope you see the beauty in this that I do. <br/>
+> [pic.twitter.com/xAWLaF0Bhj](pic.twitter.com/xAWLaF0Bhj) <br/>
+> — Don Winslow (@donwinslow) January 4, 2022  <br/>
+> 
+> Yes, I have - it's been the Zoom background for my online classroom for the past year :-) <br/>
+> [pic.twitter.com/yQRDv0YUkb](pic.twitter.com/yQRDv0YUkb) <br/>
+> — Bruce Bachenheimer (@brucebach) January 4, 2022 <br/>
+
+
 
 
