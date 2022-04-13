@@ -2,7 +2,7 @@
 
 <div style="text-align:center;">
   <a href='http://webpage.pace.edu/bbachenheimer/press/BruceBachenheimerMediaQuotes.pdf'>
-    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;" onclick="http://webpage.pace.edu/bbachenheimer/press/BruceBachenheimerMediaQuotes.pdf">
+    <button style="background-color:#00337F;border-radius:12px;color:white;font-size:12px;padding:12px;text-align:center;width: 10em;cursor: pointer;">
       <strong style="color:white;">Complete PDF Version</strong>
     </button>
   </a>
